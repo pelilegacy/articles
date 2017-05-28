@@ -1,0 +1,18 @@
+title: Peli Legacy
+email: toimitus@pelilegacy.fi
+description: # asdfasf
+twitter_username: pelilegacy
+github_username:  pelilegacy
+timezone: Europe/Helsinki
+
+# Build settings
+strict_front_matter: true
+permalink: /:categories/:title
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - jekyll.log
+  - Gemfile
+  - Gemfile.lock
