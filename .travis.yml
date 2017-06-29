@@ -1,0 +1,28 @@
+language: ruby
+rvm:
+- 2.4.1
+
+cache:
+  directories:
+  - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
+
+script: ./run.sh build
+
+branches:
+  only:
+  - master
+  - /feat-(.*)/
+  - /bug-(.*)/
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+sudo: false
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: master

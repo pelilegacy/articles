@@ -25,10 +25,17 @@ COMMAND=${1:-"serve"}
 exec() {
     info "Executing Jekyll with option $1"
     bundle exec jekyll "$1"
+
+    if [[ "$1" == "build" ]]; then
+        info "Checking for invalid HTML content"
+        bundle exec htmlproofer --assume-extension \
+            --disable-external --checks-to-ignore LinkCheck \
+            ./_site
+    fi
 }
 
 cleanup() {
-    echo "--- Cleaning up..."
+    info "Cleaning up"
     exec clean
 }
 

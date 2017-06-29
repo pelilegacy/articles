@@ -9,10 +9,11 @@ timezone: Europe/Helsinki
 strict_front_matter: true
 permalink: /:categories/:title
 markdown: kramdown
-theme: minima
+theme: sparrow-jekyll-theme
 gems:
   - jekyll-feed
 exclude:
   - jekyll.log
   - Gemfile
   - Gemfile.lock
+  - vendor
