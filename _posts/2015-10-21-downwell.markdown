@@ -1,0 +1,68 @@
+---
+author: Niko Heikkilä
+comments: true
+date: 2015-10-21 11:01:12+00:00
+excerpt: Kun Timmy putoaa kaivoon, ei häntä pelasta kukaan muu kuin hän itse. Ojiro
+  Fumoton kehittämä ja Devolver Digitalin julkaisema Downwell on koukuttava esimerkki
+  siitä, miten roguelikea voidaan toteuttaa vuonna 2015.
+layout: post
+link: https://www.pelilegacy.fi/arvostelut/2323/downwell
+slug: downwell
+title: 'Arvio: Downwell näyttää kuinka pudotaan oikein'
+wordpress_id: 2323
+categories:
+- Arvostelut
+- Toiminta
+tags:
+- Arcade
+- Cara Ellison
+- Devolver Digital
+- Embed With Games
+- Indie
+- Japani
+- Ojiro Fumoto
+- Retro
+- Roguelike
+---
+
+[![Downwell](http://www.pelilegacy.fi/wp-content/uploads/2015/10/downwell1.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/10/downwell1.jpg)
+
+[ingressi]Kun Timmy putoaa kaivoon, ei häntä pelasta kukaan muu kuin hän itse. Ojiro Fumoton kehittämä ja Devolver Digitalin julkaisema Downwell on koukuttava esimerkki siitä, miten roguelikea voidaan toteuttaa vuonna 2015.[/ingressi]
+
+Japanilaisen indie-kehittäjä **Ojiro Fumoton** tasoloikkaa ja vertikaalista räiskintää sekoittava _[**Downwell**](http://downwellgame.com/)_ on eräänlainen _shoot ‘em down_. Se on säälimätön pudotus kaivossa kohti alati oudommaksi muuttuvia maailmoja. Kuin retki ihmismielen hulluuteen – eikä trippi maksa kuin muutaman euron.
+
+_Downwellin_ kaikesta ylimääräisestä riisuttu pelimekaniikka tuo yhtäällä mieleen indie-studio **Vlambeerin** teokset ja toisaalla pienen piirin suosioon nousseen _Spelunkyn_. Pelissä on myös ripaus valloittavaa _Cave Storya_ muutenkin kuin pikselöidyn ulkoasun osalta.
+
+Toimittaja [**Cara Ellison** haastatteli Fumotoa _Embed With Games_ -projektiaan varten](http://embedwith.tumblr.com/post/101441175857/embed-with-ojiro-fumoto), jossa kehittäjä toteaa alun perin halunneensa tehdä pelistä _Spelunkyn_ mobiiliversion. Mielenkiintoinen haastattelu kuvaa Fumoton hyvin määrätietoisena pelintekijänä, joka kaltaistensa tavoin on nostamassa Japania indie-skenen kärkeen.
+
+_Downwellissa_ nimi on enne. Hahmo tippuu erikoisvalmisteisten asesaappaidensa (Gunboots) varassa jalokiviä keräten, vihollisia talloen tai ampuen ja varusteitaan parannellen. Ampua voi tietysti vain alaspäin, mutta parannuksia keräämällä on mahdollista avata kykyjä, joilla luodit lentävät myös ylöspäin esimerkiksi jalokiven keräämällä tai laatikon hajottamalla.
+
+Tarkoituksena on pudottautua jokaisen rotkon pohjalla olevan lasikuvun läpi. Etenemistapa on täysin vapaa: etevimmät voivat väistää kaikki tielle tulevat esteet ja edetä pelin läpi hyvinkin nopeasti. Toiset voivat edetä maltillisesti jokaisen askeleen tarkemmin laskien ja erilaisia tekniikoita hyödyntäen. Oma tyylini pelata kallistui jälkimmäiseen, sillä pääsin useista yrityksistä huolimatta etenemään maahan koskematta vain yhdessä alkupään tasossa.
+
+_Downwellissa_ pärjääminen ei kuitenkaan perustu ainoastaan sokeaan putoamiseen ja väistelyyn, sillä jo toisessa maailmassa on viisainta pysähtyä hetkeksi kartoittamaan alapuolella olevien vihollisten tyypit ja lukumäärät.
+
+Kerättävät parannukset, erilaiset tyylit, väripaletit ja _roguelikelle_ tyypillinen tasojen proseduraalinen generointi pitävät pelikokemuksen jatkuvasti tuoreena. _Downwellissa_ et koe kahta samanlaista pudotusta. Tämän ansiosta peli koukuttaa useiksi tunneiksi ja sopii erityisen hyvin stressin hallintaan, mikä on aspektina usein ylenkatsottu asia peleissä.
+
+Myös _Downwellissa_ kuolema on vain pieni este matkalla suuruuteen: ohjainta on vaikea laskea käsistä, sillä uusi yritys ei koskaan lakkaa houkuttelemasta. Ensimmäisellä kerralla vietin pelin parissa lähes kolme tuntia eri tyylejä, tekniikoita ja väripaletteja kokeillen.
+
+[![Downwell](http://www.pelilegacy.fi/wp-content/uploads/2015/10/downwell2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/10/downwell2.jpg)
+
+Nopeasti silkalta visuaaliselta sokerilta tuntuvien väripalettien käytöllä on selkeä vaikutus onnistumiseen. Jos haluat selkeästi havaita vihollisten osumakohdat ja jalokivet, valitse kirkkaan sävyinen väripaletti. Jos taas kaipaat enemmän haastetta, sitä tarjoaa täysin yksibittinen paletti, joka esittää pelin vain mustana ja valkoisena – välissä ei ole pikseliäkään harmaata. Välimuotojakin löytyy ja suosittelen käymään ne kaikki lävitse omaan silmään parhaan yhdistelmän löytämiseksi.
+
+[pullquote]Downwellissa et koe kahta samanlaista pudotusta.[/pullquote]
+
+Visuaalinen suunnittelu ei korostu ainoastaan väripaleteissa, sillä _Downwell_ ilmaisee hienosti eri väreillä tuleeko vihollisen päälle hypätä vai tuleeko tätä ampua. Oletuspaletilla valkoisia vihollisia kannattaa talloa, kun taas punaisia on viisain ampua jo etäältä.
+
+Tekniikoiden tarkka hiominen palkitsee, kun pudotessa alkaa hallita kombojen käytön. Kun olet selättänyt viisi vihollista laskeutumatta maahan, tulee hahmon päälle pieni laskuri, joka ilmaisee kulloisenkin kombon pituutta. Onnistuneet kombot palauttavat hieman terveyttä, mistä pelissä klassisesti koittaakin pula käytännössä jatkuvasti.
+
+Kun jokaisen tason jälkeen pelaajalle arvotaan valikoima parannuksia, joita hyödyntää seuraavassa satunnaisesti luodussa tasossa, voisi luulla kokonaisuuden hajoavan kaaokseen. _Downwellin_ hiottu nerokkuus tulee esiin juuri tässä: jokainen taso on satunnaisuudesta huolimatta rakenteeltaan järkevä. Missään kohtaa en ole pakotettu putoamaan varmaan kuolemaan, vaan alla on aina jonkinlainen turvapaikka, jossa voin hetkisen hengähtää. Ehkä se on jalokivikasan sisältävä luola tai tarvikkeita myyvä kauppa; pieni laskelmointi on avain onnistuneeseen suoritukseen.
+
+Edellä mainitut seikat muodostavat perimmäisen syyn sille, miksi nautin _Downwellista_ niin paljon. Se on suunnitelmallisesti jakautunut pieniin osiin, jotka pelin sisällä toimivat saumattomasti ja tasapainoisesti yhteen. Vaikka peli on vaikea, se ei kuitenkaan koskaan turhauta.
+
+Tämän lisäksi _Downwell_ ei aliarvioi tai turhaan pitele pelaajaa kädestä, vaan luottaa tämän taitoihin pelata juuri omalla tyylillään. Sellaista ei peleissä koskaan näe liikaa.
+
+https://www.youtube.com/watch?v=UygovwXlbsU
+
+
+
+_[Downwell](http://downwellgame.com/) on saatavilla PC:lle sekä Android- ja iOS-laitteille._

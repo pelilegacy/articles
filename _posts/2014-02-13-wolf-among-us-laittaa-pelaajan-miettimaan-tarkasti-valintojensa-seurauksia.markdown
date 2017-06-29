@@ -1,0 +1,51 @@
+---
+author: Niko Heikkilä
+comments: true
+date: 2014-02-13 16:03:45+00:00
+excerpt: Pienistä onnettomista sattumuksista huolimatta The Wolf Among Usin toinen
+  episodi luo hyvän pohjan jatkolle ja pelaajat voivat jo hyvää vauhtia kehitellä
+  omia hypoteeseja murhaajan henkilöllisyydestä.
+layout: post
+link: https://www.pelilegacy.fi/arvostelut/256/wolf-among-us-laittaa-pelaajan-miettimaan-tarkasti-valintojensa-seurauksia
+slug: wolf-among-us-laittaa-pelaajan-miettimaan-tarkasti-valintojensa-seurauksia
+title: 'Arvio: The Wolf Among Us laittaa pelaajan miettimään tarkasti valintojensa
+  seurauksia'
+wordpress_id: 256
+categories:
+- Arvostelut
+- Seikkailu
+tags:
+- Telltale Games
+---
+
+[![Wolf Among Us (Telltale Games, 2013-14)](http://www.pelilegacy.fi/wp-content/uploads/2014/02/wolf_among_us-300x300.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/02/wolf_among_us.png)
+
+
+
+Kalifornialainen Telltale Games on luonut jotain kaunista viimeisimmillä töillään. Heille ei riittänyt legendaarisen ja tarunhohtoisen Monkey Island –sarjan uudelleenlämmitys tai Paluu tulevaisuuteen –kulttielokuvatrilogian käännös seikkailupeliksi.
+
+
+
+
+
+
+
+Lopullisesti Telltalen väki iski kultasuoneen suositun **The Walking Dead** –sarjakuvan pohjalta tehdyssä pelissä. The Walking Deadissa on kuitenkin yksi pieni ongelma: se on puhdas nörttifranchise, seikkailutarinaa nörtiltä nörteille. Peli itsessään houkuttelisi lukemattomasti pelaamisesta yleisesti kiinnostumattomia ihmisiä luokseen, mikäli lähtökohta olisi jotain muuta kuin kliseistä zombiefantasiaa. Onneksemme Telltale Games ei lepää laakereillaan ja jätä menestystä yhden kortin varaan. Ilman suurta sydäntä ja taitoa meillä ei olisi tulevaisuuden ehdotonta peliklassikkoa, **[The Wolf Among Us](http://www.telltalegames.com/thewolfamongus/)**.
+
+The Wolf Among Us perustuu niin ikään palkittuun sarjakuvaan, joka on tällä kertaa huomattavasti kekseliäämpi: _Bill Winningham’s Fables_ nimeltään. Pelin tarina edelläkäy sarjakuvan tapahtumia ja siinä ohjataan isoa pahaa sheriffi **Bigby Wolfia**. Tässä vaiheessa ei tarvitse kuitenkaan hätääntyä, sillä pelin juonen mukana pysyminen ei vaadi sarjakuvan tuntemista lainkaan. Bigbyn seurana menossa mukana ovat mm. etsivä Lumikki (**Snow White**), **Ichabod Crane**, Kaunotar (**Beauty**) sekä Hirviö (**Beast**). Kuulostaako tutulta? Ei ihme, sillä hahmot perustuvat laajalti populaarikulttuurissa kohtaamiimme taruhahmoihin aina lastenkirjoista tavalliseen kaunokirjallisuuteen. Peli linkittää toisiinsa kollektiivisessa tajunnassamme piilevät mytologiset tapahtumat, joita saatoimme lapsuudessa kuunnella iltasatuina ennen nukkumaanmenoa sekä pelin film noir –tyyliä mukailevan rosoisen maailman. Hahmot ovat niinkin huolellisesti suunniteltu, että heidän väliset suhteensa nostetaan heti ensimmäisen episodin alussa kartalle. Esimerkiksi päähenkilö Bigbyn ja Metsurin (**Woodsman**) arkaainen kiista johtaa tietenkin brutaaliin käsirysyyn. Suhteisiin palataan useamman kerran pelin dialogeissa ja lisää voi lukea pelin sisäisestä kirjallisuudesta. Miksi tällaisia pelejä ei ole tehty aiemmin?
+
+Tarinan keskiössä _fableja_ eli taruhahmoja niitetään kuin heinää ja heidän murhia tutkitaan Bigby Wolfin näkökulmasta. Kuinka sopivaa, että sheriffi on susi, sillä ympäristöä joutuu nuuskimaan tarkasti, mikäli pelissä haluaa edetä. Liiaksi vinkkejä ei anneta, mutta se ei pelistä kuitenkaan tee millään lailla vaikeaa. En joutunut turvautumaan läpipeluuoppaisiin kahden episodin aikana lainkaan. Kokemattomampi pelaaja voi olla ajoittain pulassa, mutta pitämällä silmät ja korvat auki ei ongelmia tule. Pelejä mahdollisimman nopeasti läpäisevät dialogien ohittajat pysyköön tästä kaukana. Eikä totta puhuen tulisi mieleenkään jättää yhtään nurkkaa nuuskimatta tai dialogia kuuntelematta, sillä eritoten ääninäyttely on luonnonhunajaa korville aina Bigby Wolfin tylystä murinasta **Tweedledeen** ja **Tweedledumin** riemastuttavan kuuloiseen cockney-aksenttiin. Myöskin musiikki luotaa pelin kohtausten intensiivisyyttä ja alleviivaa pelin teemoja; kuolema, kärsimys ja mysteerit.
+
+[caption id="attachment_258" align="aligncenter" width="600"][![Wolf Among Us: Bigby Wolf & Woodsman](http://www.pelilegacy.fi/wp-content/uploads/2014/02/bigby_and_woodsman-600x337.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/02/bigby_and_woodsman.jpg) Bigbyn iskut tuntuvat silmäkulmissa ja poskipäissä[/caption]
+
+Wolf Among Usin ihmissuhteet eivät ole pelkkää kahakkaa vaan Bigbyn ja Snow Whiten suhde ottaa toisessa episodissa jo varovaisia askelia eteenpäin. Hahmojen välinen kemia on kirjoitettu poikkeuksellisen hyvin ja vaikka kuinka omilla valinnoillaan yrittäisi tehdä Bigbysta misogynista luopiota, ilmassa on selvää kipinää. Naissukupuolen edustajia pelissä ilahduttanee se, ettei Snow White suinkaan jää vain silmänruoaksi pelissä vaan hän reagoi voimakkaasti ja itsenäisesti pelin tapahtumiin. Jää nähtäväksi syökö Iso Paha Susi Lumikin vaiko päinvastoin.
+
+Wolf Among Usin pelaaminen on hyvin tuttua point & click –veteraaneille ja yllättävästi se jopa toimii sujuvasti peliohjaimella. Hahmoa liikutellaan vasemmalla analogitatilla ja kursoria liikutellaan esineiden päälle oikealla tatilla. Interaktiiviset tapahtumat hoidetaan ABXY-painikkeilla. Keskusteluiden aikana valitaan aikarajan puitteissa mitä Bigby sanoo tai ollaan tylysti hiljaa. Taistelut niin ikään ovat tuttuja reaktiotestejä, joissa ruudulle ilmestyy toiminto, jonka pelaajan kuuluu peliohjaimella toistaa. Mikäli tässä epäonnistuu, ottaa Bigby ensiksi pataan kuin juopunut suomalainen lauantaisessa saunaillassa kunnes lopulta kuolee. Kuolema ei onneksi ole loppu tässä pelissä, joten peliä on helppo jatkaa edellisestä tallennuksesta. Miksikö kaltaiseni PC-puristi pelaa tämän sarjan Xbox 360 –konsolilla? Koska jalon eleen myötä sarjan ensimmäinen episodi oli hetken aikaa kaikille ilmainen Xboxin verkkokaupassa. Mieltäni kiehtoo toki ostaa tämä myöhemmin sille oikealle pelialustalle jostain Steamin alennuksesta.
+
+Telltalen peleille tyypillisesti kaikki dialogin valinnat vaikuttavat jollain tapaa juonen rakentumiseen. Valitsin hiljaisuuden parhaaksi vaihtoehdoksi monissa eri tilanteissa, mutta peli reagoi siihen laittamalla muut hahmot esittämään hyvin pettynyttä. Toisinaan toisen hahmon miellyttäminen suututtaa toista. Pelaajan valinnan varaan jätetään myös pitkälti se käyttääkö pelihahmo enemmän verbaalista voimaansa vai nyhdetäänkö tieto puhtaasti fyysisen väkivallan turvin. Revittyäni erään hahmon käden irti, teki vahvasti mieli palauttaa aikaisempi tallennus voimaan ja valitakin toisin. Seuraukset yllättävät ja vetoavat pelaajan tunnemaailmaan, joten korkea ikärajoitus on perusteltu. Olenko koskaan ollut näin voimakkaasti jonkin pelin lumoissa? Wolf Among Us ei ole vain peli, se on interaktiivinen elokuva. Toisille tällaiset pelit ovat myrkkyä ja toisille herkkua. Siitäkin huolimatta Wolf Among Us on saanut yllättävän positiivisia arvioita muissa pelimedioissa.
+
+Kaiken tämän innostuksen lomassa koin kuitenkin ensimmäisen ja toisen episodin välillä hienoisen tasoeron. Juonta paljastamatta voin kertoa, että ensimmäisen episodin lopun mieltä vaivaava asetelma olisi voitu hyödyntää paremmin toisessa episodissa. Merkittävä juonenkäänne vesitetään ennalta-arvattavalla tavalla, joka ikään kuin kielisi jonkinlaista liennytystä pelaajaa kohtaan. Peli alitajuntaisesti viestii, ettei tarina kuitenkaan ihan näin vakava ole. Tämän lisäksi toinen episodi oli tuntuvasti lyhempi kuin ensimmäinen, mikä tosin todennäköisesti johtui siitä, ettei pelin mekaniikkaa enää tarvinnut opetella. Episodien yhteenlaskettu kesto on kutakuinkin 2,5 tunnin luokkaa, joten usean illan peliprojekteista ei ole kyse. Herkku on ohi yhdessä illassa, jolloin myös episodien julkaisutiheys tuntuu luvattoman hitaalta. Ensimmäinen episodi julkaistiin viime vuoden lokakuussa ja toinen tässä kuussa. Väliajat kuluvat kynsiä tuskaisesti pureskellen. Kärsimättömien ihmisten kannattanee aloittaa pelaaminen vasta sitten kun viides ja viimeinen episodi on myöhemmin tänä vuonna julkaistu. Jumala armahtakoon minut, sillä en voi itse sitä enää tehdä.
+
+Yksi pelin hankintaan liittyvä ynseys tuli vielä Microsoftin suunnalta. Wolf Among Usin kausipassin ostaneet eivät Microsoftin teknisten ongelmien vuoksi heti saaneet toista episodia ilmaiseksi, vaan heitä pyydettiin maksamaan siitä. Telltale teki fiksun vedon ja lähetti kausipassin ostaneille ilmaisen lunastuskoodin, jolla pelin toisen episodin sai ladattua omaan kirjastoonsa veloituksetta. Allekirjoittaneelle koodin saapuminen tosin kesti pienen tovin. Tällaiset pienet vahingot naarmuttavat ikävästi digitaalisten julkaisujen mainetta. Häpeä olkoon kanssasi, Microsoft.
+
+Pienistä onnettomista sattumuksista huolimatta The Wolf Among Usin toinen episodi luo hyvän pohjan jatkolle ja pelaajat voivat jo hyvää vauhtia kehitellä omia hypoteeseja murhaajan henkilöllisyydestä. Tämänkin episodin lopussa on perinteinen cliffhanger, joskaan se ei ole yhtä värisyttävä kuin edeltäjänsä. Telltale Games on tehnyt eittämättä hyvää jälkeä pelisarjan kanssa tuoden tuttujen satuolentojen rujon film noir –maailman olohuoneisiimme ja laittamalla meidät toden teolla miettimään valintojemme seurauksia. Mikäli tämä temppu onnistutaan toistamaan tulevien **Tales of the Borderlands** ja **Game of Thrones** –julkaisujen kanssa, kohotan Telltalen suoraan pelijumalien ylhäiseen kastiin. Mahtavaa duunia, pojat!

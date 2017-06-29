@@ -1,0 +1,51 @@
+---
+author: Niko Heikkilä
+comments: true
+date: 2015-03-06 14:11:52+00:00
+excerpt: Mitä tehdä pelin kanssa, josta ei koskaan tunnu tulevan valmista? Ennakossa
+  tänään jo viime vuonna Steamin varhaispelitarjontaan saapunut patrioottisimulaattori
+  Broforce.
+layout: post
+link: https://www.pelilegacy.fi/ennakot/1507/broforce
+slug: broforce
+title: 'Mitä pelasin tänään: Broforce'
+wordpress_id: 1507
+categories:
+- Ennakot
+tags:
+- Devolver Digital
+- Indie
+- Pelikritiikki
+- Retro
+- Steam
+---
+
+[![Mitä pelasimme tänään: Broforce](http://www.pelilegacy.fi/wp-content/uploads/2015/03/mpt_broforce.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/mpt_broforce.jpg)
+
+[ingressi]Mitä tehdä pelin kanssa, josta ei koskaan tunnu tulevan valmista? Ennakossa tänään jo viime vuonna Steamin varhaispelitarjontaan saapunut patrioottisimulaattori Broforce.[/ingressi]
+
+Syvälle amerikkalaisuuteen pesiytynyt patriotismi on ollut peleissä läsnä jo muinaisen Oregon Trailin ajoilta, jossa ajan tietokonepeliksi teknisesti vaatimattomaan tyyliin kuvattiin uudisraivaajien vaikeaa taivalta tyhjästä nousevien yhteiskuntien perustajaisiksi. Medal of Honor -sarja sekä Yhdysvaltain armeijan kehittämä America’s Army puristivat isänmaallisen vuon liki kuiviin, minkä jälkeen aika oli enemmän kuin kypsä vuoden 2012 Spec Ops: The Line -pelille kylvää “vapaustaistelijoiden” sanoman sekaan syvää ja pilkallista itseironiaa. Idässä tosin oltiin aikaa reilusti edellä Hideo Kojiman palvotussa Metal Gear Solid -sarjassa, jossa pelaajalle esitettiin taitavasti filosofisia kysymyksiä sodan ja kansallismielisyyden tiimoilta.
+
+Isänmaallinen kohkaus voidaan myös vetää äärimmilleen satiirin keinoin, kuten jo kulttiasemaan noussut Free Livesin kehittämä ja Devolver Digitalin julkaisema varhaispeli **Broforce** osoittaa. Mitään Broforcessa ei oteta niin vakavasti kuin jokaisen amerikkalaisen itsepintaista oikeutta kantaa tuliaseita ja lahdata ulkomaan uhkaajia yhteisen hyvän nimissä.
+
+Julkaisija Devolver Digital muistetaan Broforcen ohella Hotline Miami- ja Serious Sam -sarjoista sekä uudelleenherätetystä Shadow Warrior -pelistä. Poskettoman huumorin ja omaperäisen punk-asenteensa kautta yhtiö onkin kairannut tiensä pelaajien sydämiin. Kun muistetaan millainen hypermaskuliininen murha- ja voimafantasia Hotline Miami oli, ei Broforcen vaikutteita tarvitse kauaa miettiä. Syyskuun 2001 iskujen jälkeinen terrorisminvastainen mielentila on kristallisoitu ja parodisoitu yhteen peliin.
+
+Peleissä liian vähän nähdyllä komediallisella otteella Broforce osoittaakin, että poliittisen sanoman kätkeminen pelimekaniikan sekaan on helpompaa kuin ennalta arvaisi. Pikselisotilaat aloittavat pyhän kampanjansa kommunistien kansoittamasta Vietnamista, josta matka jatkuu aina terroristien täyttämään Kazakhstaniin. Matkalla kohdataan muun muassa dynamiittiin pukeutuneita itsemurhapommittajia, taisteluhelikoptereita ja mechoja. Silmiä rankaisevassa menossa tärkeintä on kuitenkin räjäyttää kaikki elävä ja eloton aines tieltä.
+
+[pullquote]“Mitään Broforcessa ei oteta niin vakavasti kuin jokaisen amerikkalaisen itsepintaista oikeutta kantaa tuliaseita ja lahdata ulkomaan uhkaajia yhteisen hyvän nimissä.”[/pullquote]
+
+Yhdysvaltoja ajatellessa mieleen tulevat usein ensimmäisenä sodankäynti, räjähdykset, maskuliinisuus ja globaalista valta-asemastaan äärimmäisen tietoinen demokratia (tai imperiumi). Osittain tästä voidaan kiittää 1980- ja 90-lukujen toimintaelokuvia, joiden hahmot muodostavat Broforcen oman veljesarmadan. Nimestään huolimatta myös muutamalla naisella on tilaa veljesten joukossa. Planet Terror -elokuvassa jalkaansa rynnäkkökiväärin sitoneella Cherry Brolingilla on minitykkiä lentorakettina käyttävän Brominatorin ohella runsaiten tuhovoimaa.
+
+Idea on niin helppo, ettei ihmettelylle ollut sijaa kun The Expendables 3 -elokuvaa markkinoitiin Broforcen tekijöiden The Expendabros -pelillä. Näemmekö joskus The Dictabros -lisäosan, jossa Brosif Stalin ja Fidel Castbro niittävät maailmasta kapitalismin edustajat? Ehkä niin radikaaleihin vetoihin Free Livesin ihmisistä ei ole.
+
+Koska kyseessä on Early Access -peli, emme voi vielä tietää, mihin sotilaiden ristiretki päättyy. Tätä kirjoittaessa uusin lisäys kampanjaan kertoo Aliens-elokuvan petojen tunkeutumisesta maapallolle. Tasaisesti päivittyvä peli lisääkin ovelasti jälleenpeluuarvoa kampanjaa asteittain pidentämällä, sillä alieneiden kimppuun ei pääse ennen kuin on tehnyt aikaisemmista tasoista selvää. Samalla kokonaisuus pysyy tuoreena ja lyhyyden ansiosta pelin pelaa miellään läpi muutaman kuukauden välein.
+
+[![Broforce](http://www.pelilegacy.fi/wp-content/uploads/2015/03/broforce_2.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/broforce_2.png)
+
+Jos Broforcen ylväs Yhdysvaltain lippu otetaan pois salosta liehumasta, onko edessämme jälleen vain yksi lattea ja merkityksetön sivulta kuvattu räiskintäpeli? Alien Infestation -päivitys on merkki tähän suuntaan joko hukaten pelin ytimen tai osoittaen, että yksikään _muukalainen_ ei ole tervetullut rikkomaan valkopäämerikotkan siunaaman kansan rauhaa. Alienit vihollisina ovat näet vain teuraskarjaa uusissa vaatteissa.
+
+Toisaalta ei sovi unohtaa Broforcen toista valttikortia: humoristisia popkulttuurin ristiviittauksia. Kun Bronan The Brobarian karjuu Arnold Schwarzeneggerin tunnetulla itävaltalaisaksentilla Frank Herbertin Dyynin hiekkamatoa muistuttavaa alienia miekalla pilkkoen ei voi olla nauramatta kohtauksen vinksahtaneisuudelle. Maksaisin rahalla sellaisesta kohtauksesta missä tahansa elokuvassa.
+
+Broforce tarjoaa napakan paketin muutaman tunnin mittaista hupia, jonka parissa saa huutaa ja haukkoa henkeä etenkin moninpelinä, jolloin pelikokemus on kaoottisimmillaan.
+
+https://www.youtube.com/watch?v=rjt2zUhIfRc

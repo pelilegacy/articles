@@ -1,0 +1,71 @@
+---
+author: Niko Heikkilä
+comments: true
+date: 2016-03-05 11:42:35+00:00
+excerpt: Sormia ja hermoja kurittaneiden OlliOlli -pelien jälkeen Roll7 päätti vaihtaa
+  skeittilautailut poliittisilla iskulauseilla väritettyyn kampanjointiin ja temppuilun
+  brutaaliin väkivaltaan. Irvailevista peleistä tunnetuksi tulleen Devolver Digitalin
+  julkaisema Not a Hero sylkee happoa modernin demokratian päälle.
+layout: post
+link: https://www.pelilegacy.fi/arvostelut/2708/not-a-hero
+slug: not-a-hero
+title: Not a Hero arvostelee politiikkaa asein ja iskulausein
+wordpress_id: 2708
+categories:
+- Arvostelut
+- Toiminta
+tags:
+- Devolver Digital
+- Hotline Miami
+- Indie
+- OlliOlli
+- Pelikritiikki
+- Politiikka
+- Retro
+- Roll7
+- Uutuudet
+---
+
+
+
+[![Vote BunnyLord](https://www.pelilegacy.fi/wp-content/uploads/2016/03/bunnylord.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/03/bunnylord.jpg)
+
+[ingressi]Vaalijärjestelmää pilkkaava Not a Hero voisi viihdyttää enemmänkin.[/ingressi]
+
+Sormia ja hermoja kurittaneiden OlliOlli -pelien jälkeen **Roll7** päätti vaihtaa skeittilautailut poliittisilla iskulauseilla väritettyyn kampanjointiin ja temppuilun brutaaliin väkivaltaan. Irvailevista peleistä tunnetuksi tulleen **Devolver Digitalin** julkaisema _Not a Hero_ sylkee happoa modernin demokratian päälle. Pelin ilmeisin satiirin kohde on poliittinen kampanjointi ja sen valitettava sivutuote, loanheitto, mikä Yhdysvaltain meneillään olevien presidentinvaalien ansiosta osuu ajallisesti herkulliseen paikkaan. Kuinka pitkälle olet valmis taistelemaan ehdokkaasi puolesta? Kuivahtaneen vakavuuden sijasta kysymyksenasettelu puetaan viekkaan brittiläisen mustan huumorin sävyihin.
+
+Ajankohtaiset ongelmat kuten kasvavat rikostilastot ratkaistaan ampumalla rikollisia suoraan suuhun ja sen jälkeen nauttimalla kupillinen teetä. Jos pelit eivät olisi jo niin vahvasti vakiinnuttaneet väkivaltaa osaksi narratiivia, voisi tällainen ratkaisu jopa järkyttää.
+
+_Not a Heron_ keskeisin hahmo on violetti jänis nimeltä **BunnyLord**, joka saapuu aikakoneella vuodesta 2048 pyrkimyksenään tulla valituksi nimettömän brittiläisen kaupungin pormestariksi samalla pelastaen maailman totaaliselta tuholta ja vieraan rodun invaasiolta. Vaikka pelin PC-versio ilmestyikin jo ennen kuin **Donald Trump** kerkesi edes julistautua republikaanien presidenttiehdokkaaksi, en voi olla aistimatta tietynlaista kuittailua myös hänen suuntaan.
+
+Toisaalla BunnyLordin kiihkeät kannattajat tuovat mieleen demokraattien ehdokas **Bernie Sandersia** sosiaalisessa mediassa palvovat ja valkoista (ylempää) keskiluokkaa edustavat [Berniebro’t](http://www.theatlantic.com/politics/archive/2015/10/here-comes-the-berniebro-bernie-sanders/411070/), jotka ovat nousseet otsikoihin ehdottoman oikeiden mielipiteidensä ja kyseenalaisen käytöksen vuoksi.
+
+_Not a Heron_ satiiri kohdistuu kuitenkin yksittäisten henkilöiden ja ryhmien sijaan koko poliittista kenttää määrittelevään vaalikulttuuriin. Ei ole tavatonta, että BunnyLord lupaa korokkeeltaan potentiaalisille äänestäjille yhteiskunnallisesti täysin kestämättömiä asioita, kuten verotuksen poistamista, maahanmuuttajien pahoinpitelyä tai työttömien karkottamista Eurooppaan.
+
+Tarkemmin luettuna BunnyLordin puheenparsi tulee Oxfordin sanakirjan syöneestä puppulausegeneraattorista, jonka iskulauseherkkyys ja poliittinen epäkorrektius on väännetty kaakkoon. Tunnettu faktahan on, ettei puheen sisällöllä ole lainkaan niin painavaa merkitystä kuin puhujan riittävän karismaattisella ja suorasukaisella tavalla kertoa asiat kuten ihmiset haluavat ne kuulla. Sääntö pätee niin fiktiossa kuin arkipäivän populistisessa politiikassa: mediaa ja äänestäjiä kohtaan idioottimaisinkin _non sequitur_ on mitä pätevin tapa argumentoida, jos siitä seuraa pienikin nousu ehdokkaan kannatuksessa.
+
+https://twitter.com/VoteBunnyLord/status/617777480590491649
+
+https://twitter.com/VoteBunnyLord/status/607199772567420928
+
+[pullquote]Not a Heron ilmeisin satiirin kohde on poliittinen kampanjointi[/pullquote]
+
+Sanojen lisäksi tarvitaan myös konkreettisia tekoja ja tällöin BunnyLord on valmis lähettämään entisen salamurhaajan ja nykyisen kampanjapäällikkönsä **Steven** avustajineen siivoamaan kaupunkia. Rikolliset tietenkin ovat pääosin ulkomaalaisia -- venäläisiä ja japanilaisia.
+
+_Not a Hero_ supistaa kekseliäästi perinteisistä toimintapeleistä tutuksi tulleen piiloudu & ammu -taktikoinnin kaksiulotteiseksi. Painiketta hakkaamalla hahmo syöksyy suojasta toiseen ja niiden välissä on mahdollista teloittaa vihollisia näyttävään Hollywood-tyyliin. Konsepti tuntuu aluksi helpolta, mutta alun suoraviivaisuuden ei tule antaa hämätä, sillä pelin todellinen haaste tulee esille jo seuraavissa tasoissa vihollisten käyttäytymisen tunnistamisessa ja lippaan vaihtojen oikeassa ajoittamisessa. Esimerkiksi haulikkoa aseenaan kantavalta rääväsuiselta skottijuntti **Cletukselta** kuluu ikuisuus aseen lataamiseen, jolloin hänestä tulee vihollisille hetkessä valmista haggista.
+
+Yksikään pelattava hahmo ei ole täydellinen valinta jokaiseen tilanteeseen, vaan päätös on tehtävä oman pelityylin mukaisesti ja tasoja hartaasti opiskellen. Päädyin useimmiten valitsemaan hahmokseni walesilaisen palkkasoturi **Samanthan**, jonka kyky ladata aseet juostessa on avuksi rämäpäisyyttä ja uskallusta vaativissa tilanteissa. Niistä peli usein myös palkitseekin eniten. _OlliOllin_ tyyliin jokainen taso nimittäin koostuu pienistä saavutuksista, jotka vaihtelevat mahdollisimman nopeasta läpäisystä siviilien suojelemiseen.
+
+[![Not a Hero](https://www.pelilegacy.fi/wp-content/uploads/2016/03/not-a-hero.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/03/not-a-hero.jpg)
+
+_Not a Heron_ tasot esitetään auki leikattuina kerrostaloina, jotka osittain tuovat mieleen vanhat MS-DOS-alustalle julkaistut toimintapelit tai esimerkiksi **Blizzardin** _Blackthorne_-seikkailun. Retroilua rakastavan esitystavan suurin ongelma kuitenkin on, että toiminnasta on toisinaan vaikea saada kunnollista selvyyttä. Liian usein pikselihahmot sekoittuvat värikkäisiin taustoihin ja kaukaa kuvatun kameran vuoksi etenkin pelin hektisimmissä kohdissa on vain puristettava liipaisinta ja toivottava parasta. Riemu ei ole korkeimmillaan, kun tarkoin kaavailtu suoritus kaatuu taustakoristeelta näyttävän vihollisen niskalaukaukseen, jonka jälkeen mahdollisesti hyvinkin pitkä taso on aloitettava alusta.
+
+_Not a Hero_ ei säästele: oma pelaamiseni loppui tasoon, jossa samurait juoksevat tyhjästä salamannopeasti päälle yhdellä iskulla tappaen. Vastaava tasapainottomuus vihollisten välillä oli riesana myös _Hotline Miami 2:ssa_.
+
+Usean tapahtuman samanaikainen havainnointi ei ollut ongelma _OlliOllissa_, jossa katse oli pidettävä tiukasti omassa hahmossa. Onneksi _Not a Herossa_ kontrollit jäävät nopeasti lihasmuistiin, mikä on osittain myös haitaksi, sillä vaihdoin vahingossa tasoista löytyvät erikoisammukset useaan kertaan tavallisiin latauspainiketta impulsiivisesti kurittamalla.
+
+Ongelmat pelattavuudessa ja visuaalisuudessa haittaavat kuitenkin kokemusta siinä määrin, ettei viekas poliittinen satiiri onnistu pelastamaan kaikkea. Se on sääli, sillä juuri nyt aikamme ja maailmantilanteen huomioiden olisi verraton tilaisuus kuittailla räävittömästi sisä- ja ulkopolitiikalle niin Yhdysvalloissa kuin sen ulkopuolellakin.
+
+_[Not a Hero](http://www.notahe.ro/) on saatavilla PC:lle ja PS4:lle. Toimitus ei avannut BunnyLordin logolla varustettuja ruskeita kirjekuoria ennen tämän artikkelin julkaisua._
+
+https://www.youtube.com/watch?v=pl3w5baycdw

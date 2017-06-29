@@ -1,0 +1,56 @@
+---
+author: Niko Heikkilä
+comments: true
+date: 2015-12-11 07:30:52+00:00
+excerpt: Peli Legacyn toinen toimintavuosi saapuu finaalinsa, joten on aika luoda
+  kaihoisa ja osin katkera, mutta lopulta kuitenkin kiitollinen katsaus menneeseen.
+layout: post
+link: https://www.pelilegacy.fi/ajassa/2375/aika-elaa
+slug: aika-elaa
+title: Aika elää
+wordpress_id: 2375
+categories:
+- Ajassa
+- Pääkirjoitukset
+tags:
+- Dan Golding
+- Expa
+- IGDA
+- Image
+- Pelijournalismi
+- Pelikritiikki
+---
+
+[![Saturday Night At Sea](http://www.pelilegacy.fi/wp-content/uploads/2015/11/peli_legacy_2_vuotta.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/11/peli_legacy_2_vuotta.jpg)
+
+[ingressi]“I think it's time I had a talk with my kids. I'll just tell 'em what my daddy told me. You aint't never gonna amount nothin'”[/ingressi]
+
+Erikoisista lavaperformansseistaan tunnettu äänitaiteilija **Mike Patton** lausui nämä elämäänsä väsyneen henkilön sanat Faith No More -yhtyeensä kappaleen _RV _lopuksi. Kuinka moni teistä on lausunut kaksi viimeistä lausetta itselleen? Minä olen, mutta kerta toisensa jälkeen olen osoittanut itselleni olleeni väärässä.
+
+**Peli Legacyn** toinen toimintavuosi saapuu loppuunsa, joten on aika luoda kaihoisa ja osin katkera, mutta lopulta kuitenkin kiitollinen katsaus menneeseen. Tämä on viimeinen päiväni sivuston toiminnasta vastaavan yhdistyksen johdossa -- päätoimittajana jatkan kuitenkin edelleen.
+
+Suunnitellessani tätä sivustoa, minulla ei ollut juurikaan kokemusta yhdistystoiminnasta, johtamisesta tai edes kontakteja alalla. Nyt minulla on kaikkea tätä. Ehkäpä näiden kokemusten myötä ymmärrän myös, mistä vanhemmuudessa on kyse. Oman lapsen kasvamisen seuraaminen on vähintäänkin synapseja kutkuttava prosessi. Ammattikielellä ilmaistuna: se pärisee.
+
+Täysin uuden sivuston perustaminen tyhjästä, kasvattaminen ja sen tuottavaksi tekeminen on ollut eittämättä yksi elämäni suurimpia ja opettavaisimpia haasteita. Palautteita lukiessa on ollut hieno kuulla, että olemme onnistuneet antamaan edes hieman massasta poikkeavan näkökulman pelaamisen maailmaan.
+
+Olemme alusta asti toimineet voittoa tavoittelematta, joten tuottavuudesta puhuessani tarkoitan, että olemme pystyneet kattamaan toiminnasta aiheutuneet kulut. Varsinaista liiketoimintaa emme ole koskaan harrastaneet eikä se ole missiomme kannalta kovin oleellistakaan. Voittoa tavoittelemattoman yhdistyksen vahvuuksia ovat itsenäisyys ja riippumattomuus. Mekin olemme saaneet luoda juuri itsemme näköistä sisältöä ketään kumartamatta. Tinkimättömyys, riippumattomuus ja ehdoton itsenäisyys ovat luoneet sen pohjan, jonka päällä Peli Legacy on näihin päiviin asti pysynyt pystyssä.
+
+Täällä toimiessani olen ollut onnekas päästyäni tutustumaan lähemmin esimerkiksi [Peliosuuskunta Expan](http://www.expa.fi) ja [IGDAn](http://www.igda.fi) toimintaan. Myös aluksi kieroon katsomani nuorisotyö on tullut tutuksi Jyväskylän Veturitallien [#GameONjkl-hanketoiminnan](http://www.pelilegacy.fi/hitaat/2218/gameonjkl-pelien-historiaa-ja-pelikasvatusta) kautta. Olen päässyt raportoimaan [pientä, mutta äärettömän kunnianhimoista elektronisen urheilun tapahtumaa](http://www.pelilegacy.fi/hitaat/1005/keikalla-jessembly-verkkopelitapahtuma), haastatellut [pelialan innovaattoreita](http://www.pelilegacy.fi/hitaat/816/the-internet-game-database-lupaa-pelaajille-toimivan-ja-luotettavan-pelitietopankin) ja [kokeneita kehittäjiä](http://www.pelilegacy.fi/hitaat/2301/haastattelu-1979-revolution-ink-stories) sekä ottanut voimakkaasti kantaa [pelikulttuurin lieveilmiöihin](http://www.pelilegacy.fi/ajassa/963/me-olemme-pelaajien-asialla). On päiviä, joita voisin vaihtaa pois, mutta ei näitä.
+
+[![Do You Regret?](http://www.pelilegacy.fi/wp-content/uploads/2015/12/do_you_regret.gif)](http://www.pelilegacy.fi/wp-content/uploads/2015/12/do_you_regret.gif)
+
+Yleisö on ollut kohdallamme vastaanottavainen, ja usein olenkin kuullut ihmeteltävän, miksei vastaavaa sisältöä ole aiemmin löytynyt. Syitä voi etsiä monesta paikkaa.
+
+Pelialan kulttuurinen murros, jota jopa sodaksi on oikeutetusti luonnehdittu, vaikuttaa hyvine ja huonoine puolineen vahvasti myös pelijournalismiin. Tuoreessa kirjassa _The State of Play: Creators and Critics on Video Game Culture_ pelitutkija **Dan Golding** esittää, kuinka vanhanaikainen pelaajaidentiteetti (gamer) pohjautuu kulutuskulttuurin ja kapitalismin monimutkaisiin käsitteisiin (s. 79). Pelien ilmaisu on laajentunut siinä määrin, että yksikäsitteinen pelaajakunta ei voi enää omia koko harrastusta itselleen. Kun Goldingin ajatuksia soveltaa pelijournalismiin, huomataan että alan muutos jakaa sen entistä vahvemmin kahteen leiriin: markkinoita tarkalla silmällä seuraavaan kuluttajajournalismiin ja kriittisempään kulttuurijournalismiin. Kummalle on enemmän kysyntää; kuluttajaa ohjaaville tuotearvioille vai keskustelua herättäville ja analyyttisille pelikritiikeille?
+
+Molemmille on ehdottomasti paikkansa, mutta uskon edelleen vakaasti, että suomalaisessa mediakentässä on vahva tarve hyvin taustoitetulle peli- ja kulttuurijournalismille, jossa uskalletaan kirjoittaa muustakin kuin tulevien suurpelien vuotaneista trailereista, kuvankaappauksista, lisäsisällöstä ja siirtyneistä julkaisupäivistä. Potentiaaliset kirjoittajatkaan eivät ole niin kiven alla. Esimerkiksi Jyväskylän yliopiston humanistisessa tiedekunnassa on tänä syksynä aloitettu pelitutkimukseen ja -suunnitteluun valmentava opintokokonaisuus ja Tampereen yliopistossa toimii oma [pelitutkimuslaboratorio](http://gameresearchlab.uta.fi/). Pelitutkimuksella on Suomessa jo kestävä pohja, jonka liittäminen osaksi journalismia tuo myönteisiä tuulia koko pelialalle. Ongelmaksi voi kuitenkin nousta tällaisen median taloudellinen kannattavuus -- miten lukijat ottavat uudenlaisen sisällön vastaan ja ovatko he valmiita maksamaan siitä?
+
+Vaikka nöyränä ihmisenä en pidä meitä suunnannäyttäjinä tässä asiassa, niin on ollut silti ilo huomata muidenkin julkaisujen monipuolistaneen sisältöään kahden viime vuoden aikana. Kiitokset siitä kantautuvat maailmalle. Ulkomailta rantautuu jatkuvasti uusia innovatiivisia ajatuksia uudenlaisen pelijournalismin ja -kritiikin muodoista. Olisimme typeriä ellemme ottaisi niitä vastaan.
+
+Alati globaalimmaksi muuttuvassa maailmassa on tärkeää hakea vaikutteita kaikkialta silläkin uhalla, että se vaikuttaisi toisten mielestä kopioinnilta. Image-lehden numeron 12/2015 pääkirjoituksessa [_Siksi täytyy lähteä_](http://www.image.fi/image-lehti/siksi-taytyy-lahtea) **Heikki Valkama** on asian ytimessä kirjoittaessaan, että _verrokkeihin tutustuminen ja maailmalta oppiminen ei tarkoita kopioimista_. Itse nimitän sitä musiikkitermein uudelleenmiksaamiseksi. Olisihan esimerkiksi populaarimusiikki huomattavasti latteampaa, jollei joku olisi ymmärtänyt lähteä hakemaan vaikutteita _The Beatlesilta_ ja _Chuck Berrylta_.
+
+Mahdat nyt miettiä, keitä Peli Legacy on uudelleenmiksannut? Hieman jokaista, mutta päällimmäisinä vaikutteina ovat olleet menestyksekkäät ulkomaiset pelimediat _Polygonin_, _Rock Paper Shotgunin_ ja _[Kill Screenin](http://www.pelilegacy.fi/ajassa/2381/kill-screen-ja-joukkorahoitus)_ tavoin uudelleen perustettua _Offworldia_ unohtamatta. En ole koskaan hävennyt sitä, että toimintaamme suunnitellessa olen saattanut matkia edellä mainittujen julkaisujen tyylejä ja soveltaa niitä omiini. On hyvin todennäköistä, että he ovat itsekin tehneet näin toisilleen. Muistakaamme, että kenenkään taidot eivät kehity tyhjiössä. Ottakaamme siis rohkeasti oppia toisiltamme ja olkaamme kiitollisia toistemme tuesta.
+
+Peli Legacy voi jatkossakin tarjota lukijoilleen laadukasta, asiantuntevaa ja ihmisläheistä sisältöä, mutta emme pysty siihen ilman apua tai rahoitta. Siksi yhdistyksen kärkitavoitteet ensi vuodelle ovat yhteistyön vahvistaminen alan toimijoiden kanssa, toiminnan mahdollistavan rahoituksen varmistaminen ja toimituksen kasvattaminen. [Liity mukaan](http://www.pelilegacy.fi/rekrytointi), niin voit olla kahden vuoden päästä kenties jopa päätoimittajan paikalla kirjoittamassa uutta katsausta.
+
+Olette varmaankin kuulleet jo Tannhäuserin porteilla kimaltelevista säteistä ja katoavista hetkistä. Toisin kuin Roy Batty totesi, nyt ei ole aika kuolla -- **nyt on aika elää**.

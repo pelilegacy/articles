@@ -1,0 +1,112 @@
+---
+author: Niko Heikkilä
+comments: false
+date: 2016-01-17 11:54:39+00:00
+excerpt: Pelaa Nyt! -listan toisessa kirjeessä paketoidaan pelivuotta 2015 lämpimin
+  muisteloin.
+layout: post
+link: https://www.pelilegacy.fi/ajassa/2554/pelaa-nyt-2
+slug: pelaa-nyt-2
+title: 'Pelaa Nyt! #2 – vuoden 2015 paketointia'
+wordpress_id: 2554
+categories:
+- Ajassa
+- Pelikirjoitukset
+tags:
+- Fallout
+- Kuolema
+- Pelaaminen
+- Pelijournalismi
+- Sota
+- Taide
+---
+
+![Sunset](https://www.pelilegacy.fi/wp-content/uploads/2016/01/sunset.jpg)
+
+_Pelaa Nyt! on [Twitter-tili](https://twitter.com/pelaanyt) ja [postituslista](https://tinyletter.com/pelaanyt), jonka tarkoituksena on avata keskustelua niin vähemmän tunnetuista peleistä kuin pelaamisen ympärille muotoutuneista asioista ja ilmiöistä. Peli Legacy julkaisee postituslistan kirjeet viiveellä. Mikäli haluat saada kirjeet itsellesi heti julkaisupäivänä ja osallistua keskusteluun, liity postituslistalle._
+
+Tervehdys lukijat,
+
+Kävi niin, että toinen kirje viivästyi _hieman_. Ensisijainen syyni on opiskelun aiheuttama hektisyys, mutta toisaalta halusin myös pitää oikean loman, jotta ehdin myös pelata enkä vain kirjoittaa. Se oli oikea ratkaisu, joten nyt jatketaan uusin sormin, uusin voimin.
+
+Säännöt ovat silti samat: liity postituslistalle, seuraa Twitterissä, ehdota sisältöä ja ennen kaikkea **osallistu keskusteluun**. Tässä kirjeessä käydään vielä viimeistelevä katsaus vuoteen 2015 ennen uuden kalenterin käyttöönottoa.
+
+
+
+### VIISI PELIÄ VUODELTA 2015, JOTKA SINUN TULISI KOKEILLA
+
+
+
+Huomaa, että nämä pelit eivät ole järjestyksessä, eikä tämä toimi minään virallisena parhaimpien pelien listana. Tutustu kuitenkin rohkeasti näihin, jos ne ovat menneet ohi.
+
+[**Her Story**](http://www.herstorygame.com) tuo videokuvaan perustuvan FMV-ilmaisun takaisin peleihin tavalla, joka ei vaikuta ummehtuneelta 1990-luvun nostalgisoinnilta. Pelaajan tarkkavaisuutta koetteleva Her Story pääsikin jopa verkkolehti Polygonin vuoden peliksi, mitä voi pitää jo suurena meriittinä.
+
+**[Ori and the Blind Forest](http://www.oriblindforest.com) [[arvio](https://www.pelilegacy.fi/arvostelut/1835/ori-and-the-blind-forest)]** on jälleen yksi vakuuttava todiste siitä, että suurenkin julkaisijan helmoista voi ilmestyä muistamisen arvoisia indie-seikkailuja.
+
+[**Sunset**](http://tale-of-tales.com/Sunset) (kuvassa) lähestyy aseellista konfliktia This War of Minen tavoin siviilin näkökulmasta ottaen kuitenkin astetta rohkeamman poliittisen kannan.
+
+**[Life is Strange](http://lifeisstrange.com) [[arvio](https://www.pelilegacy.fi/arvostelut/2357/life-is-strange)]** on tähän mennessä onnistunein yritys tuoda televisiosarjoista tutut rakenteet, nuorisoelokuvalle tyypillinen kerronta ja seikkailupelit yhteen.
+
+**[Until Dawn](http://www.supermassivegames.com/games/until-dawn) [[arvio](https://www.pelilegacy.fi/arvostelut/2205/until-dawn)]** jätti allekirjoittaneeseen jälkensä ennen kaikkea häpeilemättömällä kauhuelokuvan ystävien palvelemisella, mutta myös pettämättömällä tunnelmallaan.
+
+
+
+* * *
+
+
+
+
+
+### VIISI ARTIKKELIA VUODEN 2015 LOPULTA
+
+
+
+Kotakun päätoimittaja **Stephen Totilo** laati rohkean pääkirjoituksen [pelijournalismin hinnasta](http://kotaku.com/a-price-of-games-journalism-1743526293). Pelitoimittajien ja -julkaisijoiden suhde ei ole aina niin mutkaton kuin nopeasti katsottuna saattaisi vaikuttaa. On tärkeää muistaa, että pelijournalismin tehtävä ei ole viihdetuotteiden myynnin edistäminen.
+
+
+
+<blockquote>I’m sure some people will sympathize with Bethesda and Ubisoft. Some will cheer these companies and hope others follow suit. They will see this kind of reporting as upsetting, as ruining surprises and frustrating creative people. They will claim we are “hurting video games,” and, as so many do, mistake the job of entertainment reporting for the mandate to hype entertainment products.</blockquote>
+
+
+
+Jugoslavialainen Alma vietti lapsuutensa sodan runtelemassa maassa. VICEn **Jason Williamsonin** tekemässä [mielenkiintoisessa haastattelussa käydään läpi Alman ajatuksia Fallout 4 -pelistä](http://www.vice.com/en_uk/read/return-to-the-bunker-fallout-4-through-the-eyes-of-a-1990s-war-child-855).
+
+
+
+<blockquote>"Everything started with the knock on the door," Alma tells me. "It was a late evening in early April (1992). Our dinner guests had just left and my mom, then six months' pregnant with my brother, was doing the dishes. She opened the door, to see a friend who was usually the life and soul of the party, but that evening his face was deadly serious. He was here to see my dad. They talked in the living room and I could only catch a few words, but it was clear that something bad was coming. I still remember the feeling in my stomach of doubt and fear of the unknown. The next morning my dad left to fight, and everything changed. My life, my town, my whole outlook."</blockquote>
+
+
+
+Gamasutrassa **Katherine Cross** esittää, [ettei pelejä tulisi verrata elokuviin, vaan oopperaan](http://www.gamasutra.com/view/news/259854/Forget_all_the_comparisons_to_cinemagames_are_more_like_operas.php). Crossin esseessä on perää sikäli, että klassikoiksi tunnustetut pelit usein ovatkin kokonaisvaltaisia taideteoksia, joissa visuaalisuus, ääninäyttely, kerronta ja teemat asettuvat kauniiseen linjaan.
+
+
+
+<blockquote>Most games, especially these days, must blend together several artistic disciplines. Many games stand out for their excellence in visual art, voice acting, and composition--those that excel at more than one of those are often instant classics.</blockquote>
+
+
+
+[Kuoleman merkitys peleissä poikkeaa vahvasti esimerkiksi rikoskirjallisuudesta](http://www.eurogamer.net/articles/2015-12-19-keith-stuart-on-violence-in-crime-fiction-and-video-games), toteaa **Keith Stuart** Eurogamerissa. Peleissä tappaminen liittyykin oleellisesti etenemiseen ja selviytymiseen, mutta kirjallisuudessa kuolemalla on usein huomattavasti vahvempi kaiku.
+
+
+
+<blockquote>What can games learn from crime fiction? To put violence in context and make it mean something. To make it human. There's a reason Her Story was so successful, despite its limits as effectively a video footage search engine. Here is a real woman on screen and you have to slowly dislodge her story, not through hand-eye coordination or a quick trigger finger, but though the ostensibly laborious process of interpreting her confessions and understanding her as a person.</blockquote>
+
+
+
+Valikoin harvoin lukemistoon suomenkielisiä tekstejä, mikä ei suinkaan johdu kielellisestä syrjinnästä, vaan siitä, ettei laadukkaita sellaisia ole kovin paljoa (tai niitä ei tuoda eteeni). Raymondissa on kuitenkin hiljattain julkaistu **Aleksandr Manzosin** ja **Maija Tammen** [mielenkiintoinen artikkeli äärimmäisestä pelaamisesta](http://www.raymond.fi/#!game-over). Mikä saa ihmisen niin pelien pauloihin, että tarvehierarkian alimmat kerrokset tulevat laiminlyödyksi johtaen lopulta pahimmillaan kuolemaan?
+
+
+
+<blockquote>Päiviä kestäviä pelimaratoneja harrastavat ihmiset hakevat helpotusta peleistä, jotka pro-tasolla pelattuna täyttävät Parkinin tarveympyrästä hyvin rajallisen osan. Selviytyminen, kilpailu ja systeemien opettelu istuvat syvällä meissä kaikissa, mutta ne eivät kata koko elämää eivätkä ne ratkaise kaikkia ongelmia.</blockquote>
+
+
+
+
+
+* * *
+
+
+
+Seuraavan kirjeen valmistelen ja tähtään julkaistavaksi kuunvaihteessa – kuulemme silloin!
+
+_Kirje julkaistiin alun perin 2. tammikuuta, 2016 [täällä](http://tinyletter.com/pelaanyt/letters/pelaa-nyt-2-vuoden-2015-paketointia)._

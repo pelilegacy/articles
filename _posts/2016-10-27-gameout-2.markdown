@@ -1,0 +1,311 @@
+---
+author: toimitus
+comments: true
+date: 2016-10-27 05:54:42+00:00
+excerpt: 48 tuntia puhetta siitä, mistä aina puute -- siis pelaamisesta.
+layout: post
+link: https://www.pelilegacy.fi/tiedotteet/3032/gameout-2
+slug: gameout-2
+title: 'Yhdessä jälleen: GameOUT 2 - 48 tunnin suora lähetys'
+wordpress_id: 3032
+categories:
+- Lähetykset
+- Tiedotteet
+tags:
+- '#GameOUT'
+- eSports
+- Lisenssipelit
+- Maratonit
+- Pelikritiikki
+- Twitch
+- Uutuudet
+---
+
+
+
+
+
+[ingressi]48 tuntia puhetta siitä, mistä aina puute -- siis pelaamisesta.[/ingressi]
+
+Peli Legacyn toimitus avustajineen laskeutuu toista kertaa valaisemaan syyspimeän harmaannuttamia hermokeskuksia _GameOUT_-pelimaratonin koittaessa 11.--13. marraskuuta. Päätimme myös tuplata lähetyksen pituuden siltä varalta, ettemme voi tietää kenen käsi pian rapakontakaisella ydinasesalkulla lepää. Tuleepa siinä tapauksessa pelattua tarpeeksi ennen mahdollista maailmanloppua. Iholta parkkiintuneet kovapintaiset asfalttisoturimme toki jatkaisivat pelaamista sellaisenkin iloisen pienen onnettomuuden jälkeen, mutta se tarina kerrottakoon toiste.
+
+_GameOUT 2:n_ ohjelmisto ei ole vain pidempi, vaan myös parempi. Ohjelmassa nähdään muun muassa merkittäviä kauhupelejä _Alien Isolationin_ ja _Silent Hillin_ muodossa **Niko Heikkilän** ja **Eetu Arvilan** säestämänä. Lisäksi tutustutaan _Star Citizenin_ ja _Mechwarrior Onlinen_ kilpapelaamiseen [_Renegade Squadron_](http://www.renegadegaming.org/) ja [_9th Sanguine Tigers_](http://sanguinetigers.com/) -joukkueita edustavan **Kati Reinikan** kanssa, käydään **Joanna Mäki-Valkaman** johdolla vierailulla _Mirror's Edge: Catalystin_ radikaalissa maailmassa (katso toki [videoesseemme](https://www.pelilegacy.fi/videot/2924/mirrors-edge-perhesuhteet)) sekä kuunnellaan **Miikka Monosen** tarinoita meidän kaikkien suuresti ihailemiemme lisenssipelien tiimoilta. **Joni Nieminen** puolestaan kurkistaa vanhojen pelisarjojen uusimpiin tulokkaisiin _Rise of the Tomb Raiderin_ ja _Gears of War 4:n_ parissa.
+
+Huomaa, että lähetyksen ikäraja on ohjelmistoon valittujen pelien luonteesta johtuen **K-18**. Pidätämme oikeuden aikataulumuutoksiin. Koko aikataulun näet alta.
+
+
+
+* * *
+
+
+
+_Päivitys 27.10.2016: Korjattu Kati Reinikan joukkuetiedot oikeiksi._
+
+
+
+# Aikataulu
+
+
+
+
+
+## Perjantai
+
+
+
+<table >
+
+<tr >
+Aika
+Pelaaja
+Peli
+</tr>
+
+<tbody >
+<tr >
+
+<td >16-20
+</td>
+
+<td >Kati Reinikka
+</td>
+
+<td >_Don't Starve Together_
+</td>
+</tr>
+<tr >
+
+<td >20-23
+</td>
+
+<td >Niko Heikkilä
+</td>
+
+<td >_Killer Is Dead_
+</td>
+</tr>
+<tr >
+
+<td >23-05
+</td>
+
+<td >Joni Nieminen
+</td>
+
+<td >_Rise of the Tomb Raider_
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+## Lauantai
+
+
+
+<table >
+
+<tr >
+Aika
+Pelaaja
+Peli
+</tr>
+
+<tbody >
+<tr >
+
+<td >05-07
+</td>
+
+<td >Eetu Arvila
+</td>
+
+<td >_Tomb Raider 1_
+</td>
+</tr>
+<tr >
+
+<td >07-10
+</td>
+
+<td >Petri Hotakainen
+</td>
+
+<td >_Uncharted_
+</td>
+</tr>
+<tr >
+
+<td >10-13
+</td>
+
+<td >Niko Heikkilä
+</td>
+
+<td >_Alien Isolation_
+</td>
+</tr>
+<tr >
+
+<td >13-16
+</td>
+
+<td >Kati Reinikka
+</td>
+
+<td >_Mechwarrior Online_
+</td>
+</tr>
+<tr >
+
+<td >16-18
+</td>
+
+<td >Joni, Niko & Kati
+</td>
+
+<td >_Overcooked_
+</td>
+</tr>
+<tr >
+
+<td >18-22
+</td>
+
+<td >Joanna Mäki-Valkama
+</td>
+
+<td >_Mirror's Edge: Catalyst_
+</td>
+</tr>
+<tr >
+
+<td >22-23
+</td>
+
+<td >Miikka Mononen
+</td>
+
+<td >_The Punisher_
+</td>
+</tr>
+<tr >
+
+<td >23-00
+</td>
+
+<td >Miikka Mononen
+</td>
+
+<td >_Ultimate Spider-Man_
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+## Sunnuntai
+
+
+
+<table >
+
+<tr >
+Aika
+Pelaaja
+Peli
+</tr>
+
+<tbody >
+<tr >
+
+<td >00-01
+</td>
+
+<td >Miikka Mononen
+</td>
+
+<td >_X-Men Origins: Wolverine_
+</td>
+</tr>
+<tr >
+
+<td >01-02
+</td>
+
+<td >Miikka Mononen
+</td>
+
+<td >_The Warriors_
+</td>
+</tr>
+<tr >
+
+<td >02-03
+</td>
+
+<td >Miikka Mononen
+</td>
+
+<td >_Drawful 2_
+</td>
+</tr>
+<tr >
+
+<td >03-07
+</td>
+
+<td >Joni Nieminen
+</td>
+
+<td >_Gears of War 4_
+</td>
+</tr>
+<tr >
+
+<td >07-09
+</td>
+
+<td >Eetu Arvila
+</td>
+
+<td >_Silent Hill_
+</td>
+</tr>
+<tr >
+
+<td >09-11
+</td>
+
+<td >Miikka Mononen
+</td>
+
+<td >_Alpha Protocol_
+</td>
+</tr>
+<tr >
+
+<td >11-12
+</td>
+
+<td >Eetu Arvila
+</td>
+
+<td >_My Summer Car_
+</td>
+</tr>
+<tr >
+
+<td >12-16
+</td>
+
+<td >Niko Heikkilä
+</td>
+
+<td >_Saboteur_
+</td>
+</tr>
+</tbody>
+</table>

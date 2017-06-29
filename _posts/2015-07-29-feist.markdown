@@ -1,0 +1,58 @@
+---
+author: Niko Heikkilä
+comments: true
+date: 2015-07-29 11:18:01+00:00
+excerpt: Metsä haluaa sinun kuolevan, ja ainoat aseesi ovat fysiikan lait. Onko kuusi
+  vuotta kehityksessä ollut Feist siluettia vai sillisalaattia?
+layout: post
+link: https://www.pelilegacy.fi/arvostelut/2072/feist
+slug: feist
+title: 'Arvio: Feist vie pakomatkalle siluettimetsän halki'
+wordpress_id: 2072
+categories:
+- Arvostelut
+- Seikkailu
+- Selviytymispelit
+tags:
+- Indie
+- Journey
+- LIMBO
+- Unity
+- Uutuudet
+---
+
+[![Feist #1](http://www.pelilegacy.fi/wp-content/uploads/2015/07/feist1.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/07/feist1.jpg)
+
+[ingressi]Metsä haluaa sinun kuolevan, ja ainoat aseesi ovat fysiikan lait.[/ingressi]
+
+On pelejä, joita läpikäydessä tekisi mieli välittää viesti ruudun toiselle puolelle ja kehottaa kertojaa olemaan hiljaa. "Näytä, älä kerro" on draaman kultainen sääntö, joka oikein hyödynnettynä luo erityisesti peleissä hedelmällisen pohjan omille tulkinnoille. Tämä pätee niin Journeyn askeettisessa pelaajien välisessä kommunikaatiossa kuin LIMBOn salaperäisessä, mutta määrätietoisessa etenemisessä.
+
+Sveitsiläisten **Adrian Stutzin** ja **Florian Fallerin** Bits & Beasts -studion alla yli kuuden vuoden ajan kehitetty debyyttipeli Feist jatkaa indiepeleissä toimivaksi todetun vähäeleisen narratiivin kaanonia. Tälläkin kertaa matka on yhtä tärkeä kuin päämääräkin, ellei tärkeämpi.
+
+Feist alkaa aavemaisen kosteasta ja valoisesta metsästä, jossa siluettiin verhottu, nimetön ja pörröinen sankarimme tai sankarittaremme pyrkii vapauteen pienestä puisesta vankilastaan. Alku on oivallisesti suunniteltu: laatikko roikkuu köyden varassa korkealla maanpinnan yläpuolella, josta vasemmalle ja oikealle kevyesti heijaamalla sen saa putoamaan. Pudottuaan on laatikkoa tönittävä sisältä käsin eteenpäin, jotta sen saa vierimään alas mäkeä ja lopulta rikkoutumaan kovaa maaperää vasten. Leikittely fysiikoilla on ensimmäinen havaittava ja samalla suurin osuus Feistin viehätyksestä.
+
+Sitten korville aukeaa **Tomek Kolczynskin** säveltämä upea ja tunnelmallisen avantgardistinen musiikkiraita, joka pukee lumoavasti taustavalaistun ja lapsuuteni korpiretkiin ajatukset palauttavan metsämaiseman säveltaiteeksi. Tätä kirjoittaessa rankkasade rummuttaa asuntoni ikkunoita tehden ääniraidasta vieläkin vaikuttavamman kuuloista. Kun ensimmäisistä tasoista on selvitty, puhkeaa myös visuaalisuus loistoonsa häkellyttävän hienojen vesitekstuurien ja luolastojen myötä. Väripaletti ei ole yhtä runsas kuin esimerkiksi [Ori and the Blind Forestissa](http://www.pelilegacy.fi/arvostelut/1835/ori-and-the-blind-forest), mutta LIMBOn paikoin raskaaksi käyneen goottilaisen harmauden se voittaa mennen tullen.
+
+[![Feist #2](http://www.pelilegacy.fi/wp-content/uploads/2015/07/feist2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/07/feist2.jpg)
+
+Tekijät itse vertaavat Feistin visuaalista tyyliä **Jim Hensonin** ja **Frank Ozin** ohjaamaan elokuvaan _The Dark Crystal_ (1982) sekä **Juri Norsteinin** ohjaamaan neuvostoanimaatioon [_Hedgehog in the Fog_ (1975)](https://www.youtube.com/watch?v=oW0jvJC2rvM). Etenkin jälkimmäisen kohdalla peliin imetyt vaikutteet ovat selvät. Jos Feist olisi iltasatu, en nukahtaisi.
+
+Tasoloikkapelien totuttuja sääntöjä uhmaten Feist ei sisällä tavaroiden poimimista, pisteiden keruuta, hahmonkehitystä taikka piilossa olevien onkaloiden tutkimista. Olennaisesti Feistin sydämessä on päähahmon uskalias pako sieppaajiltaan, jossa pelaajan fyysinen riittämättömyys tuottaa osaltaan selviytymispeleistä tuttuja jännittäviä reaktioita. Metsän isommat diabolisesti hehkuvia silmiä pimeydestä väläyttelevät peikot nimittäin heittelevät pelaajaa käsiin saatuaan estoitta ympäri läänin aina naapuripitäjälle asti. Erikoismainintana pelille on annettava tunnustusta vastustajien toimivasta tekoälystä, sillä yhdestäkään ei ole mahdollista päästä keinottelemalla ohitse, vaan maastoa itsessään tai siellä täällä lojuvaa irtaimistoa on käytettävä hyödykseen.
+
+[pullquote]“Leikittely fysiikoilla on ensimmäinen havaittava ja samalla suurin osuus Feistin viehätyksestä.”[/pullquote]
+
+Toiminnallisempi lähestymistapa on virkistävä poikkeus jopa ylitarjonnaksi asti pursuavien puzzle-seikkailujen lomassa. Toki laatikoita raahataan Feistissäkin, mutta vain korkeammalle kiivetäkseen.
+
+Mutta niin kauan kuin pakomatka jatkuu, on vielä toivoa paremmasta. Feist ei millään tavoin kerro pelaajalle esimerkiksi hahmon nykyistä terveydentilaa. Sitä voi ainoastaan yrittää päätellä pitkin tasoja lentäviä pieniä hyönteisiä syömällä: kun hyönteiset eivät enää maistu, on olo kylläinen ja pörröinen protagonistimme epäröimättä elämänsä vedossa.
+
+Mekaanisesta juoksemisesta huolimatta pakomatkalla eteen sattuu myös tarkkaa ajatusta ja ajoitusta vaativia kohtia, kuten kivenlohkareiden vierittämistä, kuusenoksilla kiipeilyä ja onttojen puunrunkojen sisään suojautumista. Sokea eteenpäin liikkuminen koituu usein turmioksi. Tarkoin ajoitettu loikka kohti tuntematonta, joka parhaimmillaan voi aiheuttaa vihamielisen faunan kuriin laittavien ansojen laukeamisen ketjureaktiona, on hieno esimerkki emergentistä eli arvaamattomasta pelimekaniikasta.
+
+[![Feist #3](http://www.pelilegacy.fi/wp-content/uploads/2015/07/feist3.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/07/feist3.jpg)
+
+Yli kuusi vuotta kehitystyötä on kuitenkin jättänyt lopputuotteeseen muutamia harmillisia bugeja, kuten kaatuilua pelistä työpöydälle poistuttaessa sekä muutamia visuaalisia häiriöitä. Myöskään ruudunpäivitys ei ole täysin sulavaa, mikä sattuu silmään lähinnä kaikista intensiivisimpien pako-osuuksien kohdalla ruudun täyttyessä runsain määrin hämähäkeistä, ampiaisista ja peikoista. Ensimmäiseksi peliksi tekniset kompastukset ovat ymmärrettäviä eivätkä liiaksi pilaa kokonaisuutta.
+
+Varauksella tulee ottaa huomioon vielä lyhyt, vain vajaan kolmen tunnin mittainen kesto, jonka olisi voinut huoletta ainakin tuplata kokonaisuuden käymättä puuduttavaksi. Säväyttävän ulkoasunsa, uljaan musiikkinsa ja hauskuutensa vuoksi Feist on kuitenkin lämpimästi suositeltava yhden illan välipala, joka ei häpeile astua LIMBOn ja Journeyn seuraan toimintaa painottavammaksi kaveriksi.
+
+_[Feist](http://playfeist.net/) on saatavilla PC:lle, Macille ja Linuxille. Voit myös ostaa soundtrackin [Bandcampista](http://tomekkolczynski.bandcamp.com/album/feist-game-original-soundtrack)._
+
+https://www.youtube.com/watch?v=jOi2SNPoQHU

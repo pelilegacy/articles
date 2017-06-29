@@ -1,0 +1,77 @@
+---
+author: vierastalo
+comments: true
+date: 2016-06-30 11:08:36+00:00
+excerpt: E3-messut todistivat tänä vuonna, että AAA-konsolipelien tekeminen kestää
+  noin neljä vuotta. Miksi näin? Far Cry 3 ilmestyi neljä vuotta sitten ja vasta nyt
+  E3 oli täynnä sen klooneja.
+layout: post
+link: https://www.pelilegacy.fi/kolumnit/2885/farcry-e3
+slug: farcry-e3
+title: 'Monoliitti: #FarCry(E)3'
+wordpress_id: 2885
+categories:
+- Kolumnit
+- Monoliitti
+tags:
+- Capcom
+- E3 2016
+- Far Cry
+- God of War
+- Nintendo
+- Resident Evil
+- Sony
+- The Legend of Zelda
+- Ubisoft
+- Watch Dogs
+---
+
+[![Monoliitti](https://www.pelilegacy.fi/wp-content/uploads/2016/06/farcrye3.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/06/farcrye3.jpg)
+
+[ingressi]E3-messut todistivat tänä vuonna, että AAA-konsolipelien tekeminen kestää noin neljä vuotta. Miksi näin? Far Cry 3 ilmestyi neljä vuotta sitten ja vasta nyt E3 oli täynnä sen klooneja.[/ingressi]
+
+Vuosikymmeniä jatko-osien otteessa vellonutta videopelialaa on vaikeaa uudistaa. Reilu viikko sitten Los Angelesissa järjestetyt _Electronic Entertainment Expo_ -messut (E3) todistivat jälleen tämän nähdessämme lukemattomien pelisarjojen uusien lukujen julkistuksia. Yllättäen läsnä oli kuitenkin vahva uudistusten trendi jopa näiden itsensä vakiinnuttaneiden teosten keskuudessa.
+
+Se ei kuitenkaan aina ole hyvä asia: liian derivatiivinen ote uudistuksissa voi olla pahasta, vaikka se johtaisikin sarjan aiemmista osista irtaantumiseen. Mistä edes voi nauttia kun E3:n kolme suurinta jatko-osien uudistusta ovat kaikki yhtä kuin _Far Cry 3_?
+
+Palataan hieman menneisyyteen. _Ubisoft_ oli aikanaan toisen _Far Cryn_ jälkeen vaikeassa tilanteessa. Sarja myi, mutta vastaanotto oli kauttaaltaan vaisu. Pelimekaanisesti ankara ja armoton malariatartunta, kehitysmaan aseiden jatkuva jumiutuminen sekä pelin täysin avoin rakenne sekoittivat useiden pelaajien pasmat. Nykyään peli nauttiikin lähinnä kulttimainetta. Oli selvää, että seuraavan osan pitäisi tehdä jotain toisin. Mitä se tarkoitti? Iloa. _Far Cry 3_ toi sarjaan värikkäitä pahiksia, _bro_-kulttuurin pelottavan tarkasti typistäviä päähahmoja sekä massoihin aina uppoavan [“valkoinen mies pelastaa alkuasukkaat pahalta”](https://www.rockpapershotgun.com/2012/12/04/what-i-loathe-about-far-cry-3/) -juonen. Olipa mukana vielä tissejäkin!
+
+Pelin rakenne ja tunnelma muuttuivat ahdistavasta letkeään hilpeyteen pelaajan juostessa lineaarisesta tarinatehtävästä toiseen ampuen matkalla eksoottisia villipetoja sekä vallatessa vihollisten linnakkeita vapauttamalla niiden kimppuun lisää villipetoja. _Far Cry 3_ ei missään nimessä ole huono peli. Se on vain niin hedonistinen, että välillä iljettää.
+
+Uusimman E3-sadon myötä oli sääli huomata, että _Ubisoft_ on ottanut välinpitämättömyytensä synnyttämästä menestyksestä vaarin. Vaisun vastaanoton pari vuotta sitten saanut, tympeä ja tylsä avoimen maailman toimintapeli _Watch_Dogs_ sai jatkoa, mutta sen sijaan, että _Watch_Dogs 2_ liikkuisi edeltäjänsä polkua pitkin eteenpäin, se hyppää moottoripyörän selkään ja ajaa ojaan. Jatko-osa esittää harmaiden ja rikollisuuden valtaamien katujen sijaan värikkään maailman, jossa pelaaja haluaa vain pitää hauskaa ja samalla vähän hakkeroida _järjestelmää_ vastaan.
+
+[pullquote]Watch_Dogs 2 hyppää moottoripyörän selkään ja ajaa edeltäjänsä asettamalta tieltä pois[/pullquote]
+
+Nyt värikkäät hahmot [kuuntelevat siistiä räppiä](https://youtu.be/243NzPs0vG4?t=6m51s) hiipiessään pop-taiteella koristelluissa kattolukaaleissa. Tavoitteena on hakkeroida niin paljon kuin mahdollista ja välillä [murhata ihmisiä biljardipalloilla](https://youtu.be/m2qEYCuFxGs?t=9m35s) kuin **Steven Seagal** konsanaan. Joskin aikidon lihavinta mestaria sujuvammin ottein. Myönnettävä kuitenkin on, että jatko-osa on edeltäjäänsä houkuttelevampi, koska siinä missä _Far Cry 2_ oli varsin monitasoinen tarina kehitysmaiden riistosta, oli _Watch_Dogs_ tylsääkin tylsempi kostotarina vahingossa mulkulla päähenkilöllä. Jatko-osalla on sentään identiteetti ja luonnetta, vaikka se saavutettiinkin menemällä siitä, mistä aita on matalin – tai helpoin alittaa.
+
+https://www.youtube.com/watch?v=V_Hbr9ITvc0
+
+
+
+**Kukaan ei kuitenkaan mennyt niin matalalta kuin _Capcom_**, jonka virtuaalitodellisuuttakin tukeva kauhupeli _Resident Evil 7: Biohazard_ ravistaa irti kaikki juurensa ollakseen YouTube-sukupolvelle ominainen ensimmäisen persoonan säikyttelykokemus. Tässä ei ole sinänsä mitään vikaa, koska kuten _P.T._ aikoinaan todisti, tälläkin muodolla on etunsa ja sen voi tehdä hyvin. _Resident Evil 6:n_ jälkeen on kuitenkin vaikea uskoa, että _Capcom_ pystyy tekemään mitään hyvin, saati sitten luomaan audiovisuaalisen hienovaraisuuden varaan rakennetun, heiluvan pelikokemuksen, jollaisia siedettävämmät säikyttelypelit ovat.
+
+https://www.youtube.com/watch?v=1rPxiXXxftE
+
+
+
+**_Far Cry 3:n_ jalanjäljissä kulkee myös yllättäen _Nintendo_ uudella Zelda-pelillään**, _Breath of the Wild_. Tällä kertaa tosin _Capcomin_ vertauskuvallisen rimanalituksen sijasta varsin kirjaimellisilla yhteneväisyyksillä. Avoimeen pelimaailmaan sijoittuvassa seikkailussa **Link** voi merkitä vihollisia etäältä, metsästää tarvikkeita ja eläimiä sekä rakentaa asioita _Minecraftin_ ja _Far Cry 3:n_ hengessä.
+
+_Breath of the Wildin_ sävy on _Nintendolle_ tuttuun tapaan omalla tavallaan haudanvakava värikkyydestä huolimatta. Se on sääli, koska Zeldan tarinallisuus on ei-käsikonsoleilla ollut turhan vahvasti omaan ahteriinsa tungettuna aina _Twilight Princessista_ lähtien. _Wind Wakerin_ osoittama kevyempi tunnelma on tiessään, vaikka graafisesti itämaista animaatiota lähentelevään tyyliin on palattukin.
+
+[pullquote]Zeldan tarinallisuus on ollut turhan vahvasti omaan ahteriinsa tungettuna aina Twilight Princessista lähtien[/pullquote]
+
+Kaikissa näistä kolmesta kehityssuunnasta muokattiin jotain omanlaista muottiin, joka sopii paremmin suuren yleisön makuun. Tässä ei välttämättä ole vikaa, sillä populismilla on etunsa. Se takaa vakaan kassavirran yhtiöille, mikä on ainakin _Nintendolle_ ja _Capcomille_ tarpeen. Minäkin tulen pelaamaan ainakin _Resident Evilia_ tyytyen siihen, mitä saan. Voinhan etsiä sitä merkittävää, uutta sisältöä elämääni muiden teosten kautta.
+
+Mietitään kuitenkin hetki, miten voisi käydä, jos nämä sarjat olisivat jatkaneet kehittymistä suuntiin, joita kuka tahansa ei voisi ennakoida? Sonyn _Santa Monican_ kehitysstudio teki niin _God of War_ -sarjalle. Neljä konsoli- ja kaksi käsikonsolipeliä toistaiseksi kattanut sarja tuntui kulahtaneelta jo toisessa iteraatiossaan huolimatta siitä, että pelimekaanisesti kokonaisuus hioutui osa osalta terävämmäksi. Ensimmäisen osan tarinallinen koukku – perinteisen kreikkalaisen tragedian purkaminen – oli vain yksinkertaisesti tiessään päähenkilö **Kratoksen** käydessä sotaan eri jumalia ja myyttisiä olentoja vastaan. Hän oli kehittyvän hahmon sijaan vain alati vihainen, ja tämän vihan humoristiset mittasuhteet saavuttava sävy ei oikein sopinut yhteen etenkään _God of War III:n_ loppupuolen vakavien suruteemojen kanssa.
+
+[pullquote]Norjassa ilmeisesti ottopoikansa kanssa asuva Kratos on kirjaimellisesti riisunut vihansa kahleet[/pullquote]
+
+Tuleva jatko-osa – nimeltään yksinkertaisesti _God of War_ – ei tee sitä, mitä kaikki odottivat. Kuukausia sitten julkisuuteen vuotaneet kuvat norjalaiseen mytologiaan pohjautuvista jumalista pitivät kyllä kutinsa, mutta kukaan ei odottanut, että tämän tulevan näennäisen uusversion päähenkilö olisi sama Kratos, joka huutaen hakkasi tiensä läpi kuuden edeltäneen pelin. Näin kuitenkin kävi. Nyt Norjassa ilmeisesti ottopoikansa kanssa asuva mies on riisunut vihansa kahleet (kirjaimellisesti!) yrittäen elää menneisyytensä kanssa ja samalla opettaen lapselleen jotain hyödyllistä.
+
+https://www.youtube.com/watch?v=CJ_GCPaKywg
+
+
+
+**Ratkaisu on merkittävä, koska se kääntää koko asetelman päälaelleen.** Yksityiskohdilla, kuten sillä, miten Kratos on päätynyt Kreikasta Norjaan, ei ole merkitystä. Sillä on, että hänen on täytynyt – ja yhä täytyy – kasvaa ihmisenä tai puolijumalana omaksuakseen roolinsa hänelle asettamat vastuut. Jo Sonyn kymmenen minuuttia kestänyt videopätkä tekee selväksi, että hän tulee taistelemaan menneisyytensä, vihansa jäänteiden ja vanhemmuutensa kanssa läpi koko pelin. Teema tuntuu näin vihaiselle sarjalle freesiltä ja ennen kaikkea saa minutkin, sarjaa lähes kymmenen vuotta vihanneen ihmisen, innostuneeksi siitä. Jos _Santa Monica_ olisi tehnyt avoimeen pelimaailmaan sijoittuvan selviytymispelin, jossa _gorgonien_ käärmeillä päivitetään Kratoksen kiipeilykoukkua, en olisi yhtä innoissani.
+
+Näistä neljästä esimerkistä yksi haluaa, että pidät hauskaa hakkeroinnin parissa, yksi säikyttelee, yksi haluaa sinun seikkailevan metsässä ja yksi haluaa sinun oppivan jotain vanhemmuudesta sekä itsehillinnästä. Valmiissa teoksissa on varmasti lukemattomia nyansseja, mutta tämä yksinkertainen listaus herättää ajatuksen siitä, miksi näistä tiivistyksistä vain yhdessä on varsinainen teema, selkeä ideologia, sen sijaan, että se olisi pelkkä pelikonsepti. _God of War_ myös esitteli uutta pelimekaanista antiaan, mutta harva muistaa sen yhtä selkeästi kuin sen, miten kirkas emotionaalinen koukku pelillä oli heti alusta. Tämän takia on sääli, että niin monet pelit haluavat vain olla jälleen yksi _Far Cry 3_ ja täten näyttää meille sen, mitä olemme jo satoja kertoja nähneet. Yksinkertaisin suunta – jatko-osan tekeminen aiempaa osaa viisaasti hyödyntäen – olisi usein parempi.

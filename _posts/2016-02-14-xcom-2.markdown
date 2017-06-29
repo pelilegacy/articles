@@ -1,0 +1,33 @@
+---
+author: toimitus
+comments: true
+date: 2016-02-14 15:29:44+00:00
+excerpt: XCOM 2 ja sen edeltäjä kuuluvat siihen hyvin pieneen ryhmään vuoropohjaisista
+  peleistä, joista Joni Nieminen jaksaa nauttia. Miksi näin on?
+layout: post
+link: https://www.pelilegacy.fi/videot/2695/xcom-2
+slug: xcom-2
+title: 'Mitä pelasin tänään: XCOM 2'
+wordpress_id: 2695
+categories:
+- Videot
+post_format:
+- Video
+tags:
+- 2K Games
+- Firaxis
+- Modaus
+- Strategia
+- Twitch
+- XCOM
+---
+
+[ingressi]_XCOM 2_ ja sen edeltäjä kuuluvat siihen hyvin pieneen ryhmään vuoropohjaisista peleistä, joista Joni Nieminen jaksaa nauttia. Miksi näin on?[/ingressi]
+
+_XCOM_ -pelien taistelumekaniikka on juuri sopivassa määrin toimintapainotteinen, jolloin voin tehdä useita eri toimintoja kunkin pelihahmon vuoron aikana. Visuaalisesti _XCOM 2_ näyttää hyvältä, mutta ei erotu poikkeuksellisena ylitse muiden nykypelien. Se on myös vahvasti tarinapainoitteinen, jolloin pelaaminen ei vaadi jatkuvasti tukikohdan managerointia taikka taistelukentillä selviytymistä.
+
+Pelin alun hidastempoisuus saattaa hävittää mielenkiinnon, mutta pelin edetessä pidemmälle se alkaa tuntua yhä mielenkiintoisemmalta -- miksikö? Koska värvättyjä hahmoja on mahdollista muokata runsaalla kädellä juuri haluamakseen sekä ulkonäön että varustuksensa puolesta. Laajat muokkausmahdollisuudet ovat aina olleet itseeni vetoavia tekijöitä. Tukikohdan päivitys ja kehitysalueiden priorisointi saa myös pohtimaan urakalla taktiikoita, kun pitäisi valmistautua vihollisten seuraavaa hyökkäystä varten.
+
+_XCOM 2_ vaikuttaa tuntien pelaamisen jälkeen erittäin hyvältä paketilta kokonaisuutensa puolesta, ja sen kanssa saa varmasti vietettyä helposti kymmeniä tunteja lisää eikä vähiten peliin sisällytetyn modituen vuoksi.
+
+_XCOM 2 on saatavilla PC:lle. Seuraa [kanavaamme](http://live.pelilegacy.fi/) saadaksesi ilmoituksia suorista lähetyksistämme._
