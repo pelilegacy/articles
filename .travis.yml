@@ -6,7 +6,12 @@ cache:
   directories:
   - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 
-script: ./run.sh build
+before_script:
+    - sudo apt-get update -qq && apt-get install -qqy shellcheck
+
+script:
+    - shellcheck *.sh
+    - ./run.sh build
 
 branches:
   only:
