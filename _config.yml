@@ -11,12 +11,13 @@ permalink: pretty
 paginate_path: /page/:num
 theme: minima
 gems:
-    - jekyll-feed
+  - jekyll-feed
 exclude:
-    - run.sh
-    - docker-compose.yml
-    - nginx
-    - jekyll.log
-    - Gemfile
-    - Gemfile.lock
-    - vendor
+  - run.sh
+  - docker-compose.yml
+  - .editorconfig
+  - nginx
+  - jekyll.log
+  - Gemfile
+  - Gemfile.lock
+  - vendor

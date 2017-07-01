@@ -1,29 +1,33 @@
 language: ruby
 rvm:
-- 2.4.1
+  - 2.4.1
 
 cache:
   directories:
-  - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
+    - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 
-before_script:
-    - sudo apt-get update -qq && sudo apt-get install -qqy shellcheck
+addons:
+  apt:
+    sources:
+      - debian-sid
+    packages:
+      - shellcheck
 
 script:
-    - shellcheck *.sh
-    - ./run.sh build
+  - shellcheck *.sh
+  - ./run.sh build
 
 branches:
   only:
-  - master
-  - /feat-(.*)/
-  - /bug-(.*)/
+    - master
+    - /feat-(.*)/
+    - /bug-(.*)/
 
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 
-sudo: true
+sudo: false
 
 deploy:
   provider: pages
