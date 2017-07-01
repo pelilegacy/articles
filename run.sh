@@ -15,27 +15,40 @@ if [[ ! -f $LOG_FILE ]]; then
     touch $LOG_FILE
 fi
 
-info()    { echo "[INFO]    $*" | tee -a "$LOG_FILE" >&2 ; }
-warning() { echo "[WARNING] $*" | tee -a "$LOG_FILE" >&2 ; }
-error()   { echo "[ERROR]   $*" | tee -a "$LOG_FILE" >&2 ; }
-fatal()   { echo "[FATAL]   $*" | tee -a "$LOG_FILE" >&2 ; exit 1 ; }
+get_date() {
+	date "+%Y-%m-%d %H:%M:%S"
+}
+
+info()    { echo "$(get_date) [INFO]    $*" | tee -a "$LOG_FILE" >&2 ; }
+warning() { echo "$(get_date) [WARNING] $*" | tee -a "$LOG_FILE" >&2 ; }
+error()   { echo "$(get_date) [ERROR]   $*" | tee -a "$LOG_FILE" >&2 ; exit 1; }
+fatal()   { echo "$(get_date) [FATAL]   $*" | tee -a "$LOG_FILE" >&2 ; exit 2; }
 
 COMMAND=${1:-"serve"}
 
 exec() {
-    info "Executing Jekyll with option $1"
+    info "Executing Jekyll with option $1."
     bundle exec jekyll "$1"
 
     if [[ "$1" == "build" ]]; then
-        info "Checking for invalid HTML content"
-        bundle exec htmlproofer --assume-extension \
-            --disable-external --checks-to-ignore LinkCheck \
-            ./_site
+		post_build
     fi
 }
 
+post_build() {
+	if [[ $(which shellcheck) != "" ]]; then
+		info "Checking syntax of shell scripts..."
+		shellcheck ./*.sh
+	fi
+
+	info "Checking for invalid HTML content"
+	bundle exec htmlproofer --assume-extension \
+		--disable-external \
+		./_site
+}
+
 cleanup() {
-    info "Cleaning up"
+    info "Cleaning up..."
     exec clean
 }
 
