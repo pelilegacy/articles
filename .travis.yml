@@ -14,7 +14,6 @@ addons:
       - shellcheck
 
 script:
-  - shellcheck *.sh
   - ./run.sh build
 
 branches:
