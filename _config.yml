@@ -7,13 +7,16 @@ timezone: Europe/Helsinki
 
 # Build settings
 strict_front_matter: true
-permalink: /:categories/:title
-markdown: kramdown
-theme: sparrow-jekyll-theme
+permalink: pretty
+paginate_path: /page/:num
+theme: minima
 gems:
-  - jekyll-feed
+    - jekyll-feed
 exclude:
-  - jekyll.log
-  - Gemfile
-  - Gemfile.lock
-  - vendor
+    - run.sh
+    - docker-compose.yml
+    - nginx
+    - jekyll.log
+    - Gemfile
+    - Gemfile.lock
+    - vendor

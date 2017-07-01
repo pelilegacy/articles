@@ -1,0 +1,17 @@
+version: "3.3"
+
+services:
+    web:
+        image: nginx
+        volumes:
+            - ./nginx:/etc/nginx/conf.d
+            - ./_site:/var/www/jekyll
+        ports:
+            - "80:80"
+    build:
+        image: jekyll/jekyll
+        volumes:
+            - .:/srv/jekyll
+        environment:
+            JEKYLL_ENV: development
+        command: jekyll build -q
