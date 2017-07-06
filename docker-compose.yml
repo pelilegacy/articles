@@ -8,10 +8,12 @@ services:
             - ./_site:/var/www/jekyll
         ports:
             - "80:80"
-    build:
+    serve:
         image: jekyll/jekyll
         volumes:
             - .:/srv/jekyll
+        ports:
+            - "4000:4000"
         environment:
             JEKYLL_ENV: development
-        command: jekyll build -q
+        command: jekyll serve
