@@ -27,6 +27,10 @@ fatal()   { echo "$(get_date) [FATAL]   $*" | tee -a "$LOG_FILE" >&2 ; exit 2; }
 COMMAND=${1:-"serve"}
 
 exec() {
+	if [[ "$1" == "build" ]]; then
+		pre_build
+	fi
+
     info "Executing Jekyll with option $1."
     bundle exec jekyll "$1"
 
@@ -35,12 +39,14 @@ exec() {
     fi
 }
 
-post_build() {
+pre_build() {
 	if [[ $(which shellcheck) != "" ]]; then
 		info "Checking syntax of shell scripts..."
 		shellcheck ./*.sh
 	fi
+}
 
+post_build() {
 	info "Checking for invalid HTML content"
 	bundle exec htmlproofer --assume-extension \
 		--disable-external \
