@@ -1,0 +1,58 @@
+---
+# CSS customizations go here.
+---
+
+@import 'minima';
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Raleway:900');
+
+body {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.post-cover {
+    margin-bottom: 40px;
+}
+
+/* Headings */
+.post-title {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.excerpt {
+    text-align: center;
+    font-weight: 700;
+    color: #AAA;
+    padding: 20px 0;
+}
+
+.post-meta {
+    text-align: center;
+}
+
+.post-meta {
+    font-size: 1.6em;
+    font-weight: 700;
+}
+
+.author {
+    color: #498cf6;
+}
+
+/* Content formatting */
+
+.pullquote::before {
+    content: "“"
+}
+
+.pullquote {
+    text-align: center;
+    color: #498cf6;
+    font-size: 1.5em;
+    font-weight: 700;
+    padding: 25px 0;
+}
+
+.pullquote::after {
+    content: "”"
+}

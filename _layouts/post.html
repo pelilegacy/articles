@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <header class="post-header">
+        <div class="post-cover">
+            <img src="{{ page.cover.src }}" alt="{{ page.cover.alt }}">
+        </div>
+        <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+        <p class="excerpt">{{ page.excerpt | truncate: 55 }}</p>
+        <p class="post-meta">
+        {% if page.author %}
+            ✒️ <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="author" itemprop="name">{{ page.author }}</span></span>
+        {% endif %}
+        </p>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+        {{ content }}
+    </div>
+
+    {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+    {% endif %}
+</article>
