@@ -1,5 +1,6 @@
 # Peliyhdistys Legacy ry Archives
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c027c6320c494d97b27ee693874c3ff3)](https://www.codacy.com/app/nikoheikkila/pelilegacy.github.io?utm_source=github.com&utm_medium=referral&utm_content=pelilegacy/pelilegacy.github.io&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/pelilegacy/pelilegacy.github.io.svg?branch=master)](https://travis-ci.org/pelilegacy/pelilegacy.github.io)
 
 This repository serves the posts and pages [Peliyhdistys Legacy ry](https://www.pelilegacy.fi) has published. Content has been migrated from WordPress to **Jekyll**.
