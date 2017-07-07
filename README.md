@@ -1,6 +1,6 @@
 # Peliyhdistys Legacy ry Archives
 
-[![Build Status](https://travis-ci.org/pelilegacy/pelilegacy.github.io.svg?branch=master)](https://travis-ci.org/pelilegacy/pelilegacy.github.io)
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/) [![Build Status](https://travis-ci.org/pelilegacy/pelilegacy.github.io.svg?branch=master)](https://travis-ci.org/pelilegacy/pelilegacy.github.io) 
 
 This repository serves the posts and pages [Peliyhdistys Legacy ry](https://www.pelilegacy.fi) has published. Content has been migrated from WordPress to **Jekyll**.
 
