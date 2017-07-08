@@ -1,12 +1,42 @@
 ---
-# CSS customizations go here.
+# SCSS customizations go here.
 ---
 
 @import 'minima';
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Raleway:900');
 
+/* Fonts */
+$font-heading: Raleway, sans-serif;
+$font-body: Libre Baskerville, serif;
+
+/* Colors */
+$color-blue:    #498cf6;
+$color-gray:    #aaaaaa;
+$color-light:   #f0f0f0;
+
 body {
-    font-family: 'Libre Baskerville', serif;
+    font-family: $font-body;
+}
+
+a:link {
+    color: $color-blue;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.site-header {
+    background-color: $color-blue;
+    border-top: solid 5px $color-blue;
+    border-bottom: solid 5px $color-light;
+    padding-bottom: 15px;
+
+    .site-title {
+        color: $color-light;
+        font-family: $font-heading;
+        font-size: 1.8em;
+    }
 }
 
 .post-cover {
@@ -22,7 +52,7 @@ body {
 .excerpt {
     text-align: center;
     font-weight: 700;
-    color: #AAA;
+    color: $color-gray;
     padding: 20px 0;
 }
 
@@ -36,23 +66,22 @@ body {
 }
 
 .author {
-    color: #498cf6;
+    color: $color-blue;
 }
 
 /* Content formatting */
-
 .pullquote::before {
-    content: "“"
+    content: "“";
 }
 
 .pullquote {
     text-align: center;
-    color: #498cf6;
+    color: $color-blue;
     font-size: 1.5em;
     font-weight: 700;
     padding: 25px 0;
 }
 
 .pullquote::after {
-    content: "”"
+    content: "”";
 }

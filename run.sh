@@ -48,8 +48,10 @@ pre_build() {
 
 post_build() {
 	info "Checking for invalid HTML content"
-	bundle exec htmlproofer --assume-extension \
+	bundle exec htmlproofer \
+		--assume-extension \
 		--disable-external \
+		--checks-to-ignore ImageCheck \
 		./_site
 }
 
