@@ -10,4 +10,4 @@ services:
         environment:
             BUNDLE_CACHE: "true"
             JEKYLL_ENV: development
-        command: bundle exec jekyll serve --force_polling -H 0.0.0.0 -P 4000
+        command: bundle exec jekyll serve --force_polling -H 0.0.0.0 -P 4000 --incremental
