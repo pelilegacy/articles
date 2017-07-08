@@ -23,3 +23,16 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+# Collections
+collections:
+  podcasts:
+    output: false
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: podcasts
+    values:
+      layout: page
