@@ -1,19 +1,13 @@
 version: "3.3"
 
 services:
-    web:
-        image: nginx
-        volumes:
-            - ./nginx:/etc/nginx/conf.d
-            - ./_site:/var/www/jekyll
-        ports:
-            - "80:80"
-    serve:
+    jekyll:
         image: jekyll/jekyll
         volumes:
             - .:/srv/jekyll
         ports:
-            - "4000:4000"
+            - "80:4000"
         environment:
+            BUNDLE_CACHE: "true"
             JEKYLL_ENV: development
-        command: jekyll serve
+        command: bundle exec jekyll serve --force_polling -H 0.0.0.0 -P 4000
