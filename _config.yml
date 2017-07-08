@@ -10,6 +10,8 @@ strict_front_matter: true
 permalink: pretty
 paginate_path: /page/:num
 theme: minima
+sass:
+  style: compressed
 gems:
   - jekyll-feed
 exclude:

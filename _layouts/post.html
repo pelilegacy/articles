@@ -10,8 +10,12 @@ layout: default
         <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
         <p class="excerpt">{{ page.excerpt | truncate: 55 }}</p>
         <p class="post-meta">
-        {% if page.author %}
-            ✒️ <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="author" itemprop="name">{{ page.author }}</span></span>
+
+        {% assign author = site.data.people[page.author] %}
+        {% if author %}
+            ✒️ <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                    <a href="https://twitter.com/intent/user?user_id={{ author.twitter }}" target="_blank"><span class="author" itemprop="name">{{ author.name }}</span></a>
+                </span>
         {% endif %}
         </p>
     </header>
@@ -20,7 +24,7 @@ layout: default
         {{ content }}
     </div>
 
-    {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-    {% endif %}
+    <div class="post-share" itemprop="social-media">
+        <!-- TODO: Implement this -->
+    </div>
 </article>
