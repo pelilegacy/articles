@@ -8,7 +8,7 @@ layout: default
             <img src="{{ page.cover.src }}" alt="{{ page.cover.alt }}">
         </div>
         <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-        <p class="excerpt">{{ page.excerpt | truncate: 55 }}</p>
+        <p class="post-excerpt">{{ page.excerpt | truncate: 140 }}</p>
 
         <p class="post-meta">
         {% assign author = site.data.people[page.author] %}

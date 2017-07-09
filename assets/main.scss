@@ -3,19 +3,21 @@
 ---
 
 @import 'minima';
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Raleway:900');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Raleway:900');
 
 /* Fonts */
-$font-heading: Raleway, sans-serif;
-$font-body: Libre Baskerville, serif;
+$font-heading: "Raleway", sans-serif;
+$font-body: "Crimson Text", serif;
 
 /* Colors */
 $color-blue:    #498cf6;
 $color-gray:    #aaaaaa;
 $color-light:   #f0f0f0;
+$color-orange:  #ff9d00;
 
 body {
     font-family: $font-body;
+    font-size: 24px;
 }
 
 a:link {
@@ -27,61 +29,82 @@ a:hover {
 }
 
 .site-header {
+    font-family: $font-heading;
     background-color: $color-blue;
     border-top: solid 5px $color-blue;
     border-bottom: solid 5px $color-light;
     padding-bottom: 15px;
 
     .site-title {
+        font-size: 1.6em;
         color: $color-light;
-        font-family: $font-heading;
-        font-size: 1.8em;
     }
 }
 
-.post-cover {
-    margin-bottom: 40px;
+.post-list {
+    .post-author {
+        letter-spacing: -2px;
+        text-transform: uppercase;
+    }
+
+    .post-category {
+        @extend .post-author;
+        color: $color-orange;
+    }
+
+    .post-title {
+        font-family: $font-heading;
+    }
+
+    .post-meta {
+        font-size: 1.0em;
+    }
 }
 
-/* Headings */
-.post-title {
-    font-family: 'Raleway', sans-serif;
-    text-align: center;
+.post {
+    .post-header {
+        font-family: $font-heading;
+        text-align: center;
+    }
+    .post-cover {
+        margin-bottom: 40px;
+    }
+
+    .post-excerpt {
+        text-align: center;
+        color: $color-gray;
+        padding: 20px 0;
+    }
+
+    .post-meta {
+        font-size: 1.25em;
+        color: $color-blue;
+    }
+
+    .pullquote::before {
+        content: "“";
+    }
+
+    .pullquote {
+        text-align: center;
+        color: $color-blue;
+        font-size: 1.75em;
+        font-weight: 700;
+        padding: 25px 0;
+    }
+
+    .pullquote::after {
+        content: "”";
+    }
+
 }
 
-.excerpt {
-    text-align: center;
-    font-weight: 700;
-    color: $color-gray;
-    padding: 20px 0;
+.footer-col-wrapper {
+    font-size: 0.8em;
 }
 
-.post-meta {
-    text-align: center;
-}
-
-.post-meta {
-    font-size: 1.6em;
-    font-weight: 700;
-}
-
-.author {
-    color: $color-blue;
-}
-
-/* Content formatting */
-.pullquote::before {
-    content: "“";
-}
-
-.pullquote {
-    text-align: center;
-    color: $color-blue;
-    font-size: 1.5em;
-    font-weight: 700;
-    padding: 25px 0;
-}
-
-.pullquote::after {
-    content: "”";
+.rss svg {
+    width: 16px;
+    height: 16px;
+    padding-right: 5px;
 }
