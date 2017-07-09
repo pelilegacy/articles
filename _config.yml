@@ -1,15 +1,17 @@
 title: Peli Legacy
+author: Peliyhdistys Legacy ry
 email: toimitus@pelilegacy.fi
-description: Peliyhdistys Legacy ry:n arkisto
-twitter_username: pelilegacy
+description: Peliyhdistys Legacy ry on vuonna 2014 perustettu pelejä ja pelaamista käsitteleviä artikkeleita sekä mediasisältöä toimittava yhdistys.
 github_username:  pelilegacy
+repository: pelilegacy.github.io
+lang: fi
 timezone: Europe/Helsinki
 
 # Build settings
 strict_front_matter: true
 permalink: pretty
-paginate_path: /page/:num
 theme: minima
+date_format: "%d.%m.%Y"
 sass:
   style: compressed
 gems:

@@ -3,16 +3,19 @@ title: Podcastit
 author: toimitus
 ---
 
+<ul class="post-list">
 {% for podcast in site.podcasts %}
-<section class="podcast">
-    <h2>{{ podcast.title }}</h2>
+    <li>
+        <h1 class="post-title">
+            {{ podcast.title | escape }}
+        </h1>
 
-    <div class="post-content" itemprop="articleBody">
-        <p>{{ podcast.excerpt }}</p>
-        <a href="#">Kuuntele tästä.</a>
-        <!-- <audio src="{{ podcast.audio }}">
-            
-        </audio> -->
-    </div>
-</section>
+        <div class="post-content" itemprop="articleBody">
+            <p>{{ podcast.excerpt }}</p>
+            <!-- <audio src="{{ podcast.audio }}">
+                
+            </audio> -->
+        </div>
+    </li>
 {% endfor %}
+</ul>
