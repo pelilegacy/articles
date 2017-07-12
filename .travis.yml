@@ -1,40 +1,34 @@
 language: ruby
 rvm:
-  - 2.4.1
-
+- 2.4.1
 cache:
   bundler: true
   directories:
-    - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
-
+  - "$TRAVIS_BUILD_DIR/tmp/.htmlproofer"
 addons:
   apt:
     sources:
-      - debian-sid
+    - debian-sid
     packages:
-      - shellcheck
-
+    - shellcheck
 script:
-  - ./run.sh build
-
+- "./run.sh build"
 branches:
   only:
-    - master
-    - /feat-(.*)/
-    - /bug-(.*)/
-
+  - master
+  - "/feat-(.*)/"
+  - "/bug-(.*)/"
 env:
   global:
-    - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 sudo: false
-
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN
+  github_token: "$GITHUB_TOKEN"
   on:
     branch: master
-
 notifications:
-    slack: $SLACK_TOKEN
+  slack:
+    rooms:
+      secure: UBzJAVA0vr8u/zpXP4Y1UzQNE2PHLdx2j0jsiVhQURtZkR3qKEh5+PswHvRgn9v2phk2zGLKM7n4dqMzlviZWRKPrjSsdM+cTMzNVKgn1rK/8iohVqDliJY2Vqj4ZOnhVQn/rAuGt9AisiT7VCiykfUWRbXKTaRbrAe55uvk7aNf9RRZ5i3awHVqa2XdNqXoC13YeqFEGrlQ6ulhBiHZJTC7E59/9OPpK07DU3gZaWQpFOIGlJ6oe+7kTvBxSr98P2MIQf0zXCQqZt+u1VXS34jicS3cwcxa0yJJY4aBSGC8lyW/087V6MbhGjcS+17dqHN6NQ5kMtaozFRxPXAX/cSOXKt1c9SsOzRSrvC4hVxQ52a0RtNrhstCeJGxajkgiLO1Lm3Pv+C9CcUWdDUM+9eZGTy6AKWHCikZh4LmmAd56wYYKMZC0R2meuUetvOJ5mCuGWOOn3aoSPhdXd+UAXpQzpHLlrmgY+VRpNWuxLUqMBDHmrMcYb+Ewprraz2+9CX8398TgQJRLcZ1dPxGeCUhL0AlNgvnlU37oHpypyHsmdSK6W3cuLWPNR6ZKnjQ/XH9sLOeySZbKQXUV8/IomOuxhdDkMNVkOZxVaNG+xbar+H92uNvHjMLxTcGLsp9z30Iuz1TxwuVnbGZ+5QrCwpBM0KbBC0iw03wA4XJal4=
