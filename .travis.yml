@@ -3,6 +3,7 @@ rvm:
   - 2.4.1
 
 cache:
+  bundler: true
   directories:
     - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
 
@@ -34,3 +35,6 @@ deploy:
   github_token: $GITHUB_TOKEN
   on:
     branch: master
+
+notifications:
+    slack: $SLACK_TOKEN

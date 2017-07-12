@@ -1,5 +1,5 @@
 #!/bin/bash
-set -euo pipefail
+set -eo pipefail
 IFS=$'\n\t'
 
 #/ Usage: ./run.sh [serve|build|clean]
@@ -27,14 +27,14 @@ fatal()   { echo "$(get_date) [FATAL]   $*" | tee -a "$LOG_FILE" >&2 ; exit 2; }
 COMMAND=${1:-"serve"}
 
 exec() {
-	if [[ "$1" == "build" ]]; then
+	if [[ $CI = true ]]; then
 		pre_build
 	fi
 
     info "Executing Jekyll with option $1."
     bundle exec jekyll "$1"
 
-    if [[ "$1" == "build" ]]; then
+    if [[ $CI = true ]]; then
 		post_build
     fi
 }
@@ -47,7 +47,7 @@ pre_build() {
 }
 
 post_build() {
-	info "Checking for invalid HTML content"
+	info "Checking for invalid HTML content..."
 	bundle exec htmlproofer \
 		--assume-extension \
 		--disable-external \
