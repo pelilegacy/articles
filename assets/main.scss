@@ -10,10 +10,16 @@ $font-heading: "Raleway", sans-serif;
 $font-body: "Crimson Text", serif;
 
 /* Colors */
-$color-blue:    #498cf6;
-$color-gray:    #aaaaaa;
+$color-blue:    #193549;
+$color-blue2:   #0D3A58;
+$color-gray:    #35434d;
 $color-light:   #f0f0f0;
+$color-light2:  #c0c0c0;
 $color-orange:  #ff9d00;
+$color-dark:    #222222;
+
+/* Images */
+$gaming: 'images/pattern.png';
 
 body {
     font-family: $font-body;
@@ -33,12 +39,29 @@ a:hover {
     background-color: $color-blue;
     border-top: solid 5px $color-blue;
     border-bottom: solid 5px $color-light;
-    padding-bottom: 15px;
+    padding-bottom: 5px;
 
     .site-title {
-        font-size: 1.6em;
+        font-size: 1.8em;
         color: $color-light;
+        text-shadow: 0 0 5px $color-blue2, 0 0 10px $color-blue2,
+         0 0 20px $color-blue2, 0 0 30px $color-blue2,
+         0 0 40px $color-blue2;
     }
+
+    .site-nav {
+        .page-link {
+            color: $color-light2;
+        }
+
+        .page-link:hover {
+            color: $color-orange;
+        }
+    }
+}
+
+.page-content {
+    background: url($gaming) repeat;
 }
 
 .post-list {
@@ -107,4 +130,15 @@ a:hover {
     width: 16px;
     height: 16px;
     padding-right: 5px;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 600px) {
+    .site-header {
+        .site-nav {
+            .page-link {
+                color: $color-dark;
+            }
+        }
+    }
 }
