@@ -53,7 +53,7 @@ Kannanotto verkkoneutraliteetin puolesta on henkilökohtainen asia 404Sightin te
 
 Internet on tänä päivänä monelle eräänlainen toinen koti. "Useat ihmiset eivät ole tavanneet parhaita ystäviään kasvotusten, joten on tärkeää ymmärtää, mitä verkkoneutraliteetti tarkoittaa tällä tasolla", kertoo pelin graafikkona toiminut **Rachel Leiker**.
 
-[pullquote]“Our game is a statement about protecting net neutrality and preventing internet service providers from slowing or restricting access to the internet.”[/pullquote]
+<div class="pullquote">“Our game is a statement about protecting net neutrality and preventing internet service providers from slowing or restricting access to the internet.”</div>
 
 404Sightin viimeinen avattavissa oleva saavutus on nimeltään "Internet Saved". Jollet kovasta yrityksestä huolimatta pysty pelastamaan internetiä oikeassa elämässä, voit tyydyttää mielesi ja tehdä sen ainakin pelissä.
 

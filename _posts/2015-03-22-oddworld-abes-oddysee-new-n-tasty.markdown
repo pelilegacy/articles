@@ -71,7 +71,7 @@ Lisäksi voit nyt ohjailla kokonaista huoneellista mudokoneja kerralla eikä sit
 
 Ohimennen mainittakon, että vaikka pelaisitkin New ‘n’ Tastyä PC:llä, älä tee sitä virhettä, että pelaisit näppäimistöllä. Abe’s Oddyseen kaltaiset tasoloikat antavat parhaan pelikokemuksen peliohjaimella pelattuna.
 
-[pullquote]“Herää kuitenkin kysymys, tuliko pelistä liiankin helppo automaattitallennuksen ja säädettävän vaikeusasteen myötä?”[/pullquote]
+<div class="pullquote">“Herää kuitenkin kysymys, tuliko pelistä liiankin helppo automaattitallennuksen ja säädettävän vaikeusasteen myötä?”</div>
 
 Mutta ei hyvää, jollei jotain huonoakin. Vastaan tuli mielenkiintoinen bugi, joka liittynee ruudunpäivitysnopeuteen. Nimittäin muutamassa kohdassa liian nopea ruudunpäivitysnopeus aiheuttaa eräiden lihamyllyjen liikkumisnopeuden kasvun. Konsoleilla tätä ongelmaa ei ole, sillä konsoliversiot ovat rajoitettu 30 tai 60 ruutuun sekunnissa.
 

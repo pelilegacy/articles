@@ -40,7 +40,7 @@ Pelin rakenne ja tunnelma muuttuivat ahdistavasta letkeään hilpeyteen pelaajan
 
 Uusimman E3-sadon myötä oli sääli huomata, että _Ubisoft_ on ottanut välinpitämättömyytensä synnyttämästä menestyksestä vaarin. Vaisun vastaanoton pari vuotta sitten saanut, tympeä ja tylsä avoimen maailman toimintapeli _Watch_Dogs_ sai jatkoa, mutta sen sijaan, että _Watch_Dogs 2_ liikkuisi edeltäjänsä polkua pitkin eteenpäin, se hyppää moottoripyörän selkään ja ajaa ojaan. Jatko-osa esittää harmaiden ja rikollisuuden valtaamien katujen sijaan värikkään maailman, jossa pelaaja haluaa vain pitää hauskaa ja samalla vähän hakkeroida _järjestelmää_ vastaan.
 
-[pullquote]Watch_Dogs 2 hyppää moottoripyörän selkään ja ajaa edeltäjänsä asettamalta tieltä pois[/pullquote]
+<div class="pullquote">Watch_Dogs 2 hyppää moottoripyörän selkään ja ajaa edeltäjänsä asettamalta tieltä pois</div>
 
 Nyt värikkäät hahmot [kuuntelevat siistiä räppiä](https://youtu.be/243NzPs0vG4?t=6m51s) hiipiessään pop-taiteella koristelluissa kattolukaaleissa. Tavoitteena on hakkeroida niin paljon kuin mahdollista ja välillä [murhata ihmisiä biljardipalloilla](https://youtu.be/m2qEYCuFxGs?t=9m35s) kuin **Steven Seagal** konsanaan. Joskin aikidon lihavinta mestaria sujuvammin ottein. Myönnettävä kuitenkin on, että jatko-osa on edeltäjäänsä houkuttelevampi, koska siinä missä _Far Cry 2_ oli varsin monitasoinen tarina kehitysmaiden riistosta, oli _Watch_Dogs_ tylsääkin tylsempi kostotarina vahingossa mulkulla päähenkilöllä. Jatko-osalla on sentään identiteetti ja luonnetta, vaikka se saavutettiinkin menemällä siitä, mistä aita on matalin – tai helpoin alittaa.
 
@@ -58,13 +58,13 @@ https://www.youtube.com/watch?v=1rPxiXXxftE
 
 _Breath of the Wildin_ sävy on _Nintendolle_ tuttuun tapaan omalla tavallaan haudanvakava värikkyydestä huolimatta. Se on sääli, koska Zeldan tarinallisuus on ei-käsikonsoleilla ollut turhan vahvasti omaan ahteriinsa tungettuna aina _Twilight Princessista_ lähtien. _Wind Wakerin_ osoittama kevyempi tunnelma on tiessään, vaikka graafisesti itämaista animaatiota lähentelevään tyyliin on palattukin.
 
-[pullquote]Zeldan tarinallisuus on ollut turhan vahvasti omaan ahteriinsa tungettuna aina Twilight Princessista lähtien[/pullquote]
+<div class="pullquote">Zeldan tarinallisuus on ollut turhan vahvasti omaan ahteriinsa tungettuna aina Twilight Princessista lähtien</div>
 
 Kaikissa näistä kolmesta kehityssuunnasta muokattiin jotain omanlaista muottiin, joka sopii paremmin suuren yleisön makuun. Tässä ei välttämättä ole vikaa, sillä populismilla on etunsa. Se takaa vakaan kassavirran yhtiöille, mikä on ainakin _Nintendolle_ ja _Capcomille_ tarpeen. Minäkin tulen pelaamaan ainakin _Resident Evilia_ tyytyen siihen, mitä saan. Voinhan etsiä sitä merkittävää, uutta sisältöä elämääni muiden teosten kautta.
 
 Mietitään kuitenkin hetki, miten voisi käydä, jos nämä sarjat olisivat jatkaneet kehittymistä suuntiin, joita kuka tahansa ei voisi ennakoida? Sonyn _Santa Monican_ kehitysstudio teki niin _God of War_ -sarjalle. Neljä konsoli- ja kaksi käsikonsolipeliä toistaiseksi kattanut sarja tuntui kulahtaneelta jo toisessa iteraatiossaan huolimatta siitä, että pelimekaanisesti kokonaisuus hioutui osa osalta terävämmäksi. Ensimmäisen osan tarinallinen koukku – perinteisen kreikkalaisen tragedian purkaminen – oli vain yksinkertaisesti tiessään päähenkilö **Kratoksen** käydessä sotaan eri jumalia ja myyttisiä olentoja vastaan. Hän oli kehittyvän hahmon sijaan vain alati vihainen, ja tämän vihan humoristiset mittasuhteet saavuttava sävy ei oikein sopinut yhteen etenkään _God of War III:n_ loppupuolen vakavien suruteemojen kanssa.
 
-[pullquote]Norjassa ilmeisesti ottopoikansa kanssa asuva Kratos on kirjaimellisesti riisunut vihansa kahleet[/pullquote]
+<div class="pullquote">Norjassa ilmeisesti ottopoikansa kanssa asuva Kratos on kirjaimellisesti riisunut vihansa kahleet</div>
 
 Tuleva jatko-osa – nimeltään yksinkertaisesti _God of War_ – ei tee sitä, mitä kaikki odottivat. Kuukausia sitten julkisuuteen vuotaneet kuvat norjalaiseen mytologiaan pohjautuvista jumalista pitivät kyllä kutinsa, mutta kukaan ei odottanut, että tämän tulevan näennäisen uusversion päähenkilö olisi sama Kratos, joka huutaen hakkasi tiensä läpi kuuden edeltäneen pelin. Näin kuitenkin kävi. Nyt Norjassa ilmeisesti ottopoikansa kanssa asuva mies on riisunut vihansa kahleet (kirjaimellisesti!) yrittäen elää menneisyytensä kanssa ja samalla opettaen lapselleen jotain hyödyllistä.
 

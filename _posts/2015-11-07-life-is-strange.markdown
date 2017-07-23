@@ -38,7 +38,7 @@ Silti _Life is Strange_ laajentaa rohkeasti pelien ilmaisuvoimaa käsittelemäl
 
 _Life is Strangen_ päähahmo on Blackwellin akatemiassa opiskeleva ja valokuvausta aktiivisesti harrastava 18-vuotias introvertti **Maxine Caulfield**. Muista ikäisistään poiketen älypuhelinten ja sosiaalisen median valloittama maailma ei puhuttele Maxin sisintä, vaan hän kirjoittaa muistonsa mieluummin paperille sekä suosii Polaroid-kameraa Instagramin ja Snapchatin sijaan. Tämä asettuu mielenkiintoiseen kontrastiin _Life is Strangen_ visuaalisen tyylin kanssa, sillä pelin maailma on kuin Instagram-filtterin lävitse suodatettu.
 
-[pullquote]Life is Strange jää osaksi pelikulttuuria ennen kaikkea kokeena tehdä pelien vastine nuorisoelokuvalle -- nuorisopeli.[/pullquote]
+<div class="pullquote">Life is Strange jää osaksi pelikulttuuria ennen kaikkea kokeena tehdä pelien vastine nuorisoelokuvalle -- nuorisopeli.</div>
 
 Eräällä luennolla Max havaitsee voivansa kumota ikäviä tapahtumia liikkumalla ajassa taaksepäin. Tarinassa ei olisi paljoa kerrottavaa, ellei opittuja kykyjä laitettaisi heti alkumetreillä käyttöön. Viiteen jaksoon jaetun pelin alussa Max pelastaa aikaa manipuloimalla nuoruuden ystävänsä, sinihiuksisen ikuisen kapinallisen, **Chloe Pricen** tämän ajauduttua kiistaan kaupungin rikkaan suvun koppavan perijän, **Nathan Prescottin**, kanssa. Samaan aikaan akatemian tunnollinen kemian opiskelija **Warren Graham** potee etäistä ihastustaan Maxiin, josta seuraa lukuisia koomisia ja traagisia tilanteita. Chloen rakkauden kohde ja ennen pelin tapahtumia kadonnut **Rachel Amber** puolestaan on tyypillinen mallioppilas, jonka kohtalo järkyttää hyvin jäsenensä tuntevan kaupunkiyhteisön perustuksia.
 
@@ -48,7 +48,7 @@ _Life is Strangen_ traagisimman hahmon titteli menee oikeutetusti Chloelle, jonk
 
 Ei toisaalta nuorisopeliä ilman teiniromanssia. _Life is Strangen_ eniten mielipiteitä olemuksellaan jakava hahmo lienee Warren, joka ihailunsa pauloissa on valmis tekemään Maxin eteen mitä vain. Tätä ei draaman kultaisten sääntöjen mukaan kerrota pelaajalle suoraan, vaan se näytetään elein ja teoin. Tarinan edetessä Warren auttaa Maxia muun muassa valmistamaan pommin, puolustaa häntä kiusaajien edessä ja pyytää häntä jopa elokuviin. Valittu elokuva ei tietenkään ole mikään muu kuin _Apinoiden planeetta_, joka selkeästi viehättää molempia nörttiyteen taipuvaisia suhteen osapuolia. Harvat asiat kielivät enemmän epätoivoisesta ihastuksesta kuin edellä mainitut. Pystyin helposti samaistumaan Warrenin asemaan, mutta luonnollisesti toiset saattavat nähdä hänet outona ja hieman säälittävänäkin hahmona.
 
-[pullquote]Life is Strangen traagisimman hahmon titteli menee oikeutetusti Chloelle, jonka biologinen isä menehtyi autokolarissa tämän ollessa vielä nuori.[/pullquote]
+<div class="pullquote">Life is Strangen traagisimman hahmon titteli menee oikeutetusti Chloelle, jonka biologinen isä menehtyi autokolarissa tämän ollessa vielä nuori.</div>
 
 Muistellaan jälleen _Breakfast Clubia_. Elokuvassa jälki-istuntoon osallistuivat atleettinen **Andrew** (Emilio Estevez), hikipinko **Brian** (Anthony Michael Hall), viaton prinsessa **Claire** (Molly Ringwald), erilainen nuori **Allison** (Ally Sheedy) ja tietenkin ikuinen kapinallinen **John** (Judd Nelson). Sekä _Breakfast Clubia_ että _Life is Strangea_ yhdistää siis molemmissa teoksissa havaittavissa oleva roolihahmojen luonteenpiirteiden kärkevä korostaminen stereotypioita kaihtamatta huolimatta siitä, että hahmot eivät mene yksi yhteen.
 
@@ -64,7 +64,7 @@ Toinen merkittävä ongelma _Life is Strangen_ parissa on toisen jakson teemana 
 
 Kohtauksen luonteen vuoksi ajan manipulointia ei sallita, jolloin päätökset ovat lopulliset, mikä puolestaan heijastaa osuvasti itsemurhaa suunnittelevan ihmisen mielentilaa: toisinaan et vain kykene auttamaan ja se on ikävä totuus, joka mahdollisesti jää kaivamaan mieltä ikuisiksi ajoiksi. Onnistuin kuitenkin pelastamaan Katen hengen. Silti varsinainen ongelma on itsemurhan estämisen toteuttaminen pelkistämällä se muistipeliksi, vaikka mekaniikat tuntien ideoita olisi voinut hyödyntää kekseliäämminkin. Vertailuna aiemmin samassa jaksossa Chloe jää jumiin junaraiteisiin, jolloin Maxin on aikaa manipuloimalla pelastettava hänet. Koska Chloe on tarinalle oleellinen hahmo, ei hän voi kuitenkaan kuolla tässä, vaan Maxin epäonnistuessa ruutu muuttuu harmaaksi ja peli pakottaa kelaamaan aikaa.
 
-[pullquote]Life is Strangen tapa kuvata ja puhutella tiettyä kohderyhmää ei kuitenkaan ole ongelmaton.[/pullquote]
+<div class="pullquote">Life is Strangen tapa kuvata ja puhutella tiettyä kohderyhmää ei kuitenkaan ole ongelmaton.</div>
 
 Tiedostavan sankaridraaman tavoin myös Maxin voimat paljastuvat neljännen jakson lopulla olevan pikemminkin kirous kuin pelastus. “En muuttanut mitään”, toteaa Max eräässä vaiheessa viidettä jaksoa, mutta silti ainoa vaihtoehto on palata vielä kerran ajassa taaksepäin korjaamaan tilanne synnyttäen samalla jälleen uuden aikajatkumon.
 

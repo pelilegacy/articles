@@ -42,7 +42,7 @@ Applen mukaan _Liyla and the Shadows of War_ ei siis ole peli, vaan se pitäisi 
 
 Lyhytnäköinen käytäntö ei kykene huomioimaan maailman tilannetta: mikä voi näyttää ja kuulostaa silkalta poliittiselta agendalta Yhdysvaltain maaperällä on Lähi-idässä faktista todellisuutta. Erilaisten vähemmistön edustajien kohteluun sovellettuna käytäntö ajaa puolestaan yhteiskunnan etuoikeutettujen vallan pönkittämistä. Ennen kaikkea se asettaa kehittäjät epämukavaan tilanteeseen, jossa heidän on arvuuteltava aiempien tapausten perusteella sitä, tulisiko peli lähettää Applelle arvioitavaksi. Applen merkittävä markkina-asema huomioiden tällä voi ja luultavasti onkin dramaattisia vaikutuksia alaan.
 
-[pullquote]Tiesipä Apple sitä tai ei, myös pelit voivat ottaa tahollaan kantaa poliittiseen keskusteluun.[/pullquote]
+<div class="pullquote">Tiesipä Apple sitä tai ei, myös pelit voivat ottaa tahollaan kantaa poliittiseen keskusteluun.</div>
 
 Olen seurannut lukuisia keskusteluita, joissa pelaajat haluaisivat politiikan riisuttavan peleistä. Outoa on, että näitä lausuntoja näkee harvemmin elokuvista ja kirjoista käytävissä keskusteluissa. Jokainen kirjoittamamme tarina sisältää edustamamme kulttuurin ja siihen kuuluvien arvojen ja moraalikäsitysten ilmaisua ja sitä on lähes mahdoton kätkeä. Kuten hyvin tiedetään, neutraalin ilmaisun suohon astuminen on myös poliittinen teko itsessään.
 

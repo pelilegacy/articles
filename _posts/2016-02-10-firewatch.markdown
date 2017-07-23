@@ -54,7 +54,7 @@ Sen vuoksi Firewatchia voi rehellisesti kutsua älykkääksi, mutta se ei pyri n
 
 Älykkyys heijastuu myös pelin mekaniikoista, sillä suuren osan ajasta on suunnistettava metsässä vain kartan ja kompassin avulla. On tavattoman hienoa, ettei peliin ole lisätty ruudun alakulmaan pienoiskarttaa tai Henryn jalkojen edessä luikertelevaa eteeristä suuntanuolta. Kompromissina kartta kuitenkin paljastaa Henryn sijainnin ja edelliset askeleet, jotta pelikokemus ei menisi liian turhauttavaksi.
 
-[pullquote]Silkan dialogin ja havaintojen välityksellä kulkevat tapahtumat voisivat hyvinkin olla vain Henryn mielikuvituksen tuotetta[/pullquote]
+<div class="pullquote">Silkan dialogin ja havaintojen välityksellä kulkevat tapahtumat voisivat hyvinkin olla vain Henryn mielikuvituksen tuotetta</div>
 
 _Firewatch_ on myös rohkea, sillä se ei käsittele lukiossa tai yliopistossa opiskelevia nuoria pelottavan aikuisuuden kynnyksellä – ne tarinat on jo kerrottu _[Life is Strangen](https://www.pelilegacy.fi/arvostelut/2357/life-is-strange)_ parissa riittävän hyvin. _Firewatchin_ molemmat päähahmot ovat 40 ikävuoden korvilla olevia kypsiä aikuisia, joiden pohjimmiltaan rationaalinen tapa ajatella tulee ilmi useissa kohtaa pelin dialogia kaiken tapahtumiin liittyvän impulsiivisen reagoinnin lomassa. Henry ja osin myös Delilah haluavat irrottautua ikävästä menneisyydestä ja aloittaa jotain uutta, joko yhdessä tai erikseen.
 

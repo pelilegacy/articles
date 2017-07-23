@@ -35,6 +35,6 @@ Paikan päällä voit testata taitojasi retropelien ja uusimpien julkaisujen kan
 
 Järjestäjät ovat alla olevalla videolla jo hyvin innoissaan tapahtumasta. Ole sinäkin ja liity tapahtumaan [Facebookissa](https://www.facebook.com/events/916991891684670/).
 
-[pullquote]…and remember kids: play hard, but play well.[/pullquote]
+<div class="pullquote">…and remember kids: play hard, but play well.</div>
 
 https://www.youtube.com/watch?v=h0cJYem7kHk

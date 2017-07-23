@@ -61,7 +61,7 @@ Voisi väittää, että Alexanderin vertaukset kumisevat onttouttaan, mutta löy
 
 Erityisen kiinnostavaa on pohtia työskenteleekö pelialalla tällä hetkellä ketään, kenestä voimme 20 vuoden päästä puhua samanlaisena ikonina kuin Kurt Cobainista tai Pearl Jamin Eddie Vedderista 90-luvun popmusiikille? Onkin hyvin surullista, mikäli vanhana muistelemme parhaimpia Steam-alennuksia ajatuksia herättäneiden pelintekijöiden sijaan.
 
-[pullquote]Pelit ovat muutakin kuin pelkkiä rivejä lähdekoodissa[/pullquote]
+<div class="pullquote">Pelit ovat muutakin kuin pelkkiä rivejä lähdekoodissa</div>
 
 Luennon lopussa yleisö sai vuoron esittää omia kysymyksiä Alexanderille eikä ollut vaikea arvata, että heti ensimmäisten joukossa käsiteltäisiin sitä kuuluisaa etiikkaa. Alexander oli tähän valmistautunut ja verbaalisesti tyrmäsi perustelluilla mielipiteillään kysyjän kanveesiin. Kysyjää puhuteltakon G:nä alla olevassa puhtaaksikirjoituksessa -- se on kaikin puolin hilpeää luettavaa, mutta Leigh Alexanderin viimeinen isku tyhjentää pöydän niin täydellisesti kuin väittelyssä on mahdollista.
 

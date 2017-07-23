@@ -48,7 +48,7 @@ Kenttien suunnittelu Evolvessa on vaihtelevaa ja ne säilyttävät hyvän yhten�
 
 Ennen julkaisua kähistiin taas vaihteen vuoksi Evolveen tulevista mikromaksuista. Tällä hetkellä kuitenkaan pelin sisäinen kauppa ei tarjoa mitään peliä helpottavia ostoksia, vaan hirviöiden ja aseiden ulkonäköä muuttavia asioita. Evolven erikoisversiot sisältävät sen sijaan esimerkiksi lisää avattuja hahmoja eikä niitä tällöin tarvitse pelaamalla ansaita. Aika näyttää lisätäänkö peliin pay-to-win -elementtejä -- toivottavasti ei.
 
-[pullquote]“On vaikea sanoa mikä Evolvesta tekee pelin, jota voi pelata helposti tunteja kyllästymättä. Ehkä se on onnistunut vaihtelevuus kierrosten välillä tai sitten vain yleisesti idean tuoreus.”[/pullquote]
+<div class="pullquote">“On vaikea sanoa mikä Evolvesta tekee pelin, jota voi pelata helposti tunteja kyllästymättä. Ehkä se on onnistunut vaihtelevuus kierrosten välillä tai sitten vain yleisesti idean tuoreus.”</div>
 
 Eipä nimittäin tule montaakaan peliä mieleeni, joissa pelattaisi yksin montaa ihmistä vastaan monet verkkopelit, kuten Halon “Juggernaut”-pelimuoto pois lukien. Myös jatkuva kehittymisen ja saavuttamisen tunne on saatu mukaan, mikä on minulle iso asia. Jos tunnen seisovani paikallani pelissä saamatta mitään uutta ajoittain avatuksi, alkaa pelaaminen turhauttaa pidemmän päälle. Evolve on tehnyt PvP-muotoisesta verkkopelaamisesta minulle mieluista juuri edellä mainittujen syiden vuoksi, mutta jos kuitenkin saa turpaansa kanssapelaajilta liian kovaa, voi aina kurittaa tekoälyörvelöitä. Tarjoan henkilökohtaisen suosituspeukun kaikille PvP-pelien ystäville.
 

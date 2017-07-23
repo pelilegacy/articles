@@ -70,7 +70,7 @@ Mobiilialustoille _Projekt: Tiles_ -puzzlepeliä kehittävät Jyväskylän ammat
 
 Ideoiden vaihtaminen ja tuotannollisista ongelmista keskusteleminen pelintekijöiden välillä on tilaisuus, johon ei aina tarjoudu mahdollisuutta. Toisaalta jalkautuminen erilaisiin tapahtumiin omaa prototyyppiä tarjoten on hyvä keino sekä parantaa omaa peliään että saada uusia kontakteja.
 
-[pullquote]Tästä huolimatta monien huulilla pyörii kysymys, milloin seuraava Supercell tai Rovio ponnistaa Game Labin uumenista.[/pullquote]
+<div class="pullquote">Tästä huolimatta monien huulilla pyörii kysymys, milloin seuraava Supercell tai Rovio ponnistaa Game Labin uumenista.</div>
 
 _Projekt: Tiles_ -tiimi painottaa erityisesti, että mikäli Jyväskylässä halutaan rakentaa pelialaa yhteisöllisemmäksi, on kehitystyön perustuttava avoimelle keskustelulle ja verkostoitumiselle.
 

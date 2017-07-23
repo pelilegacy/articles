@@ -40,7 +40,7 @@ Mikäli hahmojen taustoihin ei tutustu, jäävät ne kovin etäisiksi. Pelin kam
 
 [![This War of Mine - Raided](http://www.pelilegacy.fi/wp-content/uploads/2015/02/raided-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/raided.jpg)
 
-[pullquote]FUCK. THE. WAR?[/pullquote]
+<div class="pullquote">FUCK. THE. WAR?</div>
 
 Koska objektiivisia peliarvioita ei ole olemassakaan, voin hyvillä mielin jatkaa vielä This War of Minen merkityksistä. Suojaraunioiden ulkopuolella lukee valkoisella maalilla painokas ilmaisu “_Fuck the War !_”. Silti keskeisenä pyrkimyksenä ei nähdäkseni ole niinkään sodanvastaisen sanoman levittäminen kuin tietoisuuden lisääminen sodan kauheuksia esittelemällä. Nämä menevät osittain päällekkäin, mutta näen pelin varsinaisena tarkoituksena pyrkimyksen esitellä sodan vaikutuksia pelaajalle uudessa ja vieraassa kontekstissa. Sotaa käsittelevissä peleissä on totuttu näkemään asiat tähtäimen toiselta puolen: sen henkilön silmin, joka liipaisinta painaa. Koteja tuhoutuu, ruokaa ja vettä ei ole nimeksikään, kylmyys jäykistää sormet ja vierustoverit voivat pettää koska tahansa. Se mitä sotapeleissä näemme, on glorifioitu kiiltokuva, joka vastaa suurinpiirtein sotilaiden näkemystä tulevista tapahtumista heidän marssiessa kohti ensimmäisen maailmansodan rintamia. Vertaa saman sodan rintamalta saapuneiden sotilaiden ilmeitä ennen ja jälkeen: muutos on suuri.
 

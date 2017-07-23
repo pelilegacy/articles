@@ -114,4 +114,4 @@ Haluaisitko sinä auttaa meitä seuraavan tapahtuman järjestämisessä? Lähet�
 
 Haaveenamme on järjestää #GameOUT-tapahtumia ainakin muutaman kerran vuodessa. Tulemme hiomaan konseptia kiinnostavampaan suuntaan ottamalla mukaan enemmän vieraita niin haastateltaviksi kuin pelaajiksi sekä pyrimme järjestämään sijainnin siten, että sinne on mielekästä tulla myös paikan päälle vierailemaan ja katsomaan mitä kulisseissa tapahtuu. Ehkä järjestämme samalla joitain turnauksia, joita voi seurata myös verkossa. Hankkiudu siis mukaan toimintaamme!
 
-[pullquote]GameON, GameOUT![/pullquote]
+<div class="pullquote">GameON, GameOUT!</div>

@@ -37,7 +37,7 @@ _Running Beer_ sijoittuu dystooppiseen tulevaisuuteen, jossa ikävien käänteid
 
 Kieltolain astuessa voimaan Ykä päättää toimia ja haalia jokaisesta kaupasta vähintään 24 olutta, jotka on yksitellen siirrettävä taskuun kylmäkaapista. Olisihan perinteisen 24-pakkauksen mukaan kaappaaminen turhan helppoa. Toisinaan Ykän ahneus kostautuu, sillä 250 oluen anastamisen jälkeen luoviminen marketin käytävillä osoittautui verrattain vaivalloiseksi.
 
-[pullquote]“Sekä My Summer Car että Running Beer ovat parodiaan verhottuja rosoisia vastalauseita salonkikelpoiseksi harjatulle Suomi-brändille.”[/pullquote]
+<div class="pullquote">“Sekä My Summer Car että Running Beer ovat parodiaan verhottuja rosoisia vastalauseita salonkikelpoiseksi harjatulle Suomi-brändille.”</div>
 
 Taustatarinan lupaama vastarintaliike jää vielä toistaiseksi sanojen asteelle, sillä Ykä työskentelee yksin. Vaihtelevin ominaisuuksin varustetut pelihahmot ja kahden tai useamman pelaajan yhteistyöpeli toisivat peliin runsaasti lisää sisältöä. Entä missä ovat markettien ulkopuolella ja tuulikaapeissa notkuvat alkoholia pummaavat teinit?
 
@@ -57,7 +57,7 @@ Tässä vaiheessa pelin kehityskaarta vartijat eivät vielä välitä heidän ta
 
 Vartijat todellakin ovat arvaamattomia ja toisinaan löytävät Ykän jo pakoreitin ensimmäisen hyllyn takaa kun taas toisinaan Ykä saa rauhassa kävellä porteista ulos vartijan jäädessä jumiin alennuskahvilla täytettyjen ostoskärryjen taakse. Halvan kahvin ja pelikoneiden perässä kauppaan tulleet vanhemmat rouvashenkilöt saa pois tieltä riemastuttavan epäkorrektein keinoin kumoon potkimalla. Voipa jähmettyneillä mummoilla pelata jopa jalkapalloa, jos mieli tekee. Toistan, älä kokeile tätä oikeassa kaupassa.
 
-[pullquote]“Running Beer painottaa jo alkuteksteissään vastuullisuutta: älä kokeile tätä oikeassa kaupassa.”[/pullquote]
+<div class="pullquote">“Running Beer painottaa jo alkuteksteissään vastuullisuutta: älä kokeile tätä oikeassa kaupassa.”</div>
 
 Running Beerin juoksukaljaharrastus ei kuitenkaan ole mitään puistossa kävelyä tiukasta aikarajasta johtuen, mikä lisää haastetta erityisesti hiiviskelyä painottavassa pelityylissä. Siksi aikaraja olisikin hyvä olla kytkettävissä pois asetuksista tai käytössä vain omassa pelimuodossa. Lisäksi pelin aikana käänneltävä kamerakulma auttaisi paon suunnittelussa ja toteutuksessa, sillä nyt onnistuneet juoksukaljat jäävät pitkälti arvailujen varaan.
 

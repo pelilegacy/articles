@@ -61,7 +61,7 @@ Katso sunnuntain ratoksi intensiivinen pilkkihetkemme tai lue haastattelun parha
 
 – Fysiikoiden puolesta kaloissa on _ragdoll_-animaatiot, siima käyttäytyy vedessä realistisesti, veden vastukset otetaan huomioon ja sää vaikuttaa pelaamiseen kerryttämällä esimerkiksi sohjoa avantoon.
 
-[pullquote]Miten paljon kaksi saman genren peliä eroavat toisistaan riippuu vähän teemoista, mutta olemme tässä lähteneet siitä näkökulmasta, että yritetään ottaa globaalimpi ja modernimpi asenne kehitykseen.[/pullquote]
+<div class="pullquote">Miten paljon kaksi saman genren peliä eroavat toisistaan riippuu vähän teemoista, mutta olemme tässä lähteneet siitä näkökulmasta, että yritetään ottaa globaalimpi ja modernimpi asenne kehitykseen.</div>
 
 **Paljon yksityiskohtia. Se mikä itseäni positiivisesti yllätti oli, että jäätä pitää avannon pinnasta poistaa kauhan avulla.**
 
@@ -107,7 +107,7 @@ Katso sunnuntain ratoksi intensiivinen pilkkihetkemme tai lue haastattelun parha
 
 **LL:** Ehkä niin suuria liikkeitä ei tarvitse kuitenkaan tehdä.
 
-[pullquote]Virtuaalitodellisuuslaitteet ovat tätä päivää, ja pelistähän olemme kehittämässä myös mobiiliversiota, missä kalastus toimii laitetta heiluttelemalla.[/pullquote]
+<div class="pullquote">Virtuaalitodellisuuslaitteet ovat tätä päivää, ja pelistähän olemme kehittämässä myös mobiiliversiota, missä kalastus toimii laitetta heiluttelemalla.</div>
 
 **Pelissä on jo tuki Xboxin ja Steamin omille ohjaimille?**
 

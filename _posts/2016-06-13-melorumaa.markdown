@@ -33,7 +33,7 @@ Miten tämä luottamus luodaan? Se alkaa ennen mainoksen katsomista, levittämis
 
 Kun mainos on saatu haluttujen silmien eteen, trailerin suunnitelmallinen luonne korostuu. Mainostajan silmissä hyvässä trailerissa on omanlaisensa narratiivinen koukku, rakenteellisia käänteitä sekä ennen kaikkea taustalla jatkuvasti pauhaava ja katsojan pulssin nostattamiseen pyrkivä musiikki, joka toimiessaan vapauttaa hänessä juuri oikean määrän endorfiineja positiivisen assosiaation muodostamiseksi mainostettavaan tuotteeseen.
 
-[pullquote]Yksityisyydensuoja on sosiaalisen median aikakaudella kaukainen fantasia[/pullquote]
+<div class="pullquote">Yksityisyydensuoja on sosiaalisen median aikakaudella kaukainen fantasia</div>
 
 En näe ongelmaa tällaisen kanssa. Yksityisyydensuoja on sosiaalisen median aikakaudella kaukainen fantasia kaikille paitsi sen ulkopuolisille, ja näitä ohjenuoria noudattaessaan mainosfirmat päätyvät usein luomaan jotain, mikä tuottaa katsojalle mielihyvän tunteen, oli se kuinka hetkellistä tahansa. Ongelma tulee vasta, kun mainokseen tuodaan yksi elementti lisää: yritys tehdä siitä jotain muuta.
 
@@ -59,7 +59,7 @@ Ongelma molemmissa trailereissa kuitenkin on se, että ne nähdään videopeliha
 
 Videopelikulttuuri yleensäkin on iljettäviä _niche_-soppia täynnä aina MRA-siivestä siihen porukkaan, jonka mielestä jokainen veljellinen naljailu suosikkipodcastissa on osoitus siitä, miten sen pitäjät vihaavat toisiaan. Oma lukunsa ovat ne miljoonat ihmiset, jotka ovat kohottaneet trailerit jollekin uudelle tasolle, jossa niiden kuvitellaan oikeasti näyttävän jotain pelistä.
 
-[pullquote]Mainostaja ei välitä siitä, näkyykö peliä trailerissa lainkaan.[/pullquote]
+<div class="pullquote">Mainostaja ei välitä siitä, näkyykö peliä trailerissa lainkaan.</div>
 
 Trailerit ovat mainoksia ja niiden tarkoitus on luoda positiivisia assosiaatioita tuotteeseen ostohalua kasvattaen. Jos siinä sivussa katsoja näkee edes vilauksen varsinaisesta pelistä, kivat hänelle. Mainostaja ei siitä välitä.
 

@@ -39,7 +39,7 @@ Tekijät itse vertaavat Feistin visuaalista tyyliä **Jim Hensonin** ja **Frank
 
 Tasoloikkapelien totuttuja sääntöjä uhmaten Feist ei sisällä tavaroiden poimimista, pisteiden keruuta, hahmonkehitystä taikka piilossa olevien onkaloiden tutkimista. Olennaisesti Feistin sydämessä on päähahmon uskalias pako sieppaajiltaan, jossa pelaajan fyysinen riittämättömyys tuottaa osaltaan selviytymispeleistä tuttuja jännittäviä reaktioita. Metsän isommat diabolisesti hehkuvia silmiä pimeydestä väläyttelevät peikot nimittäin heittelevät pelaajaa käsiin saatuaan estoitta ympäri läänin aina naapuripitäjälle asti. Erikoismainintana pelille on annettava tunnustusta vastustajien toimivasta tekoälystä, sillä yhdestäkään ei ole mahdollista päästä keinottelemalla ohitse, vaan maastoa itsessään tai siellä täällä lojuvaa irtaimistoa on käytettävä hyödykseen.
 
-[pullquote]“Leikittely fysiikoilla on ensimmäinen havaittava ja samalla suurin osuus Feistin viehätyksestä.”[/pullquote]
+<div class="pullquote">“Leikittely fysiikoilla on ensimmäinen havaittava ja samalla suurin osuus Feistin viehätyksestä.”</div>
 
 Toiminnallisempi lähestymistapa on virkistävä poikkeus jopa ylitarjonnaksi asti pursuavien puzzle-seikkailujen lomassa. Toki laatikoita raahataan Feistissäkin, mutta vain korkeammalle kiivetäkseen.
 

@@ -48,7 +48,7 @@ https://twitter.com/VoteBunnyLord/status/617777480590491649
 
 https://twitter.com/VoteBunnyLord/status/607199772567420928
 
-[pullquote]Not a Heron ilmeisin satiirin kohde on poliittinen kampanjointi[/pullquote]
+<div class="pullquote">Not a Heron ilmeisin satiirin kohde on poliittinen kampanjointi</div>
 
 Sanojen lisäksi tarvitaan myös konkreettisia tekoja ja tällöin BunnyLord on valmis lähettämään entisen salamurhaajan ja nykyisen kampanjapäällikkönsä **Steven** avustajineen siivoamaan kaupunkia. Rikolliset tietenkin ovat pääosin ulkomaalaisia -- venäläisiä ja japanilaisia.
 

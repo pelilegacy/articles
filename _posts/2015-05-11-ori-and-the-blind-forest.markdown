@@ -49,7 +49,7 @@ Niin graafisesti kuin audiovisuaalisestikin _Ori and the Blind Forest_ uppoaa al
 
 Mainitsinko jo äänisuunnittelun? Nyt mainitsen, sillä se on absoluuttista karkkia korville! Välillä unohduin jo pelkästään alkuvalikkoon vain kuunnellakseni alun ääniraitaa edes hetken pidempään. Moon Studios onkin ottanut musiikin vahvaksi osaksi tunnelman luomista, ja lopputulos on erittäin vakuuttava. Ovathan musiikki ja äänimaailma liian usein allekirjoittaneen mielestä aliarvostettuja aspekteja tämän päivän pelisuunnittelussa.
 
-[pullquote]“Moon Studios rekrytoikin monilahjakkuuksia, joilla on ylitsepursuava intohimo luoda jotain sellaista kuin Ori and the Blind Forest.”[/pullquote]
+<div class="pullquote">“Moon Studios rekrytoikin monilahjakkuuksia, joilla on ylitsepursuava intohimo luoda jotain sellaista kuin Ori and the Blind Forest.”</div>
 
 Hyvänä esimerkkinä onnistuneesta äänisuunnittelusta toimii kullakin alueella soiva pelin teemaan ja tyyliin sopiva musiikki, joka vahvistaa alueen tunnelmaa. Varsinaisia isoja vastuksia pelissä ei ole, vaan lähimpänä tällaisia ovat kohdat, joissa kiivetään pakoon nousevaa vettä, juostaan pakoon laavaa tai vältellään vihamielistä huuhkajaa. Näissä kohtauksissa musiikki tempaa mukaansa virittäen pelaajan lähes täydellisesti tunnelmaan -- “Nyt täytyy tsempata, nyt mennään, nyt mennään!” Kuoleminenkaan harvoin näissä tapauksissa pistää tuhisemaan kun fiilis on saatu sopivaksi -- sitä vain haluaa yrittää uudestaan entistä paremmin tuloksin.
 

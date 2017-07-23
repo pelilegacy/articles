@@ -60,7 +60,7 @@ Monotoninen ja tylsän väritön maailma puhuttelee Paulin sisintä, vaikka sen 
 
 Visuaalinen esitystapa lisää sekavuudellaan pelin haastavuutta, sillä esimerkiksi metsiin sijoittuvissa osuuksissa voi omaa sijaintiaan vain arvailla. Pauli pettyy siitä, ettei pelin metsissä voi kulkea alasti juomassa kiljua pääkallosta.
 
-[pullquote]“Hatred on harmaasävyllä käsitelty aikuisten Cookie Clicker”[/pullquote]
+<div class="pullquote">“Hatred on harmaasävyllä käsitelty aikuisten Cookie Clicker”</div>
 
 Kuolema _Hatredissa_ ei koita usein, mutta se on aina kivulias. Ellei mukanaan kanna harvinaista toteemia, joka palauttaa hahmon henkiin kuolinpaikan lähistölle, on taso aloitettava täysin alusta. Kun tämän yhdistää pelin heikon pelattavuuden ja haastavan visuaalisen suunnittelun kanssa, voi kuulla kuinka Pauli raivoissaan pureksii maastokuvioiduista reisitaskuhousuistaan roikkuvia metalliketjuja.
 
@@ -84,7 +84,7 @@ Jos pelin pitäisi kantaa puhtaan shokkiarvon voimalla, tarvitsee katsoa vain di
 
 _Hatredin_ harmaus ulottuu syvälle pelin rakenteisiin saakka tehden pelistä jo ensimetreiltä mitäänsanomattoman, mutta myös turhauttavan kokemuksen.
 
-[pullquote]“Hatred ei ole tyylikäs saati humoristinen, vaan vesitetty versio Grand Theft Auto -pelien tehtävien ohella harrastettavasta murhasimulaatiosta varustettuna ylimääräisellä annoksella korniutta.”[/pullquote]
+<div class="pullquote">“Hatred ei ole tyylikäs saati humoristinen, vaan vesitetty versio Grand Theft Auto -pelien tehtävien ohella harrastettavasta murhasimulaatiosta varustettuna ylimääräisellä annoksella korniutta.”</div>
 
 Osa ostanee _Hatredin_ osoittaakseen vastustusta nk. kukkahattutädeille. En tuomitse heitä, vaikka heille jääkin käteen vain nahat tekijöiden halvasta mediaspektaakkelista ja jopa lajityypin faneille keskinkertaisesta toimintapelistä.
 

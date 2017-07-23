@@ -64,7 +64,7 @@ Peli Legacy päätti haastatella suorassa lähetyksessä SIEIDIn toimitusjohtaja
 
 – Miksipä ei. Riippuu siitä, että millaisen vastaanoton tämä peli saa seuraavien kuukausien aikana ja jälkeen sekä mitkä asiat kiinnostavat pelissä. Ideoita on ja viikinkitarinoista löytyy ammennettavaa, minkä seurauksena _Gunnheim_ voisi muuttua erilaisiksi peleiksi – se jää nähtäväksi. Lisäsisällön osalta emme julkaise erillisiä DLC:tä, vaan jos pelin on ostanut niin kaiken sisällön saa heti käyttöönsä.
 
-[pullquote]“Todellinen viikinki tietenkin ratsastaisi taisteluun ydinohjuksen selässä muinaisnorjaa huutaen ja selviäisi kertomaan siitä vielä jälkipolville.”[/pullquote]
+<div class="pullquote">“Todellinen viikinki tietenkin ratsastaisi taisteluun ydinohjuksen selässä muinaisnorjaa huutaen ja selviäisi kertomaan siitä vielä jälkipolville.”</div>
 
 **Peliä esiteltiin ensimmäisen kerran julkisuudessa tämän vuoden alussa. Miten pelinkehitys on sujunut? Erityisesti mikä on ollut haastavinta prosessissa?**
 

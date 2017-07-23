@@ -41,7 +41,7 @@ Vahvalla sanomalla varustetussa pelissä pelaaja asetetaan Eurooppaan ihmisiä t
 
 Merimatkalla useat matkustajasi kuolevat myrskyssä, ellei juomavesi lopu tai rannikkovartiosto ota kiinni ensin. Passengers on pohjimmiltaan peli, jossa tasapainoilet riskin ottamisen ja rahan tekemisen välillä, mutta pelaajan toimiminen eräänlaisena tuomarina on kenties pelin vakuuttavin asia. Jokaisen matkustajan osalta kerrotaan nimen lisäksi, taustat, mahdolliset perhesuhteet ja määränpää. Näiden tietojen valossa pelaajan on päätettävä ketä ottaa mukaan, millä hinnalla ja ketä lopulta jättää rannalle.
 
-[pullquote]“Passengersin luoneet Francois Alliot ja Arnaud De Bock haluavat pelillään muistuttaa meitä, että poliittisen keskustelun vaahdotessa puolin ja toisin ihmisiä kuolee jatkuvasti.”[/pullquote]
+<div class="pullquote">“Passengersin luoneet Francois Alliot ja Arnaud De Bock haluavat pelillään muistuttaa meitä, että poliittisen keskustelun vaahdotessa puolin ja toisin ihmisiä kuolee jatkuvasti.”</div>
 
 Päädyin ottamaan mahdollisimman paljon ihmisiä mukaan kalliilla pääsymaksulla, mikä johti juomaveden loppumiseen ja siihen, että yli puolet matkustajista kuoli matkalla. Paluumatkalla rannikkovartiosto vei kaikki rahani -- ansaitsin tämän opetuksen.
 

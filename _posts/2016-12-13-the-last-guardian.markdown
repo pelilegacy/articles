@@ -1,29 +1,17 @@
 ---
 author: vierastalo
-comments: true
 date: 2016-12-13 15:35:49+00:00
 excerpt: Miksi ihme-eläin Tricoon on vaikea samaistua?
 cover:
     src: https://www.pelilegacy.fi/wp-content/uploads/2016/12/the_last_guardian.jpg
     alt: The Last Guardian
 layout: post
-link: https://www.pelilegacy.fi/hitaat/3149/the-last-guardian
-slug: the-last-guardian
 title: The Last Guardian ei kannusta empatiaan
-wordpress_id: 3149
 categories:
 - Hitaat
-tags:
-- Empatia
-- Fumito Ueda
-- ICO
-- Pelikritiikki
-- Playstation 4
-- Shadow of the Colossus
-- Sony
 ---
 
-**Miten koira koulutetaan?**
+_Miten koira koulutetaan?_
 
 Tähän kysymykseen **Fumito Uedan** genDESIGN-firman yhdeksän vuotta kehitteillä ollut [_The Last Guardian_](https://www.playstation.com/fi-fi/games/the-last-guardian-ps4/) pyrkii vastaamaan. Vastaushan on moisen tehtävän suorittaneelle jo tiedossa; luomalla eläimelle positiivisia assosiaatioita koulutettaviin tekoihin, vaikka sitten namuja antamalla suoritusten yhteydessä.
 
@@ -35,17 +23,13 @@ Olet valmis lähtemään seikkailulle Tricon kanssa. Jatkuvasti vaikeammiksi muu
 
 Ongelma lähtee liikkeelle pelin rakenteesta. _The Last Guardianin_ tarina on käytännössä vankilapako. Autat eläintä, eläin auttaa sinua, ja yhdessä navigoitte läpi haastavien tilanteiden. Lepotaukoja ei liiemmin tarjota. Vaikka pelaaja ohjaa pikkupoikaa, hän on kuitenkin pelaaja, tapahtumien ulkopuolinen vaikuttaja. Tricoon ei täten synny tunnesidettä yhdessä koettujen tilanteiden kautta, koska tilanteet ovat kaikki sellaisia, joissa tehdään yhteistyötä vain, jotta kumpikaan ei kuolisi. Epäonnistumisen paras seuraus olisi, että eloonjäävä osapuoli lusisi loppuelämänsä tämän julmetun komean vankilakompleksin sisällä.
 
-
-
 Juttu jatkuu videon jälkeen.
 
+<div class="embed">
+    <iframe src="https://www.youtube.com/embed/4cDuKShhQOA" frameborder="0" allowfullscreen></iframe>
+</div>
 
-
-https://www.youtube.com/watch?v=4cDuKShhQOA
-
-
-
-**Tämän ulkopuolisuuden kautta** peli myös korostaa sitä, miten mekaaninen prosessi villieläimen kouluttaminen on. Pikkupojan hyödyllisyys Tricolle osoitetaan videopeleille ominaisesti toiston kautta. Keihäitä siitä irrotetaan läpi pelin. Ruokaa sisältäviä tynnyreitä saa kaivella maastosta joka käänteessä. Toisinaan ne ovat tarpeellisia, sillä Trico ei suostu liikkumaan ilman ruokaa, mutta useammin siinä on kyse jostain muusta -- eläimen muistin virkistämisestä. Ethän haluaisi eläimen unohtavan, mikä käsi sitä ruokkii.
+Tämän ulkopuolisuuden kautta peli myös korostaa sitä, miten mekaaninen prosessi villieläimen kouluttaminen on. Pikkupojan hyödyllisyys Tricolle osoitetaan videopeleille ominaisesti toiston kautta. Keihäitä siitä irrotetaan läpi pelin. Ruokaa sisältäviä tynnyreitä saa kaivella maastosta joka käänteessä. Toisinaan ne ovat tarpeellisia, sillä Trico ei suostu liikkumaan ilman ruokaa, mutta useammin siinä on kyse jostain muusta -- eläimen muistin virkistämisestä. Ethän haluaisi eläimen unohtavan, mikä käsi sitä ruokkii.
 
 <div class="pullquote">Tricon kouluttamisen motiivi ei ole rakkaudenkaipuu vaan se on hyöty.</div>
 

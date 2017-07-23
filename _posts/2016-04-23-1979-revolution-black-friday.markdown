@@ -49,7 +49,7 @@ Realisminsa turvin _1979 Revolution_ pyrkii nousemaan muiden saman tyylisuunnan 
 
 Kuvat tunnetusti ilmaisevat asiat tekstiä voimakkaammin: valokuvat näyttävät, miten iranilaiset joutuivat jonottamaan kadulla polttoainetta tai kuinka lääkärit hoitivat mellakoissa haavoittuneita ihmisiä. Shirazin perheen kotoa löytyvät vuosina 1940–79 kuvatut oikeat kotivideot tuovat suttuisuudestaan huolimatta lisää syvyyttä hahmoihin ja saavat niin ikään hetkeksi pysähtymään. Todellisten tapahtumien virtaaminen pelin sisälle on aina kiehtovaa ja juuri edellä mainituista asioista on havaittavissa _1979 Revolutionin_ fokus.
 
-[pullquote]National Foundation for Computer Games on varoittanut iranilaisia perheitä ostamasta peliä, sillä se voisi pahimmassa tapauksessa turmella nuorison mielen[/pullquote]
+<div class="pullquote">National Foundation for Computer Games on varoittanut iranilaisia perheitä ostamasta peliä, sillä se voisi pahimmassa tapauksessa turmella nuorison mielen</div>
 
 Kaltaiselleni vieraista kulttuureista innostuneelle tavattoman suuri kiinnostuksen kohde on myös pelissä esitelty iranilainen Taarof-etiketti, jonka mukaan tarjotusta asiasta tai palveluksesta tulisi ensin kieltäytyä kohteliaasti kolme kertaa ennen hyväksymistä. Löytyypä erään tapahtumapaikan seiniltä myös yksityiskohtainen ohje islamilaisen rukoushetken suorittamiseen.
 

@@ -37,7 +37,7 @@ Kuten roolipeleissä yleensä, pelaaja valitsee tien oman pelityylinsä mukaises
 
 Kritiikin näkökulmasta Civilization on mekaniikoillaan alleviivannut useita tälläkin hetkellä Maassa esiintyviä ongelmia, kuten liikakansoitus, saasteet, ilmastonmuutos ja terrorismi. Muutto uudelle planeetalle siirtää merkitykset harmittavasti varjoon. Beyond Earth kuvastaa huomattavasti enemmän ihmiskunnan ponnistelua luontoa vastaan kuin sen sisäisiä konflikteja. Muut sivilisaatiot ovat edelleen kilpailemassa pelaajan kanssa voitoista, mutta muun sisältönsä ohella ne jäävät laihoiksi. Nämä sivilisaatiot eivät enää edusta valtioita tai kansallisuuksia, vaan monikansallisia ryhmittymiä. Ryhmittymissä on mielenkiintoisia ja tämän päivän yhteiskunnallisia arvoja peilaavia piirteitä, kuten amerikkalaisen kapitalismin puolesta liputtava ARC tai **Vladimir Putininkin** kaavailema uusi Neuvostoliitto Slaavisen federaation muodossa. Valitettavasti pelimekaniikassa tämä näkyy lähinnä eri suuntausten seuraamisena, jolloin lupaava alkuasetelma hukataan.
 
-[pullquote]Siinä missä historia, sen tutkimus ja muokkaaminen olivat avaintekijöitä sarjan aiemmissa osissa, on Beyond Earth puhtaasti tieteispeli.[/pullquote]
+<div class="pullquote">Siinä missä historia, sen tutkimus ja muokkaaminen olivat avaintekijöitä sarjan aiemmissa osissa, on Beyond Earth puhtaasti tieteispeli.</div>
 
 Erikoisesti Beyond Earth kertoo alussa asumiskelvottomaksi tehdystä Maasta, mutta jo ensimmäiset askeleet uudella planeetalla kulkevat pitkälti teollisen ja saastuttavan kehityksen polkua. Ettekö te ihmiset oppineet muutamassa tuhannessa vuodessa mitään, kun alatte välittömästi sahaamaan oksaa altanne?
 
@@ -51,7 +51,7 @@ Uuden teknologian kehittäminen ei Beyond Earthissa etene enää lineaarisesti v
 
 Oman suuntautumisen seuraaminen kannattaakin, sillä helpoin tapa voittaa peli on tutkia mahdollisimman nopeasti juuri ne teknologiat, jotka vievät oman ideologian voittoon. Muita voittoja pelissä ovat perinteinen valloitusvoitto, jossa valtaat muiden sivilisaatioiden pääkaupungit sekä kontaktivoitto, jossa muodostat rauhanomaisen yhteyden vieraan rodun kanssa ennen muita.
 
-[pullquote]Sarjan aiemmissa osissa johtajilla oli selkeä historiallinen konteksti, jota ei enää Beyond Earthissa ole.[/pullquote]
+<div class="pullquote">Sarjan aiemmissa osissa johtajilla oli selkeä historiallinen konteksti, jota ei enää Beyond Earthissa ole.</div>
 
 Ihmiskunnan uusi koti tähtien tuolla puolen on kaikessa kosteudessa ja synkkyydessään kaukana luvatun maan makeasta paratiisista, kuten vieraalta planeetalta voi odottaakin. Ratkaisu miellyttää enemmän kuin **Christopher Nolanin** _Interstellarissa_ esiintyneet vesi- ja jääplaneetat, jotka Civilizationin mekaniikat tuntien olisivat joka tapauksessa aiheuttaneet enemmän mieliharmia kuin mielihyvää. Vihertävät metsät ja suot kutsuvat pelaajaa lähettämään joukkonsa niiden joutuessa liian usein kiertämään vieraan planeetan terveyttä verottavaa _miasmaa_ uuden reitin toivossa. Esiluodun kartan myötä havaitsin toistuvasti joutuvani umpikujaan, jolloin tutkijoiden oli löydettävä toinen reitti. Onneksi merelle pääsee yhä, joskin siellä on varottava valtavia tursaita, jotka kirjaimellisesti tuhoavat yksiköitä yhdellä iskulla.
 
@@ -67,7 +67,7 @@ Civilization ei enää sarjan viidennessä osassa tukenut sotilasyksiköiden pin
 
 Beyond Earthia kohtaan olen hämmentävän kriittinen vaikka kyseessä on eräs suosikkipelisarjoistani kautta aikain. Valitettava totuus kuitenkin on, ettei pelistä paista sama ideoiden kunnianhimoisuus, joka oli vahvasti esillä Alpha Centaurissa. Peli tuntuukin monessa suhteessa enemmän modilta kuin sarjan arvoiselta itsenäiseltä peliltä. Se ei ole väärä tie kulkea, sillä Civilizationin ydinmekaniikoissa ei yksinkertaisesti ole mitään moitittavaa. Tämäkin peli koukuttaa yhden session aikana pelaamaan yli sata vuoroa kerralla. On kuitenkin tarpeen kyseenalaistaa Beyond Earthin merkitys sarjan kannalta, sillä Brave New Worldin tapaan sen omaksuu parhaiten laajennuksena.
 
-[pullquote]Uudistuksilla Beyond Earth hakee kunnianhimoisesti paikkaa painottamalla enemmän kerronnallisia ja roolipelimäisiä elementtejä.[/pullquote]
+<div class="pullquote">Uudistuksilla Beyond Earth hakee kunnianhimoisesti paikkaa painottamalla enemmän kerronnallisia ja roolipelimäisiä elementtejä.</div>
 
 Kaikin puolin erinomaisen Civilization V:n jälkeen ei Beyond Earth kehitä saati pilaa sarjaa, mutta panokset tuleviin osiin kasvavat edelleen. Voiko näin laajamittaiseen strategiapeliin upottaa rohkeasti Beyond Earthin raapaisemia roolipelimäisiä ja kerronnallisia elementtejä entistä syvemmin? Haluaisin ja odotankin näkeväni sitä enemmän Civilization VI:ssa.
 

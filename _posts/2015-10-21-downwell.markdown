@@ -49,7 +49,7 @@ Myös _Downwellissa_ kuolema on vain pieni este matkalla suuruuteen: ohjainta on
 
 Nopeasti silkalta visuaaliselta sokerilta tuntuvien väripalettien käytöllä on selkeä vaikutus onnistumiseen. Jos haluat selkeästi havaita vihollisten osumakohdat ja jalokivet, valitse kirkkaan sävyinen väripaletti. Jos taas kaipaat enemmän haastetta, sitä tarjoaa täysin yksibittinen paletti, joka esittää pelin vain mustana ja valkoisena – välissä ei ole pikseliäkään harmaata. Välimuotojakin löytyy ja suosittelen käymään ne kaikki lävitse omaan silmään parhaan yhdistelmän löytämiseksi.
 
-[pullquote]Downwellissa et koe kahta samanlaista pudotusta.[/pullquote]
+<div class="pullquote">Downwellissa et koe kahta samanlaista pudotusta.</div>
 
 Visuaalinen suunnittelu ei korostu ainoastaan väripaleteissa, sillä _Downwell_ ilmaisee hienosti eri väreillä tuleeko vihollisen päälle hypätä vai tuleeko tätä ampua. Oletuspaletilla valkoisia vihollisia kannattaa talloa, kun taas punaisia on viisain ampua jo etäältä.
 

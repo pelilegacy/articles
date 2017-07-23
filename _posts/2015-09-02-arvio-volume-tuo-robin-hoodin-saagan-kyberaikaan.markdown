@@ -34,7 +34,7 @@ Näin oli myös alun perin vuonna 2010 Flash-pelinä, ja sittemmin PC:lle sekä 
 
 Elokuussa ilmestynyt _Volume_ on vahvasti Bithellin näköinen peli toimien selkeänä jatkumona _Thomas Was Alonelle_. Teemoillaan _Volume_ kertoo akuutiksi paisuneen eriarvoisuuden, luokkajaon ja tuloerojen uuvuttamasta englantilaisesta korporatokratiasta kohdistaen samalla ivansa modernin ihmisen digitaalista elämäntapaa kohtaan.
 
-[pullquote]“Bithell on mies, joka ympäristöään havainnoivan pelinkehittäjän tavoin mielellään upottaa sanomansa pelin sisälle kätkien sen samalla houkuttavan minimalistisiin tyyliratkaisuihin.”[/pullquote]
+<div class="pullquote">“Bithell on mies, joka ympäristöään havainnoivan pelinkehittäjän tavoin mielellään upottaa sanomansa pelin sisälle kätkien sen samalla houkuttavan minimalistisiin tyyliratkaisuihin.”</div>
 
 Taustatarina on hahmojen nimiä myöten uusintaa Robin Hoodin saagasta, mutta _Volume_ on imenyt vaikutteita selkeästi myös sarjakuvakäsikirjoittaja **Alan Mooren** _V for Vendetta_ -sarjakuvasta.
 
@@ -54,7 +54,7 @@ Kun pelaaja on saanut kouransa tukevasti ohjaimen ympärille, ei _Volumea_ voi k
 
 Sopivan lyhytkestoiset tasot tarjoavat muodollista vaihtelua, joskin on myönnettävä, että lineaarisuus muodostuu rasitteeksi. Sen sijaan, että pelaajan sallittaisiin kehitellä omia ratkaisuja vartijoiden ohittamiseen, opitaan ainoa oikea reitti usein yrityksen ja erehdyksen kautta. Tasoissa on tarjolla erilaisia apuvälineitä, joista ensimmäiset synnyttävät vartijoita harhauttavia ääniä ja viimeiset tarjoavat hieman tehokkaampaa suojaa esimerkiksi äänettömällä juoksemisella.
 
-[pullquote]“Ansionsa mukaan saavat erityisesti Twitch-striimaajien sekä YouTube-videontekijöiden egomaanisuus ja ahnas katsojalukujen tavoittelu.”[/pullquote]
+<div class="pullquote">“Ansionsa mukaan saavat erityisesti Twitch-striimaajien sekä YouTube-videontekijöiden egomaanisuus ja ahnas katsojalukujen tavoittelu.”</div>
 
 Maltillisesti kasvavan vaikeustason ansiosta tasot käyvät hermoille vasta loppusuoralla, joita tasapainotetaan ehkäpä liiaksi vartijoita hetkeksi tainnuttavalla Blackjack-aseella tai näkymättömyydellä. Mutta miksi käyttää aseita hiiviskelypelissä, kun tyylilajin peleissä eteneminen kuuluu mitata älyllä raa’an voiman sijaan?
 

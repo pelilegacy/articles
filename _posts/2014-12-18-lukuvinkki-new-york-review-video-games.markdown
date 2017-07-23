@@ -20,7 +20,7 @@ Yhdysvaltalainen [Matter-lehti](https://medium.com/matter) tuottaa verkkoon täm
 
 Juttusarjassa käsitellään pelejä tavallisesta poikkeavasta näkökulmasta muun muassa esseiden, arvioiden ja podcastien kautta. Alla on tärpit tähän mennessä julkaistuista kirjoituksista.
 
-[pullquote]Lue ja vaikutu[/pullquote]
+<div class="pullquote">Lue ja vaikutu</div>
 
 [Simon Parkin](https://medium.com/matter/achievement-points-you-cant-take-em-with-you-75ed6ea70e5b) kirjoitti saavutusten merkityksestä pelisuunnittelussa. Suuri osa pelien viehätyksestä tulee edistymisen seurannan kautta, oli kyseessä sitten _rankkauksen_ nostaminen Counter-Strikessa tai saavutusten avaaminen Xboxilla. Menestyminen virtuaalimaailmassa on Parkinin mukaan lähes yhtä tyydyttävää kuin oikeassa elämässä, ja pelit tarjoavat helpon tavan tuntea itsensä voittajaksi.
 

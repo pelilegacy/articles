@@ -34,7 +34,7 @@ tags:
 
 Aiempina vuosina kovin tuottoisan toys-to-life -genren yllättävä epäonnistuminen johtuu Disneyn kohdalla monesta asiasta. Viime vuonna, merkittävän uuden pelurin ilmestyessä markkinoille _Lego Dimensionsin _muodossa, koko genren liikevaihto [kasvoi vain seitsemän prosenttia](http://www.gamesindustry.biz/articles/2016-04-21-toys-to-life-grew-7-percent-in-2015-will-shrink-in-2016-npd). Useampi tekijä (_Disney, Activisionin Skylanders, Nintendon Amiibo sekä Lego_) taistelivat siis samankokoisena pysyneen yleisön huomion säilyttämisestä. Disney oli kuitenkin varautunut suureen kasvuun, josta kielivät esimerkiksi nyt tyhjän panttina varastoissa istuvat miljoona _Hulk_-figuuria. Firma ottaa pelin ja tuotteiden lakkauttamisesta reilun 147 miljoonan hävikin, mikä on sääli, koska _Infinity _on heittämällä genren peleistä parhaasta päästä.
 
-[pullquote]Infinityllä ei ollut suoraa kohdeyleisöä.[/pullquote]
+<div class="pullquote">Infinityllä ei ollut suoraa kohdeyleisöä.</div>
 
 **_Infinityn_ suurin ongelma oli markkinointi. **_Skylandersit _ilmestyvät aina uusilla hahmoilla, joilla on omat uniikit temppunsa minkä lisäksi tuotteet ovat erittäin vahvasti lapsille suunnattuja markkinoinnin osalta. Legolla on valmiiksi olemassa oleva, tuotteista ja peleistä innostunut, yleisö. Nintendo voisi myydä vaikka lautasellisen paskaa ja _Star Fox_ -paitainen fanipoika olisi ensimmäisenä puolustamassa sen uniikkia ohjausta. _Infinityllä _sen sijaan ei ollut suoraa kohdeyleisöä. Peliä varten julkaistut hahmot _Star Warsista Marveliin _ja sieltä _Disneyn _prinsessoihin sopivat kaikille kohderyhmille eikä tuote koskaan suoraan keskittynyt yhden kohderyhmän houkutteluun. Lapset ei itsessään ole se tehokkain kohderyhmä, jolloin sekä _Marvelin_ että _Star Warsin__ _hahmojen tullessa mukaan sarjan hieman varttuneemmalle kohdeyleisölle oli jo syntynyt mielikuva _Infinitystä_ lastenpelinä.
 
@@ -44,7 +44,7 @@ _**Electronic Arts**_** on toinen firma**, joka ei ole koskaan pelännyt lopetta
 
 Viime vuonna ilmestynyt _Need for Speed_ oli firman kuudes yritys käynnistää viimeiset viisi vuotta kuolemaa tehnyt sarja uudestaan. FMV-välinäytöksillä sarjan alulle kunniaa tehnyt kokonaisuus oli kuitenkin väljä eikä ketään oikeastaan kiinnostanut energiajuomasta pärisevien pyllynaamojen edesottamusten seuraaminen puolivillaisen ajojärjestelmän siivittämänä. [EA ilmoittikin viimeisimmässä sijoittajakokouksessaan](http://www.needforspeed.com/news/under-the-hood-7), että tänä vuonna emme näe uutta sarjan peliä, vaan se etsii jälleen uutta suuntaa.
 
-[pullquote]Franchisen imago on ikuisesti Underground-pelien tahraama.[/pullquote]
+<div class="pullquote">Franchisen imago on ikuisesti Underground-pelien tahraama.</div>
 
 **Uuden suunnan haku ei ole sarjalle vieras asia. **_Need for Speed_ on uudistunut viimeisten kahden konsolisukupolven aikana kolmesti huolimatta siitä, että esimerkiksi _Criterionin _julkaisemat _Most Wanted _ja _Hot Pursuit _saivat erittäin positiivisen vastaanoton. Pelisarjaan tuntuu tiivistyvän hyvin Electronic Artsin perimmäinen ongelma: muutoskyvyttömyys. Siinä missä _Disney Infinity _oli täysin tyhjästä ponnistanut epäonnistuminen, _Need for Speed _ja sen loputtomat uusinnat ovat paikallaan polkevia sellaisia. Vaikka pelimekaniikat välillä muuttuvatkin positiivisempaan suuntaan, franchisen imago on ikuisesti sen _Underground_-pelien tahraama, autonasentaja-ammattikoululaisten villeimpien tuunauskuvitelmien typistymä, vaikka sarjalle tehtäisiin mitä tahansa. Silti EA haluaa maailman tappiin saakka käyttää tätä nimeä ajopeliensä kanssa sen sijaan, että loisi uutta. Tämän päivän EA tuntuu elävän Riccitellon epäonnistumisen varjossa.
 
@@ -52,7 +52,7 @@ Parempi kuitenkin Riccitellon varjossa kuin **Peter Molyneux'n**, kuten _Lionhea
 
 **Miksi lappu sitten laitettiin luukulle?** Huolimatta lukuisista lehdistötilaisuustrailereista ja ilmaisista betavaiheista,_ Fable Legends_ ei ollut sytyttänyt kenenkään maailmaa liekkeihin. Jos _Evolven _kaltainen -- julkaisua edeltävinä kuukausina todella odotettu -- peli epäonnistuu surkeasti julkaisun jälkeen kokonaisuuden laadusta huolimatta, haalean vastaanoton saanut vastaavanlainen sekä epätasaiset joukkueet toisiaan vastaan asettava moninpeli päätyy pakostakin flopiksi.
 
-[pullquote]Microsoft noudatti näitä säännöksiä hampaat irvessä.[/pullquote]
+<div class="pullquote">Microsoft noudatti näitä säännöksiä hampaat irvessä.</div>
 
 **Microsoft kohtasi kuitenkin haasteen _Lionheadin _****sulkemisessa.** Siinä missä yleensä vastaavissa tilanteissa toimittajat saavat tiedotteen sulkemisesta samana päivänä kun firma lopettaa toimintansa, Iso-Britanniassa sijaitseva _Lionhead _oli oikeutettu maansa mukaisiin uudelleentyöllistymismahdollisuuksia parantaviin toimenpiteisiin ennen suoraa sulkemista. Säännöksiä noudatettiin, mutta mahdollisesti hampaat irvessä.
 

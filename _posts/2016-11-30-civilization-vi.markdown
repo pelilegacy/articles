@@ -1,30 +1,16 @@
 ---
 author: anttiy
-comments: true
 date: 2016-11-30 12:00:25+00:00
-excerpt: Antti Ylä-Rakkola pohtii esseessään, kuinka historian esittäminen ja pelisuunnittelu
-  kohtaavat Civilization-pelisarjassa.
+excerpt: Antti Ylä-Rakkola pohtii esseessään, kuinka historian esittäminen ja pelisuunnittelu kohtaavat Civilization-pelisarjassa.
+cover:
+    src: https://www.pelilegacy.fi/wp-content/uploads/2016/11/civilization6.jpg
+    alt: Civilization VI
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/3111/civilization-vi
-slug: civilization-vi
 title: 'Civilization VI: Kuinka historiaa pelillistetään'
-wordpress_id: 3111
 categories:
 - Arvostelut
 - Hitaat
-tags:
-- Civilization
-- Crusader Kings
-- Europa Universalis
-- Firaxis
-- Pelillistäminen
-- Sid Meier
-- Uutuudet
 ---
-
-![Civilization 6](https://www.pelilegacy.fi/wp-content/uploads/2016/11/civilization6.jpg)
-
-[ingressi]Antti Ylä-Rakkola pohtii, kuinka historian esittäminen ja pelisuunnittelu kohtaavat _Civilization _-pelisarjassa.[/ingressi]
 
 Koska pidän historiasta ja strategiapeleistä, jokin _Civilization_-sarjan peleistä ilmaantuu väistämättä koneeni kiintolevylle noin kerran vuodessa anastamaan kymmeniä tai pahassa tapauksessa satoja tunteja elämästäni. Nyt vitsaus on palannut pelisarjan kuudennen osan muodossa. _Civilizationin_ kaltaisia pelejä pelatessa alkaa myös usein miettiä tapoja, joilla esittää historiallisia kehityskulkuja peleissä.
 
@@ -36,11 +22,13 @@ Hallitsija on toki vain symboli; itse en ole ikinä samaistunut **Gandhiin** tai
 
 Amebamaisuuden kääntöpuolena sisäisen valtapolitiikan jännitteitä on hankala esittää pelissä. _Civilizationissa_ se käytännössä häviää. Pelaaja ei voi ikinä hävitä oppositiolle, koska pelaaja muuttuu vallankumouksessa uuden hallinnon edustajaksi. Itse asiassa pelaajan voi tulkita myös oppositioksi, sillä hän käynnistää omasta päätöksestään vallankumoukset ja vaihtaa hallintojärjestelmät. Kaikki, mikä voitaisiin näennäisesti tulkita sisäiseksi konfliktiksi, toteuttaa todellisuudessa pelaajan tahtoa. Koko valtiosta tulee käytännössä pelaajan _avatar_, minkä takia sen historiallinen kehitys tapahtuu ideaalisella johdonmukaisuudella, edistäen vuosituhansien skaalalle asetettuja päämääriä. Tällöin monia hallinnollisia asioita on varaa esittää myös hyvin pintapuolisesti eikä teokratian, fasistisen diktatuurin tai tasavallan johtaminen eroa pelimekaanisesti mitenkään toisistaan. Ne antavat vain erilaisia strategisesti merkittäviä bonuksia pelaajalle.
 
-[caption id="attachment_3122" align="aligncenter" width="1920"]![Civilization VI](https://www.pelilegacy.fi/wp-content/uploads/2016/11/civ6_2.jpg) Ehdotti kansalle teokratiaa tai fasismia, aina kiinnostaa![/caption]
+![Civilization VI](https://www.pelilegacy.fi/wp-content/uploads/2016/11/civ6_2.jpg)
 
-**Huomiona pelisarjan uusimmasta osasta termiä vallankumous ei enää edes käytetä.** Hallinnon vaihtaminen tapahtuu sutjakkaasti yhden vuoron aikana, kun "kansa on innokas kokeilemaan uutta hallintojärjestelmää". Sen sijaan hyppy johonkin aikaisempaan hallintomuotoon saa kolmeksi vuoroksi aikaan anarkian, jolloin resurssien kerääminen ja tuotanto pysähtyvät. Tulkitsen tämän puhtaasti pelisuunnittelulliseksi ratkaisuksi. Hallituksen vaihtoa edeltävä pidempi anarkia nähtiin ehkä liian ärsyttäväksi ja katkaisevan pelin rytmiä. Kuitenkin tuntuu, että _Civilizationissa_ esittäytyvään maailmaan on ylipäätään vaikea tuoda mielekkäästi vallankumouksen kaltaista elementtiä, joka syntyy nimenomaan hallinnon ulkopuolella. Aika näyttää, tuodaanko sisällissotia tai vallankumouksia joskus takaisin pelisarjaan jossain muodossa.
+**Huomiona pelisarjan uusimmasta osasta termiä vallankumous ei enää edes käytetä.**
 
-[pullquote]Pelaajan roolin amebamainen luonne mahdollistaa jatkuvuuden tunteen tilanteissa, joissa esimerkiksi monarkia muuntuu vallankumouksen kautta tasavallaksi.[/pullquote]
+Hallinnon vaihtaminen tapahtuu sutjakkaasti yhden vuoron aikana, kun "kansa on innokas kokeilemaan uutta hallintojärjestelmää". Sen sijaan hyppy johonkin aikaisempaan hallintomuotoon saa kolmeksi vuoroksi aikaan anarkian, jolloin resurssien kerääminen ja tuotanto pysähtyvät. Tulkitsen tämän puhtaasti pelisuunnittelulliseksi ratkaisuksi. Hallituksen vaihtoa edeltävä pidempi anarkia nähtiin ehkä liian ärsyttäväksi ja katkaisevan pelin rytmiä. Kuitenkin tuntuu, että _Civilizationissa_ esittäytyvään maailmaan on ylipäätään vaikea tuoda mielekkäästi vallankumouksen kaltaista elementtiä, joka syntyy nimenomaan hallinnon ulkopuolella. Aika näyttää, tuodaanko sisällissotia tai vallankumouksia joskus takaisin pelisarjaan jossain muodossa.
+
+<div class="pullquote">Pelaajan roolin amebamainen luonne mahdollistaa jatkuvuuden tunteen tilanteissa, joissa esimerkiksi monarkia muuntuu vallankumouksen kautta tasavallaksi.</div>
 
 Aluksi pohtiessani peliä ajattelin sen esittävän läpeensä keskusjohtoista valtiota. Periferiat eivät kamppaile itsehallinto-oikeuksistaan pääkaupungin eliittiä vastaan ja jokaista kaupunkia hallitaan mikrokoossa keskusjohdon toimesta. Valtakunta ei koostu puoliksi itsenäisistä vasalleista, eivätkä kepulaiset maakuntasatraapit juonittele valtionrahoja omiin siltarumpuhankkeisiinsa. Tavallaan tämänkin voi kuitenkin tulkita niin, että pelaaja samaistetaan valtioon kokonaisuudessaan. Kyse ei ole niinkään keskusjohtoisuudesta kuin siitä, että niin yksittäiset pormestarit, linnanherrat kuin pääkaupunkien virkamiehetkin edustavat yhdessä pelaajaa. Valtakunnassa vallitsee yhtenäisyys, jota tuskin on missään valtiossa tai yhteiskunnassa ikinä vallinnut.
 
@@ -50,13 +38,15 @@ Pelaajan asema dynastian puikoissa antaa peliin paitsi roolipelimäisiä piirtei
 
 Ratkaisun takia pelin aikaperspektiivi kuitenkin välttämättä rajoittuu yhteen tiettyyn ajanjaksoon ja yhteiskuntajärjestelmään. Feodaalinen yhteiskunta alkoi väistyä Euroopassa myöhäiskeskiajalta eteenpäin, minkä takia vuosien 1450--1800 tienoille keskittyvässä _Europa Universalis_ -pelisarjassa, eräänlaisessa _Crusader Kingsin_ sisarpelisarjassa, pelataankin sukujen ja dynastioiden sijaan valtioilla. Maantieteellisestikin keskiajan feodalismia mallintava systeemi soveltuu vain rajatusti Euroopan ulkopuolelle. Lähi-Itään ja Intiaan soveltaminen onnistunee suunnilleen -- keisarilliseen virkamiesten hallinnoimaan Kiinaan taas ehkä vähän huonommin. Euroopan kaupunkivaltioitakin on vähän hankala esittää systeemissä, vaikka lisäosa _The Republic_ tuokin kauppatasavallat mukaan peliin.
 
-[caption id="attachment_3123" align="aligncenter" width="1920"]![Civilization VI](https://www.pelilegacy.fi/wp-content/uploads/2016/11/civ6_3.jpg) Civilization VI:n sutjakassa käyttöliittymässä byrokratia ja politiikka hoituu kivalla korttipelillä. Kuten kuvasta näkyy, kunnon kommunisti-imperiumiin kuuluu markkinatalous.[/caption]
+![Civilization VI](https://www.pelilegacy.fi/wp-content/uploads/2016/11/civ6_3.jpg)
 
-**_Civilization_-pelitkin sisältävät feodalismin jossain muodossa.** Ensimmäisessä neljässä osassa kyseessä on teknologia, viidennessä osassa hallintotapa (_Policy_) ja uusimmassa osassa yhteiskunnallinen kehitysaskel kehityspuussa (_Civics_). Sillä ei kuitenkaan käytännössä ole mitään tekemistä hajautetun hallinnon kanssa. Feodalismi antaa vain jonkin tuotannollisen bonuksen, kuten uuden yksikön. Pelillisesti valtion hallinto ei hajoa tai feodalisoidu mitenkään.
+**_Civilization_-pelitkin sisältävät feodalismin jossain muodossa.**
+
+Ensimmäisessä neljässä osassa kyseessä on teknologia, viidennessä osassa hallintotapa (_Policy_) ja uusimmassa osassa yhteiskunnallinen kehitysaskel kehityspuussa (_Civics_). Sillä ei kuitenkaan käytännössä ole mitään tekemistä hajautetun hallinnon kanssa. Feodalismi antaa vain jonkin tuotannollisen bonuksen, kuten uuden yksikön. Pelillisesti valtion hallinto ei hajoa tai feodalisoidu mitenkään.
 
 Sivuhuomiona on ironista, että feodalismi ylipäätään nähdään edistysaskeleena, vaikka kyseessä oli pikemminkin roomalaisten hallintorakenteiden jäänteiden soveltamista. _Civilizationin_ yhteiskunnallinen kehitys onkin enimmäkseen esitys länsimaisesta historiasta sarjana tasaisesti paranevia kehitysaskelia.
 
-[pullquote]Valtakunnassa vallitsee yhtenäisyys, jota tuskin on missään valtiossa tai yhteiskunnassa ikinä vallinnut.[/pullquote]
+<div class="pullquote">Valtakunnassa vallitsee yhtenäisyys, jota tuskin on missään valtiossa tai yhteiskunnassa ikinä vallinnut.</div>
 
 Pelin ajatus sivilisaatioista on jähmeä, mikä myös linkittyy pelaajan asemaan ja rooliin. _Civilization VI:ssa_ kulttuuri on uskonnon, tieteen, tuotannon ja kullan tavoin mitattava resurssi, jolla joudutetaan yhteiskunnallisten kehitysaskelien keksimistä kehityspuussa, sekä luodaan turistivirtoja omaan valtioon, jolla vakuutetaan muut valtakunnat kulttuurisesta ylivoimaisuudesta ja saavutetaan kulttuurinen voitto. Uskonto ja usko resurssina toimii pitkälti samalla tavoin. Itseäni kiinnostaa enemmän se, mitä kulttuuri ja uskonto laadullisesti ovat.
 
@@ -64,7 +54,7 @@ Kansallisen yhtenäiskulttuurin syntyminen vaati aikoinaan nationalistisen ideol
 
 Arvaukseni siitä, miksi tällaista kulttuuria ja uskontoa ei ole tuotu osaksi _Civilizationia_, on että selkeä muuttumaton kulttuurinen lokero tuo jotain pysyvää pelaajan muuten sumeaan rooliin. Koska pelaajan rooli ei ankkuroidu kehenkään yksittäiseen hallitsijaan, saati dynastiaan taikka edes hallintomuotoon tai instituutioon, luovat muuttumattomat kansat ja kulttuurit jonkin pohjan erottelulle, jolla pelaaja voi määritellä itsensä ja vastustajansa. _Civilization VI:ssa_ etnisiä konflikteja ei valtakunnan sisällä esitetä, mutta pelaajan valloittaessa toisen valtion kaupungin jotain epäilyttävää tapahtuu, ja kaupungin arkkitehtuuri muuttuu vaivihkaa pelaajan sivilisaation arkkitehtuuriksi. Imperiumit ovat yleensä välttämättä monikulttuurisia, mutta tämä ei _Civilizationeissa_ näy.
 
-[pullquote]Arvaukseni siitä, miksi tällaista kulttuuria ei ole tuotu osaksi Civilizationia, on että selkeä muuttumaton kulttuurinen lokero tuo jotain pysyvää pelaajan muuten sumeaan rooliin.[/pullquote]
+<div class="pullquote">Arvaukseni siitä, miksi tällaista kulttuuria ei ole tuotu osaksi Civilizationia, on että selkeä muuttumaton kulttuurinen lokero tuo jotain pysyvää pelaajan muuten sumeaan rooliin.</div>
 
 Pelisarjan viidennestä osasta alkaen Firaxisin pyrkimys on ollut karsia ja virtaviivaistaa pelimekaniikoita. Tarkoituksena on tehdä pelistä helpommin lähestyttävä ja laajemmin ihmisiin vetoava. Suunnittelijat ovat valmiita tekemään tämän historiallisen simulaation kustannuksella ja ottaen huomioon pelisarjalle tyypilliset ratkaisut esimerkiksi pelaajan rooliin liittyen, tämä suunta on luonnollinen.
 
@@ -72,8 +62,10 @@ _Civilization VI_ on myös juurikin sitä, mihin se pyrkii -- siis mukava pelata
 
 Omaan makuuni suunta on tylsä, sillä pinnallinen historian esittäminen vie idean pelistä. Jäljelle jää vuoropohjainen 4X-peli, jonka verhoilu sattuu olemaan sci-fin tai fantasian sijaan historiateemainen. Tähän _Civilization_ on kuitenkin aina ollut loppujen lopuksi enemmän kallellaan. Skaalan suuretessa simulaatiopelillä on myös taipumus vetää enemmän mutkia suoriksi. _Civilizationistakin_ vielä astetta suurudenhullumman konseptin omannut _Spore_ on varoittava esimerkki tästä.
 
-[caption id="attachment_3121" align="aligncenter" width="1920"]![Civilization VI](https://www.pelilegacy.fi/wp-content/uploads/2016/11/civ6_1.jpg) Kioto remontoi kaupunkinsa perusteellisesti vastaamaan skyytti-yliherrojen lähi-itämaista tyyliä. Joku voisi myös pikkuhiljaa ruveta sammuttamaan pari vuosikymmentä roihunnutta viljasiiloa.[/caption]
+![Civilization VI](https://www.pelilegacy.fi/wp-content/uploads/2016/11/civ6_1.jpg)
 
-**_Civilization_ tarjoaa tietyllä tavalla edelleen ikkunan historiaan**, ei niinkään pelin itsensä vaan laajan historiallisen taustoituksen avulla, jota pelin ohje-valikko tarjoaa. Jokaisen yksikön, rakennuksen, keksinnön tai muun pelielementin kuvauksen ohessa on sen historiallista taustaa avaava teksti. Pelaaja saattaa peltoja polttavien skyyttien _saka_-joukkoja katsellessaan kiinnostua tietämään, mitä nämä itse asiassa oikeasti olivat. Ohje-valikko tarjoaa tietoa nopeasti samalla, kun pelaaja tarkastelee yksikön pelillisiä ominaisuuksia.
+**_Civilization_ tarjoaa tietyllä tavalla edelleen ikkunan historiaan**.
+
+Ei niinkään pelin itsensä vaan laajan historiallisen taustoituksen avulla, jota pelin ohje-valikko tarjoaa. Jokaisen yksikön, rakennuksen, keksinnön tai muun pelielementin kuvauksen ohessa on sen historiallista taustaa avaava teksti. Pelaaja saattaa peltoja polttavien skyyttien _saka_-joukkoja katsellessaan kiinnostua tietämään, mitä nämä itse asiassa oikeasti olivat. Ohje-valikko tarjoaa tietoa nopeasti samalla, kun pelaaja tarkastelee yksikön pelillisiä ominaisuuksia.
 
 Unelmoin pelistä, joka pyrkisi simuloimaan historiallisia prosesseja mahdollisimman laajasti kaikessa sotkuisuudessaan, sekä olemaan samalla yhtä valtavan mittaluokan peli kuin _Civilization_. Sellaisen puutteessa naksuttelen vielä pari tai parikymmenen vuoroa, tai ehkä vähän useamman.

@@ -51,7 +51,7 @@ Planetfallin kehittäjä **Steve Meretzky** on kertonut lukuisten pelaajien otta
 
 Planetfallista Holmes siirtyy sujuvasti moraalisten valintojen äärelle pelissä, jota monet pitävät edelleen yhtenä aidoimmista tietokoneroolipeleistä koskaan: _Ultima IV: Quest of the Avatar_.
 
-[pullquote]“Holmesin mukaan videopelit eivät elä tyhjiössä, vaan lainaavat aktiivisesti elementtejä eri taidemuodoista.”[/pullquote]
+<div class="pullquote">“Holmesin mukaan videopelit eivät elä tyhjiössä, vaan lainaavat aktiivisesti elementtejä eri taidemuodoista.”</div>
 
 **Richard Garriotin**, eli Lord Britishin, luoman pelisarjan neljäs osa poikkesi edeltäjistään uudenlaisella lähestymistavalla. Garriot totesi vuonna 1992 antamassaan haastattelussa, kuinka hän oli saanut palautetta Ultima-sarjan osien I-III painottumisesta tavaroiden keräilyyn ja varastamiseen. Ennen kaikkea kolme ensimmäistä Ultimaa keskittyivät hyvän ja pahan väliseen taisteluun. Ultima IV:ssä sen sijaan Britannialle haettiin moraalista johtajaa, joka matkallaan omaksuisi kahdeksan eri hyvettä.
 

@@ -34,7 +34,7 @@ Rahapelaamisen juuret juontavat vahvasti uskoon, kohtaloon ja onneen. Ei ole sat
 
 Uskomus siihen, että suurempien voimien aikomukset tai totuudet paljastuvat noppien avulla ei ole vain antiikin historiaa. Vaikka Ruotsissa on valmistettu noppia lampaanluista jo 200-luvulla. Eräiden lähteiden mukaan Ruotsin tuomioistuimessa olisi vielä 1800-luvun alussa käytetty noppia tasapainottamaan oikeuden vaakaa.
 
-[pullquote]“Pelaamisen merkit ulottuvat vähintään yhtä kauas kuin merkit varhaisista sivilisaatioista.”[/pullquote]
+<div class="pullquote">“Pelaamisen merkit ulottuvat vähintään yhtä kauas kuin merkit varhaisista sivilisaatioista.”</div>
 
 Keskiaikaiset kaduntallaajat pelasivat rahapelejä pääosin noppien avulla. Tunnetuin keskiajan noppapeli lienee _raffle_, jossa voittaja on se, joka heittää kolme samaa lukua tai korkeimman parin. Lähes yhtä tunnettu peli on englantilaisten ristiretkeilijöiden Intiasta mukanaan tuoma ja monimutkaisilla säännöillä varustettu peli [_Hazard_](https://en.wikipedia.org/wiki/Hazard_(game)), jonka nimi merkitsee vaaraa.
 
@@ -56,7 +56,7 @@ Vuonna 1638 osa Venetsian San Moise -palatsista muutettiin länsimaailman ensimm
 
 Venetsian hallitsijat päättivät kuitenkin sulkea kasinon vuonna 1774 peläten sen turmelevan paikallisen ylimystön. Pelaamisen katsottiin olevan vaarallista, sillä ihmiset keskittyivät pelaamiseen eivätkä ympärillä oleviin tapahtumiin, kuten voimme huomata **William Hogarthin** maalauksessa, jossa Tom anoo jumalalta apua uhkapelissä hävittyään. Hän tai muut pakkomielteiset pelaajat eivät huomaa, että huoneen takaosassa on alkava tulipalo.
 
-[pullquote]“Kiinni jäädessään huijarit laitettiin häpeäpaaluun nopat kaulassa.”[/pullquote]
+<div class="pullquote">“Kiinni jäädessään huijarit laitettiin häpeäpaaluun nopat kaulassa.”</div>
 
 Yhdysvaltojen historian varhaisimpia pelipaikkoja kutsuttiin saluunoiksi. Saluunoissa matkailijat tapasivat muita ihmisiä juodakseen, keskustellakseen ja pelatakseen korttipelejä keskenään. 1900-luvulla rahapelaaminen kiellettiin liittovaltiotasolla, mutta 1930-luvulla Hooverin padon rakentamisen yhteydessä Las Vegasin rikkaat rahoittajat, liikemiehet ja mafia yhdistivät voimansa rakentaakseen padon miespuolisille työntekijöille kasinoita ja show-teattereita – usein laittomasti.
 

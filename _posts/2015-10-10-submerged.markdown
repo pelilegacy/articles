@@ -34,7 +34,7 @@ _Submerged_ todistaa edelleen kaksi pelisuunnittelua koskevaa myyttiä vääräk
 
 Ensiksi: pelin ei tarvitse sisältää väkivaltaa saati taistelumekaniikkaa ollakseen pelattava. Eteneminen on sujuvaa jo pelkästään Mikun veneillessä kaupungin eri paikoissa ja rakennusten seinillä kiipeillessä. Maailman tutkimiselta ei taistelua tai edes hiiviskelyä jää kaipaamaan, ja tällaisessa konseptissa ne tuntuisivat vain pakotetuilta ratkaisuilta. Sopivana vertailukohtana mieleen tulee Starbreeze Studiosin _Brothers: A Tale of Two Sons_, jonka avainteemoihin taisteluiden poissaolon ohella lukeutui myös huolenpito toisesta ihmisestä.
 
-[pullquote]“Submerged esittelee pelaajille hukkuneen metropoliin, jota tutkimalla ei ole lainkaan yllättävää, että näidenkin tekijöiden taustat johtavat _BioShock_-sarjan pariin.”[/pullquote]
+<div class="pullquote">“Submerged esittelee pelaajille hukkuneen metropoliin, jota tutkimalla ei ole lainkaan yllättävää, että näidenkin tekijöiden taustat johtavat _BioShock_-sarjan pariin.”</div>
 
 Toiseksi: näyttävyys ei vaadi tarkimmilleen hiottuja tekstuureja ja taivaita hipovaa ruudunpäivitystä. Unreal-pelimoottorilla toteutetun _Submergedin_ korkeuksia pilvenpiirtäjillään halkova veden varaan jäänyt kaupunki on eläväinen, raikas ja vastaanottava, mutta samalla myös omalla tavallaan hyytävä.
 

@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=qFfybn_W8Ak
 
 
 
-[pullquote]“Hotline Miami 2:n musiikillinen anti on edeltäjäänsä nähden hienovaraisempaa ja vivahteikkaampaa.”[/pullquote]
+<div class="pullquote">“Hotline Miami 2:n musiikillinen anti on edeltäjäänsä nähden hienovaraisempaa ja vivahteikkaampaa.”</div>
 
 Välimuotoja löytyy ensimmäisen osankin musiikkiraidalla esiintyneen **Scattlen** myötä, jonka kappale "Remorse" osuu vetävällä keskitemmollaan sinne iltapäivän laskevan auringon tienoille.
 

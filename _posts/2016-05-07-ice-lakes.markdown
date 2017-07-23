@@ -40,7 +40,7 @@ Unity-pelimoottorilla tehdyn pelin jälki on näyttävää ja sen pitäisi toimi
 
 _Ice Lakesia_ on helppo pelata eikä se vaadi pelaajaa olemaan ohjekirja kourassa ymmärtääkseen, mitä pelissä on tehtävä. Pelin suomennos on myös tervetullut ominaisuus. Hahmoa voi ohjata hiirellä tai näppäimistön WASD-näppäimillä. Jään kairaus tapahtuu hiiren oikeaa painiketta klikkaamalla. Pienenä lisäyksenä laitetulla hahmon hyppimisellä en huomannut olevan mitään merkitystä pelaamisen kannalta. Uutena tapauksena ovat tulleet myös kalojen houkuttamiseen valmistetut _pallerot_, joita avantoon ripottelemalla saa kaloja houkuteltua paremmin ansaan.
 
-[pullquote]Siimat voi heittää jopa suurkaupungin ytimessä sijaitsevan pienen puistolammen syvyyksiin[/pullquote]
+<div class="pullquote">Siimat voi heittää jopa suurkaupungin ytimessä sijaitsevan pienen puistolammen syvyyksiin</div>
 
 Peli tottelee kontrolleja hyvin ja tulossa on myös ohjaintuki, jota en ainakaan vielä ole päässyt testaamaan käytännössä, vaikka omistankin Xbox 360 -ohjaimen – sitä ei peli tukenut. Kontrollien osalta huonona ominaisuutena kuitenkin on se, ettei syöttiä pysty liikuttamaan koukussa ja näin ollen jokaisen kalan jälkeen on syötti vaihdettava, mikä kuluttaa syöttien lukumäärää.
 

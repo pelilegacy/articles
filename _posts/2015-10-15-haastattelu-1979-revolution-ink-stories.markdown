@@ -69,7 +69,7 @@ Erityisesti historiallisista ja poliittisista peleistä kiinnostuneena pelaajana
 
 -- Se on kieltämättä kiehtovaa, kun jokin teos _syöttää_ sinulle uutta kulttuuria, johon et ole tottunut. Kun fanit omaksuvat esimerkiksi Tähtien Sodan, he uppoutuvat siihen maailmaan, jonka tekijät ovat tehneet heitä varten ja ymmärtävät, että maailma toimii tiettyjen sääntöjen puitteissa. Joku voisi todeta saman pelisarjoista, kuten _Mass Effect_, jossa olet myös kiinteä osa maailmaa. Mekin haluamme luoda maailman, johon pystyt uppoutumaan siten, ettei se kuitenkaan tunnu täysin vieraalta.
 
-[pullquote]Haluamme tarinamme resonoivan ihmisissä ympäri maailman tunsivat he Iranin historian tai eivät. Se on avaintavoitteemme.[/pullquote]
+<div class="pullquote">Haluamme tarinamme resonoivan ihmisissä ympäri maailman tunsivat he Iranin historian tai eivät. Se on avaintavoitteemme.</div>
 
 **Niko: Julkaisette pelin erillisinä jaksoina. Voitko paljastaa kuinka monta jaksoa peli kaiken kaikkiaan sisältää?**
 
@@ -129,7 +129,7 @@ https://www.youtube.com/watch?v=pGeFR8AqM7Q
 
 -- Huomautan kuitenkin, että kyseessä on vain yksi kulttuuri maailmassa. Eräs pelimme tarkoituksista on samalla antaa työkalu muiden kulttuurien edustajille, jotka haluavat kertoa puolestaan oman tarinansa.
 
-[pullquote]Kulttuurimme, joka on kuitenkin tuhansia vuosia vanha, on monimuotoisempi kuin mediassa alati esiintyvistä kasvonsa peittäneistä naisista tai papeista voisi olettaa.[/pullquote]
+<div class="pullquote">Kulttuurimme, joka on kuitenkin tuhansia vuosia vanha, on monimuotoisempi kuin mediassa alati esiintyvistä kasvonsa peittäneistä naisista tai papeista voisi olettaa.</div>
 
 **Niko: Tänä vuonna pakolaiskriisi on puhuttanut eurooppalaisia hyvin paljon. Heijastavatko _1979 Revolutionin_ teemat ja tarina jollain tapaa tätä kriisiä sekä tämänhetkisiä olosuhteita Lähi-idän maissa?**
 
@@ -197,7 +197,7 @@ https://www.youtube.com/watch?v=pGeFR8AqM7Q
 
 -- Historiallisen tarkkuuden ansiosta uskomme, että tämä peli tulee saavuttamaan paljon suuremman yleisön suosion ja herättämään sellaisia ajatuksia kuin "Hei, ajattelin, että pelit on tarkoitettu 17-vuotiaille nuorille, jotka pelaavat _Haloa_ ja _Call of Dutya_ kuulokkeet päässä!". Haluamme saada nämä ihmiset tajuamaan, että pelit ovat ainutlaatuinen media ja niiden kautta voi käsitellä huomattavasti laajempia aihealueita kuin luullaan.
 
-[pullquote]1979 Revolutionin kohdalla pyrimme muuttamaan tätä kaavaa, sillä Teheran 1970-luvulla ei oikeastaan ollut sen erilaisempi kaupunki kuin saman ajan New York, Helsinki tai jopa Pariisi.[/pullquote]
+<div class="pullquote">1979 Revolutionin kohdalla pyrimme muuttamaan tätä kaavaa, sillä Teheran 1970-luvulla ei oikeastaan ollut sen erilaisempi kaupunki kuin saman ajan New York, Helsinki tai jopa Pariisi.</div>
 
 **Niko: Olen vahvasti samaa mieltä siitä, että pelit ovat kehittyneet kun tarkastellaan niiden ilmaisukykyä. Sotaa simuloidakseen ei tarvitse suunnitella räiskintäpeliä, vaan voit keskittyä tarinalliseen seikkailuun, strategiaan ja moneen muuhun tyylilajiin.**
 

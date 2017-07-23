@@ -77,7 +77,7 @@ Ennakkokritiikissä tartuttiin alun elokuvan kuvauksissa tapahtuvaan kohtaukseen
 
 Tarinan kannalta merkityksettömän kohtauksen suurin virhe on sen sijoittaminen pelin alkuun ennen kuin edes hahmoihin on päästy käsiksi, jolloin se on kenties paras esimerkki tarpeettoman väkivallan troopista. Tämän voi todeta, vaikka peli on muutoinkin täynnä raajojen katkomisia ja päiden irti leikkauksia, joilla pelihahmojen psykoottisia edesottamuksia alleviivataan. Herää kysymys miksi kohtaus edes täytyi laittaa mukaan peliin, kun sen voi kuitenkin ohittaa?
 
-[pullquote]“Harmillista tosin on, että tekijöiden suuret visiot purkavat sen kuumeisen ja surrealistisen taianomaisuuden, joka ensimmäistä osaa pelatessa vallitsi.”[/pullquote]
+<div class="pullquote">“Harmillista tosin on, että tekijöiden suuret visiot purkavat sen kuumeisen ja surrealistisen taianomaisuuden, joka ensimmäistä osaa pelatessa vallitsi.”</div>
 
 Hotline Miami 2: Wrong Number yrittää kovasti olla kiivaan poliittinen peli ottaessaan brutaalin värikkäine tyylikeinoineen vahvasti kantaa ihmisten mediankulutukseen. Rönsyilevä toteutus kuitenkin unohtaa, että ensimmäisen osan viehätyksen perusteena oli puhdas -- joskin buginen -- ongelmanratkaisu loputtomilla uusintayrityksillä. Jatko-osan kannalta nämä ideat on vesitetty uhraamalla kaikki potentiaali suuria tavoittelevalle tarinalle.
 

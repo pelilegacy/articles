@@ -50,7 +50,7 @@ Kuten oikeassakin elämässä, _Until Dawnissa_ et saa tilaisuutta palata ajassa
 
 Juuri tilanteiden peruuttamattomuuden kautta peliin jää ensimmäisen kerran jäljiltä vielä suuri määrä jälleenpeluuarvoa. Voit uskotella itsellesi, että ensi kerralla kaikki sujuu paremmin, vaikka et voi olla siitä lainkaan varma.
 
-[pullquote]“Vuorovaikutteisessa kerronnassa on voimaa myös kauhupeleihin viitatessa.”[/pullquote]
+<div class="pullquote">“Vuorovaikutteisessa kerronnassa on voimaa myös kauhupeleihin viitatessa.”</div>
 
 Istun jälleen penkillä tohtori Hillin entistäkin rapistuneemmassa toimistossa hänen moittiessa minua vääristä valinnoistani. Mitä tein väärin? Emmekö kaikki ole jo tuomittuja? Kohtaukset tohtorin kanssa ovat loppuun saakka lievässä surrealistisuudessaan hauskoja irtiottoja pelin tarinasta.
 
@@ -68,7 +68,7 @@ Until Dawn pelottaakin parhaiten silloin, kun olet täysin rehellinen itsellesi,
 
 Kokeilevat ja mukautuvat kauhuelementit saavat tosin pelin viimeisellä puolikkaalla väistyä Algonkin-kansojen mytologiasta kaapattujen wendigo-olentojen saavuttua noutamaan kannibalismin harjoittajia.
 
-[pullquote]“Raakalaismainen realismi saa ohimot kipunoimaan voimakkaasti, mutta hetken itsetutkiskelun jälkeen ymmärrän tästä pelin vienon kieron viehätyksen olevan peräisin.[/pullquote]
+<div class="pullquote">“Raakalaismainen realismi saa ohimot kipunoimaan voimakkaasti, mutta hetken itsetutkiskelun jälkeen ymmärrän tästä pelin vienon kieron viehätyksen olevan peräisin.</div>
 
 Wendigojen tuominen kuvioihin esittelee sen pakollisen yliluonnollisen voiman, joka toimii viimeisenä esteenä pelaajan matkalla. Vikkelästi liikkuvat otukset tarjoavat lähinnä epämiellyttäviä ääniä, muutaman verisen kohtauksen ja maalin ammuksille.
 

@@ -30,7 +30,7 @@ Tällainen ajatusmaailma voidaan käsittää monella tapaa, mutta miksi tehdä k
 
 Toinen esimerkki: _64DD_, Nintendo 64 -konsolille tarkoitettu levyasema. Tuotetta myytiin vain 15 000 kappaletta ja 85 000 kpl meni roskiin. Sanon suoraan, etten pidä kaikista asioista, joita Nintendo päättää pudotella pelaajien armoille, mutta olen silti vankkumaton Nintendon kannattaja.
 
-[pullquote]Tämä on Nintendo – yhtiö, joka perustuu ideoiden uudelleenajatteluun ja niiden kokeiluun.[/pullquote]
+<div class="pullquote">Tämä on Nintendo – yhtiö, joka perustuu ideoiden uudelleenajatteluun ja niiden kokeiluun.</div>
 
 _Star Fox Zeron_ ohjaustapa on suunniteltu kahdelle ruudulle tavalla, jota ei aiemmin ole tehty juuri missään. Peliohjaimen ruudulla ammutaan ensimmäisestä persoonasta ja käytetään gyroskooppista tähtäystä. Tämä tarkoittaa, että heiluttelet ohjainta edestakaisin osuaksesi tarkemmin edessä oleviin vihollisiin. Tässä ei ole mitään ihmeellistä, sillä tällaista on tehty aiemminkin. Uutena mukaan tuleekin TV-ruudun kuva. TV-ruudulla näet aluksen kokonaan aivan kuten _Star Fox 64_ -pelissä. Ohjaat ruudulla menevää alusta peliohjaimen vasemmalla tatilla ja samalla pystyt katsomaan TV-ruutua halutessasi koko ajan, mutta samalla menetät peliohjaimen tuoman tarkemman ampumisen, joita osa vihollisista vaatii.
 
