@@ -85,6 +85,15 @@ a:hover {
 }
 
 .post {
+    img {
+        display: block;
+        margin: 0px auto;
+        max-width: 100%;
+        height: auto;
+        border-radius: 3px;
+        box-shadow: 0 3px 6px $color-dark;
+    }
+
     .post-header {
         font-family: $font-heading;
         text-align: center;
@@ -132,6 +141,19 @@ a:hover {
     padding-right: 5px;
 }
 
+/* Embedded content */
+.embed {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+
+    iframe, object, embed {
+        position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+    }
+}
+
 /* Responsive styles */
 @media screen and (max-width: 600px) {
     .site-header {
@@ -141,4 +163,12 @@ a:hover {
             }
         }
     }
+}
+
+@media screen and (orientation: portrait) {
+    .post img { max-width: 90%; }
+}
+
+@media screen and (orientation: landscape) {
+    .post img { max-height: 90%; }
 }

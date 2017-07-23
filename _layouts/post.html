@@ -8,13 +8,17 @@ layout: default
             <img src="{{ page.cover.src }}" alt="{{ page.cover.alt }}">
         </div>
         <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-        <p class="post-excerpt">{{ page.excerpt | truncate: 140 }}</p>
+        <p class="post-excerpt">{{ page.excerpt | truncate: 160 }}</p>
 
         <p class="post-meta">
         {% assign author = site.data.people[page.author] %}
         {% if author %}
             ✒️ <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                {% if author.twitter %}
                     <a href="https://twitter.com/intent/user?user_id={{ author.twitter }}" target="_blank"><span class="author" itemprop="name">{{ author.name }}</span></a>
+                {% else %}
+                    <span class="author" itemprop="name">{{ author.name }}</span>
+                {% endif %}
                 </span>
         {% endif %}
         </p>
