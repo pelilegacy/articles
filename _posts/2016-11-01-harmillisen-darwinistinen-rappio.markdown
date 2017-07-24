@@ -12,7 +12,7 @@ categories:
 - Monoliitti
 ---
 
-**2016 on omituinen vuosi myös teknologian saralla.** Pitkään aikaan emme ole nähneet suuryrityksiltä näin suurta työntöä uusia tekniikoita kohti. Perinteisten markkinointitermien, kuten kannettavuuden, rinnalle on noussut _4K_ (noin neljä kertaa perinteistä _Full HD_ -kuvaa suurempi resoluutio), _VR_ (virtuaalitodellisuus) ja _HDR _(_High Dynamic Range_, uudenlainen kuvapaneeli, joka tarjoaa realistisempia kontrastiarvoja kuvalle). Jokainen näistä toi mukanaan uuden haasteen: miten markkinointi voi avata suurelle yleisölle oven etänä jonnekin, mikä pitää kokea?
+**2016 on omituinen vuosi myös teknologian saralla.** Pitkään aikaan emme ole nähneet suuryrityksiltä näin suurta työntöä uusia tekniikoita kohti. Perinteisten markkinointitermien, kuten kannettavuuden, rinnalle on noussut _4K_ (noin neljä kertaa perinteistä _Full HD_ -kuvaa suurempi resoluutio), _VR_ (virtuaalitodellisuus) ja _HDR_ (_High Dynamic Range_, uudenlainen kuvapaneeli, joka tarjoaa realistisempia kontrastiarvoja kuvalle). Jokainen näistä toi mukanaan uuden haasteen: miten markkinointi voi avata suurelle yleisölle oven etänä jonnekin, mikä pitää kokea?
 
 _VR_-lasit ovat ilmiöistä pisimpään tuloaan tehnyt. Ensimmäiset _Oculus Riftin_ joukkorahoitetut versiot saapuivat tukijoilleen vuonna 2014. Teknologian laatu loi jo tällöin lähtemättömän lupauksen siitä, että valmiissa versiossa mukana olisi jotain uutta ja mullistavaa. HTC ja Sony hyppäsivät pian samaan kelkkaan _Vivellä_ ja _PSVR:llä_.
 

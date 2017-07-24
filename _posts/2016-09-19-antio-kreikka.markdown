@@ -12,7 +12,7 @@ categories:
 - Monoliitti
 ---
 
-Vanhemmiten jokaisen mielen valtaa joskus ajatus kaiken lopullisuudesta -- omasta kuolevaisuudesta. Se voi tapahtua ruokakaupan juomahyllyllä _Pepsi Maxin _logon vaihtuessa uuteen, tai sinä hetkenä kun et enää ymmärrä uusinta nuorison käyttämää some-palvelua. Pelinkehittäjiä minun käy kuitenkin sääliksi, koska alalla on viimeisen kahden konsolisukupolven aikana hitaasti kytenyt vastaavia tunteita alan toimijoille aiheuttava tilanne.
+Vanhemmiten jokaisen mielen valtaa joskus ajatus kaiken lopullisuudesta -- omasta kuolevaisuudesta. Se voi tapahtua ruokakaupan juomahyllyllä _Pepsi Maxin_ logon vaihtuessa uuteen, tai sinä hetkenä kun et enää ymmärrä uusinta nuorison käyttämää some-palvelua. Pelinkehittäjiä minun käy kuitenkin sääliksi, koska alalla on viimeisen kahden konsolisukupolven aikana hitaasti kytenyt vastaavia tunteita alan toimijoille aiheuttava tilanne.
 
 Tarkoitan tietenkin kreikan kielen kuolemaa. Jonne-sukupolvelle _alfa_ ja _beeta_ merkitsevät kanssaeläjiensä sosiaalista kyvykkyyttä, mutta pelialalla ne ovat merkinneet yksittäisten projektien merkkipaaluja vuosikymmenien ajan. Alfa on tila, jossa peliin on toteutettu päällisin puolin kaikki olennaiset pelimekaniikat sekä pelaamiseen vaadittavat ulkonäölliset tarpeet. Beeta taas on se vaihe, jossa projekti on pelimekaanisesti ja ulkonäöltään valmiin pelin veroinen. Tällöin jäljellä on yleensä enää testauksessa ilmaantuvien bugien korjaamista.
 

@@ -11,9 +11,9 @@ categories:
 - Arvostelut
 ---
 
-![Tom Nook](https://www.pelilegacy.fi/wp-content/uploads/2016/11/tom_nook.png)
-
 **Sonic the Hedgehog** oli X-sukupolven videopelimaskotti, ironinen virnuilija vailla vertaa. Nintendo ei koskaan lähtenyt samalle linjalle luomaan valtavirtaa vastakarvaan silittävää ikonia. He tekivät omaa juttuaan varmoina tulevasta menestyksestään. Jossain _GameCuben_ elinkaaren aikana Nintendon Treehouse-tiimi käänsi _Animal Crossing_ -pelin englanniksi. Uuden asenteen ensiaskeleet syntyivät murhanhimoisen koronkiskuripesukarhu **Tom Nookin** uhkaillessa pelaajaa vuokrarahojen saamisesta. Peli oli myös täynnä omituisia vitsejä -- sanaleikkejä, joissa söpöt eläinhahmot keskustelivat pyydystämiensä kalojen kalamaisuuksista.
+
+![Tom Nook](https://www.pelilegacy.fi/wp-content/uploads/2016/11/tom_nook.png)
 
 _Game Boy Advancella_ käynnistynyt _Mario & Luigi_ -sarja oli oiva tapa jatkaa tämän uuden suunnan tutkimista, ja etenkin _Nintendo DS_ -sukupolvelle siirryttäessä sen vaikutus näkyi muissakin alustan peleissä. Nintendon tasohyppelysankareiden roolipeliseikkailut muuttuivat jatkuvasti hauskemmiksi ja sanaleikkitäyteisemmiksi. Se sopi hyvin pelien juonten surrealistisempaan suuntaan.
 

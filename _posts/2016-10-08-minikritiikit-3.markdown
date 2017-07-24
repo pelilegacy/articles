@@ -48,7 +48,7 @@ Kaunis joskin monotoninen -- _Gunnheimista_ isolla kädellä lainaava -- tasopal
 
 ***Miikka Mononen***
 
-Masokismi pelimaailmassa on ollut _Super Meat Boyn_ kaltaisten tiukasti suunniteltujen ja übervaikeiden reaktiotestien myötä kovassa kysynnässä. Fraoulan _Neon Drive_ pyrkii vastaamaan tarpeeseen seitsemällä kentällä, joissa pelaaja ohjaa milloin autoa, milloin _Top Gun_ -henkistä lentokonetta nelikaistaisella tiellä. Geometriset muodot, lasersäteet ja vastaantuleva liikenne pakottavat pelaajaa vaihtamaan kaistaa taustalla pauhaavan kasarihenkisen teknomusiikin tahdissa. Onpa mukaan saatu myös _Kenny Loggins _-henkinen rock-rilluttelu!
+Masokismi pelimaailmassa on ollut _Super Meat Boyn_ kaltaisten tiukasti suunniteltujen ja übervaikeiden reaktiotestien myötä kovassa kysynnässä. Fraoulan _Neon Drive_ pyrkii vastaamaan tarpeeseen seitsemällä kentällä, joissa pelaaja ohjaa milloin autoa, milloin _Top Gun_ -henkistä lentokonetta nelikaistaisella tiellä. Geometriset muodot, lasersäteet ja vastaantuleva liikenne pakottavat pelaajaa vaihtamaan kaistaa taustalla pauhaavan kasarihenkisen teknomusiikin tahdissa. Onpa mukaan saatu myös Kenny Logginsin henkinen rock-rilluttelu!
 
 _Neon Driven_ pelikonseptissa on kuitenkin ongelmia, jotka nousevat hyvin nopeasti tapetille. Yksi pariminuuttinen kenttä vaatii helposti parikymmentä minuuttia onnistuneeseen läpäisyyn, jolloin 20–30 sekunnin samaa biittiä toistavista osuuksista koostuva kappale tulee armottoman tutuksi. Väistettävät asiat pysyvät aina samassa muodostelmassa ja musiikkikytkös kenttään on vahva. 20 minuutista vartti kuluu täten siihen, että pelaaja käy samaa kenttää läpi uudelleen ja uudelleen päästäkseen siihen vaikeaan, opeteltavaan kohtaan.
 
