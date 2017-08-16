@@ -14,7 +14,7 @@ theme: minima
 date_format: "%d.%m.%Y"
 sass:
   style: compressed
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - run.sh
