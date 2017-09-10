@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: false
 date: 2015-11-22 13:56:55+00:00
 excerpt: Valmistaudu lentämään kaleidoskooppisissa maisemissa, seikkailemaan napajäätiköllä,

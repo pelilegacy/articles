@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-04-18 09:46:02+00:00
 excerpt: 'Saimme kunnian kestitä suorassa lähetyksessä tamperelaisen FRACTiLE Gamesin

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2016-01-18 15:28:49+00:00
 excerpt: Kun digitaaliset pelihyllyt olivat ratketa liitoksistaan, Niko sulki toimistonsa

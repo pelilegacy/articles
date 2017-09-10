@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-10-11 12:05:15+00:00
 excerpt: 'Welcome to the issue #3 of Sunday Gaming. Let''s embark on a voyage to boldly

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-09-10 14:02:10+00:00
 excerpt: Kolme itselleni merkittävintä digitaalista peliä oli aluksi vaikea valinta,

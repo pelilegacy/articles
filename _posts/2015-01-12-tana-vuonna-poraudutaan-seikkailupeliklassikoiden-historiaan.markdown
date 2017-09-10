@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-01-12 17:19:54+00:00
 excerpt: Muistatko vielä viime vuonna julkaistun Sinivalkoisen pelikirjan? Niinkin

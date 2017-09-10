@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-07-01 09:59:10+00:00
 excerpt: Ritari, joll' lapio on, se hautaansa ain' kaivakoon. Yacht Club Gamesin tuottama

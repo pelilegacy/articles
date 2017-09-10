@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-08-05 09:00:02+00:00
 excerpt: Tänä vuonna julkiseen käyttöön avautuva pelitietopankki The Internet Game

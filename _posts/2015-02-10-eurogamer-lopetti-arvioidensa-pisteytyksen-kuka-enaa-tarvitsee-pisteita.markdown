@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-02-10 18:53:27+00:00
 excerpt: Mitä pisteet enää merkitsevät? Tarvitsemmeko niitä todella arvosteluihin

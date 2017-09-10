@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-08-07 19:23:01+00:00
 excerpt: Maailman suosituin videopelien suoria lähetyksiä tarjoava sivusto Twitch

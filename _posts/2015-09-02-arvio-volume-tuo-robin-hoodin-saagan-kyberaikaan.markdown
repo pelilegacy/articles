@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-09-02 15:16:26+00:00
 excerpt: Volume on vahvasti Mike Bithellin näköinen peli toimien selkeänä jatkumona

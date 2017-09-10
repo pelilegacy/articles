@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-08-10 11:27:21+00:00
 excerpt: Post-seikkailupelaamisen helmi The Wolf Among Us lopettaa sarjan näköiseensä

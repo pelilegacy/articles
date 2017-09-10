@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-12-03 14:55:25+00:00
 excerpt: Vielä ei ole sunnuntai, mutta ainakin kuukausi on kalenterissamme vaihtunut.

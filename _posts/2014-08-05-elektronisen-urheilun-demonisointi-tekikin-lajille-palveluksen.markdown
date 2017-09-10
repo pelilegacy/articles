@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-08-05 18:52:29+00:00
 excerpt: Luutuneet käsitykset pelaamisesta muuttuvat hiljalleen sulkeutuneesta ja

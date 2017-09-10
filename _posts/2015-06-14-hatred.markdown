@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-06-14 12:42:44+00:00
 excerpt: Kohu ei kanna kunniaan varsinkaan kritiikin kritiikistä muovautuneen Hatredin

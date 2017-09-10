@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2016-03-05 11:42:35+00:00
 excerpt: Sormia ja hermoja kurittaneiden OlliOlli -pelien jälkeen Roll7 päätti vaihtaa

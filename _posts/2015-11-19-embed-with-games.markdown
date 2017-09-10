@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-11-19 08:54:02+00:00
 excerpt: 'Vuonna 2014 toimittaja Cara Ellison teki lupauksen internetille: hän jättäisi

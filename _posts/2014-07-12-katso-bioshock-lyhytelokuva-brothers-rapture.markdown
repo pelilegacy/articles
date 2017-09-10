@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-07-12 14:43:16+00:00
 excerpt: The Brothers Rapture on upea kahden veljeksen välillä tapahtuva mikrokertaus

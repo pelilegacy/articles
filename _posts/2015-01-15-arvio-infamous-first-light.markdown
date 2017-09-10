@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-01-15 12:03:24+00:00
 excerpt: Infamous First Light on saatavilla PlayStation 4:lle tammikuun 2015 kuukauden

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-02-04 09:49:36+00:00
 excerpt: Toisinaan pelejä on niin paljon työn alla, että kaikista haluaisi kirjoittaa

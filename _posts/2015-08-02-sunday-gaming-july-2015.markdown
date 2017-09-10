@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-08-02 09:28:53+00:00
 excerpt: Welcome to the first international issue of Sunday Gaming -- the finest,

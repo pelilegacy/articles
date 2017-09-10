@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-09-12 08:35:02+00:00
 excerpt: Vuoden merkittävimmän kauhupelin Until Dawnin perimmäinen viehätys riippuu

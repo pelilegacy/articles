@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-07-17 11:01:22+00:00
 excerpt: Neverending Nightmaresin tekijät esittelevät toisenlaisen elävän helvetin.

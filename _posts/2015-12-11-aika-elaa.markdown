@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-12-11 07:30:52+00:00
 excerpt: Peli Legacyn toinen toimintavuosi saapuu finaalinsa, joten on aika luoda

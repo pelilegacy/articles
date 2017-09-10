@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-03-14 06:32:40+00:00
 excerpt: 'Syvän Floridan auringonlaskussa kukaan ei säästy elektroniselta ja rytmiseltä

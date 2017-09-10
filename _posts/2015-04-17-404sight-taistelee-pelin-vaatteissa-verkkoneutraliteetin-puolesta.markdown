@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-04-17 14:03:46+00:00
 excerpt: Täyttä kaistaa eteenpäin. 404Sight kritisoi verkon epätasa-arvoa peliä ilmaisukeinona

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-10-21 11:01:12+00:00
 excerpt: Kun Timmy putoaa kaivoon, ei häntä pelasta kukaan muu kuin hän itse. Ojiro

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-10-11 08:49:29+00:00
 excerpt: The Black Glove on kuin suoraa jatkoa alkuperäiselle BioShockille, mutta

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-08-29 08:49:33+00:00
 excerpt: '“Ogoun badagris, I call upon thee”. Voodoo-mytologiaa ja historiallisia

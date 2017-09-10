@@ -1,26 +1,17 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2014-05-03 10:07:32+00:00
-excerpt: Jos ensimmäisestä NES Remixistä jäi pelikattauksen osalta huono maku suuhun,
-  näin ei pääse käymään jatko-osan kanssa. NES Remix 2 tuo ohjaimeen ja televisioon
-  ne matolaatikon määrittelevimmät ja rakkaimmat pelit, jotka meitä kiusasivat ja
-  koukuttivat lapsina.
+excerpt: NES Remix 2 tuo ohjaimeen ja televisioon ne matolaatikon määrittelevimmät ja rakkaimmat pelit, jotka meitä kiusasivat ja koukuttivat lapsina.
+cover:
+  src: /uploads/2014/05/nesremix2.jpg
+  alt: NES Remix 2
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/600/mita-pelasin-tanaan-nes-remix-2
-slug: mita-pelasin-tanaan-nes-remix-2
-title: 'Mitä pelasin tänään: NES Remix 2'
-wordpress_id: 600
+title: NES Remix 2
 categories:
 - Arvostelut
-tags:
-- Nintendo
-- Retro
 ---
 
-[![NES Remix 2 Title Screen](/uploads/2014/05/nesremix2-1050x590.jpg)](/uploads/2014/05/nesremix2.jpg)
-
-Seisot pitkän vihreän putken päällä. Edessäsi on kilpikonnia ja muita mutiaisia. Kaukana horisontissa siintää valkoinen lipputanko, jonka päässä on vihreä nuppi. Varmana onnistumisesta otat askeleen eteenpäin ja valmistaudut tallaamaan edessä olevat vastustajat maahan. Mutta et putoakaan, vaan lennät eteenpäin. Tarkemmin katsottuna, et ole edes vanha tuttu Mario, vaan ilmaa sisuksiinsa vetänyt vaaleanpunainen pallo. Olet _Kirby_ ja pelin nimi on **NES Remix 2**.
+Seisot pitkän vihreän putken päällä. Edessäsi on kilpikonnia ja muita mutiaisia. Kaukana horisontissa siintää valkoinen lipputanko, jonka päässä on vihreä nuppi. Varmana onnistumisesta otat askeleen eteenpäin ja valmistaudut tallaamaan edessä olevat vastustajat maahan. Mutta et putoakaan, vaan lennät eteenpäin. Tarkemmin katsottuna, et ole edes vanha tuttu Mario, vaan ilmaa sisuksiinsa vetänyt vaaleanpunainen pallo. Olet **Kirby** ja pelin nimi on _NES Remix 2_.
 
 Esimerkin mukaisesta lähtöasetelmasta ponnistaa jälleen häveliäästi Nintendon 8-bittisen aikakauden klassikoita uudelleenmiksaavan sarjan toinen osa.
 
@@ -40,4 +31,4 @@ Vapaan etenemisen ansiosta NES Remix 2 koukuttaa vahvasti jo ensimmäisiltä min
 
 NES Remix 2 tarjoaa pelinkehittäjille oivallisen historian ja pelisuunnittelun oppimäärän. Rikkomalla pelimekaniikan pieniin osiin ja luomalla koukuttavia haasteita niiden ympärille, voi oppia ja ottaa vanhoista – jopa puhki kulutetuista – peleistä jotain tärkeää myös omiin projekteihin. Ei ole sattumaa, että vanhoja Nintendo-klassikoita pelataan edelleen paljon. Esimerkiksi ensimmäinen Metroid on muutamista alustan rajoituksista huolimatta edelleen pelisuunnittelun jalokiviä.
 
-Pelaajalle NES Remix 2 on harmitonta hupia siihen asti, kunnes yrität alistaa pelin ja päädyt vain heittämään ohjaimesi seinään. Mutta ethän sitä tekisi, ethän? Olet parempi kuin muut, joten käytä hermoilemiseen kulunut aikasi hyvin ja omaksu uudelleen 7-vuotiaana opitut taitosi. Voita maailma. [Now you are playing with POWER!](https://www.youtube.com/watch?v=C6KOlC393lo)
+Pelaajalle NES Remix 2 on harmitonta hupia siihen asti, kunnes yrität alistaa pelin ja päädyt vain heittämään ohjaimesi seinään. Mutta ethän sitä tekisi, ethän? Olet parempi kuin muut, joten käytä hermoilemiseen kulunut aikasi hyvin ja omaksu uudelleen 7-vuotiaana opitut taitosi. Voita maailma.

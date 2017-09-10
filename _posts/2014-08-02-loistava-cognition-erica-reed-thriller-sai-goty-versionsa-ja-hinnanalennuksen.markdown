@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-08-02 13:13:41+00:00
 excerpt: Phoenix Online Studiosin kehittämä ja julkaisema Cognition tarjoaa viime

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-06-03 09:38:41+00:00
 excerpt: Bind, bound, sitoa. Kajaanilainen pienkehittäjä Bind on onnistunut ensimmäisessä

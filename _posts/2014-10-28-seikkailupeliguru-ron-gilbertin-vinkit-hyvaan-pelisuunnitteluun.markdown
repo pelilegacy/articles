@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-10-28 12:13:58+00:00
 excerpt: Ron Gilbert latoi aikoinaan pöytään nyrkkisäännöt hyvälle ja häiriöttömälle

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-07-20 11:32:52+00:00
 excerpt: Lunar Ray Gamesin esikoispeli Timespinner hakee joukkorahoitusta Kickstarterin

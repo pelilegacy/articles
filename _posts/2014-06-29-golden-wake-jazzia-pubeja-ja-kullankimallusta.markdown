@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-06-29 11:40:20+00:00
 excerpt: Wadjet Eye Games ratsastaa jälleen. Tänä syksynä he julkaisevat Grundislav

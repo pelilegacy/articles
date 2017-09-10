@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-03-21 15:16:03+00:00
 excerpt: Luetko peliaiheista tietokirjallisuutta koskaan? Käsittelyssä Dylan Holmesin

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-01-29 10:56:08+00:00
 excerpt: Kiistanalaiseen julkisuuteen viime vuonna noussut kulttuuritoimittaja Leigh

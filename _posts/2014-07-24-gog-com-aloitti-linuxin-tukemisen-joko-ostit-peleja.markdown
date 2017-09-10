@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-07-24 10:41:32+00:00
 excerpt: 'Virkkoipa kerran wanha kansa: pelaaminen tarvitsee Windows-koneen. Vanhan

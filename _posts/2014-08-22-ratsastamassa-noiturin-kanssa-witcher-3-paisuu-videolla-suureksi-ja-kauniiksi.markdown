@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-08-22 11:19:16+00:00
 excerpt: 'Viime päivien ajan olen seisonut, istunut, maannut, juonut kahvia, syönyt

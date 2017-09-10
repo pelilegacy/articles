@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-01-07 16:18:19+00:00
 excerpt: Internet Archive jatkoi muutama päivä sitten hienosti digitaalisen kulttuurin

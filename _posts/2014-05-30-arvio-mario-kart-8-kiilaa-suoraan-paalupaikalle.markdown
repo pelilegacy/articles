@@ -1,30 +1,19 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2014-05-30 12:48:53+00:00
-excerpt: Mario Kart dominoi Nintendon urheilupelisarjaa jo kolmannella vuosikymmenellä.
-  Mikä alkoi vuonna 1992, kiteytyy sarjan parhaimpien osien summana vuonna 2014.
+excerpt: Mikä alkoi vuonna 1992, kiteytyy sarjan parhaimpien osien summana vuonna 2014.
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/657/arvio-mario-kart-8-kiilaa-suoraan-paalupaikalle
+cover:
+  src: /uploads/2014/05/mario-kart-8-1.jpg
+  alt: Mario Kart 8
 slug: arvio-mario-kart-8-kiilaa-suoraan-paalupaikalle
-title: 'Arvio: Mario Kart 8 kiilaa suoraan paalupaikalle'
-wordpress_id: 657
+title: Mario Kart 8 kiilaa suoraan paalupaikalle
 categories:
 - Arvostelut
 - Urheilu
-tags:
-- Nintendo
-- Uutuudet
-- Wii U
 ---
 
-[![Mario Kart 8 #1](/uploads/2014/05/mario-kart-8-1.jpg)](/uploads/2014/05/mario-kart-8-1.jpg)
-
-
-
 Mario Kart dominoi Nintendon urheilupelisarjaa jo kolmannella vuosikymmenellä. Mikä alkoi vuonna 1992, kiteytyy sarjan parhaimpien osien summana vuonna 2014.
-
-
 
 Nintendon pitkäikäinen karting-sarja sai alkunsa yli 20 vuotta sitten Super Nintendolla. Kriitikoiden kehuma Mario Kart oli matalan oppimiskynnyksen sisältävää, mutta vaikeasti hallittavaa viihdettä, joka avasi sienivaltakunnan ovet erilaisille urheilullisille mittelöille. Sittemmin olemme nähneet Marion kumppaneineen pelaamassa tennistä, golfia ja jopa kisaamassa olympialaisissa. Muista lajeista huolimatta Mario Kart on niin terävä näkemys koukuttavasta ajopelistä, että se on oikeutetusti dominoinut Nintendon urheilutarjontaa pelaajien sydämissä.
 
@@ -40,7 +29,7 @@ Radoissa on suuri määrä yksityiskohtia, jotka vaihtelevasti auttavat tai hait
 
 Vaikka kentät onkin kuorrutettu kaikella hauskalla, ei se ajamista häiritse, sillä kertaakaan en vahingossa lähtenyt ajamaan esimerkiksi väärään suuntaan. Sen sijaan omasta taitamattomuudestani johtuen tipahdin usein ilmavilta teiltä. Autokoulussa ei kukaan kertonut, miten liikutaan pilvien päällä, juoksuhiekassa tai veden alla. Variaatiota on siinä määrin, että kun olet nähnyt yhden radan, et ole vielä nähnyt kaikkea.
 
-[![Mario Kart 8 #2](/uploads/2014/05/Mario-Kart-8-02-1050x590.jpg)](/uploads/2014/05/Mario-Kart-8-02.jpg)
+[![Mario Kart 8 #2](/uploads/2014/05/Mario-Kart-8-02.jpg)](/uploads/2014/05/Mario-Kart-8-02.jpg)
 
 Eräs hieno ominaisuus on klassisten ratojen päivitys uudelle vuosikymmenelle. Valikoiman seassa on nimittäin ratoja liki kaikista sarjan aikaisemmista osista aina alkuperäisestä Mario Kartista 3DS:n Mario Kart 7:ään. Sukkulointi moottoritiellä rekkojen välissä tai rannalla palmujen katveessa tuo ripauksen toivottua nostalgiaa. Pelissä debytoivat radat ovat pääsääntöisesti pitempiä ja hauskempia, mutta tutuilla teillä on aina kiva vierailla uudelleen. Nintendo on tehnyt hienoa työtä restauroinnin kanssa, joskin havaitsin monet vanhat radat helpommiksi kuin muistin.
 
@@ -50,7 +39,7 @@ Ei kuitenkaan romantisoida ajokokemusta liikaa, sillä noottia on annettava muun
 
 Aseet ovat tuttuja sarjan veteraaneille. Vihreät kilvet menevät suoraan esteistä kimpoillen ja punaiset hakeutuvat lähimmän kohteen kannoille. Salamalla ja mustekalalla voi kurittaa hetkellisesti muita kilpailijoita samanaikaisesti. Arsenaalista löytyy myös pommia, raskasta tömäyttävää kilpeä ja voittamattomuuden suovaa tähteä. Mielenkiintoisin uutuus on kolikkoja ja vastustajia näykkivä lihansyöjäkasvi, josta on paljon hyötyä vastustajia ohittaessa. Mario Kart 7:stä tuttuja kolikoita onkin syytä kerätä, sillä ne avaavat lisää hahmoja ja varusteita pelivalikossa sekä radalla nostavat ajokin maksiminopeutta. Jokainen kolikko antaa lisäksi pikkuruisen sysäyksen vauhtiin. Usein kolikot sijaitsevat kurveissa, jolloin on tehtävä kompromissi optimaalisen ajolinjan ja kylmän käteisen suhteen. Havaitsin kolikoiden orjallisen keräämisen hyödylliseksi taktiikaksi vaikka se johti usein ulosajoon.
 
-[![Mario Kart 8 #3](/uploads/2014/05/Mario-Kart-8-3-1050x590.jpg)](/uploads/2014/05/Mario-Kart-8-3.jpg)
+[![Mario Kart 8 #3](/uploads/2014/05/Mario-Kart-8-3.jpg)](/uploads/2014/05/Mario-Kart-8-3.jpg)
 
 Astetta ikävämpää on, että aseiden arvonta ei juuri suosi pelaajaa. Useimmiten käyttöönsä saa aina yhtä tehottoman banaaninkuoren, vihreän kilven tai kolikon. Vastustajat sen sijaan antavat ukkosen jyristä lähes joka kierroksella. Tasapainotus on ymmärrettävää, mutta suuri osa pelin huvista tulee laajasta asearsenaalista, joka näin ollen jää vain näennäisesti laajaksi. Moninpelissä aseet tosin jakautuivat hivenen reilummin. Ehkäpä päivä uusi kääntää Nikon huonon onnen vielä voitoksi? Huonon onnen puolesta puhuu sekin, että usein viimeisellä kierroksella sain jopa kaksi osumaa peräkkäin vastustajan kilvistä ja tipahdin pahimmassa tapauksessa viisi sijaa alas. Koska ratoja ei kesken kilpailun voi ottaa uusiksi, syö tämä hermoja kun tarkoituksena on avata seuraavia kisoja pokaaleja voittamalla.
 
@@ -59,11 +48,3 @@ Mitä Mario Kart olisi, jos siinä voisi ajaa ainoastaan tavallisissa kisoissa? 
 Verkkopelin kokeilu jäi laihaksi, sillä pelaajia ei ollut juuri saatavilla, jonka lisäksi omituinen virhekoodi palautti lähtöruutuun kisaa valmistellessa. Lisäämällä Nintendo-tunnuksella varustetun kaverin kisaan peli toimi kuitenkin hyvin ilman viivettä tai yhteyden katkeilua. Verkkopelissä on myös mahdollisuus järjestää isompia turnauksia, joita toivon näkeväni paljon tulevaisuudessa.
 
 On vaikea sanoa kuinka kauan Mario Kart 8 viihdyttää yksinpelinä. Uusin ajokkien ja varusteiden avaaminen kolikkoja keräämällä on kiinnostavaa, mutta ohi muutamassa viikossa ja tekoälyn temput on nopeasti opittu. Aktiivisella moninpelaamisella ja turnaustoiminnalla sen sijaan on todennäköistä, että sijoitun ratin taakse iltana jos toisenakin. Akuutti kysymys onkin uskallatko sinä haastaa minut?
-
-
-
-* * *
-
-
-
-_Iloisena uutisena Mario Kart 8:n ennakkotilanneet saavat pelin rekisteröityään valita yhden digitaalisen pelin itselleen. Markkinointikeinolla pyritään kasvattamaan pelin myyntiä ja Wii U:n toistaiseksi niukasta tarjonnasta on valittavaksi poimittu sitä parempaa satoa. En näe syytä ottaa kampanjasta itselleen muuta peliä kuin The Legend of Zelda: Wind Waker HD:n, mutta tämä tarina kerrottakoon toiste._

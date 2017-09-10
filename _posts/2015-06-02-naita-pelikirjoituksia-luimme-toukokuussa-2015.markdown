@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-06-02 14:56:20+00:00
 excerpt: Kuten on totuttu, jokaisen kuukauden päätteeksi kuratoimme artikkelin täydeltä

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-11-18 09:19:57+00:00
 excerpt: Yhdysvaltalainen pelimedia Kill Screen hakee joukkorahoituksen turvin uutta

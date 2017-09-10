@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-06-16 15:11:09+00:00
 excerpt: E3-messut ovat vyöryttäneet lavalle toinen toistaan kovempia muistopommeja,

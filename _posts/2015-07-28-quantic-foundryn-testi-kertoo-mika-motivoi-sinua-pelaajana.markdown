@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-07-28 11:38:08+00:00
 excerpt: Pelianalytiikan ja konsultoinnin palveluita tarjoava Quantic Foundry on puolestaan

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-04-04 10:47:31+00:00
 excerpt: Erinäisten kiireiden johdosta maaliskuun painos pelikirjoituksista tulee

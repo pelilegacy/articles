@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-07-04 10:45:23+00:00
 excerpt: Viime viikot ovat kuluneet suureksi harmiksi sateisen koleassa säässä, joten

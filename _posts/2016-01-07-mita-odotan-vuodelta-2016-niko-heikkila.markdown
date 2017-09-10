@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2016-01-07 09:42:22+00:00
 excerpt: "Peli Legacyn toimitus julkaisee tänä vuonna\x7F odottamiaan pelejä tässä\

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-02-21 15:15:22+00:00
 excerpt: Ensin tulivat vihaiset linnut -- nyt äkkipikaisia ovat viikingit, mitä vielä.

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-09-28 10:49:58+00:00
 excerpt: 'Tunnetko pelien historian? Mikä on Suomen pelimuseo? Mihin pelikasvatusta

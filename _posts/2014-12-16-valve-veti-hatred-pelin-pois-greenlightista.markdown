@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-12-16 13:00:56+00:00
 excerpt: Valve veti Destructive Creationsin paljon kohutun väkivaltapeli Hatredin

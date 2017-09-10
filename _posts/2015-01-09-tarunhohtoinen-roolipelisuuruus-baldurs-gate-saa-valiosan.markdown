@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-01-09 11:14:31+00:00
 excerpt: Vuolaasti ylistetyn roolipelisarja Baldur's Gaten Enhanced Edition -uusversioiden

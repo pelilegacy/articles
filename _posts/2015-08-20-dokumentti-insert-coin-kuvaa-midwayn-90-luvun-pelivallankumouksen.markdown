@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-08-20 09:49:07+00:00
 excerpt: 'Insert Coin: Inside Midway''s ''90s Revolution -dokumentti luo katsauksen

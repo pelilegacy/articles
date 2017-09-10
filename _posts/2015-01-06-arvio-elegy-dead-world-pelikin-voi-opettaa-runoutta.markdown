@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-01-06 16:50:53+00:00
 excerpt: Matkusta avaruuteen, he sanoivat. Koe elämyksiä, he sanoivat. Kirjoita itse

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-08-24 09:31:03+00:00
 excerpt: Super System Softworksin Drift Stage on ajoittain jopa naurettavan maskuliininen,

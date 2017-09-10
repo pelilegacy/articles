@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-04-08 10:47:08+00:00
 excerpt: The Hollywood Reporterin mukaan Scott Cawthonin suunnittelema ja kehittämä

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-08-26 10:31:04+00:00
 excerpt: Euroopan pakolaiskriisi syvenee entisestään useiden ihmisen ottaessa riskin

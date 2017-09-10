@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-09-06 15:34:08+00:00
 excerpt: 'Welcome to the issue #2 of Sunday Gaming — a collection of 15 articles with

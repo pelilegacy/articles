@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-09-15 14:27:56+00:00
 excerpt: Jokaisen pojan – ja ehkä tytönkin – suosikkipeli Minecraftin luonut peliyhtiö

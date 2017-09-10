@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-07-22 11:35:29+00:00
 excerpt: Suomen Turku jatkaa vahvasti kirjoitettujen seikkailupelien ystävien palvelemista

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-12-09 16:33:34+00:00
 excerpt: Pelitutkimuksen vuosikirja on jo muutaman vuoden ikään ehtinyt avoin ja vertaisarvioitu

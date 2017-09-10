@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-11-07 12:17:59+00:00
 excerpt: Kadu ja kelaa aikaa katuaksesi uudelleen. Kipeiden valintojen Life is Strange

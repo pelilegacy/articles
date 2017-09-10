@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-11-28 11:22:50+00:00
 excerpt: 'Arvostelussa Sid Meier''s Civilization: Beyond Earth. Tieteen voitto on

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-09-18 17:48:25+00:00
 excerpt: Viimeiset neljä vuotta selaimissa ilmaiseksi pelattavana ollut Quake Live

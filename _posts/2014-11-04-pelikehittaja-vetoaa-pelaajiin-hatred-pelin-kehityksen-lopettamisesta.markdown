@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-11-04 13:21:32+00:00
 excerpt: Puolalaisen Destructive Creationsin synkkä ja nihilistinen väkivaltaeksploitaatio

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-10-15 11:00:56+00:00
 excerpt: Navid Khonsari vietti lapsuutensa Iranissa, mutta muutti perheineen Kanadaan

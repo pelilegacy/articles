@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-02-19 13:10:13+00:00
 excerpt: Uusi sukupolvi on hyvää aikaa yksinoikeuspeleille. Sonyn pelivuoden avaavat

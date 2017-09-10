@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-08-05 09:52:18+00:00
 excerpt: Jyväskyläläisen Kaljameri Gamesin oluteksploitaatio Running Beer herkuttelee

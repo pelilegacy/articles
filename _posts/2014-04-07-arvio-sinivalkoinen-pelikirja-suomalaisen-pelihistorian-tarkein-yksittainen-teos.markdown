@@ -1,29 +1,19 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2014-04-07 11:41:34+00:00
-excerpt: Kohuttu tietoteos Sinivalkoinen Pelikirja saapui ennakkotilaajille viime
-  perjantaina. Nyt viikonlopun tiheän tankkauksen jälkeen katsastan kirjan sekä arvioin,
-  oliko materiaali odotuksen arvoinen.
+excerpt: Kohuttu tietoteos Sinivalkoinen Pelikirja saapui ennakkotilaajille viime perjantaina.
+cover:
+  src: /uploads/2014/02/sinivalkoinenpelikirja.jpg
+  alt: Sinivalkoinen pelikirja
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/506/arvio-sinivalkoinen-pelikirja-suomalaisen-pelihistorian-tarkein-yksittainen-teos
-slug: arvio-sinivalkoinen-pelikirja-suomalaisen-pelihistorian-tarkein-yksittainen-teos
-title: 'Arvio: Sinivalkoinen Pelikirja on suomalaisen pelihistorian tärkein yksittäinen
-  teos'
-wordpress_id: 506
+title: Sinivalkoinen Pelikirja on suomalaisen pelihistorian tärkein yksittäinen teos
 categories:
 - Arvostelut
 - Kirjat
 - Suomalaiset
-tags:
-- Kirjat
-- Mesenaatti.me
-- Pelinkehitys
 ---
 
-[caption id="attachment_152" align="aligncenter" width="600"][![Sinivalkoinen Pelikirja](/uploads/2014/02/sinivalkoinenpelikirja.jpg)](/uploads/2014/02/sinivalkoinenpelikirja.jpg) Suomen pelialan kronikka 1984-2014[/caption]
-
-**Juho Kuorikosken** kirjoittamasta ja pienen Fobos-kustantamon julkaisemasta **Sinivalkoisesta Pelikirjasta** uutisoimme jo [helmikuussa](http://www.pelilegacy.fi/ajassa/151/sinivalkoisen-pelikirjan-mesenointi-paattyy-talla-viikolla) kirjan mesenoinnin saavuttua kalkkiviivoille. Tuon jälkeen olenkin malttamattomasti odottanut mesenoidun painoksen kolahtamista postiluukustani. Perjantaina oveltani kuului apokalyptista kolinaa ja ryminää. Ovi ei tullut niskaan, mutta vertauskuvallisesti katto nousi ilmaan ruskeaa pakettia avatessani. Nyt viikonlopun tiheän tankkauksen jälkeen katsastan kirjan sekä arvioin, oliko materiaali odotuksen arvoinen.
+**Juho Kuorikosken** kirjoittamasta ja pienen Fobos-kustantamon julkaisemasta **Sinivalkoisesta Pelikirjasta** uutisoimme jo helmikuussa kirjan mesenoinnin saavuttua kalkkiviivoille. Tuon jälkeen olenkin malttamattomasti odottanut mesenoidun painoksen kolahtamista postiluukustani. Perjantaina oveltani kuului apokalyptista kolinaa ja ryminää. Ovi ei tullut niskaan, mutta vertauskuvallisesti katto nousi ilmaan ruskeaa pakettia avatessani. Nyt viikonlopun tiheän tankkauksen jälkeen katsastan kirjan sekä arvioin, oliko materiaali odotuksen arvoinen.
 
 **Sinivalkoinen pelikirja** on jaettu seitsemään lukuun, joista ensimmäisessä kronikoidaan suomalaisten makuuhuoneen nurkissa eläneiden harrastajakoodaajien osittain kömpelötkin ensiaskeleet tasavallan tietokoneen Commodore 64:n sekä ensimmäisten suomalaisten pelien parissa. Tästä siirrytään ammattimaiseen pelinkehitystoimintaan ja ensimmäisiin suomalaisiin peliyrityksiin.
 
@@ -45,16 +35,10 @@ Pelien ja peliyritysten lisäksi myös suomalainen pelijournalismi saa palstatil
 
 Sinivalkoinen Pelikirja on informaatioltaan niin suuri runsauden sarvi, että tiedon määrää on vaikea hahmottaa ja ähky iskee nopeasti. Katsaus lähdeluetteloon luo ymmärrystä; itse en olisi tehtävään pystynyt. Haastatteluihin ja kirjallisuusviitteiden läpikäymiseen lienee kulunut iso siivu ajasta.
 
-Vaikka kirjan teksti on alan tuntijoille ja vannoutuneille harrastajille suunnattua ei tarvitse kuitenkaan huolestua, sillä kirjan lopusta löytyvä sanasto selittää tavikselle peliharrastajien termit. Tiedätkö sinä mitä tarkoittavat_ vaporware, shmuppi, parseri, kompo ja bullet hell_?
+Vaikka kirjan teksti on alan tuntijoille ja vannoutuneille harrastajille suunnattua ei tarvitse kuitenkaan huolestua, sillä kirjan lopusta löytyvä sanasto selittää tavikselle peliharrastajien termit. Tiedätkö sinä mitä tarkoittavat _vaporware, shmuppi, parseri, kompo_ ja _bullet hell_?
 
 Kaiken kaikkiaan Sinivalkoinen Pelikirja on suomalaisen pelihistorian tärkein yksittäinen teos, joka säilyy jälkipolville vahvana testamenttina tekemästämme suuresta työstä. Lisäksi se ilmestyi juuri oikeaan aikaan ja paikkaan kereten dokumentoida viime vuosien tärkeät tapahtumat.
 
+> Simo Ojaniemen Commodore 64:lle ohjelmoimasta Raharuhtinaasta on kolmessa vuosikymmenessä kuljettu melkoinen matka. Pelit ovat muuttuneet kiinteäksi osaksi kotimaista kulttuurihistoriaa ja nykypelaajat saavat ensikosketuksen pelaamiseen jo äidinmaidosta. Pelaaminen on sosiaalisesti hyväksyttävää ja pelien tekeminen on oikeaa työtä.
 
-
-<blockquote>Simo Ojaniemen Commodore 64:lle ohjelmoimasta Raharuhtinaasta on kolmessa vuosikymmenessä kuljettu melkoinen matka. Pelit ovat muuttuneet kiinteäksi osaksi kotimaista kulttuurihistoriaa ja nykypelaajat saavat ensikosketuksen pelaamiseen jo äidinmaidosta. Pelaaminen on sosiaalisesti hyväksyttävää ja pelien tekeminen on oikeaa työtä.</blockquote>
-
-
-
-Yllä oleva lainaus tuottaa allekirjoittaneelle suurta mielihyvää. Hieno Suomi, upea maailma – **Kiitos 1984–2014!**
-
-Tilaa Sinivalkoinen Pelikirja [täältä.](http://sinivalkoinenpelikirja.com/ennakkotilaa-sinivalkoinen-pelikirja/) 43 euron hintaan sisältyvät toimituskulut.
+Yllä oleva lainaus tuottaa allekirjoittaneelle suurta mielihyvää. Hieno Suomi, upea maailma – Kiitos 1984–2014!

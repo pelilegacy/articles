@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-07-29 13:22:43+00:00
 excerpt: LGBT-aatteen takana seisova GaymerX-tapahtumajärjestäjä koki aiemmin tällä

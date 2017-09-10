@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-10-06 13:57:04+00:00
 excerpt: 'Yle Puheen Aamussa puhuttiin tänään monia epäilemättä kiinnostavasta aiheesta

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-07-26 11:06:23+00:00
 excerpt: Pelaa aikaa ja kuole, kuole, kuole. Uudelleen, uudelleen ja uudelleen. Aloita

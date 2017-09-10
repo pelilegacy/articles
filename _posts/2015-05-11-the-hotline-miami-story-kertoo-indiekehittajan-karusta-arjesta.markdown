@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-05-11 09:24:50+00:00
 excerpt: Mitä tapahtuu, kun rahat ja terveys uhrataan pelinkehityksen edessä? Katso

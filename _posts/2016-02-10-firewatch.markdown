@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2016-02-10 13:24:53+00:00
 excerpt: San Franciscolaisen pelistudio Campo Santon kehittämä esikoispeli Firewatch

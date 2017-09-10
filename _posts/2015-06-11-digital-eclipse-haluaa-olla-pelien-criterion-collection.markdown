@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-06-11 10:54:35+00:00
 excerpt: '"Klassikkopeleleille harvoin annetaan samaa huolenpitoa ja kunnioitusta

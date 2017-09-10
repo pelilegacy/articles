@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-05-23 10:00:17+00:00
 excerpt: Ei välttämättä, mutta mikä tekee pelistä parhaan koskaan?

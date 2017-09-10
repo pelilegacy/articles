@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-05-31 07:00:14+00:00
 excerpt: NEON STRUCT on tärkeitä kannanottoja tekevä poliittinen trilleri, jonka juuret

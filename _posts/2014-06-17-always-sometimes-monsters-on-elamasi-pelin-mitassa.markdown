@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-06-17 17:00:18+00:00
 excerpt: Vagabond Dogin tekemä ja Devolver Digitalin julkaisema inhorealistinen taidepeliksikin

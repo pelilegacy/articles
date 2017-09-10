@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-02-28 08:00:31+00:00
 excerpt: Helmikuu on jo osoittanut vahvoja merkkejä tulevasta keväästä, mutta suurin

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2016-04-23 08:05:46+00:00
 excerpt: 1979 Revolution hämärtää entisestään opetuksellisen ja viihteellisen pelin

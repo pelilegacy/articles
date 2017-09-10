@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-02-10 09:35:25+00:00
 excerpt: Way to Go on todennäköisesti paras peli, jota tulet tänään pelaamaan.

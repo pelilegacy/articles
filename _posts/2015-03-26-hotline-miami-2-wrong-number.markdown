@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-03-26 08:43:11+00:00
 excerpt: Hotline Miami 2 -arvion toisessa osassa ruoditaan itse peliä. Jatko-osassa

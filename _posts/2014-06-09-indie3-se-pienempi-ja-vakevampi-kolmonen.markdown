@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-06-09 10:12:41+00:00
 excerpt: IndiE3 on mitä nimensä antaa olettaakin. Indieskenen omat IndiE3-messut järjestetään

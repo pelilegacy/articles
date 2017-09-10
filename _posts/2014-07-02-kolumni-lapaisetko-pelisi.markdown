@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-07-02 13:41:27+00:00
 excerpt: Kolumnissa pohditaan tänään läpäisemättömien pelien aiheuttamaa tuskaa.

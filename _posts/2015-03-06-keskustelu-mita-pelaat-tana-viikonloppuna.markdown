@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-03-06 16:41:35+00:00
 excerpt: Viikonloppu merkitsee sitä, että työhousut potkaistaan pois jalasta ja tilalle

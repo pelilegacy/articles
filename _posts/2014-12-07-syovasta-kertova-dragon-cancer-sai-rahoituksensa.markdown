@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-12-07 11:24:47+00:00
 excerpt: Silloin tällöin raskaasti markkinoidun massan keskeltä nousee pelejä, jotka

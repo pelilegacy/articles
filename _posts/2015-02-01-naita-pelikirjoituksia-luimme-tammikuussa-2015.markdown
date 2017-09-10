@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-02-01 10:13:21+00:00
 excerpt: Tammikuu on selätetty eikä talvea siis enää ole montaa viikkoa jäljellä.

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-09-14 08:55:06+00:00
 excerpt: '"Katso itseäsi, hakkeri. Pateettinen olento, lihaa ja verta. Huohottaen

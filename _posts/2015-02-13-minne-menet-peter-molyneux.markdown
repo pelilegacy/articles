@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-02-13 18:03:57+00:00
 excerpt: Peter Molyneux'n ja 22Cans-studion Godus on joukkorahoitettu, mutta projekti

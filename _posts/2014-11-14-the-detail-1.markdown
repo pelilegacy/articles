@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-11-14 14:24:52+00:00
 excerpt: Turkulaisen Rival Gamesin ensimmäinen suuri peli The Detail on vahvasti film

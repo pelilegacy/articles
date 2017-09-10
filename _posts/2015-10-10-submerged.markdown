@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-10-10 12:59:50+00:00
 excerpt: Meri on kaikessa armottomuudessaan kaunis näyttämö tuhoutuneen kaupungin

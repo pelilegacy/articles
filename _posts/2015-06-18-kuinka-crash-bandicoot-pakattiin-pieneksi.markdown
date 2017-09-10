@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-06-18 15:00:45+00:00
 excerpt: Dave Baggett oli kuuluisan pelistudio Naughty Dogin ensimmäinen työntekijä

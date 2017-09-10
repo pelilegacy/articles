@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-12-18 14:29:16+00:00
 excerpt: Yhdysvaltalainen Matter-lehti tuottaa verkkoon tämän viikon ajan jotain poikkeuksellisen

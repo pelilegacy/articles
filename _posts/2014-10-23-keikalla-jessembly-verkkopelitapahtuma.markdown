@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-10-23 08:50:23+00:00
 excerpt: Peli Legacy osallistui Jyväskylässä järjestettyyn Jessembly-verkkopelitapahtumaan.

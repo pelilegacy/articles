@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-02-02 14:02:38+00:00
 excerpt: 'This War of Mine kertoo enemmän sodasta kuin patriotismia terävästi kritisoinut

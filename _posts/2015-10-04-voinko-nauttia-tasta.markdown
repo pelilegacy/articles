@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-10-04 14:45:02+00:00
 excerpt: Kolumnissa pohditaan voiko pelistä nauttia, vaikka vierastaakin sen tekijöiden

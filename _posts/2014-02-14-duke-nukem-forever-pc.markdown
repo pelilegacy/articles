@@ -1,24 +1,16 @@
 ---
-author: toimitus
-comments: true
+author: jonniestola
 date: 2014-02-14 10:00:32+00:00
-excerpt: Monen nousun ja laskun jälkeen Gearbox osti oikeudet julkaista Duke Nukem
-  Forever sekä Duke Nukemin tavaramerkin kokonaisuudessaan. Peli runnottiin julkaisukuntoon
-  ja pistettiin pihalle potkimaan perseitä. Pelin poikkeuksellisten kehitysvaiheiden
-  seurauksena se on sekoitus uutta ja vanhaa Dukea.
+excerpt: Monen nousun ja laskun jälkeen Gearbox osti oikeudet julkaista Duke Nukem Forever sekä Duke Nukemin tavaramerkin kokonaisuudessaan.
+cover:
+  src: /uploads/2014/02/Duke-Nukem-Forever.jpg
+  alt: Duke Nukem Forever
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/262/duke-nukem-forever-pc
-slug: duke-nukem-forever-pc
 title: 'Arvio: Duke Nukem Forever on terästä vyötäröstä alaspäin'
-wordpress_id: 262
 categories:
 - Arvostelut
 - Toiminta
-tags:
-- Duke Nukem
 ---
-
-[![Duke Nukem Forever](/uploads/2014/02/Duke-Nukem-Forever.jpg)](/uploads/2014/02/Duke-Nukem-Forever.jpg)
 
 Olen lähes sanaton, monestakin syystä. Peli, jonka ensimmäisiä kuvakaappauksia mehustelin jo yläasteen ATK-tunneilla, on arvioitavanani. Koko pelialan suurin vitsi kuivui kokoon 10.6.2011. Sanattomaksi vetää pohdinta, että miten tällainen tekele pitäisi arvioida? Otetaanko huomioon pelin historiallisen kivulias syntyprosessi vai pannaanko kova kovaa vasten ja tuomitaan raa'asti tämän päivän standardeilla? Totuus on tuolla jossain. Siinä välissä, jännän äärellä ja haluan uskoa.
 
@@ -41,5 +33,3 @@ Jotkut sanovat, että ronski mukahuumori menee paikoin mauttomuuksiin (Hive-kent
 Isoimmat miinukset tulevat -- taas vaihteeksi -- sieltä mikrotukiosastolta. Latausajat ovat luokkaa puoli minuuttia ja latausruutua saa tuijottaa usein. Peli on kohtuullisen haastava moniin muihin nykypäivän tuotoksiin verrattuna ja osa kentistä sisältää suorastaan mielivaltaisen lyhyitä osioita (esim. Duke Burgerin ensimmäinen osio kestää noin minuutin, jos tiedät mihin mennä eikä siinä ole edes vihollisia). Tehokoneella peli näyttää hyvältä ja toimii nopeasti. Konsoleilla XO-versio kuuluu olevan _tearingeineen_ ja tekstuurien latausongelmineen suorastaan katastrofaalinen PS3-version sijoittuessa siihen välimaastoon. Videoita vertailemalla eri konsoliversiot näyttävät samalta. Ehkä _boximiehet_ ovat tottuneet parempaan laatuun kun taas meille riittää vähempikin. Toinen iso miinus on edellä mainittu neljän aseen kantoraja. Ei tunnu kovin Duke Nukemilta kun jotkut selviytymiskauhupelien päähahmot saavat mukaansa jopa moninkertaisen asevalikoiman.
 
 Duke Nukem Forever on aikaansa jäljessä oleva reliikki, joka yrittää pysyä ajan hermolla, muttei juuri muuksi muutu. Tietyllä tapaa tuntuu, että uusista ja vanhoista vaikutteista on otettu molemmista huonot puolet ja karsittu hyvät. Mikä on siis lopputulos? Peli jossa kentät ovat nykyiseen tyyliin suoraa putkea, sisältävät skriptattuja tapahtumia ja hyvin rajatun aseiden kantokyvyn. Vanhan koulun peleistä mukaan on otettu huono tekoäly, olematon juoni ja äkkikuolemia aiheuttavat tasoloikkakohtaukset. Alkuperäisestä Dukesta on oikeastaan jäljellä vain suhteellisen munakkaat aseet, typerät macholäpät ja tissit.
-
-**Teksti ja kuvat:** Jonni Estola

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-05-02 11:10:44+00:00
 excerpt: Mitä tapahtui huhtikuussa, ei jää vain huhtikuuhun.

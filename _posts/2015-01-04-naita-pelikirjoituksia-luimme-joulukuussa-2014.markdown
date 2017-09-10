@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-01-04 13:34:12+00:00
 excerpt: Pyöreän pöydän blogit kokoontuvat vuoden ensimmäistä linkkikatsausta varten.

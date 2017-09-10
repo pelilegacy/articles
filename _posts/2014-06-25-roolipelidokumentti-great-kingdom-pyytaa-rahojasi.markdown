@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-06-25 09:23:21+00:00
 excerpt: Kickstarteriin tiensä löytänyt The Great Kingdom ei ole ensimmäinen eikä

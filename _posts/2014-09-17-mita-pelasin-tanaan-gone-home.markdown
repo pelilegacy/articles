@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-09-17 08:09:35+00:00
 excerpt: Fullbrightin kehittämä ja julkaisema indie-peli Gone Home teki ilmestyessään

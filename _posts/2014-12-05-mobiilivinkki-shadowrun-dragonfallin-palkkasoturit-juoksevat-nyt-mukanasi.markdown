@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2014-12-05 12:27:55+00:00
 excerpt: 'Harebrained Schemesin Shadowrun: Dragonfall on yksi vuoden arvostetuimpia

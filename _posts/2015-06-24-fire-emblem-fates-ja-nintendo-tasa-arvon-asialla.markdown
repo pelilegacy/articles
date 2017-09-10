@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-06-24 09:23:07+00:00
 excerpt: Nintendo vahvisti verkkojulkaisu Polygonille, että tuleva Fire Emblem -sarjan
