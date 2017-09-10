@@ -19,7 +19,7 @@ tags:
 - Kickstarter
 ---
 
-[![Cognition: An Erica Reed Thriller](http://www.pelilegacy.fi/wp-content/uploads/2014/08/cognition-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/cognition.jpg)
+[![Cognition: An Erica Reed Thriller](/uploads/2014/08/cognition-1050x590.jpg)](/uploads/2014/08/cognition.jpg)
 
 Vahvat naishahmot ovat usein ihmisiä puhuttava asia videopeleissä ja niiden puutteesta muodostuu usein paljon kritiikkiä. Todettakoon, että todella moni peli niiden puutteesta kärsiikin. **Phoenix Online Studiosin** kehittämä ja julkaisema **Cognition** tarjoaa viime vuosien hienoimmin käsikirjoitettua elokuvamaista ja episodeihin jaettua seikkailupelaamista uskottavalla päähahmolla varustettuna. Aiemmin tänä vuonna julkaistu [Moebius: Empire Rising](http://www.pelilegacy.fi/arvostelut/569/arvio-moebius-ja-imperiumi-joka-nousi-tai-romahti) oli ymmärrettävästi pettymys monille, joskin siitä itse pidinkin. Mutta miten se liittyy Cognitioniin? Koska myös sen pelin taustalla on tarinaa ollut kirjoittamassa tarunhohtoinen **Jane Jensen**, joka lahjoillaan vakiinnutti asemansa pelialalla jo 90-luvulla muinaisessa **Gabriel Knight** -pelisarjassa.
 

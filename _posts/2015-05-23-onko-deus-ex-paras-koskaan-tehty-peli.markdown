@@ -22,7 +22,7 @@ tags:
 
 
 
-[![Deus Ex – paras peli koskaan?](http://www.pelilegacy.fi/wp-content/uploads/2015/04/deus_ex-1200x675.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/04/deus_ex.jpg)
+[![Deus Ex – paras peli koskaan?](/uploads/2015/04/deus_ex-1200x675.jpg)](/uploads/2015/04/deus_ex.jpg)
 
 [Betteridgen otsikoinnin lain](https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines) mukaan mihin tahansa kysymysmerkkiin päättyvään otsikkoon voidaan vastata kieltävästi. Jos unohdamme sellaisen pykälän hetkeksi ja pohdimme, onko **Deus Ex** paras koskaan tehty peli? Puhutaan otsikon sanavalinnassa nimenomaan peleistä välittämättä siitä, ilmestyivätkö ne konsoleille, mobiililaitteille, tietokoneelle, kaikille vaiko vain osalle edellä mainituista.
 

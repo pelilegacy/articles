@@ -20,7 +20,7 @@ tags:
 - Uutuudet
 ---
 
-[![Moebius: Empire Rising](http://www.pelilegacy.fi/wp-content/uploads/2014/04/moebius-1050x548.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/moebius.png)
+[![Moebius: Empire Rising](/uploads/2014/04/moebius-1050x548.png)](/uploads/2014/04/moebius.png)
 
 
 
@@ -38,13 +38,13 @@ Edellä mainitut pelit eivät ole keskenään vertailukelpoisia, sillä esimerki
 
 Onko Moebius kypsä lippulaivaksi tämän vuosikymmenen seikkailupeleille? Mielestäni se muutamista puutteista huolimatta täyttää tehtävänsä ja on hintansa arvoinen.
 
-[caption id="attachment_571" align="aligncenter" width="1024"][![Moebius in Cairo](http://www.pelilegacy.fi/wp-content/uploads/2014/04/moebius_in_cairo.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/moebius_in_cairo.png) Pelissä on useita eksoottisia paikkoja, kuten kuvan Kairo.[/caption]
+[caption id="attachment_571" align="aligncenter" width="1024"][![Moebius in Cairo](/uploads/2014/04/moebius_in_cairo.png)](/uploads/2014/04/moebius_in_cairo.png) Pelissä on useita eksoottisia paikkoja, kuten kuvan Kairo.[/caption]
 
 Moebiukseen kohdistunut hype ei ollut liioiteltua, sillä sekä Cognitionin että Moebiuksen tarinat ovat peräisin itsensä **Jane Jensenin** kynästä. Tämä nerokas nainen on vastannut myös _Gabriel Knight_ -sarjasta ja muuan _King’s Quest VI_ -pelistä. Hän osasi kertoa meille voodoomurhista New Orleansin kaupungissa, mutta mitä hän osaa kertoa meille salaliittoteorioista, antiikista ja historian hahmoista? Yllättävän paljon, sillä Moebius ei säästele pelaajaa tiedolta. Sekä dialogia että tarinaa tukevaa informaatiota löytyy riittämiin pelin sisältä. Oma pelikertansa voisi mennä pelkästään jokaisen esineen, asian ja dialoginpätkän tutkimiseen.
 
 Moebiuksen päähahmona seikkailee herrasmiestutkija Malachi Rector, joka päivätöikseen kiertää maailmaa niinkin arkisissa asioissa kuin antiikkiesineitä tutkimassa. Rectorin erikoisuuksina ovat valokuvantarkka huomiokyky ja muisti, jotka auttavat merkittävästi esineitä ja hahmoja tutkiessa. Malachin tarinaa pohjustetaan pelin päävalikosta löytyvällä sarjakuvalla, mutta se jää ohueksi. Rectorin erikoiskyvyt tuskin perustuvat siihen, että tämä lapsena joutui todistamaan äitinsä tulleen leijonan syömäksi. On pelaajan pääteltävissä, mistä Rectorin kyvyt ovat tulleet. Osa kokee tämän eittämättä häiritsevänä juonellisena puutteena, mutta omalla kohdallani salaperäisyys lisäsi kiinnostusta. Jää nähtäväksi nouseeko pelin tarinasta fanien kirjoittamaa fiktiota.
 
-[caption id="attachment_572" align="aligncenter" width="1024"][![Moebius in Venice](http://www.pelilegacy.fi/wp-content/uploads/2014/04/moebius_in_venice.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/moebius_in_venice.jpg) Venetsia kylpee väreissä ja valaistuksissa[/caption]
+[caption id="attachment_572" align="aligncenter" width="1024"][![Moebius in Venice](/uploads/2014/04/moebius_in_venice.jpg)](/uploads/2014/04/moebius_in_venice.jpg) Venetsia kylpee väreissä ja valaistuksissa[/caption]
 
 Rectorin rinnalla kävelee palkattua ja pumpattua lihasta vihreän baretin, kapteeni David Walkerin muodossa. Hahmojen välillä on alusta alkaen selvää jännitettä – voinette arvata millaista. Miesten katseet kohtaavat useamman kerran ja tilanne on sangen latautunut. Henkilökemia laukeaa pelin lopussa melko viattomasti, vaikka tilaisuus repäistä kunnolla oli käsillä.
 
@@ -56,7 +56,7 @@ Asia jossa Moebius jää vertaisistaan paitsi on viimeistelemättömät hahmot. 
 
 Hahmoista oma lukunsa ovat pelin naiset. Rectorin sihteeri Gretchen osaa ainoastaan seistä päivästä toiseen toimistolla taulutietokone kädessään tai käydä treffeillä. Peli yrittää saada jonkinlaista romanssia Walkerin ja Gretchenin välille, mutta se katkeaa lyhyeen ja aiheeseen ei sen koommin palata. Senaattori Markhamin entinen tyttöystävä Dominique on narussa vietävää lihaa, jonka kohtalo pelissä on päätyä aseella uhkailluksi. Kiinteämmin pelin pääjuonessa mukana olevat rikkaat neidot ovat lähinnä jatkuvan avun tarpeessa. Tuntuu siltä kuin pelintekijä vihaisi naisia ja haluaisi korostaa heikomman sukupolven olemassaoloa, mikä on mielenkiintoista kun kyseessä on Jane Jensen.
 
-[caption id="attachment_573" align="aligncenter" width="1050"][![Moebius analysointi](http://www.pelilegacy.fi/wp-content/uploads/2014/04/moebius_analysointi-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/moebius_analysointi.jpg) Hahmojen analysointi on puuduttavaa yrityksen ja erehdyksen nopan heittoa.[/caption]
+[caption id="attachment_573" align="aligncenter" width="1050"][![Moebius analysointi](/uploads/2014/04/moebius_analysointi-1050x590.jpg)](/uploads/2014/04/moebius_analysointi.jpg) Hahmojen analysointi on puuduttavaa yrityksen ja erehdyksen nopan heittoa.[/caption]
 
 Pelin suurin kompastuskivi on hahmojen ja esineiden analysointi. Analysoidessasi hahmoa et saa heistä mitään vinkkiä miten he käyttäytyvät. Usein kolmesta tai neljästä vaihtoehdosta joudut sokkona valitsemaan oikein ja oikea tulos tuleekin vasta usean yrityksen ja erehdyksen kautta.
 
@@ -64,7 +64,7 @@ Jokaisen hahmon elämästä kerätään lista yksityiskohtia eli datapisteitä, 
 
 Toinen asia, joka sai allekirjoittaneen lähes raivostumaan, oli esineiden rajallinen tarve. Eräässä pelin kohtauksessa on lahjottava nuori tyttö harhauttamaan liikemies, jotta saat häneltä VIP-passin. Koska nuori tyttö kuuntelee musiikkinsa Walkmanilla, on hänelle haettava Rectorin asunnosta MP3-soitin. Älyttömyys iskee siinä, että tätä soitinta ei saa mukaan ennen kuin pelihahmo kokee tarvitsevansa kantaa sitä. Sama ongelma ei toistu vain esineiden vaan myös alueiden kanssa. Et voi astua sisään baariin ennen kuin tiedät tarvitsevasi alkoholia. Kieltämättä tarkoitus on olla jossain määrin realistinen, sillä eihän kukaan tarvitse esimerkiksi saksia mukaansa ennen kuin jotain on leikattava. Ongelmallisesti tämä lisää alueelta toiselle juoksemista, joka on vieläpä tuskallisen hidasta. Välillä Rector pysäyttää pelin nielaistakseen Xanaxia paniikkioireisiinsa. Tämä on piikki syvällä lihassa, joka latistaa pelaamisen iloa merkittävästi. Onneksi kuitenkaan kaikki luvut pelissä eivät mene eteenpäin näin hitaasti.
 
-[caption id="attachment_574" align="aligncenter" width="1050"][![Moebius Desert Cutscene](http://www.pelilegacy.fi/wp-content/uploads/2014/04/moebius_cutscene-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/moebius_cutscene.jpg) Välivideoita kuvataan mm. sarjakuvapaneelien avulla[/caption]
+[caption id="attachment_574" align="aligncenter" width="1050"][![Moebius Desert Cutscene](/uploads/2014/04/moebius_cutscene-1050x590.jpg)](/uploads/2014/04/moebius_cutscene.jpg) Välivideoita kuvataan mm. sarjakuvapaneelien avulla[/caption]
 
 Kaiken tämän vuodatuksen jälkeen saattanette kysyä, miten voin suositella Moebiusta kellekään pelaajalle? Robert Holmesin säveltämät musiikit, mielenkiintoiset välivideot ja Jensenin sujuva tarinankuljetus nostavat kuitenkin jo yksinään Moebiuksen tämän vuoden seikkailupelien parhaimmistoon. Turhan usein tämän tyylisuunnan peleissä nähdään kohtaukset toisiinsa huonosti sitovia tarinaosuuksia, mutta tästä ei Moebiuksen suhteen tarvitse kantaa huolta. Puhaltamalla hieman lisää eloisuutta hahmoihin, korjaamalla isoimmat pelimekaaniset viat, kuten esineiden käytön ja analysoinnin, olisi Moebius ansainnut täydet viisi tähteä. Tällaisenaan lopputulos putoaa jonnekin kolmen tähden paikkeille.
 

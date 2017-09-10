@@ -23,7 +23,7 @@ tags:
 - Uutispelit
 ---
 
-[![Passengers](http://www.pelilegacy.fi/wp-content/uploads/2015/08/passengers_game.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/08/passengers_game.jpg)
+[![Passengers](/uploads/2015/08/passengers_game.jpg)](/uploads/2015/08/passengers_game.jpg)
 
 Euroopan pakolaiskriisi syvenee entisestään useiden ihmisen ottaessa riskin Välimerta ylittäessä. Kuluvan vuoden keväästä alkaen jo yli tuhat ihmistä on joutunut äärimmäisen vaarallisten salakuljetusmatkojen uhriksi. [Vice-lehdessä julkaistun syväluotaavan artikkelin](http://motherboard.vice.com/read/hell-on-high-seas) mukaan satoja turvapaikanhakijoita ahdetaan pieniin huonokuntoisiin aluksiin vailla kunnollista muonitusta. Joskus olot ovat jopa niin tukalat, että matkustajat joutuvat lähtemään toiseen maahan kokonaan ilman miehistöä apunaan vain kompassi. Samalla Euroopan unionin jäsenmaissa keskustellaan pitäisikö hädässä olevia ihmisiä vastaanottaa lainkaan.
 
@@ -47,7 +47,7 @@ Päädyin ottamaan mahdollisimman paljon ihmisiä mukaan kalliilla pääsymaksul
 
 _Passengersin_ eteen asettamat eettiset kysymykset ovat suorastaan tyrmääviä. Otatko mukaan sairaita ihmisiä, jotka lähes varmasti kuolevat matkalla vai siirrätkö heidät syrjään ja varustat laivasi vain terveillä ihmisillä? Otatko mukaan enemmän ihmisiä kuin kantokyky sallii ja riskeeraat kaikkien hengen? Jos tiedät jollain olevan enemmän rahaa kuin toisella, yrittäisitkö neuvotella tältä suuremman maksun?
 
-[![Passengers](http://www.pelilegacy.fi/wp-content/uploads/2015/08/passengers.gif)](http://www.pelilegacy.fi/wp-content/uploads/2015/08/passengers.gif)
+[![Passengers](/uploads/2015/08/passengers.gif)](/uploads/2015/08/passengers.gif)
 
 **Lucas Popen** indie-menestykseksi noussut _Papers Please_ on selkeästi eräs ensimmäisenä mieleen tulevista verrokeista, mutta Passengersissa ihmisten karsiminen ei ole mustavalkoinen kysymys maahan pääsemisestä. Pelissä on ehdottomasti ainesta jatkokehitykselle.
 

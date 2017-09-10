@@ -20,7 +20,7 @@ tags:
 - Twitch
 ---
 
-[![Twitch](http://www.pelilegacy.fi/wp-content/uploads/2014/08/twitch.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/twitch.jpg)
+[![Twitch](/uploads/2014/08/twitch.jpg)](/uploads/2014/08/twitch.jpg)
 
 **Päivitys:** _Twitch on sittemmin [ottanut askeleen taaksepäin](http://blog.twitch.tv/2014/08/two-important-updates-more-to-come/) teoissaan poistamalla kohokohtien aikarajoituksen ja lisäämällä oikeuden valittaa merkityn musiikin vuoksi mykistetystä videosta. Tämä ei tosin muuta sitä tosiasiaa, että muutoksista on viestitty kehnosti ja niiden toteuttaminen on hoidettu arveluttavasti._
 

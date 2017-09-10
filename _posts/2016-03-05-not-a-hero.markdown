@@ -28,7 +28,7 @@ tags:
 
 
 
-[![Vote BunnyLord](https://www.pelilegacy.fi/wp-content/uploads/2016/03/bunnylord.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/03/bunnylord.jpg)
+[![Vote BunnyLord](/uploads/2016/03/bunnylord.jpg)](/uploads/2016/03/bunnylord.jpg)
 
 [ingressi]Vaalijärjestelmää pilkkaava Not a Hero voisi viihdyttää enemmänkin.[/ingressi]
 
@@ -56,7 +56,7 @@ _Not a Hero_ supistaa kekseliäästi perinteisistä toimintapeleistä tutuksi tu
 
 Yksikään pelattava hahmo ei ole täydellinen valinta jokaiseen tilanteeseen, vaan päätös on tehtävä oman pelityylin mukaisesti ja tasoja hartaasti opiskellen. Päädyin useimmiten valitsemaan hahmokseni walesilaisen palkkasoturi **Samanthan**, jonka kyky ladata aseet juostessa on avuksi rämäpäisyyttä ja uskallusta vaativissa tilanteissa. Niistä peli usein myös palkitseekin eniten. _OlliOllin_ tyyliin jokainen taso nimittäin koostuu pienistä saavutuksista, jotka vaihtelevat mahdollisimman nopeasta läpäisystä siviilien suojelemiseen.
 
-[![Not a Hero](https://www.pelilegacy.fi/wp-content/uploads/2016/03/not-a-hero.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/03/not-a-hero.jpg)
+[![Not a Hero](/uploads/2016/03/not-a-hero.jpg)](/uploads/2016/03/not-a-hero.jpg)
 
 _Not a Heron_ tasot esitetään auki leikattuina kerrostaloina, jotka osittain tuovat mieleen vanhat MS-DOS-alustalle julkaistut toimintapelit tai esimerkiksi **Blizzardin** _Blackthorne_-seikkailun. Retroilua rakastavan esitystavan suurin ongelma kuitenkin on, että toiminnasta on toisinaan vaikea saada kunnollista selvyyttä. Liian usein pikselihahmot sekoittuvat värikkäisiin taustoihin ja kaukaa kuvatun kameran vuoksi etenkin pelin hektisimmissä kohdissa on vain puristettava liipaisinta ja toivottava parasta. Riemu ei ole korkeimmillaan, kun tarkoin kaavailtu suoritus kaatuu taustakoristeelta näyttävän vihollisen niskalaukaukseen, jonka jälkeen mahdollisesti hyvinkin pitkä taso on aloitettava alusta.
 

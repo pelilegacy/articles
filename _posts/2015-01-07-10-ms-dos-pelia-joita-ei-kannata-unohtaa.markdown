@@ -19,7 +19,7 @@ tags:
 - Retro
 ---
 
-[caption id="attachment_1258" align="aligncenter" width="1050"][![Oregon Trail](http://www.pelilegacy.fi/wp-content/uploads/2015/01/oregon_trail-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/oregon_trail.jpg) MECC:n The Oregon Trail on yksi yli 2000 DOS-pelistä saatavilla selaimeesi.[/caption]
+[caption id="attachment_1258" align="aligncenter" width="1050"][![Oregon Trail](/uploads/2015/01/oregon_trail-1050x591.jpg)](/uploads/2015/01/oregon_trail.jpg) MECC:n The Oregon Trail on yksi yli 2000 DOS-pelistä saatavilla selaimeesi.[/caption]
 
 [ingressi]Kun DOS voi merkitä myös hyvää…[/ingressi]
 

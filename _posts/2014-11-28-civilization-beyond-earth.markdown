@@ -20,7 +20,7 @@ tags:
 - Sid Meier
 ---
 
-[![Sid Meier's Civilization: Beyond Earth](http://www.pelilegacy.fi/wp-content/uploads/2014/11/civilization_beyond_earth_1-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/11/civilization_beyond_earth_1.jpg)
+[![Sid Meier's Civilization: Beyond Earth](/uploads/2014/11/civilization_beyond_earth_1-1050x590.jpg)](/uploads/2014/11/civilization_beyond_earth_1.jpg)
 
 [ingressi]Tieteen voitto on vasta uusi haaste ihmiskunnalle sen matkattua Maan tuolle puolen leveämpää elintilaa etsimään. Jos tähtikartalla määränpäänäsi luki Alpha Centauri, jatka matkaasi.[/ingressi]
 **Sid Meierin** ja **Firaxis Gamesin** uusin hengentuotos pyrkii osaltaan vastaamaan ihmiskuntaa jo vuosikymmeniä piinanneeseen ongelmaan: kauanko rakkaalla planeetallamme on vielä aikaa, ja minne lähdemme täältä kun se aika loppuu? Beyond Earth jättää ensimmäisen kysymyksen avoimeksi, mutta tarjoaa Maan jättäneille uuden kodin avaruuden tähtitarhasta.
@@ -33,7 +33,7 @@ Beyond Earth hakee koukkunsa _affiniteeteista_, joita voisi ajatella sivilisaati
 
 Kuten roolipeleissä yleensä, pelaaja valitsee tien oman pelityylinsä mukaisesti. Valitsemallani harmonian tiellä oli selkeä sotilaallinen etu planeetan eliöstön asettuessa puolelleni. Miksi taistella sellaista vastaan, jota voit hallita?
 
-[![Sid Meier's Civilization: Beyond Earth](http://www.pelilegacy.fi/wp-content/uploads/2014/11/civilization_beyond_earth_2-1050x595.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/11/civilization_beyond_earth_2.jpg)
+[![Sid Meier's Civilization: Beyond Earth](/uploads/2014/11/civilization_beyond_earth_2-1050x595.jpg)](/uploads/2014/11/civilization_beyond_earth_2.jpg)
 
 Kritiikin näkökulmasta Civilization on mekaniikoillaan alleviivannut useita tälläkin hetkellä Maassa esiintyviä ongelmia, kuten liikakansoitus, saasteet, ilmastonmuutos ja terrorismi. Muutto uudelle planeetalle siirtää merkitykset harmittavasti varjoon. Beyond Earth kuvastaa huomattavasti enemmän ihmiskunnan ponnistelua luontoa vastaan kuin sen sisäisiä konflikteja. Muut sivilisaatiot ovat edelleen kilpailemassa pelaajan kanssa voitoista, mutta muun sisältönsä ohella ne jäävät laihoiksi. Nämä sivilisaatiot eivät enää edusta valtioita tai kansallisuuksia, vaan monikansallisia ryhmittymiä. Ryhmittymissä on mielenkiintoisia ja tämän päivän yhteiskunnallisia arvoja peilaavia piirteitä, kuten amerikkalaisen kapitalismin puolesta liputtava ARC tai **Vladimir Putininkin** kaavailema uusi Neuvostoliitto Slaavisen federaation muodossa. Valitettavasti pelimekaniikassa tämä näkyy lähinnä eri suuntausten seuraamisena, jolloin lupaava alkuasetelma hukataan.
 
@@ -45,7 +45,7 @@ Sarjan aiemmissa osissa johtajilla oli selkeä historiallinen konteksti, jota ei
 
 Johtajista on kerrottu pelin omassa [wikissä](http://civilizationbeyondearth.gamepedia.com/Promotional_Materials#Leader_Interviews), mutta miksei näitä ole upotettu pelin narratiiviin? Henkilökohtaisesti en pidä siitä, että pelejä on opiskeltava niiden ulkopuolisista lähteistä, sillä kiistatta paras tapa oppia pelistä lisää on pelata sitä. Pelatessa oppiminen kun on hauskaa.
 
-[![Sid Meier's Civilization: Beyond Earth](http://www.pelilegacy.fi/wp-content/uploads/2014/11/civilization_beyond_earth_3-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/11/civilization_beyond_earth_3.jpg)
+[![Sid Meier's Civilization: Beyond Earth](/uploads/2014/11/civilization_beyond_earth_3-1050x590.jpg)](/uploads/2014/11/civilization_beyond_earth_3.jpg)
 
 Uuden teknologian kehittäminen ei Beyond Earthissa etene enää lineaarisesti vasemmalta oikealle, aakkosten opettelusta laseriin, vaan tutkimus on muutettu verkkomalliseksi järjestelmäksi. Kuten arvata saattaa, pelaajan ei tarvitse tällä kertaa aloittaa opiskelua kirjoitustaidosta, vaan tarjolla on kasa futuristisia tieteitä, joiden hallitsemisesta moni nanotieteiden tohtorikin olisi kateellinen. Mitä kauemmaksi teknologioiden verkossa vaellat, sitä kalliimpaa tutkiminen on. Tutkia voi silti suoraviivaisesti, mikäli päättää ehdoitta seurata omaa suuntautumistaan.
 
@@ -57,7 +57,7 @@ Ihmiskunnan uusi koti tähtien tuolla puolen on kaikessa kosteudessa ja synkkyyd
 
 Avaruusolennot ovat yhteiskuntaa vaivaavia syöpäläisiä siinä missä edellisten osien barbaaritkin. **Paul Verhoevenin** _Starship Troopersista_ vaikutteita ottaneet avaruusolennot ovat parhaimmillaan vaikuttavia ilmestyksiä kauempaakin tarkasteltuna. Jättimäisen piirittäjämadon pommittaminen lentokoneilla tai meritursaan kurittaminen laivaston tykeillä on hauskaa seurattavaa. Vielä hauskemmaksi yhteenotot menevät oman teknologian kehittyessä vastustuskykyisemmäksi muukalaisia kohtaan. Roolipelimäisiä elementtejä hyödynnetään myös armeijan kehittämisessä pelaajan tehdessä valintoja siitä, millaisia bonuksia kukin uusi rakennettava yksikkö saa.
 
-[![Sid Meier's Civilization: Beyond Earth](http://www.pelilegacy.fi/wp-content/uploads/2014/11/civilization_beyond_earth_4-1050x534.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/11/civilization_beyond_earth_4.jpg)
+[![Sid Meier's Civilization: Beyond Earth](/uploads/2014/11/civilization_beyond_earth_4-1050x534.jpg)](/uploads/2014/11/civilization_beyond_earth_4.jpg)
 
 Pelin kuluessa en osannut sanoa ohjasiko avaruusolentojen käyttäytymistä jokin mutkikkaampi algoritmi vai oliko niiden aggressiivisuus sattuman sanelemaa. Usein pystyin tutkijoillani kulkemaan suhteellisen läheltä avaruusolentojen yksiköitä niiden kiinnostumatta ja toisinaan ne hakeutuivat luokseni liiankin uteliaina. Pohjimmiltaan avaruusolennot ovat kuitenkin barbaareja uusissa vaatteissa.
 

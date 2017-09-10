@@ -23,7 +23,7 @@ Hotline Miami 2: Wrong Number -arvio julkaistaan poikkeuksellisesti kahdessa osa
 
 
 
-[![Levyarvio](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2_levyraati.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2_levyraati.jpg)
+[![Levyarvio](/uploads/2015/03/hotline_miami_2_levyraati.jpg)](/uploads/2015/03/hotline_miami_2_levyraati.jpg)
 
 [ingressi]Syvän Floridan auringonlaskussa kukaan ei säästy elektroniselta ja rytmiseltä tykistötulelta, jota Hotline Miami 2: Wrong Number -musiikkiraita tarjoaa.[/ingressi]
 

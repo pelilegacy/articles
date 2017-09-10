@@ -21,7 +21,7 @@ tags:
 - Tulossa
 ---
 
-[![Logo](http://www.pelilegacy.fi/wp-content/uploads/2014/08/gabriel_knight_logo_talisman.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/gabriel_knight_logo_talisman.jpg)
+[![Logo](/uploads/2014/08/gabriel_knight_logo_talisman.jpg)](/uploads/2014/08/gabriel_knight_logo_talisman.jpg)
 
 
 
@@ -37,19 +37,19 @@ Activisionin henkiin herättämällä kierrätysmuovi-Sierralla ei kuitenkaan ol
 
 Tarkemman ulkoasun lisäksi varjometsästäjän paluuta pelatessa voi nauttia **Robert Holmesin** uudelleenmasteroidusta ääniraidasta, kulissien takaisista herkuista sekä lukea taustatietoa alkuperäisen pelin suunnitteluvaiheilta pelin sisäisestä päiväkirjasta. Kuuma kysymys on voiko kaksi vuosikymmentä sitten säväyttänyt peli siirtyä ongelmitta nykyaikaan?
 
-[![Gabriel Knight: Sins of the Fathers - Police Station](http://www.pelilegacy.fi/wp-content/uploads/2014/08/gabriel_knight_remake_1-1050x560.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/gabriel_knight_remake_1.jpg)
+[![Gabriel Knight: Sins of the Fathers - Police Station](/uploads/2014/08/gabriel_knight_remake_1-1050x560.jpg)](/uploads/2014/08/gabriel_knight_remake_1.jpg)
 
 Minulle Gabriel Knight edustaa aikansa parempia seikkailupelejä, jotka ilmestyessään vaikuttivat tasokkaalla käsikirjoituksellaan ja kypsillä teemoillaan merkittävästi tyylilajin kehittymiseen. Tuolloin olin tosin kiinnostunut aivan toisenlaisista peleistä, mutta jälkeenpäin on helppo uskoa _Sins of the Fathersin_ merkinneen monille käännekohtaa **LucasArtsin** julkaisemien huumoripitoisten seikkailupelien valtaamassa maastossa. Jensenin kirjoittamassa maailmassa yhdisteltiin Amerikan syntyyn vaikuttaneita historiallisia tapahtumia, fiktiota ja jännitystä tavalla, joka olisi saanut usean kaapelikanavan TV-sarjan näyttämään tylsältä. Tärkeänä yksityiskohtana pelin naishahmot eivät olleet pelkkiä koristeita, vaan juonelle kriittisiä toimijoita, mikä ei ollut alalle tyypillistä tuolloin – eikä ole valitettavasti nytkään.
 
 Kiitos alkuperäisen pelin tunnelmasta kuuluu myös ääninäyttelyyn osallistuneille **Tim Currylle** ja **Mark Hamillille**, jotka eivät valitettavasti ole edustamassa Gabrielin ja rikosetsivä Moselyn ääniä uusversiossa. Alkuperäiset ääninäyttelyraidat on historia niellyt sisäänsä, joten uudet teetätettiin **Telltalen** pelien tuotannossakin vaikuttaneelta **Bay Area Soundilta**. Uudet ääninäyttelijät eivät tietenkään vedä vertoja Curryn ja Hamillin suvereenille työskentelylle, mutta mikä kelpaa Jensenille kelpaa myös minulle.
 
-[caption id="attachment_901" align="aligncenter" width="1050"][![Gabriel Knight: Sins of the Fathers - Lake Pontchartrain](http://www.pelilegacy.fi/wp-content/uploads/2014/08/gabriel_knight_remake_2-1050x560.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/gabriel_knight_remake_2.jpg) Lähtisitkö Gabrielin kanssa piknikille tälle rannalle?[/caption]
+[caption id="attachment_901" align="aligncenter" width="1050"][![Gabriel Knight: Sins of the Fathers - Lake Pontchartrain](/uploads/2014/08/gabriel_knight_remake_2-1050x560.jpg)](/uploads/2014/08/gabriel_knight_remake_2.jpg) Lähtisitkö Gabrielin kanssa piknikille tälle rannalle?[/caption]
 
 Ensimmäinen päivä alkaa tutusti postinjakajan pyöräillessä St. Georgen kirjakaupan ohi, jonne myös Gabrielin assistentti **Grace Nakimura** astelee työpäiväänsä varten. Gabriel heräilee tovin kuluttua kaupan takahuoneesta nähtyään seitsemättä päivää putken painajaisia. Näyttämö on tuttu alkuperäistä peliä pelanneille, joskin ensimmäisenä silmiin pistää kirjakaupan siisteys ja valossa kylpeminen. Ero alkuperäiseen on suuri, mutta ei niin suuri kuin myöhemmin samana päivänä Pontchartrain-järvellä. Ennen niin kalsea ja uhkaavan tuntuinen ranta verityön jälkeen muistuttaa nyt enempi piknikille sopivaa vapaa-ajan kohdetta – sentään verinen hiekka on säilytetty. Uusi taiteellinen suunta on herättänyt jo aikaisemmin keskustelua kuvakaappausten tultua julki, mutta vasta pelin sisällä kontrastin käsittää itsekin. Olisin säilyttänyt alkuperäisen pelin väripaletin, sillä se alleviivasi hyvin sitä kuinka New Orleansin kaupungin päältä viattoman katukuvan takana sykkii mustan magian täyttämä varjomaailma. Uuden version lämpimät värisävyt tuntuvat liian rauhoittavilta palvellakseen murhamysteerin näyttämöllepanoa. Hyvänä puolena mainittakoon kuitenkin, että kuuluisan käärmeensuomun metsästäminen rantahiekasta on nyt huomattavasti helpompaa, kunhan muistat ottaa kirjakaupasta mukaasi suurennuslasin ja pinsetit.
 
 Vaikka pelin ympäristöt ovatkin hienot, kärsii tämäkin demo ikävistä graafisista bugeista – ne ovat kaiken lisäksi juuri samoja, joita esimerkiksi _Cognitionissa_ ja _Moebiuksessa_ saattoi kokea. Puistossa ihmiset kulkevat toistensa kehojen lävitse raajat kömpelösti heiluen, hahmot tarraavat esineisiin luonnottoman näköisesti ja raajat sujahtelevat läpi milloin mistäkin. Poliisiasemalla Gabrielin ranne tunkeutuu varsin kivuttoman näköisesti Moselyn kaulan läpi ja virkailija poimii mapin lipastosta sitä avaamatta. Näiden osalta peli tulee toivottavasti saamaan vaatimaansa hiomista, ellei ongelmien aiheuttajana ole Unity-pelimoottori, mitä aikaisempien pelien valossa pahoin pelkään.
 
-[caption id="attachment_902" align="aligncenter" width="1050"][![Gabriel Knight: Sins of the Fathers - Malia Gedde](http://www.pelilegacy.fi/wp-content/uploads/2014/08/gabriel_knight_remake_3-1050x560.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/gabriel_knight_remake_3.jpg) Dialogiruudussa keltainen teksti vie juonta eteenpäin[/caption]
+[caption id="attachment_902" align="aligncenter" width="1050"][![Gabriel Knight: Sins of the Fathers - Malia Gedde](/uploads/2014/08/gabriel_knight_remake_3-1050x560.jpg)](/uploads/2014/08/gabriel_knight_remake_3.jpg) Dialogiruudussa keltainen teksti vie juonta eteenpäin[/caption]
 
 Käyttöliittymä on tehty sujuvammaksi ja sen saa piilotettua halutessaan kokonaan. Varoituksena ei kannata kytkeä päälle pelin päävalikosta löytyvää Easy Mode -asetusta, sillä tällöin peli yrittää arvata, mitä kunkin esineen tai ihmisen kanssa Gabriel haluaa tehdä. Seuraukset ovat jonkin aikaa huvittavia, mutta ennen pitkää jäät auttamatta jumiin huomatessasi, ettei poliisivirkailijaan kuulukaan käyttää hautausmaalta löydettyä tiiliskiveä, vaan hänen kanssaan tulee keskustella. Asetuksen tarkoitus on ilmeisesti tehdä pelin aloituskynnys matalammaksi heille, jotka eivät ole hiiriohjattavia seikkailupelejä aikaisemmin pelanneet, mutta käytännössä se vain vaikeutti asiaa. Kohteen klikkaaminen ja halutun toiminnon valitseminen hiirellä on jo riittävän vaivatonta, joten kyseisen asetuksen voi huoletta unohtaa.
 
@@ -57,7 +57,7 @@ Noviisit voivat kuitenkin iloita pelin vinkkitoiminnosta, joka auttaa pelaajaa s
 
 Gabrielin päiväkirjaan on liimattu tekijöiden kynällä piirrettyjä luonnostelmia pelin tapahtumapaikoista sekä niihin liittyvää muutaman sanan nippelitietoa. Nämä eivät missään vaiheessa herättäneet mielenkiintoani, mutta ehkäpä valmiiseen versioon saadaan kiinnostavia faktoja esimerkiksi saksalaisen Ritterin suvun saagasta ja Louisianan historiasta voodoon kanssa. Tekijöiden mukaan odotettavissa on ainakin kuunneltavia haastatteluja.
 
-[![Gabriel Knight: Sins of the Fathers - Voodoo Museum](http://www.pelilegacy.fi/wp-content/uploads/2014/08/gabriel_knight_remake_4-1050x560.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/gabriel_knight_remake_4.jpg)
+[![Gabriel Knight: Sins of the Fathers - Voodoo Museum](/uploads/2014/08/gabriel_knight_remake_4-1050x560.jpg)](/uploads/2014/08/gabriel_knight_remake_4.jpg)
 
 Kahden ensimmäisen päivän perusteella ei pelin tarinaa voi vielä arvioida, sillä varsinaiset suuret juonikuviot lähtevät kiusaavan alun jälkeen liikkeelle vasta tulevissa päivissä. Demon perusteella Jensen kumppaneineen ei kuitenkaan ole tehnyt turhia oikomisia, joten mielenkiinnolla odotan pitääkö taso myös pelin lopun sykähdyttävämmissä käänteissä.
 

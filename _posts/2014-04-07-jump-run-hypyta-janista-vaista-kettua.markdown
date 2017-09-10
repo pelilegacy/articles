@@ -21,7 +21,7 @@ tags:
 - Uutuudet
 ---
 
-[![Jump & Run](http://www.pelilegacy.fi/wp-content/uploads/2014/04/jump_and_run.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/jump_and_run.png)
+[![Jump & Run](/uploads/2014/04/jump_and_run.png)](/uploads/2014/04/jump_and_run.png)
 
 Suomalaisen** Digital Hammerin** ensimmäinen peli on ilmaisena jakoon tuleva mobiilitasoloikka** Jump & Run**. Se on uusi Flappy Bird, vai onko sittenkään? Plagiointiin ei onneksi ole tarvinnut sortua, vaikka periaatteessa yhtä hyvin pelin päähahmo voisi olla putkimies ja vastustajat kilpikonnia.
 

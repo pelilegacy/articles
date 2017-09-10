@@ -21,7 +21,7 @@ tags:
 - Uutuudet
 ---
 
-[![Feist #1](http://www.pelilegacy.fi/wp-content/uploads/2015/07/feist1.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/07/feist1.jpg)
+[![Feist #1](/uploads/2015/07/feist1.jpg)](/uploads/2015/07/feist1.jpg)
 
 [ingressi]Metsä haluaa sinun kuolevan, ja ainoat aseesi ovat fysiikan lait.[/ingressi]
 
@@ -33,7 +33,7 @@ Feist alkaa aavemaisen kosteasta ja valoisesta metsästä, jossa siluettiin verh
 
 Sitten korville aukeaa **Tomek Kolczynskin** säveltämä upea ja tunnelmallisen avantgardistinen musiikkiraita, joka pukee lumoavasti taustavalaistun ja lapsuuteni korpiretkiin ajatukset palauttavan metsämaiseman säveltaiteeksi. Tätä kirjoittaessa rankkasade rummuttaa asuntoni ikkunoita tehden ääniraidasta vieläkin vaikuttavamman kuuloista. Kun ensimmäisistä tasoista on selvitty, puhkeaa myös visuaalisuus loistoonsa häkellyttävän hienojen vesitekstuurien ja luolastojen myötä. Väripaletti ei ole yhtä runsas kuin esimerkiksi [Ori and the Blind Forestissa](http://www.pelilegacy.fi/arvostelut/1835/ori-and-the-blind-forest), mutta LIMBOn paikoin raskaaksi käyneen goottilaisen harmauden se voittaa mennen tullen.
 
-[![Feist #2](http://www.pelilegacy.fi/wp-content/uploads/2015/07/feist2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/07/feist2.jpg)
+[![Feist #2](/uploads/2015/07/feist2.jpg)](/uploads/2015/07/feist2.jpg)
 
 Tekijät itse vertaavat Feistin visuaalista tyyliä **Jim Hensonin** ja **Frank Ozin** ohjaamaan elokuvaan _The Dark Crystal_ (1982) sekä **Juri Norsteinin** ohjaamaan neuvostoanimaatioon [_Hedgehog in the Fog_ (1975)](https://www.youtube.com/watch?v=oW0jvJC2rvM). Etenkin jälkimmäisen kohdalla peliin imetyt vaikutteet ovat selvät. Jos Feist olisi iltasatu, en nukahtaisi.
 
@@ -47,7 +47,7 @@ Mutta niin kauan kuin pakomatka jatkuu, on vielä toivoa paremmasta. Feist ei mi
 
 Mekaanisesta juoksemisesta huolimatta pakomatkalla eteen sattuu myös tarkkaa ajatusta ja ajoitusta vaativia kohtia, kuten kivenlohkareiden vierittämistä, kuusenoksilla kiipeilyä ja onttojen puunrunkojen sisään suojautumista. Sokea eteenpäin liikkuminen koituu usein turmioksi. Tarkoin ajoitettu loikka kohti tuntematonta, joka parhaimmillaan voi aiheuttaa vihamielisen faunan kuriin laittavien ansojen laukeamisen ketjureaktiona, on hieno esimerkki emergentistä eli arvaamattomasta pelimekaniikasta.
 
-[![Feist #3](http://www.pelilegacy.fi/wp-content/uploads/2015/07/feist3.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/07/feist3.jpg)
+[![Feist #3](/uploads/2015/07/feist3.jpg)](/uploads/2015/07/feist3.jpg)
 
 Yli kuusi vuotta kehitystyötä on kuitenkin jättänyt lopputuotteeseen muutamia harmillisia bugeja, kuten kaatuilua pelistä työpöydälle poistuttaessa sekä muutamia visuaalisia häiriöitä. Myöskään ruudunpäivitys ei ole täysin sulavaa, mikä sattuu silmään lähinnä kaikista intensiivisimpien pako-osuuksien kohdalla ruudun täyttyessä runsain määrin hämähäkeistä, ampiaisista ja peikoista. Ensimmäiseksi peliksi tekniset kompastukset ovat ymmärrettäviä eivätkä liiaksi pilaa kokonaisuutta.
 

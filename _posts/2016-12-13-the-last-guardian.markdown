@@ -3,7 +3,7 @@ author: vierastalo
 date: 2016-12-13 15:35:49+00:00
 excerpt: Miksi ihme-eläin Tricoon on vaikea samaistua?
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/12/the_last_guardian.jpg
+    src: /uploads/2016/12/the_last_guardian.jpg
     alt: The Last Guardian
 layout: post
 title: The Last Guardian ei kannusta empatiaan

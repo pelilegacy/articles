@@ -23,7 +23,7 @@ tags:
 - Yhteistyö
 ---
 
-[![#GameONjkl](http://www.pelilegacy.fi/wp-content/uploads/2015/05/gameonjkl.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/05/gameonjkl.png)
+[![#GameONjkl](/uploads/2015/05/gameonjkl.png)](/uploads/2015/05/gameonjkl.png)
 
 _Peli Legacy on yhteistyössä Jyväskylän kaupungin nuorisopalveluiden [#GameONjkl-hankkeessa](https://www.facebook.com/gameonjkl), jossa järjestetään 13–29 -vuotiaille nuorille sopivia tapahtumia erityisesti pelikasvatuksen näkökulmasta. Tämä on ensimmäinen tulevista yhteistyöartikkeleistamme._
 

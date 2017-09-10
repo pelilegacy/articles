@@ -16,7 +16,7 @@ tags:
 - Taide
 ---
 
-[![H.R. Giger Art](http://www.pelilegacy.fi/wp-content/uploads/2014/05/giger_art.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/05/giger_art.jpg)
+[![H.R. Giger Art](/uploads/2014/05/giger_art.jpg)](/uploads/2014/05/giger_art.jpg)
 
 Äskettäin 74-vuotiaana kuollut sveitsiläinen surrealisti **Hans Ruedi Giger** on jättänyt taidemaailmaan suuren perinnön. Tieteisfiktion Salvador Daliksi kutsuttu taiteilija teki paljon muutakin kuin suunnitteli kenties tunnetuimmat työnsä, _Alien_-elokuvasarjan maineikkaat oliot. Gigerin tummat ihmisen ja koneen sulautumista käsittelevät teokset iskivät suurella voimalla elokuvia VHS-kaseteilta opiskelevaan nuoreen. Jokunen oma alienikin oli pakko piirtää kouluvihkoon matemaattisten laskujen viereen, vaikka ne karkeudessaan näyttivät enempi parodioilta ja ovat sittemmin menneet roskiin. Jos pitäisin julisteita seinälläni, olisi Gigerin teoksia itseoikeutetusti kunniapaikalla.
 

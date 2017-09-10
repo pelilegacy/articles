@@ -3,7 +3,7 @@ author: vierastalo
 date: 2016-06-13 06:00:35+00:00
 excerpt: Monoliitti jatkaa kritiikillä modernien videopelitrailereiden pömpöösistä rakenteesta.
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/06/melorumaa.jpg
+    src: /uploads/2016/06/melorumaa.jpg
     alt: 'Monoliitti: Melorumaa'
 layout: post
 title: 'Monoliitti: Melorumaa'

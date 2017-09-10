@@ -21,7 +21,7 @@ tags:
 - WWE
 ---
 
-[![Näitä pelikirjoituksia luimme tässä kuussa](http://www.pelilegacy.fi/wp-content/uploads/2015/02/pelikirjoitukset.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/pelikirjoitukset.png)
+[![Näitä pelikirjoituksia luimme tässä kuussa](/uploads/2015/02/pelikirjoitukset.png)](/uploads/2015/02/pelikirjoitukset.png)
 
 
 

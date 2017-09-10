@@ -17,7 +17,7 @@ tags:
 - YLE
 ---
 
-[![Counter-Strike: Global Offensive](http://www.pelilegacy.fi/wp-content/uploads/2014/08/cs_go_esports-1050x437.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/cs_go_esports.png)
+[![Counter-Strike: Global Offensive](/uploads/2014/08/cs_go_esports-1050x437.png)](/uploads/2014/08/cs_go_esports.png)
 
 Kukaan ei lie jäänyt paitsi tämän kuun 2. päivänä Yle TV2:lla ja Areenassa esitetystä Assembly-finaalista, jossa elektronisen urheilun huippujoukkueet ottivat mittaa toisistaan ilmiömäisen suositussa **Counter-Strike: Global Offensive** -pelissä. Nekin, jotka eivät suoraa lähetystä katsoneet, ovat viimeistään tällä viikolla kuulleet siitä. Hyvä niin.
 

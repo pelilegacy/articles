@@ -20,7 +20,7 @@ tags:
 - LGBT
 ---
 
-[![GaymerX](http://www.pelilegacy.fi/wp-content/uploads/2014/07/gaymerx.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/07/gaymerx.png)
+[![GaymerX](/uploads/2014/07/gaymerx.png)](/uploads/2014/07/gaymerx.png)
 
 LGBT-aatteen takana seisova [GaymerX](https://twitter.com/GaymerX)-tapahtumajärjestäjä koki aiemmin tällä viikolla kovan takapakin kun sponsori NIS America veti rahoituksensa pois. Takaisinveto tuli pahimpaan mahdolliseen aikaan, sillä taannoin pidetyn tapahtuman onnistuminen oli lähes yksinomaan sponsorirahoituksen varassa. Paljon keskustelua mediassa aiheuttanut tapaus on saanut pelintekijät tarjoamaan tukeaan järjestölle.
 

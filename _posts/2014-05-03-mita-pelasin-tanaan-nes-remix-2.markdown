@@ -18,7 +18,7 @@ tags:
 - Retro
 ---
 
-[![NES Remix 2 Title Screen](http://www.pelilegacy.fi/wp-content/uploads/2014/05/nesremix2-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/05/nesremix2.jpg)
+[![NES Remix 2 Title Screen](/uploads/2014/05/nesremix2-1050x590.jpg)](/uploads/2014/05/nesremix2.jpg)
 
 Seisot pitkän vihreän putken päällä. Edessäsi on kilpikonnia ja muita mutiaisia. Kaukana horisontissa siintää valkoinen lipputanko, jonka päässä on vihreä nuppi. Varmana onnistumisesta otat askeleen eteenpäin ja valmistaudut tallaamaan edessä olevat vastustajat maahan. Mutta et putoakaan, vaan lennät eteenpäin. Tarkemmin katsottuna, et ole edes vanha tuttu Mario, vaan ilmaa sisuksiinsa vetänyt vaaleanpunainen pallo. Olet _Kirby_ ja pelin nimi on **NES Remix 2**.
 

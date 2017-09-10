@@ -19,7 +19,7 @@ tags:
 - Uutuudet
 ---
 
-[![Bigby and Ichabod Crane](http://www.pelilegacy.fi/wp-content/uploads/2014/04/bigby_and_crane.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/bigby_and_crane.jpg)
+[![Bigby and Ichabod Crane](/uploads/2014/04/bigby_and_crane.jpg)](/uploads/2014/04/bigby_and_crane.jpg)
 
 
 
@@ -55,7 +55,7 @@ Moraalisesti Wolf Among Us liikuttelee edelleen suuria ajatuksia. Päähenkilö 
 
 
 
-[![Bigby and Snow White](http://www.pelilegacy.fi/wp-content/uploads/2014/04/bigby_and_snow.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/bigby_and_snow.jpg)
+[![Bigby and Snow White](/uploads/2014/04/bigby_and_snow.jpg)](/uploads/2014/04/bigby_and_snow.jpg)
 
 
 

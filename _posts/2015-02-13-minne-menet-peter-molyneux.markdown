@@ -18,7 +18,7 @@ tags:
 - Peter Molyneux
 ---
 
-[![Peter Molyneux](http://www.pelilegacy.fi/wp-content/uploads/2015/02/peter_molyneux.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/peter_molyneux.jpg)
+[![Peter Molyneux](/uploads/2015/02/peter_molyneux.jpg)](/uploads/2015/02/peter_molyneux.jpg)
 
 [ingressi]Quo vadis, Peter?[/ingressi]
 

@@ -16,7 +16,7 @@ tags:
 - LittleBigPlanet
 ---
 
-[![LittleBigPlanet3](http://www.pelilegacy.fi/wp-content/uploads/2015/01/Little-Big-Planet-3.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/Little-Big-Planet-3.jpg)
+[![LittleBigPlanet3](/uploads/2015/01/Little-Big-Planet-3.jpg)](/uploads/2015/01/Little-Big-Planet-3.jpg)
 
 [ingressi]LittleBigPlanetin plyysihahmot laittavat pelaajan koetukselle myös sarjan kolmannessa osassa.[/ingressi]
 

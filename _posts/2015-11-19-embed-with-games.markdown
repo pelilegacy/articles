@@ -25,7 +25,7 @@ tags:
 - Rock Paper Shotgun
 ---
 
-[![Embed With Games](http://www.pelilegacy.fi/wp-content/uploads/2015/11/embed_with_games.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/11/embed_with_games.jpg)
+[![Embed With Games](/uploads/2015/11/embed_with_games.jpg)](/uploads/2015/11/embed_with_games.jpg)
 
 [ingressi]Vuonna 2014 toimittaja Cara Ellison teki lupauksen internetille: hän jättäisi kotinsa, alkaisi kulkuriksi ja matkustaisi maailman ympäri eläen ja asuen erilaisten pelinkehittäjien luona.[/ingressi]
 

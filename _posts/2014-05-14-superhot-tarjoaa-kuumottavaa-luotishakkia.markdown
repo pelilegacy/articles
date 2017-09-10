@@ -18,7 +18,7 @@ tags:
 - Pelinkehitys
 ---
 
-[![Superhot](http://www.pelilegacy.fi/wp-content/uploads/2014/05/superhot.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/05/superhot.jpg)
+[![Superhot](/uploads/2014/05/superhot.jpg)](/uploads/2014/05/superhot.jpg)
 
 Loputtomiin voisi keskustella siitä ovatko ensimmäisen persoonan räiskintäpelit jo ummehtuneeksi muuttunut lajityyppi. Milloin viimeksi kohtasit jotain aidosti uutta jälleen yhdessä ison budjetin räiskinnässä? Minä esimerkiksi kaipaisin jo muutakin kuin seuraavan sukupolven suorituskyvyllä leuhottamista.
 

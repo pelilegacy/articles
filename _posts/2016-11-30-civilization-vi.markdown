@@ -3,7 +3,7 @@ author: anttiy
 date: 2016-11-30 12:00:25+00:00
 excerpt: Antti Ylä-Rakkola pohtii esseessään, kuinka historian esittäminen ja pelisuunnittelu kohtaavat Civilization-pelisarjassa.
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/11/civilization6.jpg
+    src: /uploads/2016/11/civilization6.jpg
     alt: Civilization VI
 layout: post
 title: 'Civilization VI: Kuinka historiaa pelillistetään'
@@ -22,7 +22,7 @@ Hallitsija on toki vain symboli; itse en ole ikinä samaistunut **Gandhiin** tai
 
 Amebamaisuuden kääntöpuolena sisäisen valtapolitiikan jännitteitä on hankala esittää pelissä. _Civilizationissa_ se käytännössä häviää. Pelaaja ei voi ikinä hävitä oppositiolle, koska pelaaja muuttuu vallankumouksessa uuden hallinnon edustajaksi. Itse asiassa pelaajan voi tulkita myös oppositioksi, sillä hän käynnistää omasta päätöksestään vallankumoukset ja vaihtaa hallintojärjestelmät. Kaikki, mikä voitaisiin näennäisesti tulkita sisäiseksi konfliktiksi, toteuttaa todellisuudessa pelaajan tahtoa. Koko valtiosta tulee käytännössä pelaajan _avatar_, minkä takia sen historiallinen kehitys tapahtuu ideaalisella johdonmukaisuudella, edistäen vuosituhansien skaalalle asetettuja päämääriä. Tällöin monia hallinnollisia asioita on varaa esittää myös hyvin pintapuolisesti eikä teokratian, fasistisen diktatuurin tai tasavallan johtaminen eroa pelimekaanisesti mitenkään toisistaan. Ne antavat vain erilaisia strategisesti merkittäviä bonuksia pelaajalle.
 
-![Civilization VI](https://www.pelilegacy.fi/wp-content/uploads/2016/11/civ6_2.jpg)
+![Civilization VI](/uploads/2016/11/civ6_2.jpg)
 
 **Huomiona pelisarjan uusimmasta osasta termiä vallankumous ei enää edes käytetä.**
 
@@ -38,7 +38,7 @@ Pelaajan asema dynastian puikoissa antaa peliin paitsi roolipelimäisiä piirtei
 
 Ratkaisun takia pelin aikaperspektiivi kuitenkin välttämättä rajoittuu yhteen tiettyyn ajanjaksoon ja yhteiskuntajärjestelmään. Feodaalinen yhteiskunta alkoi väistyä Euroopassa myöhäiskeskiajalta eteenpäin, minkä takia vuosien 1450--1800 tienoille keskittyvässä _Europa Universalis_ -pelisarjassa, eräänlaisessa _Crusader Kingsin_ sisarpelisarjassa, pelataankin sukujen ja dynastioiden sijaan valtioilla. Maantieteellisestikin keskiajan feodalismia mallintava systeemi soveltuu vain rajatusti Euroopan ulkopuolelle. Lähi-Itään ja Intiaan soveltaminen onnistunee suunnilleen -- keisarilliseen virkamiesten hallinnoimaan Kiinaan taas ehkä vähän huonommin. Euroopan kaupunkivaltioitakin on vähän hankala esittää systeemissä, vaikka lisäosa _The Republic_ tuokin kauppatasavallat mukaan peliin.
 
-![Civilization VI](https://www.pelilegacy.fi/wp-content/uploads/2016/11/civ6_3.jpg)
+![Civilization VI](/uploads/2016/11/civ6_3.jpg)
 
 **_Civilization_-pelitkin sisältävät feodalismin jossain muodossa.**
 
@@ -62,7 +62,7 @@ _Civilization VI_ on myös juurikin sitä, mihin se pyrkii -- siis mukava pelata
 
 Omaan makuuni suunta on tylsä, sillä pinnallinen historian esittäminen vie idean pelistä. Jäljelle jää vuoropohjainen 4X-peli, jonka verhoilu sattuu olemaan sci-fin tai fantasian sijaan historiateemainen. Tähän _Civilization_ on kuitenkin aina ollut loppujen lopuksi enemmän kallellaan. Skaalan suuretessa simulaatiopelillä on myös taipumus vetää enemmän mutkia suoriksi. _Civilizationistakin_ vielä astetta suurudenhullumman konseptin omannut _Spore_ on varoittava esimerkki tästä.
 
-![Civilization VI](https://www.pelilegacy.fi/wp-content/uploads/2016/11/civ6_1.jpg)
+![Civilization VI](/uploads/2016/11/civ6_1.jpg)
 
 **_Civilization_ tarjoaa tietyllä tavalla edelleen ikkunan historiaan**.
 

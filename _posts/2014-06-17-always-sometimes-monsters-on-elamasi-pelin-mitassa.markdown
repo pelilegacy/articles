@@ -20,7 +20,7 @@ tags:
 - Indie
 ---
 
-[![Always Sometimes Monsters](http://www.pelilegacy.fi/wp-content/uploads/2014/06/always-sometimes-monsters-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/06/always-sometimes-monsters.jpg)
+[![Always Sometimes Monsters](/uploads/2014/06/always-sometimes-monsters-1050x590.jpg)](/uploads/2014/06/always-sometimes-monsters.jpg)
 
 
 
@@ -40,7 +40,7 @@ Juonessa seikkaillaan eronneena kirjailijana, jolla on vuokrat rästissä ja asu
 
 Pelissä on 30 päivää aikaa korjata elämä ja löytää sille uusi suunta. Henkistä pahoinvointia ei auta se, että ex-puoliso on menossa uusiin naimisiin toisessa kaupungissa, jonne pitäisi bussilipullisen verran rahaa saada. Seuraa pätkätöitä niin pimeässä kuin päivänvalossa sekä tilanteita, joista jokainen muokkaa pelin tarinaa omaan suuntaansa. Keskusteluissa tulee eteen valintoja, jotka esimerkiksi estävät tai aiheuttavat toisen hahmon kuoleman joko oman tai toisen käden kautta.
 
-[![Always Sometimes Monsters #3](http://www.pelilegacy.fi/wp-content/uploads/2014/06/always-sometimes-monsters-3.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/06/always-sometimes-monsters-3.jpg)
+[![Always Sometimes Monsters #3](/uploads/2014/06/always-sometimes-monsters-3.jpg)](/uploads/2014/06/always-sometimes-monsters-3.jpg)
 
 Always Sometimes Monstersin rehellisyys iskee lujaa. Menin töihin tofutehtaaseen, jossa kuutioin tofuja, muovailin niistä koneella soijapihvejä ja -purilaisia. Työ oli mekaanista ja puuduttavaa muutaman painikkeen painamista oikeassa järjestyksessä ja se kesti jopa pelissäkin kauan. Pelin sanoma tuli selväksi -- tällainen työ ei sovi ajattelevalle ihmiselle. Palkastakin sain vain puolet työvoimatoimiston pitäessä osan jonkinlaisena palkkiona. Pelin antama ambivalentti kuva työelämästä toistuu myös muissa tehtävissä. Menin paikallisen sanomalehden toimitukseen töihin, jossa palkka maksettiin suoraan käteen. Työnantajan mielestä oli parempi, ettei "The Man", siis valtion suuri käsi, vie lanttiakaan välistä. Toisaalla mainostoimiston copywriterina työskennellessä saa esimieheltä huutia, jos mainoksessa on yksikin tekstinpätkä kirjoitettu sinne päin. Harmaa talous ja huonot työolot elävät ja voivat hyvin myös Always Sometimes Monstersissa.
 

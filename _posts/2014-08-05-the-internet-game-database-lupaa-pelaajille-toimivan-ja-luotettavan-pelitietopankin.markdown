@@ -20,7 +20,7 @@ tags:
 - Tulossa
 ---
 
-[![IGDB Logo](http://www.pelilegacy.fi/wp-content/uploads/2014/08/Squared_Big-300x300.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/Squared_Big.png)**Oletko** koskaan pelannut erinomaista peliä ja miettinyt keitä sen takana oikein on? Varmasti olet ja useampaan kertaan. Voit kysyä itseltäsi, mikä on tarina tämän hienon pelin takana, kuka sen on kirjoittanut ja milloin tämä kaikki sai alkunsa? Voit etsiä tietoa ympäri internetiä, mutta löydätkö sitä? On hämmästyttävää eritoten toimittajan näkökulmasta, miten vaikeaa tänä päivänä on löytää puolueetonta ja kuranttia tietoa peleistä ilman, että turvautuu usein koristellulla markkinointi- eli rahapuheella kyllästettyihin virallisiin lehdistötiedotteisiin. Pelin mukana tullut ohjekirjakin on valitettavan usein parisivuinen mainoslirpake vailla mitään konkreettista tietoa.
+[![IGDB Logo](/uploads/2014/08/Squared_Big-300x300.png)](/uploads/2014/08/Squared_Big.png)**Oletko** koskaan pelannut erinomaista peliä ja miettinyt keitä sen takana oikein on? Varmasti olet ja useampaan kertaan. Voit kysyä itseltäsi, mikä on tarina tämän hienon pelin takana, kuka sen on kirjoittanut ja milloin tämä kaikki sai alkunsa? Voit etsiä tietoa ympäri internetiä, mutta löydätkö sitä? On hämmästyttävää eritoten toimittajan näkökulmasta, miten vaikeaa tänä päivänä on löytää puolueetonta ja kuranttia tietoa peleistä ilman, että turvautuu usein koristellulla markkinointi- eli rahapuheella kyllästettyihin virallisiin lehdistötiedotteisiin. Pelin mukana tullut ohjekirjakin on valitettavan usein parisivuinen mainoslirpake vailla mitään konkreettista tietoa.
 
 Pelintekijöiden, toimittajien, tutkijoiden ja ennen kaikkea pelaajayhteisön kanssa yhteisellä missiolla toimiva **The Internet Game Database (IGDb)** pyrkii tulevalla palvelullaan tarjoamaan ratkaisun tähän ongelmaan. Nimestä päättelemällä jokainen tajunnee heti yhteyden erääseen toiseen suuresti kulutettuun palveluun – Internet Movie Databaseen (IMDb). Elokuvien sijasta IGDb:n tarkoituksena on kerätä, vaalia ja jakaa tietoa peleistä aina faktatiedosta laajempaan ymmärrykseen saakka. Sen kummempia sidoksia ei kahdella sivustolla nimiensä yhtäläisyydestä huolimatta ole.
 
@@ -38,7 +38,7 @@ Nämä sanat on helppo allekirjoittaa. Ovathan pelit parhaimmillaan ja aidoimmil
 
 Tällä hetkellä suljetussa betassa toimiva sivusto on alustavasti tarkoitus julkaista kaikkien käytettäväksi viimeistään tämän vuoden viimeisellä neljänneksellä. Julkaisua varten tekijät kaipaavat tietokantaan lisättävän vähintään 10 000 peliä tuhannelta rekisteröityneeltä käyttäjältä. Käynnissä on myös säälimätön bugien metsästys, minkä osalta käyttäjäpalautetta kaivataan kipeästi. Tätä kirjoittaessa ollaan jo toinen jalka voiton puolella, mutta matkaa ja työsarkaa riittää tekijöille vielä kosolti. Perusta on kuitenkin vakaalla pohjalla. Sivustolla tekijät avaavat mm. projektin kustannuksia, jotka ensi alkuun kuulostavat suurilta, mutta projektin tavoitteet huomioon ottaen ovatkin realistiset.
 
-[![Etusivu](http://www.pelilegacy.fi/wp-content/uploads/2014/08/screenshots-1050x582.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/screenshots.png)
+[![Etusivu](/uploads/2014/08/screenshots-1050x582.png)](/uploads/2014/08/screenshots.png)
 
 
 
@@ -84,7 +84,7 @@ Tajusimme jo varhain, että yhteistyö eri tahojen kanssa on avainasemassa proje
 
 Mitä isoihin tapahtumiin tulee – _E3, GDC_ ja _Tokyo Game Show_ (kyllä, toivotamme myös aasialaiset käyttäjät tervetulleiksi!) – toivomme voivamme ottaa osaa niihin pian. Tällä emme kuitenkaan yritä saada osaksemme pelkästään näkyvyyttä, vaan pikemminkin verkostoitua peliyhtiöiden kanssa tarjotaksemme heille arvokasta apua. Olemme jo aloittaneet yhteistyön muutamien indie-yhtiöiden kanssa, mikä on osoittautunut korvaamattomaksi. Tulevaisuudessa pyrimme verkostoitumaan ja tekemään yhteistyötä myös suurten yhtiöiden kanssa.
 
-[![Battlefield 4](http://www.pelilegacy.fi/wp-content/uploads/2014/08/screenshots2-1050x582.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/screenshots2.png)
+[![Battlefield 4](/uploads/2014/08/screenshots2-1050x582.png)](/uploads/2014/08/screenshots2.png)
 
 **Elektronisen urheilun nousu suosioon on ravistellut pelialaa kovalla kädellä. Mitä mieltä olet siitä? Tuleeko IGDb tarjoamaan myös elektronisen urheilun ystäville esimerkiksi omaa osiotaan, johon poimitaan aihepiirin tapahtumia koskevaa materiaalia?**
 
@@ -100,7 +100,7 @@ Tällä hetkellä olemme asettaneet etusijalle palvelun perusominaisuuksien hiom
 
 Mutta kaikki tämä on vain alkua. Seuraavaksi keskitymme toteuttamaan sosiaalisia toimintoja, kuten kavereiden lisääminen, käyttäjien seuraaminen (voit seurata esimerkiksi suosikkipelintekijääsi) ja monia muita. Haluamme myös tarjota tietoa komponenteista ja lisälaitteista. Ominaisuuksia, joita aiomme kehittää pitkällä tähtäimellä ovat pelien ääniraitojen listaus, oikeuksien saaminen ääniraitojen soittamiseen sivustolla sekä selaimessa pelattavien demojen tarjoaminen. Haluaisinkin kutsua kaikki lukijat liittymään betamme viimeiseen vaiheeseen ja rohkaista heitä lähettämään toiveita sivustolle halutuista ominaisuuksista. IGDb on pelisivusto, jota me rakennamme teitä varten, joten olemme hyvin avoimia kaikelle palautteelle.
 
-[![EA Digital Illusions CE](http://www.pelilegacy.fi/wp-content/uploads/2014/08/screenshots4-1050x579.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/screenshots4.png)
+[![EA Digital Illusions CE](/uploads/2014/08/screenshots4-1050x579.png)](/uploads/2014/08/screenshots4.png)
 
 
 

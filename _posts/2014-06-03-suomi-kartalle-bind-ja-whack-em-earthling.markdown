@@ -20,7 +20,7 @@ tags:
 - Suomi
 ---
 
-[![Whack 'Em Earthling #1](http://www.pelilegacy.fi/wp-content/uploads/2014/06/WhackEmEarthling_1.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/06/WhackEmEarthling_1.png)
+[![Whack 'Em Earthling #1](/uploads/2014/06/WhackEmEarthling_1.png)](/uploads/2014/06/WhackEmEarthling_1.png)
 
 _**Bind, bound, sitoa. Kajaanilainen pienkehittäjä Bind on onnistunut ensimmäisessä pelissään sitomaan pelaajan tietokoneen ääreen. Mistä nämä omien sanojensa mukaan ihastuttavat suomalaiset ponnistavat ja mitä he ovat nyt keksineet?**_
 
@@ -38,7 +38,7 @@ Juttua varten kyselin Bindin koodarilta **Petri Liuskalta** yksityiskohtia pelin
 
 
 
-[caption id="attachment_676" align="aligncenter" width="940"][![Whack 'Em Earthling #2](http://www.pelilegacy.fi/wp-content/uploads/2014/06/WhackEmEarthling_2.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/06/WhackEmEarthling_2.png) Galaksin puolustaja pidetään välillä kiireisenä.[/caption]
+[caption id="attachment_676" align="aligncenter" width="940"][![Whack 'Em Earthling #2](/uploads/2014/06/WhackEmEarthling_2.png)](/uploads/2014/06/WhackEmEarthling_2.png) Galaksin puolustaja pidetään välillä kiireisenä.[/caption]
 
 
 

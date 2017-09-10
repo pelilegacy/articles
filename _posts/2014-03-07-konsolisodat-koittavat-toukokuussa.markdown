@@ -19,7 +19,7 @@ tags:
 - Sega
 ---
 
-[![Blake J. Harris - Console Wars](http://www.pelilegacy.fi/wp-content/uploads/2014/03/consolewars-230x300.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/03/consolewars.jpg)Ne wanhan ajan sodat siis. Dokumentaristi **Blake J. Harrisin** (The Accidental Billionaires, Moneyball) kirja **Console Wars** lupaa kertoa lukijoille tarinan siitä kuinka 1990-luvulla Sega pienenä altavastaajana suurella visiolla ja kapinallisella asenteella yllätti Nintendon ja mullisti pelialan. Harris (s. 1982) itse lapsena sai Segan vaikka toivoi vanhemmiltaan Super Nintendoa, joten näkökulmassa lienee aavistuksen verran puolueellisuutta.
+[![Blake J. Harris - Console Wars](/uploads/2014/03/consolewars-230x300.jpg)](/uploads/2014/03/consolewars.jpg)Ne wanhan ajan sodat siis. Dokumentaristi **Blake J. Harrisin** (The Accidental Billionaires, Moneyball) kirja **Console Wars** lupaa kertoa lukijoille tarinan siitä kuinka 1990-luvulla Sega pienenä altavastaajana suurella visiolla ja kapinallisella asenteella yllätti Nintendon ja mullisti pelialan. Harris (s. 1982) itse lapsena sai Segan vaikka toivoi vanhemmiltaan Super Nintendoa, joten näkökulmassa lienee aavistuksen verran puolueellisuutta.
 
 Muistin virkistykseksi Nintendo oli 90-luvulla monopoliasemassa, jolle ei haastajia löytynyt ennen kuin Segan ohjaksiin astui **Tom Kalinske**, joka uskaliaalla ja periksi antamattomalla asenteella johti alaisensa Segan työläiset taisteluun suurta ja mahtavaa Nintendon korporaatiota vastaan. Tuo taistelu laajeni ennen pitkää olohuoneista koulujen pihoille ja jopa kongressiin saakka. Veli veljeä vastaan; maaottelussa kohtasivat ennen kaikkea Yhdysvallat ja Japani. Panoksena oli konsolimaailman kiistaton herruus.
 

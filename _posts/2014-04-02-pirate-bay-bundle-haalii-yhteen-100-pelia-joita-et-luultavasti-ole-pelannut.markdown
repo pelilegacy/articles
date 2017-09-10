@@ -18,7 +18,7 @@ tags:
 - Indie
 ---
 
-[![The Pirate Bay Bundle](http://www.pelilegacy.fi/wp-content/uploads/2014/04/the_pirate_bay_bundle.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/the_pirate_bay_bundle.jpg)
+[![The Pirate Bay Bundle](/uploads/2014/04/the_pirate_bay_bundle.jpg)](/uploads/2014/04/the_pirate_bay_bundle.jpg)
 
 Moniko teistä lukijoista muistaa vielä kauan sitten pinnalla olleet shareware-jakelut tai pelilehtien mukana tulleet demolevyt? Entä sivustot, joissa etenkin suomalaisia freeware-pelejä oli saatavilla liki rajattomat määrät -- ainakin enemmän kuin olisi kerennyt yhdessä päivässä pelaamaan.
 

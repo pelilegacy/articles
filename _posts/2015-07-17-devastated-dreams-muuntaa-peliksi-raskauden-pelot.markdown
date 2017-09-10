@@ -22,7 +22,7 @@ tags:
 - Neverending Nightmares
 ---
 
-[![Devastated Dreams](http://www.pelilegacy.fi/wp-content/uploads/2015/07/devastated_dreams.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/07/devastated_dreams.jpg)
+[![Devastated Dreams](/uploads/2015/07/devastated_dreams.jpg)](/uploads/2015/07/devastated_dreams.jpg)
 
 [ingressi]Neverending Nightmaresin tekijät esittelevät toisenlaisen elävän helvetin.[/ingressi]
 
@@ -44,7 +44,7 @@ Kickstarter-sivulla on pelattavissa [demo](https://www.kickstarter.com/projects/
 
 Neverending Nightmaresin päähahmon tavoin myöskään Angel ei ole voittamaton, vaan päinvastoin. Taistelua ei muutamia reaktiotestejä lukuun ottamatta esiinny ja juokseminen hengästyttää sekä vaikeuttaa taskulampun valossa tutkimista. Hengästymistä ei havaita mittarin avulla, vaan Angelin ääntä kuuntelemalla. Eteneminen tapahtuu Gilgenbachin mukaan loogisia ongelmia ratkomalla, jotka eivät pakota turvautumaan läpipeluuoppaaseen tai arvailemaan, mitä pelisuunnittelijalla on ollut mielessä. Demoon on kätketty muutama säikäyttävä kohtakin, mutta mieleen jäävin hetki oli eittämättä Angelin viidakosta löytämä vauvanruumis. Löytö saa odottavan äidin oksentamaan avaimen, jota tarvitsee oven avaamiseen toisaalla. Epätavallinen ongelmien selvittäminen on toteutettu ovelasti.
 
-Isyyden raskasta taakkaa on peleissä käsitelty esimerkiksi viime vuosien suosituissa _The Last of Us_ ja _The Walking Dead_ -peleissä, mutta harva peli on tarttunut raskauteen ja äitiyteen sen vaatimalla lähestymistavalla. Huomio on aiheellinen, sillä Yhdysvaltalaisen tietokone- ja videopelialan kauppajärjestö [ESA:n vuonna 2014 tekemän tutkimuksen](http://www.theesa.com/wp-content/uploads/2014/10/ESA_EF_2014.pdf) mukaan aikuiset naiset muodostavat merkittävän tilastollisen osan pelaajista. Tähän demografiikkaan lukeutuu runsaasti myös tulevia äitejä.
+Isyyden raskasta taakkaa on peleissä käsitelty esimerkiksi viime vuosien suosituissa _The Last of Us_ ja _The Walking Dead_ -peleissä, mutta harva peli on tarttunut raskauteen ja äitiyteen sen vaatimalla lähestymistavalla. Huomio on aiheellinen, sillä Yhdysvaltalaisen tietokone- ja videopelialan kauppajärjestö [ESA:n vuonna 2014 tekemän tutkimuksen](http://www.theesa.com/wp-content//uploads/2014/10/ESA_EF_2014.pdf) mukaan aikuiset naiset muodostavat merkittävän tilastollisen osan pelaajista. Tähän demografiikkaan lukeutuu runsaasti myös tulevia äitejä.
 
 Tiedättehän sen huolen, joka alkaa 9 kuukautta ennen lapsen syntymää jatkuen siitä liki ikuisuuteen? Devastated Dreams ei tee äitiydestä latteaa konseptia jättämällä äidit nimettömiksi synnyttäjiksi sivurooliin, vaan tuottaa sen aiheuttamista pelkotiloista jotain uutta. Pelin avulla Gilgenbach joukkoineen pyrkii sitomaan nämä realistiset pelot osaksi filippiiniläisen kansantaruston magiaa tavalla, jonka voi olettaa onnistuvan vain indie-pelissä.
 

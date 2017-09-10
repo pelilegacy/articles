@@ -18,7 +18,7 @@ tags:
 - Pelipäiväkirja
 ---
 
-[![Gone Home](http://www.pelilegacy.fi/wp-content/uploads/2014/09/gonehome-1050x656.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/09/gonehome.png)
+[![Gone Home](/uploads/2014/09/gonehome-1050x656.png)](/uploads/2014/09/gonehome.png)
 
 **The Fullbright Companyn** (myöh. Fullbright) kehittämä ja julkaisema indie-peli Gone Home teki ilmestyessään jotain, mistä useat pelinkehittäjät voivat vain uneksia. Se nousi julkaisunsa aikoihin nopeasti otsikoihin sekä lukuisten kolumnien aiheeksi. Samalla pelaajayhteisöissä nousi vilkas keskustelu siitä, mihin suuntaan pelit taidemuotona ja kokemuksen tasolla ovat menossa. Rohkeimmat totesivat, ettei Gone Home täytä pelin kriteerejä lainkaan. Täysin aseeton ja väkivallaton Gone Home nimittäin perustuu ainoastaan peliympäristön tutkimiseen ollen vain ja ainoastaan narratiivinsa kantama.
 

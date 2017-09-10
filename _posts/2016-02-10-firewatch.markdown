@@ -20,7 +20,7 @@ tags:
 - Twin Peaks
 ---
 
-![Firewatch](https://www.pelilegacy.fi/wp-content/uploads/2016/02/firewatch1.jpg)
+![Firewatch](/uploads/2016/02/firewatch1.jpg)
 
 [ingressi]Eräs vuoden puhutuimmista peleistä lunastaa odotukset.[/ingressi]
 
@@ -38,7 +38,7 @@ Entä millainen paikka tuo kansallispuisto onkaan. Unity-pelimoottorille rakenne
 
 _Firewatchin_ narratiivin ydin on radiopuhelimen välityksellä käytävä keskustelu Henryn ja tämän uuden esimiehen Delilahin välillä. Erinomaisesti kirjoitettu ja näytelty dialogi vaihtelee hauskan vitsailun sekä tarinoiden ja elämänkokemusten jakamisessa. Ei ole yllätys, että Henryn ja Delilahin välille muodostuu työsuhdetta huomattavasti lämpimämmät välit, jotka hahmojen taustat opittua eivät hetkeäkään tunnu pakotetuilta tai päälle liimatuilta.
 
-![Firewatch #2](https://www.pelilegacy.fi/wp-content/uploads/2016/02/firewatch2.jpg)
+![Firewatch #2](/uploads/2016/02/firewatch2.jpg)
 
 _Firewatch_ olisi kuitenkin verrattain tylsä, ellei se sitoisi pelaajaa oikeaan seikkailuun, joka on tässä tapauksessa mysteerin selvittäminen. Puistossa yöpyneiden teinien leiri tuhotaan kauhuelokuvan maneereille uskollisesti, kukkulalla kohdataan lyhyesti taskulamppua heiluttava salaperäinen mieshenkilö, luolaston pohjalta löytyy ruumis ja kaiken lisäksi puheluita mitä ilmeisimmin salakuunnellaan. Vainoharhainen ja sakea tunnelma tuo mieleen Salaisten kansioiden ja Twin Peaksin kaltaiset TV-sarjat. Jännittävää asetelmaa ei pureta liian aikaisin, vaan kokonaisuus pidetään hyvin kasassa loppuun asti.
 
@@ -50,7 +50,7 @@ On siis hyvin mahdollista, että uudesta työstään helpotusta hakevan Henryn o
 
 Sen vuoksi Firewatchia voi rehellisesti kutsua älykkääksi, mutta se ei pyri nostamaan itseään muiden pelien yläpuolelle. Laadukkaasti kirjoitetun tarinan avautumista on ilo seurata erinomaisen ääninäyttelyn ja **Angelo Badalamentin** sävelkulkuja tapailevan [musiikin](https://camposantogames.bandcamp.com/) säestyksellä.
 
-![Firewatch](https://www.pelilegacy.fi/wp-content/uploads/2016/02/firewatch3.jpg)
+![Firewatch](/uploads/2016/02/firewatch3.jpg)
 
 Älykkyys heijastuu myös pelin mekaniikoista, sillä suuren osan ajasta on suunnistettava metsässä vain kartan ja kompassin avulla. On tavattoman hienoa, ettei peliin ole lisätty ruudun alakulmaan pienoiskarttaa tai Henryn jalkojen edessä luikertelevaa eteeristä suuntanuolta. Kompromissina kartta kuitenkin paljastaa Henryn sijainnin ja edelliset askeleet, jotta pelikokemus ei menisi liian turhauttavaksi.
 

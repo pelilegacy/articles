@@ -15,7 +15,7 @@ categories:
 - Ajassa
 ---
 
-[![Mobiilipelaminen tuottaa rahaa - vai tuottaako?](http://www.pelilegacy.fi/wp-content/uploads/2014/03/mobilegaming-300x300.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/03/mobilegaming.jpg)Markkinatutkimusyhtiö [**Swrven**](http://www.swrve.com/company/press-room/swrve-finds-0.15-of-mobile-gamers-contribute-50-of-all-in-game-revenue) mukaan 0,15 % mobiilipelien pelaajista tuottavat jopa puolet pelin sisäisistä tuotoista.
+[![Mobiilipelaminen tuottaa rahaa - vai tuottaako?](/uploads/2014/03/mobilegaming-300x300.jpg)](/uploads/2014/03/mobilegaming.jpg)Markkinatutkimusyhtiö [**Swrven**](http://www.swrve.com/company/press-room/swrve-finds-0.15-of-mobile-gamers-contribute-50-of-all-in-game-revenue) mukaan 0,15 % mobiilipelien pelaajista tuottavat jopa puolet pelin sisäisistä tuotoista.
 
 Jos olet koskaan pelannut ilmaisia mobiilipelejä, on suuri todennäköisyys, että olet törmännyt peliin integroituihin mikromaksujärjestelmiin. Vielä todennäköisempää on, ettet luultavasti ole käyttänyt niitä.
 

@@ -19,7 +19,7 @@ tags:
 - Yksinoikeuspelit
 ---
 
-[![The Order: 1886](http://www.pelilegacy.fi/wp-content/uploads/2015/02/the_order_1886.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/the_order_1886.jpg)
+[![The Order: 1886](/uploads/2015/02/the_order_1886.jpg)](/uploads/2015/02/the_order_1886.jpg)
 
 [ingressi]Uusi sukupolvi on hyvää aikaa yksinoikeuspeleille. Sonyn pelivuoden avaavat viktoriaanisen ajan steampunk-ritarit plasma-aseineen.[/ingressi]
 
@@ -35,7 +35,7 @@ Galahad on syvästi lojaali oppi-isälleen Sebastian Malorylle, joka on nimetty 
 
 Poikkeuksellisen kiinnostava hahmo on markiisi de Lafayette, joka oli ranskalainen aristokraatti ja upseeri sekä tärkeä hahmo Ranskan vuosien 1789 ja 1830 vallankumouksissa. Pelin ajassa Lafayette olisi 129-vuotias, mutta ritarit pysyvät nuorina ja vetreinä nauttimalla tarunhohtoista Blackwater-nestettä, mikä pitää heidät elävien kirjoissa sukupolven jos toisenkin yli. Eikä tarinan tarvitsekaan olla historiallisesti korrekti, kunhan se vetää puoleensa – sen The Order: 1886 tekee. Tarinan kirjoittanut Ready at Dawnin visionääri **Ru Weerasuriya** on tuttu PSP-käsikonsolin God of War -pelien tarinoista. Hän myös valvoi Ōkamin (2008) kääntämistä Nintendo Wiille. Ilman meriittejä ei peliä siis ole lähdetty tekemään.
 
-[![The Order: 1886](http://www.pelilegacy.fi/wp-content/uploads/2015/02/the_order_1886_2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/the_order_1886_2.jpg)
+[![The Order: 1886](/uploads/2015/02/the_order_1886_2.jpg)](/uploads/2015/02/the_order_1886_2.jpg)
 
 The Orderin pelilliset elementit jäävät valitettavasti asetelman taakse, sillä peli tiedostaa ja noudattaa jopa liiankin orjallisesti tyylilajinsa perisyntejä. Valtaosa pelitunneista kuluu taistelukohtauksissa, joissa Galahad juoksee suojasta toiseen vihollisia väijyen ja tähtäillen. Tätä toistetaan alusta loppuun saakka. Ainoan muutoksen taisteluun tuovat muutamat hyvin rajatut kohtaamiset puoliveristen (eräänlainen vampyyrin ja ihmissuden risteytys) kanssa, joissa pärjääminen perustuu puhtaasti QTE (Quick Time Event) -reaktiotesteihin. Pelissä on muutama hiiviskelyjakso, jotka sijoittuvat ilmalaivaan ja palatsin pihamaalle, mutta ne eivät onnistu kallistamaan tasapainoa toiseen suuntaan.
 
@@ -51,7 +51,7 @@ Niin tarinallisia kuin toiminnallisia kohtauksia hienosti tukevasta musiikista o
 
 Näkymät hellivät silmiä, kuten uuden sukupolven peleiltä sopii odottaakin. Hylkäsin pelin juonen joksikin aikaa ja pysähdyin ihailemaan Yhdistyneen Intian satamaa auringonlaskussa. Alueen pienuudesta huolimatta laiturien ja varastorakennusten kylpeminen ilta-auringossa oli keskushermostoa kutkuttavaa katseltavaa. Muista kohtauksista mieleen jäivät elokuvista tutut sumuiset Lontoon kadut ja palatsin piha sateisena yönä. Ruudunpäivitysnopeus on 30 ruutua sekunnissa, jota tekijät perustelevat elokuvallisemmalla kokemuksella – pitivät perustelut paikkaansa tai eivät, visuaalista loistoa se ei himmennä.
 
-[![The Order: 1886](http://www.pelilegacy.fi/wp-content/uploads/2015/02/the_order_1886_3.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/the_order_1886_3.jpg)
+[![The Order: 1886](/uploads/2015/02/the_order_1886_3.jpg)](/uploads/2015/02/the_order_1886_3.jpg)
 
 Peliä on jo ennakkoon kritisoitu lyhyeksi ja välinäytöksiin painottuvaksi. Etenemistavasta riippuen läpäisyyn kuluu vajaat 10 tuntia, joten jos lyhyet pelit ovat ongelma, kannattaa myös The Order: 1886:n ostoon suhtautua varauksin. Olen siinä iässä ja elämäntilanteessa, jolloin aikaa pelata eri pelejä on hyvin rajallinen määrä. Maksan ilomielin intensiivisestä ja nautintoja herättävästä pelikokemuksesta, vaikka se kestäisi vain muutamia tunteja enkä epäoikeutetusti tuomitse peliä sen keston perusteella. Ben Kucheraa lainatakseni: ["kerro minulle kuinka _lyhyt_ pelisi on"](http://www.polygon.com/2014/10/14/6974791/short-games-review).
 

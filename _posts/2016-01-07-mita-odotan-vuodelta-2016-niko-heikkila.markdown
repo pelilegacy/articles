@@ -19,7 +19,7 @@ tags:
 - Tacoma
 ---
 
-[![Gaming 2016](https://www.pelilegacy.fi/wp-content/uploads/2016/01/gaming_2016.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/01/gaming_2016.jpg)
+[![Gaming 2016](/uploads/2016/01/gaming_2016.jpg)](/uploads/2016/01/gaming_2016.jpg)
 
 [ingressi]Vuosi 2016 näyttää pelien osalta erittäin hyvältä. Peli Legacyn toimitus julkaisee tänä vuonna odottamiaan pelejä tässä juttusarjassa. Ensimmäisenä valintansa tekee Niko Heikkilä.[/ingressi]
 

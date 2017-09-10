@@ -18,7 +18,7 @@ tags:
 - Kickstarter
 ---
 
-[![Broken Age Title Screen](http://www.pelilegacy.fi/wp-content/uploads/2014/03/Broken_Age_Title-600x337.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/03/Broken_Age_Title.jpg)
+[![Broken Age Title Screen](/uploads/2014/03/Broken_Age_Title-600x337.jpg)](/uploads/2014/03/Broken_Age_Title.jpg)
 
 **Tim Schafer** on tasaisella laadullaan kivunnut vähitellen indiefanien suosioon. Oltuaan yli vuosikymmenen ajan seikkailupelien voimatalon LucasArtsin palkkalistoilla, josta vahvoina näytteenä mm. sellaiset merkittävät pelit kuin **Full Throttle ja Grim Fandango**, Schafer perusti vuonna 2000 oman Double Fine Productions – yrityksen. Ensimmäinen peli **Psychonauts** tuli ulos vuonna 2005 ja vankka maine taattiin viimeistään vuoden 2009 **Brütal Legend**illa.
 

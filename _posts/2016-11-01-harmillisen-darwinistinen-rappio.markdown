@@ -3,7 +3,7 @@ author: vierastalo
 date: 2016-11-01 09:50:24+00:00
 excerpt: HDR, 4K ja VR ovat kaikki lyhenteitä asioista, joita kuluttajille ei ole kovin helppo avata, saati sitten innostaa heitä käyttämään niihin rahojaan.
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/11/monoliitti6.png
+    src: /uploads/2016/11/monoliitti6.png
     alt: Harmillisen Darwinistinen Rappio
 layout: post
 title: 'Monoliitti: HDR - tai Harmillisen Darwinistinen Rappio'

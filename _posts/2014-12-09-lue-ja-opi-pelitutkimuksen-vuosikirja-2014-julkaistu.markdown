@@ -18,7 +18,7 @@ tags:
 - Pelitutkimus
 ---
 
-[![Pelitutkimuksen vuosikirja 2014](http://www.pelilegacy.fi/wp-content/uploads/2014/12/pelitutkimuksen_vuosikirja_2014-600x420.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/pelitutkimuksen_vuosikirja_2014.png)
+[![Pelitutkimuksen vuosikirja 2014](/uploads/2014/12/pelitutkimuksen_vuosikirja_2014-600x420.png)](/uploads/2014/12/pelitutkimuksen_vuosikirja_2014.png)
 
 [Pelitutkimuksen vuosikirja](http://www.pelitutkimus.fi/) on jo muutaman vuoden ikään ehtinyt avoin ja vertaisarvioitu tiedejulkaisu digitaalisista peleistä. Akateemisessa opetuksessa paljon siteeratut vuosikirjat tarjoavat kattavia ja mielenkiintoisia huomioita aina pelaamisen syvimmästä päästä sitä ympäröiviin kulttuurisiin, yhteiskunnallisiin ja sosiaalisiin asiayhteyksiin.
 

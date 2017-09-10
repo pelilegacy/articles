@@ -19,7 +19,7 @@ tags:
 - Uutuudet
 ---
 
-[![Shadowrun: Dragonfall](http://www.pelilegacy.fi/wp-content/uploads/2014/12/shadowrun_dragonfall-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/shadowrun_dragonfall.jpg)
+[![Shadowrun: Dragonfall](/uploads/2014/12/shadowrun_dragonfall-1050x590.jpg)](/uploads/2014/12/shadowrun_dragonfall.jpg)
 
 **Harebrained Schemesin** [Shadowrun: Dragonfall](http://www.gog.com/game/shadowrun_dragonfall_directors_cut) on yksi vuoden arvostetuimpia PC-pelejä eikä se ole sattumaa. Lautapelistä digitaaliseen muotoon siirretyssä roolipelissä seikkaillaan vuoden 2054 Berliinissä, jossa kyberteknologian ja taikuuden osaajat elävät ainakin osittain sovussa häikäilemättömien suuryritysten imiessä verta kansasta, jonka riveissä liikkuvat ihmisten lisäksi myös haltiat ja peikot. Teknologiaa ja taikuutta on näin taidokkaasti yhdistelty viimeksi Troika Gamesin ja Activisionin pelissä [Arcanum: Of Steamworks and Magick Obscura.](http://www.gog.com/game/arcanum_of_steamworks_and_magick_obscura)
 

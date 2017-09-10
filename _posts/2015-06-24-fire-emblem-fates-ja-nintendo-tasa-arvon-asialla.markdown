@@ -19,7 +19,7 @@ tags:
 - Tasa-arvo
 ---
 
-[![Fire Emblem Fates](http://www.pelilegacy.fi/wp-content/uploads/2015/06/fire_emblem_fates.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/06/fire_emblem_fates.jpg)
+[![Fire Emblem Fates](/uploads/2015/06/fire_emblem_fates.jpg)](/uploads/2015/06/fire_emblem_fates.jpg)
 
 **Nintendo** vahvisti verkkojulkaisu **Polygonille**, että tuleva _Fire Emblem_ -sarjan osa tulee mahdollistamaan myös samaa sukupuolta keskenään olevien hahmojen avioliitot.
 

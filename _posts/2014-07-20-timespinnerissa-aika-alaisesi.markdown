@@ -20,7 +20,7 @@ tags:
 - Tulossa
 ---
 
-[![Timespinner](http://www.pelilegacy.fi/wp-content/uploads/2014/07/timespinner.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/07/timespinner.png)
+[![Timespinner](/uploads/2014/07/timespinner.png)](/uploads/2014/07/timespinner.png)
 
 Onko luvassa taas uusi _metroidvania_, jossa keskiaikainen linna odottaa seikkailijaa aarteineen ja vaaroineen? Jos luettelisin pelejä, jotka ovat saaneet tämän ristin kantaakseen, en kirjoittaisi tänään mitään muuta.
 

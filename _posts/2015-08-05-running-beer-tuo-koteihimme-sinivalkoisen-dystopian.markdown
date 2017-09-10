@@ -27,7 +27,7 @@ tags:
 
 
 
-[![Running Beer](http://www.pelilegacy.fi/wp-content/uploads/2015/08/ennakko_runningbeer.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/08/ennakko_runningbeer.jpg)
+[![Running Beer](/uploads/2015/08/ennakko_runningbeer.jpg)](/uploads/2015/08/ennakko_runningbeer.jpg)
 
 Jyväskyläläisen **Kaljameri Gamesin** oluteksploitaatio _Running Beer_ herkuttelee suomikuvastolla kuin itse Iivana Nyhtänköljä vanhoina aikoina herran kanssa pellonlaidassa. Blogissaan tekijät kuvaavat peliä _Pac-Manin_, _My Summer Carin_ ja _Metal Gear Solidin_ risteytykseksi. Ei ole kaukaa haettua arvella, että innostus tällaisen pelin suunnitteluun on kummunnut juurikin **Johannes Rojolan** globaaleiksi hiteiksi nousseista _My Summer Car_ -videoista.
 
@@ -45,7 +45,7 @@ Pelaamiseen tarvitsee ainoastaan vasemman käden näppäinsormia, mikä tietenki
 
 Suoritusta parantavia esineitä, kuten vartijoiden tielle tiputeltavia banaaninkuoria löytyy kaupasta yllättävistäkin paikoista ja niiden hyödyntäminen alati laajenevien ja vaikeutuvien markettien vuoksi on käytännössä pakollista. Valitettavasti Ykä voi kantaa vain yhtä esinettä kerrallaan mukana.
 
-[![Running Beer - Ykä](http://www.pelilegacy.fi/wp-content/uploads/2015/08/runningbeer_yka.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/08/runningbeer_yka.jpg)
+[![Running Beer - Ykä](/uploads/2015/08/runningbeer_yka.jpg)](/uploads/2015/08/runningbeer_yka.jpg)
 
 Tässä vaiheessa pelin kehityskaarta vartijat eivät vielä välitä heidän tai muiden asiakkaiden tönimisestä, hedelmä- ja vihannesosastolla mellakoinnista tai muusta epäilyttävästä käytöksestä -- ainoastaan olutvarkauksista. Tekijöiden mukaan tämä tulee muuttumaan lopullisessa versiossa, johon sisältyy erilaisia vartijoita, joita asiakkaat voivat hälyttää Ykän kuriin panemiseksi.
 

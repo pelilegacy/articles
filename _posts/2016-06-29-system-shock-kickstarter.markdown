@@ -4,7 +4,7 @@ comments: true
 date: 2016-06-29 10:34:59+00:00
 excerpt: Mitä meille merkitsee päätyä taas kerran huohottaen juoksemaan Citadelin käytäville metallisen putken kanssa?
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/06/system_shock.jpg
+    src: /uploads/2016/06/system_shock.jpg
     alt: System Shock
 layout: post
 title: 'Järkytä järjestelmää: System Shock vakuuttaa ilmaisella demolla'

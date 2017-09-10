@@ -24,7 +24,7 @@ tags:
 - Tapahtumat
 ---
 
-[![#GameOUT](http://www.pelilegacy.fi/wp-content/uploads/2015/11/gameout_article.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/11/gameout_article.jpg)
+[![#GameOUT](/uploads/2015/11/gameout_article.jpg)](/uploads/2015/11/gameout_article.jpg)
 
 [ingressi]Järjestimme 24.–25. lokakuuta Jyväskylän Veturitalleilla yli 24 tuntia kestäneen peleille pyhitetyn erikoislähetyksen. Missä onnistuimme? Mitä opimme? Mitä viikonlopusta jäi käteen?[/ingressi]
 

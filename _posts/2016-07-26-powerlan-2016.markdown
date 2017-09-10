@@ -3,7 +3,7 @@ author: nikoheikkila
 date: 2016-07-26 09:53:40+00:00
 excerpt: Onko Keski-Suomen uudesta tulokkaasta haastajaksi Insomnian ja LanTrekin kokoisille tapahtumille?
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/07/powerlan.jpg
+    src: /uploads/2016/07/powerlan.jpg
     alt: Powerlan 2016
 layout: post
 title: 'Keikalla: Powerlan 2016 -verkkopelitapahtuma'
@@ -21,13 +21,13 @@ Powerlan onkin markkinoinut itseään kiivaasti Keski-Suomen suurimpana verkkope
 
 Powerlanin järjestäjänä toimii paikallisista tietotekniikan opiskelijoista koostuva Osuuskunta DynamIT, jonka jäsenet muun toiminnan ohella harjoittavat erilaisia ohjelmistopalveluita ja konsultointia.
 
-![Powerlan 2016](https://www.pelilegacy.fi/wp-content/uploads/2016/07/dark2.jpg)
+![Powerlan 2016](/uploads/2016/07/dark2.jpg)
 
 **Kesäisestä vesisateesta** turvaan päästyäni silmääni iskivät ensimmäisenä Jyväskylän pergamenttihallin askeettiset puitteet, joista oli kuitenkin kekseliäästi muokattu lähes _Counter-Strike_ -ottelun kartaksi sopiva kokonaisuus. Seiniin ja lattioihin oli väriliidulla piirretty pelin karttojen A- ja B-saitteja ilmaisevat merkinnät. Muutenkin hylätty halli sopisi yhtä hyvin näyttämöksi pommin purkamiselle siinä missä ekstaasipitoisille teknobileille. Vieraiden turvallisuuden takaamiseksi kumpaankaan ei viikonloppuna ollut aihetta ryhtyä – tärkeintä pelaajien keskuudessa olivat yhdessäolo, uusien kavereiden löytäminen ja menestyksen niittäminen.
 
 Voimauttavien juomien ja **Gabe Newellin** viekkaasti hymyilevän valokuvan palvonnan kyllästämien pelaajien takaraivojen katseluun ei ollut kuitenkaan tyytyminen, sillä Powerlanin oheisohjelmistosta löytyivät muun muassa konsolinurkkaus sekä kisakatsomo otteluiden seuraamista varten. Juuri kilpapelaamiseen pohjaavissa tapahtumissa mahdollisuus seurata otteluita joko paikan päällä katsomossa tai verkossa on tärkeä viihtyvyyttä lisäävä elementti. Toimituksessa siirryimmekin loppuillasta katsomaan otteluita mukavasti PlayStation 4:n Twitch-sovelluksen kautta.
 
-![Gravitoid](https://www.pelilegacy.fi/wp-content/uploads/2016/07/gravitoid.jpg)
+![Gravitoid](/uploads/2016/07/gravitoid.jpg)
 
 **Vaihtelua tapahtumaan** toivat myös alueen eri yhteistyökumppanit, jotka olivat paikalla esittelemässä toimintaansa. Erityisen kiehtovaa antia olivat paikallisten kehittäjien pystyttämät standit, joiden tarjoama kirjo ulottui asteroideilla loikkimista tarjoavasta pulmapelistä trippaileviin viikinkeihin sekä uusien planeettojen asuttamiseen.
 
@@ -51,7 +51,7 @@ PwC:n tutkimuksessa havaittiin katsojamäärien olevan suurimmat ensimmäisen pe
 
 Entä mitä voidaan odottaa, jos yksi vuoden merkittävimmistä viihdetuotteista, _Pokémon Go_, keksitään muuntaa kilpailuksi? Suunnistuskilpailuilla on urheilussa jo pitkät perinteet, mistä voisi ennakoida lisätyllä todellisuudella olevan paljon annettavaa myös elektronisen urheilun saralla.
 
-![First-person shooter rocks content](https://www.pelilegacy.fi/wp-content/uploads/2016/07/esports_content.png)
+![First-person shooter rocks content](/uploads/2016/07/esports_content.png)
 
 **Elektronisen urheilun nopea kasvu** viime vuosina on kiinnittänyt myös virallisten tahojen huomion.
 

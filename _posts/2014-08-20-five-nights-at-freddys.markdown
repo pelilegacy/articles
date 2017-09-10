@@ -20,7 +20,7 @@ tags:
 - Uutuudet
 ---
 
-[![Five Nights at Freddy's](http://www.pelilegacy.fi/wp-content/uploads/2014/08/FNaF_1-1050x593.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/FNaF_1.jpg)
+[![Five Nights at Freddy's](/uploads/2014/08/FNaF_1-1050x593.jpg)](/uploads/2014/08/FNaF_1.jpg)
 
 
 
@@ -36,7 +36,7 @@ Pelissä pienestä vartijankopistasi sinun täytyy pitää silmällä turvakamer
 
 Indie-pelin ollessa kyseessä ei grafiikoita sovi verrattavan AAA-peleihin. Grafiikkabugeihin en toisaalta törmännyt, sillä pelissähän istut koko ajan kopissa, josta pääset katsomaan vain vasemmalle tai oikealle puolellesi liikkumatta pysyen. Peliä seurataan puoliksi suttuisen kamerakuvamateriaalin kautta, jolloin grafiikoita on hieman vaikeampi arvioida. Istuessasi vartijankopissa ainoa, mitä näet on vähän ulos molemmista ovista sekä työpisteesi. Grafiikat ovat kuitenkin laadukkaat indie-peliksi. Itse asiassa grafiikoiden ansiosta helvetin pelottavaa meininkiä on kehittäjä saanut aikaiseksi.
 
-[![Five Nights at Freddy's](http://www.pelilegacy.fi/wp-content/uploads/2014/08/FNaF_2-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/FNaF_2.jpg)
+[![Five Nights at Freddy's](/uploads/2014/08/FNaF_2-1050x590.jpg)](/uploads/2014/08/FNaF_2.jpg)
 
 **Voit** liikkua kameroiden välillä nähdäksesi, missä on mitäkin, ja kun et ole kameroita katselemassa, sinulla on vartijankoppi käytössäsi. Vartijankopista löydät neljä painiketta, joista yksi sulkee oven vasemmalla, yksi oven oikealla ja kaksi muuta nappia kytkevät valot päälle ovien takana. Pelissä kerrotaan, että sinulla on kuollut kulma kameroissa, ja se katvekohta sattuu tietenkin olemaan juuri oviesi ulkopuolella. Tässä kohtaa esiin tulevat ovien taakse syttyvät valot. Näillä voit nähdä kaiken, mitä oviesi takana tapahtuu. Itse henkilökohtaisesti pidän uudesta mekaniikasta, koska se ei ole samanlainen kuten muissa samaa tyylisuuntaa edustavissa peleissä.
 
@@ -46,7 +46,7 @@ Vihollisista Freddy on mielenkiintoisin, koska hänen käyttäytymistä on vaike
 
 Eräänä huonona puolena pelissä ei ole minkäänlaista hiekkalaatikkotilaa (esim. kuolemattomuus, vihollisten kanssa pelleily jne.)
 
-[![Five Nights at Freddy's](http://www.pelilegacy.fi/wp-content/uploads/2014/08/FNaF_3-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/FNaF_3.jpg)
+[![Five Nights at Freddy's](/uploads/2014/08/FNaF_3-1050x590.jpg)](/uploads/2014/08/FNaF_3.jpg)
 
 **Pelin** äänimaailma ei ole rikkaimmasta päästä. Olet yksin rakennuksessa paikallasi istuen. Mitä sinun edes pitäisi kuulla? Robottien liikkuminen paikasta toiseen on äänitetty metallisella kolinalla, jota on erittäin hyödyllistä kuunnella, mikäli haluat selviytyä. Pelin tunnelma on tarkasti punnittu ambient-äänillä. Olet rakennuksessa, miksi siis taustalla ei kuuluisi esimerkiksi sähkön huminaa? Animatroni keittiössä? Lisää metallin kolistelua. Vaikka äänimaailma ei pelissä pääse oikeuksiinsa kunnolla, peliympäristön tuottamat vähäisetkin äänet ovat keskivertoa parempia tunnelmanluojia.
 

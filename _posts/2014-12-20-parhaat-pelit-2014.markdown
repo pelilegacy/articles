@@ -21,7 +21,7 @@ Vuoden viimeisessä artikkelissa julkaisemme toimituksen valinnat kuluneen vuode
 
 
 
-[![Vuoden pelit 2014](http://www.pelilegacy.fi/wp-content/uploads/2014/12/peli_legacy_vuoden_pelit.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/peli_legacy_vuoden_pelit.png)
+[![Vuoden pelit 2014](/uploads/2014/12/peli_legacy_vuoden_pelit.png)](/uploads/2014/12/peli_legacy_vuoden_pelit.png)
 
 **[Niko Heikkilä](http://www.pelilegacy.fi/tekijat/niko-heikkila):**
 
@@ -37,7 +37,7 @@ Vuoden viimeisessä artikkelissa julkaisemme toimituksen valinnat kuluneen vuode
 
 
 
-[![Shovel Knight](http://www.pelilegacy.fi/wp-content/uploads/2014/12/shovel_knight-600x225.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/shovel_knight.jpg)
+[![Shovel Knight](/uploads/2014/12/shovel_knight-600x225.jpg)](/uploads/2014/12/shovel_knight.jpg)
 
 Visuaalisesti häikäisevä ja nostalgisella lämmöllä toteutettu **Shovel Knight** edustaa indie-aallon uusimman kärjen tasohyppelyistä sitä parasta laitaa. Pelin jättäminen listalta pois merkitsisi kaltaiselleni retropelifanaatikolle elinikäistä häpeärangaistusta. Kirjoitin heinäkuun [arviossani](http://www.pelilegacy.fi/arvostelut/754/shovel-knight-kaivaa-tiensa-pelaamisen-kulta-aikaan) seuraavin sanakääntein, ja ne pitävät edelleen paikkaansa.
 
@@ -53,7 +53,7 @@ Visuaalisesti häikäisevä ja nostalgisella lämmöllä toteutettu **Shovel Kni
 
 
 
-[![Gabriel Knight: Sins of the Fathers](http://www.pelilegacy.fi/wp-content/uploads/2014/12/gabriel_knight-600x225.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/gabriel_knight.jpg)
+[![Gabriel Knight: Sins of the Fathers](/uploads/2014/12/gabriel_knight-600x225.jpg)](/uploads/2014/12/gabriel_knight.jpg)
 
 Jotta pelin uusversio olisi onnistunut, on sen säilytettävä toteutuksessaan alkuperäisen osan taika, mutta samalla tarjottava jotain uutta. Jane Jensen tuotti Sierran kanssa vuonna 1993 ilmiömäisen vahvan seikkailupelisuorituksen, joka avasi portteja myöhemmille aikuisemmilla tarinoilla varustetuille peleille. 20-vuotispainos tuo Ritterin suvun saagan uskollisesti nykyaikaan muutamilla uudistuksilla, mutta silti uskollisuuden alkuperäiselle säilyttäen. Lue elokuussa kirjoittamani [ennakko](http://www.pelilegacy.fi/arvostelut/898/ennakko-gabriel-knightin-isien-synnit-uudessa-valossa).
 
@@ -63,7 +63,7 @@ Jotta pelin uusversio olisi onnistunut, on sen säilytettävä toteutuksessaan a
 
 
 
-[![Blackwell Epiphany](http://www.pelilegacy.fi/wp-content/uploads/2014/12/blackwell_epiphany-600x153.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/blackwell_epiphany.png)
+[![Blackwell Epiphany](/uploads/2014/12/blackwell_epiphany-600x153.png)](/uploads/2014/12/blackwell_epiphany.png)
 
 Wadjet Eye Gamesin vahvan seikkailupelituotannon seasta yksi sarja on itseoikeutetusti ylitse muiden ja se on vuonna 2006 päivänvalon nähnyt Blackwell-sarja. Jokainen pelisuunnittelija tietää kuinka vaikeaa on pitää pelisarja mielenkiintoisena useiden vuosien ajan jäämättä paikoilleen -- todella harvat siinä edes onnistuvat. Blackwellin maailmassa pelihahmot kasvavat, kärsivät, kukoistavat ja jopa kuolevat. **Epiphany** vie kehityskaaren loppuunsa tavalla, joka halkaisee taivaan ja pudottaa eetterin tuolta puolen jotain kaunista.
 
@@ -73,7 +73,7 @@ Wadjet Eye Gamesin vahvan seikkailupelituotannon seasta yksi sarja on itseoikeut
 
 
 
-[![Shadowrun: Dragonfall](http://www.pelilegacy.fi/wp-content/uploads/2014/12/shadowrun_dragonfall-600x320.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/shadowrun_dragonfall.png)
+[![Shadowrun: Dragonfall](/uploads/2014/12/shadowrun_dragonfall-600x320.png)](/uploads/2014/12/shadowrun_dragonfall.png)
 
 Paljon enemmän kuin DLC. **Dragonfall** on juuri sitä mitä Shadowrun Returnsin oli määrä olla ohjaten viehättävän dystooppisen tieteistarinan haastavammille ja syvemmille poluille. Teknologiaa ja taikuutta sekoittavan asetelman lisäksi hahmosuunnittelu, X-COMin kaltainen rauhallinen taistelu ja roolipelilliset elementit tekevät hienosta konseptista hienon pelin.
 
@@ -83,7 +83,7 @@ Paljon enemmän kuin DLC. **Dragonfall** on juuri sitä mitä Shadowrun Returnsi
 
 
 
-[![Jazzpunk](http://www.pelilegacy.fi/wp-content/uploads/2014/12/jazzpunk-600x240.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/jazzpunk.png)
+[![Jazzpunk](/uploads/2014/12/jazzpunk-600x240.png)](/uploads/2014/12/jazzpunk.png)
 
 Jos stand-up -komiikasta voitaisiin tehdä pelillisempää, olisi vastaus **Jazzpunk** -- ei niinkään peli, vaan interaktiivinen sketsien kudelma. Uusia vitsejä herpaantumattomalla tahdilla pelaajan silmien eteen heittävä Jazzpunk voi aluksi tuntua sekavalta ja epäjohdonmukaiselta, mutta mitä enemmän pelaaja on omaksunut pelien historiaa, sitä enempi hän tulee arvostamaan pelin pintaa syvemmälle kaivautunutta kärkevyyttä. Komediakultaa vuosimallia 2014.
 
@@ -105,7 +105,7 @@ Jos stand-up -komiikasta voitaisiin tehdä pelillisempää, olisi vastaus **Jazz
 
 
 
-[![Child of Light](http://www.pelilegacy.fi/wp-content/uploads/2014/12/child-of-light-600x305.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/child-of-light.jpg)
+[![Child of Light](/uploads/2014/12/child-of-light-600x305.jpg)](/uploads/2014/12/child-of-light.jpg)
 
 Sain kyseisen pelin syntymäpäivälahjaksi kaveriltani, ja voin sanoa, että peli on yksi parhaimmista saamistani lahjoista pitkään aikaan. **Child of Light** on helpon oloinen, mutta todella hyvä peli, jonka tarina teki vaikutuksen. Etenkin kun pienenä mausteena kyljessä on vuoropohjainen taistelusysteemi, joka sai minut rakastumaan peliin välittömästi. Pelatessani vaikeimmalla asteella huomasin, etteivät kaikki pomotaistelut kovin helppojakaan olleet -- tykkäsin. Toisaalta tarina ja pelattavuus eivät tässä pelissä mielestäni ole se pääasia, vaan grafiikat ja äänimaailma. Ne ovat täydellisiä keskenään eikä vastaavaan tunnelmaan pääse kuin pelaamalla peliä. Sanon usein pelistä keskustellessa, että "on suorastaan kaunista, miten Child of Lightin grafiikka ja musiikki rakastelevat toisiaan" -- se on totta. Erittäin kaunis peli hyvällä tarinalla ja sujuvalla pelattavuudella. Mitä muuta vuoden parhaalta peliltä vaaditaan?
 
@@ -115,7 +115,7 @@ Sain kyseisen pelin syntymäpäivälahjaksi kaveriltani, ja voin sanoa, että pe
 
 
 
-[![Dark Souls 2](http://www.pelilegacy.fi/wp-content/uploads/2014/12/dark-souls-2-600x313.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/dark-souls-2.jpg)
+[![Dark Souls 2](/uploads/2014/12/dark-souls-2-600x313.jpg)](/uploads/2014/12/dark-souls-2.jpg)
 
 En ole kovinkaan pitkäaikainen Dark Souls -pelaaja, mutta on pakko myöntää, että jatko-osa **Dark Souls II** on yksi parhaimmista peleistä, joita olen hetkeen pelannut. Aiemmista Dark Souls -peleistä tuttu pelimekaniikka on hiottu vielä pehmeämmäksi, ja sen todellakin tuntee heti ensimmäistä väistöliikettä tehdessään. Hyvin toteutetut animaatiot, kaunis grafiikka ja tuttu haastavuus saivat minut rakastumaan tähän peliin.
 
@@ -125,7 +125,7 @@ En ole kovinkaan pitkäaikainen Dark Souls -pelaaja, mutta on pakko myöntää, 
 
 
 
-[![Warlords of Draenor](http://www.pelilegacy.fi/wp-content/uploads/2014/12/warlords_of_draenor-600x213.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/warlords_of_draenor.jpg)
+[![Warlords of Draenor](/uploads/2014/12/warlords_of_draenor-600x213.jpg)](/uploads/2014/12/warlords_of_draenor.jpg)
 
 
 
@@ -151,7 +151,7 @@ Vanhana WoW-pelaajana tämä piti tuoda esille. Blizzard teki **Warlords of Drae
 
 
 
-[![Wolfenstein: The New Order Logo](http://www.pelilegacy.fi/wp-content/uploads/2014/06/2014-05-20_00024-600x337.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/06/2014-05-20_00024.jpg)
+[![Wolfenstein: The New Order Logo](/uploads/2014/06/2014-05-20_00024-600x337.jpg)](/uploads/2014/06/2014-05-20_00024.jpg)
 
 Lyhyeksi jäävä, mutta mielenkiintoinen ja suoraviivainen kokonaisuus, joka tarraa mukaansa, muttei laita sormea suuhun missään vaiheessa. Loistava peli ensimmäisestä persoonasta, josta kesäkuussa kirjoittamani arvion voit lukea [tästä](http://www.pelilegacy.fi/arvostelut/681/arvio-wolfenstein-the-new-order).
 
@@ -161,7 +161,7 @@ Lyhyeksi jäävä, mutta mielenkiintoinen ja suoraviivainen kokonaisuus, joka ta
 
 
 
-[![Sniper Elite 3](http://www.pelilegacy.fi/wp-content/uploads/2014/12/sniper-elite-3-afrika-600x327.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/sniper-elite-3-afrika.jpg)
+[![Sniper Elite 3](/uploads/2014/12/sniper-elite-3-afrika-600x327.jpg)](/uploads/2014/12/sniper-elite-3-afrika.jpg)
 
 Hieno jatko-osa sekä Sniper Elite V2 -pelille että koko pelisarjalle. Suosittelen ostamaan.
 
@@ -171,7 +171,7 @@ Hieno jatko-osa sekä Sniper Elite V2 -pelille että koko pelisarjalle. Suositte
 
 
 
-[![Borderlands: The Pre-Sequel](http://www.pelilegacy.fi/wp-content/uploads/2014/11/borderlands_the_pre_sequel_moxxi_bar-600x320.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/11/borderlands_the_pre_sequel_moxxi_bar.jpg)
+[![Borderlands: The Pre-Sequel](/uploads/2014/11/borderlands_the_pre_sequel_moxxi_bar-600x320.jpg)](/uploads/2014/11/borderlands_the_pre_sequel_moxxi_bar.jpg)
 
 En ollut aikaisemmin pelannut Borderlands-sarjaa, joten tämä peli yllätti minut täysin laadullaan. Eetu Arvila oli hieman toista mieltä, ja hänen arvionsa voit lukea [täältä](http://www.pelilegacy.fi/arvostelut/1051/borderlands-the-pre-sequel).
 

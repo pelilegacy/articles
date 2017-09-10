@@ -24,7 +24,7 @@ tags:
 
 
 
-[![Lockdown Protocol](http://www.pelilegacy.fi/wp-content/uploads/2015/04/lockdown_protocol.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/04/lockdown_protocol.png)
+[![Lockdown Protocol](/uploads/2015/04/lockdown_protocol.png)](/uploads/2015/04/lockdown_protocol.png)
 
 [ingressi]Toisinaan pelinkehitys ei vaadi osaavan tiimin tukea, kunhan uutteruus ja innostus ovat kohdillaan.[/ingressi]
 
@@ -48,7 +48,7 @@ Kiitettävästi motivaatio pysyikin yllä, sillä tuoretta Lockdown Protocolia k
 
 _“Tein Lockdown Protocolia viisi vuotta harrastusprojektina päivätyön ohella. Siihen nähden peli on iso projekti, ja lisäksi ainoa tekemäni, jossa on kunnollinen verkkotuki. Verkkotuen toteutus lisäsi kaksi vuotta lisää projektin kestoon.”_
 
-[![Lockdown Protocol #1](http://www.pelilegacy.fi/wp-content/uploads/2015/04/lockdown_protocol_1.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/04/lockdown_protocol_1.jpg)
+[![Lockdown Protocol #1](/uploads/2015/04/lockdown_protocol_1.jpg)](/uploads/2015/04/lockdown_protocol_1.jpg)
 
 Lockdown Protocol on kasattu avoimen lähdekoodin matalan tason komponenteista, joiden päälle on kirjoitettu omaa ohjelmakoodia. Rytkönen kuitenkin kehottaa aloittelevia pelintekijöitä kehittämään pelin valmiilla hyvillä työkaluilla sen sijaan, että tekisi kaiken itse.
 
@@ -76,7 +76,7 @@ Lockdown Protocol ei sisällä varsinaista tarinaa, sillä peliä kehittäessä 
 
 Täysin yksin ei Rytkösen kuitenkaan ole tarvinnut pelin parissa uurastaa, sillä musiikin ja äänien toteutukseen hän sai apua **Kimmo Komulta**. Ääninäyttely puolestaan löytyi Fiverr-verkkokaupasta, josta yksityishenkilöt voivat ostaa erilaisia palveluksia viiden dollarin hinnalla.
 
-[![Lockdown Protocol #2](http://www.pelilegacy.fi/wp-content/uploads/2015/04/lockdown_protocol_2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/04/lockdown_protocol_2.jpg)
+[![Lockdown Protocol #2](/uploads/2015/04/lockdown_protocol_2.jpg)](/uploads/2015/04/lockdown_protocol_2.jpg)
 
 Peli sisältää yksin- ja moninpelin lisäksi myös karttaeditorin, jota kautta omat luomukset on mahdollista viedä muiden pelattavaksi. Kokemus tosin ei ole yhtä juohea kuin Steam Workshopin kanssa.
 

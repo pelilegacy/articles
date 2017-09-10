@@ -16,7 +16,7 @@ tags:
 - Playstation 4
 ---
 
-[![Infamous First Light](http://www.pelilegacy.fi/wp-content/uploads/2015/01/infamous-first-light-2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/infamous-first-light-2.jpg)
+[![Infamous First Light](/uploads/2015/01/infamous-first-light-2.jpg)](/uploads/2015/01/infamous-first-light-2.jpg)
 
 [ingressi]Juokse valoa kohti, tyttöni.[/ingressi]
 

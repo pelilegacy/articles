@@ -18,7 +18,7 @@ tags:
 - Tapahtumat
 ---
 
-[![Jessembly](http://www.pelilegacy.fi/wp-content/uploads/2014/10/jessembly1-1050x700.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/10/jessembly1.jpg)
+[![Jessembly](/uploads/2014/10/jessembly1-1050x700.jpg)](/uploads/2014/10/jessembly1.jpg)
 
 
 
@@ -40,7 +40,7 @@ Jessemblyn logossa kuulokkeita päässään pitävä Jolly Roger -pääkallo on 
 
 Vahvemmin varsinaisen urheilujuhlan tunnelmaan on pääsalissa vaikea päästä, koska turnauksen otteluita ei näytetä kankaalta. Esimerkiksi Hearthstone-korttipelin kanssa se ei onnistuisikaan, koska peliä ei ole suunniteltu turnauksissa pelattavaksi. Kiintoisampaa onkin katsella konsolipeliturnauksia, jossa _tekkenistit_ ottavat toisistaan mittaa virtuaalisella taisteluareenalla pelaajien eläytyessä koko kehollaan pelisuoritukseen. Myös tanssipelaamisen hektisyys saa leuan lattiaan – voiko ihmisen jaloilla tehdä tuollaisiakin liikkeitä?
 
-[![Jessembly](http://www.pelilegacy.fi/wp-content/uploads/2014/10/jessembly2-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/10/jessembly2.jpg)
+[![Jessembly](/uploads/2014/10/jessembly2-1050x590.jpg)](/uploads/2014/10/jessembly2.jpg)
 
 **Muutenkin** kuin vain nimensä vuoksi legendaarisen Assemblyn jalanjäljissä kulkeva tapahtuma ei ole ainoaa laatuaan Suomessa, sillä onhan lanitapahtumia maassamme nähty jo useampia satoja aina koulujen pienistä liikuntasaleista suuriin areenoihin. Keski-Suomen jo valmiiksi pelialaan myönteisesti suhtautuvalla alueella Jessembly on silti merkittävä asia. Tällainen tapahtuma ei synny hetkessä.
 
@@ -52,7 +52,7 @@ Kahden vuoden ja kahden kuukauden ikään selviytynyt eSports-seura on lähtenyt
 
 Eräs käännekohta yhdistykselle oli Jyväskylän Veturitalleilla järjestetty League of Legends -pelin kolmannen kauden finaalikatsomo, joka keräsi paikalle yli 100 henkeä. Sadan vannoutuneen elektronisen urheilun ystävän saapuminen katsomaan peliä kuudelta sunnuntaiaamuna herätti Tarvaisessa ja kumppaneissa kipinän isomman tapahtuman järjestämisestä.
 
-[![Jessembly](http://www.pelilegacy.fi/wp-content/uploads/2014/10/jessembly4-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/10/jessembly4.jpg)
+[![Jessembly](/uploads/2014/10/jessembly4-1050x590.jpg)](/uploads/2014/10/jessembly4.jpg)
 
 Jessembly onnistuikin yli odotusten, sillä kaiken kaikkiaan 218 konepaikasta jäi myymättä ainoastaan neljä. Lisäksi jo ensimmäisenä päivänä kävijälippuja meni 50 kpl. Kokonaisuudessa päivittäisen kävijämäärän arvioidaan nousseen jopa 300-400 henkeen. Tästä huolimatta väenpaljous ei tuntunut koko viikonloppuna lainkaan ahdistavalta, joten tilatkin oli mitoitettu sopivasti.
 
@@ -64,7 +64,7 @@ Tarvaisella, kuten muillakin seuran jäsenillä, on taustaa elektronisesta urhei
 
 Elektronisen urheilun maailmassa onkin tavallista, että pinnalla olevat pelit siirtyvät taka-alalle joko päivitettyjen painosten tai kokonaan uusien pelien myötä. Mitä lieneekään kulman takana odottamassa League of Legendsin, Dota 2:n ja Hearthstonen jälkeen? Tai syrjäyttääkö Counter-Strike: Global Offensiven messiaanista valta-asemaa enää yksikään joukkuepeli?
 
-[![Jessembly](http://www.pelilegacy.fi/wp-content/uploads/2014/10/jessembly3-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/10/jessembly3.jpg)
+[![Jessembly](/uploads/2014/10/jessembly3-1050x590.jpg)](/uploads/2014/10/jessembly3.jpg)
 
 **Lauantaina** ennen pääsaliin siirtymistä huomio kiinnittyy katossa roikkuvaan värikkääseen banneriin, joka kuuluu paikalliselle pelistudiolle, [**Zaibatsu Interactivelle**](http://zaibatsu.fi/). Kuvaamisen lomassa onkin hyvä tilaisuus kokeilla paikallista indie-osaamista Elder Goo -mobiilipelissä. Tabletilla demottavassa pelissä ohjataan yhteistyönä toisen pelaajan kanssa erilaisia tahmaisia hahmoja maaliin labyrintissa. Etäisesti peli tuo mieleen hitiksi nousseen Thomas Was Alonen ja sopivalla tarinallistamisella persoonallisesti suunnitellun pelin voisi ennustaa pärjäävän hyvin markkinoilla. Käyntikortit vaihtavat omistajaa – ehkä heistä luetaan vielä myöhemmin tällä sivustolla. Muita pelinkehittäjiä tapahtuma-alueella ei harmiksemme näy, vaikka runsas kävijämäärä tarjoaisi erinomaisen kanavan omien peliprojektien testaamiseen ja markkinointiin.
 
@@ -74,7 +74,7 @@ Elektronisen urheilun maailmassa onkin tavallista, että pinnalla olevat pelit s
 
 Nimi ei kuitenkaan tässä tapauksessa ole enne eikä Jessemblysta ole tarkoitus tulla korvaajaa Assemblylle. "Pidämme tämän paikallisena eikä meillä ole kiinnostusta lähteä kilpailemaan muiden seutujen lanien kanssa. Emmekä halua toiseksi Assemblyksi tai toiseksi LanTrekiksi. Tämä on Jyväskylän eSports-Seura, tämä on Jyväskylän skene ja täällä on Jessembly”, Tarvainen toteaa painokkaasti.
 
-[![Jessembly](http://www.pelilegacy.fi/wp-content/uploads/2014/10/jessembly5-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/10/jessembly5.jpg)
+[![Jessembly](/uploads/2014/10/jessembly5-1050x590.jpg)](/uploads/2014/10/jessembly5.jpg)
 
 **Jessemblyn** uusimisesta on seuralla suuri unelma, mutta Tarvaisen mukaan ihmisten vaihtuminen hankaloittaa asioita. "Uskaltaisin väittää, että ellei mitään suurempaa ihmettä tapahdu, niin Jessembly #2 järjestetään vähintäänkin samassa koossa". Sopivien tilojen löytäminen muodostuu ongelmaksi varsinkin, jos tapahtuman suosio kantautuu kauemmaksi.
 

@@ -18,7 +18,7 @@ tags:
 - Life is Strange
 ---
 
-[![Minikritiikit](http://www.pelilegacy.fi/wp-content/uploads/2015/02/minikritiikit_vol1-600x450.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/minikritiikit_vol1.jpg)
+[![Minikritiikit](/uploads/2015/02/minikritiikit_vol1-600x450.jpg)](/uploads/2015/02/minikritiikit_vol1.jpg)
 
 [ingressi]Toisinaan pelejä on niin paljon työn alla, että kaikista haluaisi kirjoittaa yhtaikaa. Hetkinen, sehän on täysin mahdollista! Kokeilemme uutta tyyliä julkaista arvioita sivustolla julkaisemalla 3 tai useamman pelin mittaisia minikritiikkejä vastajulkaistuista peleistä. Oletko pelannut näitä jo?[/ingressi]
 

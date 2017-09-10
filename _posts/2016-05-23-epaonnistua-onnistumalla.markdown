@@ -3,7 +3,7 @@ author: vierastalo
 date: 2016-05-23 13:52:25+00:00
 excerpt: Miikka Mononen näkee päättyvissä projekteissa jotain hyvääkin.
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/05/monoliitti2.jpg
+    src: /uploads/2016/05/monoliitti2.jpg
     alt: Monoliitti
 layout: post
 title: 'Monoliitti: Epäonnistua onnistumalla'

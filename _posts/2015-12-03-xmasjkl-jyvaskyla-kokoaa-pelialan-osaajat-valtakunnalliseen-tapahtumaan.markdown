@@ -32,7 +32,7 @@ Ensimmäistä kertaa järjestettävään XmasJKL-tapahtumaan odotetaan lähes 20
 
 Tapahtumassa pelialan yritykset ja koulutusorganisaatiot esittelevät pelituotteitaan ja pelialan kouluttautumismahdollisuuksia. Jyväskylässä pelialaa voi opiskella sekä yliopisto- että ammattikorkeakoulututkintoina.
 
-[caption id="attachment_2422" align="alignright" width="222"][![Sasu Louke](http://www.pelilegacy.fi/wp-content/uploads/2015/12/sasu_louke-222x300.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/12/sasu_louke.jpg) Sasu Louke – Peliosuuskunta Expa[/caption]
+[caption id="attachment_2422" align="alignright" width="222"][![Sasu Louke](/uploads/2015/12/sasu_louke-222x300.jpg)](/uploads/2015/12/sasu_louke.jpg) Sasu Louke – Peliosuuskunta Expa[/caption]
 
 Projektipäällikkö **Sasu Louken** mukaan tällaiselle tapahtumalle on ollut kysyntää Keski-Suomen alueella. Tarkoituksena on tuoda Jyväskyläläisten kuultaville asiantuntijoita ja tarjota pelialalla toimiville ihmisille mahdollisuus verkostoitua rennossa ilmapiirissä. Tämä kaikki tuo pelialalle uudenlaista näkyvyyttä.
 

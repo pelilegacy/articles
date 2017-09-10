@@ -28,7 +28,7 @@ Osa edesmenneen Irrational Gamesin miehistöstä jätti kariutuneen laivan **Ken
 
 **The Black Glove** on kuin suoraa jatkoa alkuperäiselle BioShockille, mutta [Rapturen](http://www.pelilegacy.fi/ajassa/772/katso-bioshock-lyhytelokuva-brothers-rapture) sosiaalisesti kieroutunut vedenalainen yhteiskunta on vaihtunut 1920-lukua imitoivaan eksentriseen The Equinox -teatteriin. Todellisuuden rajojen ulkopuolella liikehtivä teatteri on luovan kaaoksen kourissa, joten pelaajan ohjaaman nimettömän kuraattorin on seikkailtava ajan käytävillä neliulotteisen avaruuden korpimailla. Pelin nimen mukaisesti pelaajalla on käytössä musta käsine, jolla taiteilijoiden menneisyyttä voi muokata manipuloimalla heidän työnsä ilmaisuvälinettä, sanomaa ja muusaa. Tämä antaa pelaajalle mahdollisuuksia ilmaista itseään mitä oudoimmilla taidekollaaseilla.
 
-[![The Black Glove: Mr. Cribbage](http://www.pelilegacy.fi/wp-content/uploads/2014/10/the_black_glove.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/10/the_black_glove.jpg)
+[![The Black Glove: Mr. Cribbage](/uploads/2014/10/the_black_glove.jpg)](/uploads/2014/10/the_black_glove.jpg)
 
 
 

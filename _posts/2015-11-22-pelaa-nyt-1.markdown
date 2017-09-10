@@ -22,7 +22,7 @@ tags:
 - Tomb Raider
 ---
 
-[![Never Alone](http://www.pelilegacy.fi/wp-content/uploads/2015/11/neveralone.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/11/neveralone.jpg)
+[![Never Alone](/uploads/2015/11/neveralone.jpg)](/uploads/2015/11/neveralone.jpg)
 
 _Pelaa Nyt! on [Twitter-tili](https://twitter.com/pelaanyt) ja [postituslista](https://tinyletter.com/pelaanyt), jonka tarkoituksena on avata keskustelua niin vähemmän tunnetuista peleistä kuin pelaamisen ympärille muotoutuneista asioista ja ilmiöistä. Peli Legacy julkaisee postituslistan kirjeet viiveellä. Mikäli haluat saada kirjeet itsellesi heti julkaisupäivänä ja osallistua keskusteluun, liity postituslistalle._
 

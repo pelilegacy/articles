@@ -19,7 +19,7 @@ tags:
 - Pelikritiikki
 ---
 
-[![Kuvituskuva](http://www.pelilegacy.fi/wp-content/uploads/2014/10/pelaajien_asialla.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/10/pelaajien_asialla.jpg)
+[![Kuvituskuva](/uploads/2014/10/pelaajien_asialla.jpg)](/uploads/2014/10/pelaajien_asialla.jpg)
 
 **Internet** on suutahtanut, joten vetäydyimme päämajamme bunkkeriin ja toisin kuin Berliinissä vuoden 1945 huhtikuussa, tulemme sieltä elossa ja hyvin voivina ulos. Yhtäkkiä onkin kolea syksyinen sunnuntai ja lehdet putoilevat puusta. Valmistautukaa miehet, sillä talvi on tulossa.
 

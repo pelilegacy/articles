@@ -18,7 +18,7 @@ tags:
 - Uutuudet
 ---
 
-[![The Wolf Among Us - Crooked Man](http://www.pelilegacy.fi/wp-content/uploads/2014/08/crooked_man-1050x589.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/crooked_man.jpg)
+[![The Wolf Among Us - Crooked Man](/uploads/2014/08/crooked_man-1050x589.jpg)](/uploads/2014/08/crooked_man.jpg)
 
 
 

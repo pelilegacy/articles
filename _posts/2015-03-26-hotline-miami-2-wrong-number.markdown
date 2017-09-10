@@ -27,7 +27,7 @@ Hotline Miami 2 -arvion toisessa osassa ruoditaan itse peliä. Lue myös arviopa
 
 
 
-[![Hotline Miami 2](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2.jpg)
+[![Hotline Miami 2](/uploads/2015/03/hotline_miami_2.jpg)](/uploads/2015/03/hotline_miami_2.jpg)
 
 [ingressi]Hotline Miami 2: Wrong Numberissa kaikki on edeltäjäänsä suureellisempaa aina mutkikkaasta tarinasta pitempiin tasoihin saakka. Mutta miksi?[/ingressi]
 
@@ -53,7 +53,7 @@ Ei ole hauskaa kuolla ruudun ulkopuolelta tulevaan haulikonlaukaukseen, kun on e
 
 Kuolema on halpamainen ystävä, ja Wrong Numberissa se perii velkansa takaisin moninkertaisilla koroilla.
 
-[![Hotline Miami 2](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2_dialogue.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2_dialogue.jpg)
+[![Hotline Miami 2](/uploads/2015/03/hotline_miami_2_dialogue.jpg)](/uploads/2015/03/hotline_miami_2_dialogue.jpg)
 
 Ensimmäisen Hotline Miamin tarina oli kevyestä käsikirjoituksesta huolimatta kiinnostavaa arvuuttelua tappajan oikeasta henkilöllisyydestä, missä pelaaja toimi eräänlaisena meediona tai välikätenä toteuttaessaan tuntemattomien puhelinsoittojen kautta tilattuja veritekoja.
 
@@ -69,7 +69,7 @@ Tuhovoimaisin puolestaan on pelin kansikuvaakin koristava entinen sotilas, jonka
 
 Kiinnostavin hahmoista on näyttelijä Matin Brown, lavanimeltään _The Pig Butcher_, jolla on vaikeuksia erottaa faktaa fiktiosta, mikä johtaa hahmon karuun kohtaloon myöhemmin pelissä. The Pig Butcherin hahmo toimii eräänlaisena mikrokerrontana pelistä. Käsitämmekö todella edes, mitä on tapahtumassa?
 
-[![Hotline Miami 2](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2_comic.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2_comic.jpg)
+[![Hotline Miami 2](/uploads/2015/03/hotline_miami_2_comic.jpg)](/uploads/2015/03/hotline_miami_2_comic.jpg)
 
 Ennen kaikkea Wrong Number tiedostaa olevansa jatko-osa eikä häpeile peitellä sitä.
 

@@ -18,7 +18,7 @@ tags:
 - Telltale Games
 ---
 
-[![Wolf Among Us (Telltale Games, 2013-14)](http://www.pelilegacy.fi/wp-content/uploads/2014/02/wolf_among_us-300x300.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/02/wolf_among_us.png)
+[![Wolf Among Us (Telltale Games, 2013-14)](/uploads/2014/02/wolf_among_us-300x300.png)](/uploads/2014/02/wolf_among_us.png)
 
 
 
@@ -36,7 +36,7 @@ The Wolf Among Us perustuu niin ikään palkittuun sarjakuvaan, joka on tällä 
 
 Tarinan keskiössä _fableja_ eli taruhahmoja niitetään kuin heinää ja heidän murhia tutkitaan Bigby Wolfin näkökulmasta. Kuinka sopivaa, että sheriffi on susi, sillä ympäristöä joutuu nuuskimaan tarkasti, mikäli pelissä haluaa edetä. Liiaksi vinkkejä ei anneta, mutta se ei pelistä kuitenkaan tee millään lailla vaikeaa. En joutunut turvautumaan läpipeluuoppaisiin kahden episodin aikana lainkaan. Kokemattomampi pelaaja voi olla ajoittain pulassa, mutta pitämällä silmät ja korvat auki ei ongelmia tule. Pelejä mahdollisimman nopeasti läpäisevät dialogien ohittajat pysyköön tästä kaukana. Eikä totta puhuen tulisi mieleenkään jättää yhtään nurkkaa nuuskimatta tai dialogia kuuntelematta, sillä eritoten ääninäyttely on luonnonhunajaa korville aina Bigby Wolfin tylystä murinasta **Tweedledeen** ja **Tweedledumin** riemastuttavan kuuloiseen cockney-aksenttiin. Myöskin musiikki luotaa pelin kohtausten intensiivisyyttä ja alleviivaa pelin teemoja; kuolema, kärsimys ja mysteerit.
 
-[caption id="attachment_258" align="aligncenter" width="600"][![Wolf Among Us: Bigby Wolf & Woodsman](http://www.pelilegacy.fi/wp-content/uploads/2014/02/bigby_and_woodsman-600x337.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/02/bigby_and_woodsman.jpg) Bigbyn iskut tuntuvat silmäkulmissa ja poskipäissä[/caption]
+[caption id="attachment_258" align="aligncenter" width="600"][![Wolf Among Us: Bigby Wolf & Woodsman](/uploads/2014/02/bigby_and_woodsman-600x337.jpg)](/uploads/2014/02/bigby_and_woodsman.jpg) Bigbyn iskut tuntuvat silmäkulmissa ja poskipäissä[/caption]
 
 Wolf Among Usin ihmissuhteet eivät ole pelkkää kahakkaa vaan Bigbyn ja Snow Whiten suhde ottaa toisessa episodissa jo varovaisia askelia eteenpäin. Hahmojen välinen kemia on kirjoitettu poikkeuksellisen hyvin ja vaikka kuinka omilla valinnoillaan yrittäisi tehdä Bigbysta misogynista luopiota, ilmassa on selvää kipinää. Naissukupuolen edustajia pelissä ilahduttanee se, ettei Snow White suinkaan jää vain silmänruoaksi pelissä vaan hän reagoi voimakkaasti ja itsenäisesti pelin tapahtumiin. Jää nähtäväksi syökö Iso Paha Susi Lumikin vaiko päinvastoin.
 

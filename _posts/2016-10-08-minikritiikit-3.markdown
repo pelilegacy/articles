@@ -3,7 +3,7 @@ author: toimitus
 date: 2016-10-08 08:09:07+00:00
 excerpt: Kahden kirjoittajan voimin osallistumme derbyyn, podemme kiukkuista allergiaa ja sulatamme päämme neonvärisillä autokaistoilla.
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/10/minikritiikit3.jpg
+    src: /uploads/2016/10/minikritiikit3.jpg
     alt: Minikritiikit 3
 layout: post
 title: 'Minikritiikit 3: Pocket Card Jockey, Hypersensitive Bob ja Neon Drive'

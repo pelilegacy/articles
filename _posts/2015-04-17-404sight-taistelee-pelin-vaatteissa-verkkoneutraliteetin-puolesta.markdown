@@ -25,7 +25,7 @@ tags:
 
 
 
-[![404Sight](http://www.pelilegacy.fi/wp-content/uploads/2015/04/404sight.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/04/404sight.png)
+[![404Sight](/uploads/2015/04/404sight.png)](/uploads/2015/04/404sight.png)
 
 [ingressi]Täyttä kaistaa eteenpäin. 404Sight kritisoi verkon epätasa-arvoa peliä ilmaisukeinona käyttäen.[/ingressi]
 

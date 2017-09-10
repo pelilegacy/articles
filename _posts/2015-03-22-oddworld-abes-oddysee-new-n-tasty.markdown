@@ -19,7 +19,7 @@ tags:
 - Uutuudet
 ---
 
-[![Abe's Oddysee: New 'n' Tasty](http://www.pelilegacy.fi/wp-content/uploads/2015/02/new_n_tasty.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/new_n_tasty.jpg)
+[![Abe's Oddysee: New 'n' Tasty](/uploads/2015/02/new_n_tasty.jpg)](/uploads/2015/02/new_n_tasty.jpg)
 
 [ingressi]Oddworld: Abe’s Oddysee New ‘n’ Tasty tekee jokaisella bitillään oikeutta alkuperäiselle julkaisulle.[/ingressi]
 
@@ -35,7 +35,7 @@ Kyseessä oli GT Interactiven julkaisema, Oddworld Inhabitantsin vuonna 1997 keh
 
 Tarinaa pelaajalle kertoo myöskin päähahmona pelattava _mudokon_ nimeltä Abe. Abe on vihreä, omituisen muotoinen poninhäntäinen otus. Sympatiat irtosivat jo silloin kiinni ommellusta suusta.
 
-[![Oddworld: Abe's Oddysee New 'n' Tasty](http://www.pelilegacy.fi/wp-content/uploads/2015/03/oddworld_waxing.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/oddworld_waxing.jpg)
+[![Oddworld: Abe's Oddysee New 'n' Tasty](/uploads/2015/03/oddworld_waxing.jpg)](/uploads/2015/03/oddworld_waxing.jpg)
 
 Abe on ahkera, palkittu lattianvahaaja, vuoden työntekijä ja orjatyöläinen Rupture Farmsin yhtiössä, joka on Oddworldin suurin lihajalostamo. Tehtaan menestystuotteiden, kuten Scrab-kakkujen, Paramite-piiraiden, and Meech-mässyjen raaka-aineina käytettävät olennot ovat käymässä vähiin. Meechet ovat jo kuolleet sukupuuttoon ja tehtaan liikevoitto näyttää kohti kaakkoa. Ahdingossaan tehtaan säälimätön johtaja, Molluck the Glukkon, on keksinyt uuden menestysreseptin: Mudokon Pops.
 
@@ -49,7 +49,7 @@ Oi pojat, onko se maukasta vai mitä?
 
 New ‘n’ Tasty julkaistiin heinäkuussa 2014 Playstation 4:lle, helmikuussa 2015 Linuxille, Windowsille sekä OS X:lle ja lopulta maaliskuussa 2015 PS3:lle ja Xbox Onelle, PS Vitan ja Wii U:n yhä odotellessa vahvistettua julkaisupäivää. Julkaisijana toimi tällä kertaa Oddworld Inhabitants Just Add Waterin toimiessa kehittäjän roolissa.
 
-[![Oddworld: Abe's Oddysee New 'n' Tasty](http://www.pelilegacy.fi/wp-content/uploads/2015/03/oddworld_jump.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/oddworld_jump.jpg)
+[![Oddworld: Abe's Oddysee New 'n' Tasty](/uploads/2015/03/oddworld_jump.jpg)](/uploads/2015/03/oddworld_jump.jpg)
 
 Legendaarisen tarinan lisäksi uusversiosta löytyvät teräväpiirtografiikat aina 4K-resoluutioon asti, uusia lisäalueita, monikanavaäänet, lisätty puolikas ulottuvuus, parannettu Gamespeak (tapa kommunikoida ja ohjata toisia mudokoneja), 200 uutta pelastettavaa mudokonia ja vellihousuille valittavat vaikeustasot sekä pikatallennus.
 
@@ -59,7 +59,7 @@ New ‘n’ Tasty tarjoaa pikatallennusominaisuuden, joka helpottaa pitkien ja v
 
 Minulla on kyllä kärsivällisyyttä ja jopa sadistisia piirteitä, mitä täydellisyyden tavoitteluun tulee, ja loputtomaan grindaamiseen täydellisen lopputuloksen aikaansaamiseksi videopeleissä. Joka tapauksessa peliä on säädetty hieman paremmin nykypelaajille sopivampaan suuntaan – kaikilla osa-alueilla.
 
-[![Oddworld: Abe's Oddysee New 'n' Tasty](http://www.pelilegacy.fi/wp-content/uploads/2015/03/oddworld_paramonia.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/oddworld_paramonia.jpg)
+[![Oddworld: Abe's Oddysee New 'n' Tasty](/uploads/2015/03/oddworld_paramonia.jpg)](/uploads/2015/03/oddworld_paramonia.jpg)
 
 Just Add Water rakensi New ‘n’ Tastyn kokonaan uudenuutukaiselle 3D-moottorille tuoden näin peliin 3D-seikkailun tuntua, mutta kuitenkin selkeästi kaksiulotteisessa ympäristössä.
 

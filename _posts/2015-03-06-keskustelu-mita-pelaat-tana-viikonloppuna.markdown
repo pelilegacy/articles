@@ -21,7 +21,7 @@ tags:
 - The Legend of Zelda
 ---
 
-[![Viikonloppu](http://www.pelilegacy.fi/wp-content/uploads/2015/03/viikonloppu-1200x675.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/viikonloppu.jpg)
+[![Viikonloppu](/uploads/2015/03/viikonloppu-1200x675.jpg)](/uploads/2015/03/viikonloppu.jpg)
 
 Mitä parhainta viikonloppua teille, lukijat. Viikonloppu merkitsee sitä, että työhousut potkaistaan pois jalasta ja tilalle vaihdetaan nuhjuiset verryttelyhousut reikäisten villasukkien kanssa. Viikonloppuna tietenkin myös pelataan, mutta pelikirjastojen kasvaessa mielettömiin mittoihin on silloin tällöin paikallaan udella, mitä sitä oikein pelaisi? Viime viikonloppuna me pelasimme [Broforcea](http://www.pelilegacy.fi/ennakot/1507/broforce), jonka parista on luvassa videota myöhemmin YouTube-kanavalla.
 

@@ -14,7 +14,7 @@ categories:
 - Ajassa
 ---
 
-[caption id="attachment_1209" align="aligncenter" width="1050"][![The New York Review of Video Games](http://www.pelilegacy.fi/wp-content/uploads/2014/12/ny_review-1050x358.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/ny_review.png) **(Kuva: Kyle Read / Matter)**[/caption]
+[caption id="attachment_1209" align="aligncenter" width="1050"][![The New York Review of Video Games](/uploads/2014/12/ny_review-1050x358.png)](/uploads/2014/12/ny_review.png) **(Kuva: Kyle Read / Matter)**[/caption]
 
 Yhdysvaltalainen [Matter-lehti](https://medium.com/matter) tuottaa verkkoon tämän viikon ajan jotain poikkeuksellisen hienoa. [The New York Review of Video Games](https://medium.com/matter/welcome-to-the-new-york-review-of-video-games-dad14c9d6c8d) on viikon kestävä juhlistus taidemuodoista kokeellisimmalle, eläväisimmälle ja vähiten kunnioitetuimmalle -- siis peleille.
 

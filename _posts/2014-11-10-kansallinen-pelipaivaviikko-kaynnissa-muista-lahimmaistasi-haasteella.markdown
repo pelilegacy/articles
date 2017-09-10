@@ -18,7 +18,7 @@ tags:
 - Tapahtumat
 ---
 
-[![Kansallinen pelipäivä](http://www.pelilegacy.fi/wp-content/uploads/2014/11/pelipaiva.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/11/pelipaiva.png)
+[![Kansallinen pelipäivä](/uploads/2014/11/pelipaiva.png)](/uploads/2014/11/pelipaiva.png)
 
 Tällä viikolla (10.-16.11.2014) vietetään jälleen kansallista pelipäivää, joka nimestään huolimatta on oikeammin viikon mittainen. [Pelikasvattajien verkoston](http://www.pelikasvatus.fi/) järjestämän teemaviikon tarkoituksena on saada lapset ja aikuiset pelaamaan yhdessä samalla murtaen ennakkokäsityksiä pelaamisen ympäriltä. Varsinaisena pelipäivänä lauantaina 15.11. erilaisia peleihin ja pelaamiseen liittyviä tapahtumia järjestetään ympäri Suomea niin kirjastoissa kuin muissakin julkisissa paikoissa. Niitä löytyy esimerkiksi Pelipäivän [tapahtumakalenterista](http://www.pelipaiva.fi/index.php?option=com_ohanah&view=events&layout=calendar&Itemid=151).
 

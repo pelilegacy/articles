@@ -5,7 +5,7 @@ excerpt: E3-messut todistivat tänä vuonna, että AAA-konsolipelien tekeminen k
   noin neljä vuotta. Miksi näin? Far Cry 3 ilmestyi neljä vuotta sitten ja vasta nyt
   E3 oli täynnä sen klooneja.
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/06/farcrye3.jpg
+    src: /uploads/2016/06/farcrye3.jpg
     alt: '#FarCry(E)3'
 layout: post
 title: 'Monoliitti: #FarCry(E)3'

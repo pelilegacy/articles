@@ -4,7 +4,7 @@ date: 2016-06-01 14:51:23+00:00
 excerpt: Minikritiikit palaa tauolta. Sarjan toisessa osassa vaellamme yhteiskunnan
   raunioissa, lennämme pommikoneella apinoiden kanssa ja osallistumme baaritappeluun.
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/06/minikritiikit2.jpg
+    src: /uploads/2016/06/minikritiikit2.jpg
     alt: Minikritiikit vol. 2
 layout: post
 title: 'Minikritiikit 2: INFRA, Apestorm ja Paint the Town Red'

@@ -19,7 +19,7 @@ tags:
 - Tulossa
 ---
 
-[![Hatred](http://www.pelilegacy.fi/wp-content/uploads/2014/11/hatred-game.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/11/hatred-game.png)
+[![Hatred](/uploads/2014/11/hatred-game.png)](/uploads/2014/11/hatred-game.png)
 
 Uusi päivä ja jälleen uusi kohu pelimaailmassa. Puolalaisen **Destructive Creationsin** synkkä ja nihilistinen väkivaltaeksploitaatio Hatred kuvaa tappamista suorasukaisena ajanvietteenä. Vaikka peli ei trailerin perusteella tarjoa sisällöllisesti uutta sitten kulttiklassikon asemaan kohonneen Postal-toimintapelin, on se saanut kansan varpailleen ja sormet herisemään.
 

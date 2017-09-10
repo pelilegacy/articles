@@ -3,7 +3,7 @@ author: nikoheikkila
 date: 2016-05-22 10:42:08+00:00
 excerpt: Pelit saavat olla poliittisia, sillä elämäkin on.
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/05/Liyla.jpg
+    src: /uploads/2016/05/Liyla.jpg
     alt: Liyla and The Shadows of War
 layout: post
 title: Apple torjui sotaa käsittelevän pelin sovelluskaupastaan - liian poliittinen

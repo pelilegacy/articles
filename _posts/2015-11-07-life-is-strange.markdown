@@ -24,7 +24,7 @@ tags:
 - Twin Peaks
 ---
 
-[![Life is Strange: Chloe and Max](http://www.pelilegacy.fi/wp-content/uploads/2015/11/life_is_strange_chloe_and_max.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/11/life_is_strange_chloe_and_max.jpg)
+[![Life is Strange: Chloe and Max](/uploads/2015/11/life_is_strange_chloe_and_max.jpg)](/uploads/2015/11/life_is_strange_chloe_and_max.jpg)
 
 [ingressi]Kadu ja kelaa aikaa katuaksesi uudelleen. Kipeiden valintojen Life is Strange on nuorisopeli aikuisuuden kynnyksellä.[/ingressi]
 
@@ -44,7 +44,7 @@ Eräällä luennolla Max havaitsee voivansa kumota ikäviä tapahtumia liikkumal
 
 _Life is Strangen_ traagisimman hahmon titteli menee oikeutetusti Chloelle, jonka biologinen isä menehtyi autokolarissa tämän ollessa vielä nuori. Chloen äidin mentyä uusiin naimisiin hän omaksui vastareaktiona nopeille muutoksille punk-asenteen ja alkoi periaatteellisesti vastustaa isäpuoltaan (tai kuten Chloe asiaan ilmaisee “step-douchea”), Blackwellin akatemian turvallisuuspäällikkönä työskentelevää **David Madsenia**. Chloen ensimmäiset askeleet aikuisena eivät tietenkään menneet suunnitellusti, sillä pilvenpoltto maittoi opiskelua enemmän ja samalla paikalliselle huumekauppiaalle auki oleva velkapiikki kasvoi vauhdikkaasti. Chloen hahmossa surullisinta on kuitenkin neljännen jakson vaihtoehtoinen aikajatkumo, jossa hänen isänsä on hengissä, mutta hän itse on parantumattomasti sairaana sidottuna pyörätuoliin. Perhe ympäriltä on taloudellisesti hajoamassa korkeisiin sairaanhoitokuluihin. Kun Chloe lopulta asettaa Maxin elämää ja kuolemaa koskevan valinnan eteen, ei voi olla ajattelematta niitä kaikkia yksityistetyn terveydenhuollon piirissä asuvia sairaita ihmisiä, jotka samassa tilanteessa kamppailevat kalliiksi käyvän sairauden kanssa.
 
-[![Life is Strange: Chloe and Max](http://www.pelilegacy.fi/wp-content/uploads/2015/11/life_is_strange_chloe_and_max2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/11/life_is_strange_chloe_and_max2.jpg)
+[![Life is Strange: Chloe and Max](/uploads/2015/11/life_is_strange_chloe_and_max2.jpg)](/uploads/2015/11/life_is_strange_chloe_and_max2.jpg)
 
 Ei toisaalta nuorisopeliä ilman teiniromanssia. _Life is Strangen_ eniten mielipiteitä olemuksellaan jakava hahmo lienee Warren, joka ihailunsa pauloissa on valmis tekemään Maxin eteen mitä vain. Tätä ei draaman kultaisten sääntöjen mukaan kerrota pelaajalle suoraan, vaan se näytetään elein ja teoin. Tarinan edetessä Warren auttaa Maxia muun muassa valmistamaan pommin, puolustaa häntä kiusaajien edessä ja pyytää häntä jopa elokuviin. Valittu elokuva ei tietenkään ole mikään muu kuin _Apinoiden planeetta_, joka selkeästi viehättää molempia nörttiyteen taipuvaisia suhteen osapuolia. Harvat asiat kielivät enemmän epätoivoisesta ihastuksesta kuin edellä mainitut. Pystyin helposti samaistumaan Warrenin asemaan, mutta luonnollisesti toiset saattavat nähdä hänet outona ja hieman säälittävänäkin hahmona.
 
@@ -58,7 +58,7 @@ Maxin ja Chloen jälleennäkeminen johtaa ennen pitkää Rachelin katoamisen jä
 
 _Life is Strangen_ tapa kuvata ja puhutella tiettyä kohderyhmää ei kuitenkaan ole ongelmaton. Päällimmäisenä kompastuksena esiin nousee hahmojen välinen dialogi, joka on kaiken urbaanin sanakirjan sivujen selailun takaa ilmeistä kuvitelmaa siitä, miten aikuiset kuulevat ja kokevat nuorison käyttämän kielen. Kun nuori _instaa ja snäppää kakskytneljä-seitsemän_, vanhempi kyllä ymmärtää kuvaillun teon merkityksen, mutta ilman keskustelua laajempi ikkuna nuoren maailmankuvaan jää ymmärtämättä. _Life is Strangen_ dialogi onkin se vanha herra tai rouva bussipysäkillä kuuntelemassa nuorten keskustelua pää pyörien. Myönnettäkön, että dialogi voisi olla nolompaakin, mutta onneksi Maxin päänsisäiset monologit ja sujuva ääninäyttely pelastavat paljon. Esineitä tutkittaessa Max usein väläyttää tietämyksensä niin taiteesta kuin valokuvaamiseen käytettävästä tekniikasta.
 
-[![Life is Strange: Nightmare](http://www.pelilegacy.fi/wp-content/uploads/2015/11/life_is_strange_nightmare.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/11/life_is_strange_nightmare.jpg)
+[![Life is Strange: Nightmare](/uploads/2015/11/life_is_strange_nightmare.jpg)](/uploads/2015/11/life_is_strange_nightmare.jpg)
 
 Toinen merkittävä ongelma _Life is Strangen_ parissa on toisen jakson teemana oleva koulukiusaaminen. Jakson ratkaisun hetkillä monisyinen valintamekaniikka korvataan yksinkertaisella muistipelillä. Kiusaamisen kohteena oleva kristitty opiskelija **Kate Marsh** suunnittele koulun katolta hyppäämistä, jolloin Maxin on taivuteltava Kate pois reunalta muistamalla tarkalleen yksityiskohdat niistä esineistä, joita hän oli tämän huoneessa aiemmin tutkinut.
 

@@ -24,7 +24,7 @@ tags:
 
 
 
-[![Neon Struct](http://www.pelilegacy.fi/wp-content/uploads/2015/05/neon_struct.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/05/neon_struct.jpg)
+[![Neon Struct](/uploads/2015/05/neon_struct.jpg)](/uploads/2015/05/neon_struct.jpg)
 
 [ingressi]Sota on rauhaa, vapaus orjuutta ja tietämättömyys voimaa.[/ingressi]
 
@@ -36,7 +36,7 @@ Halusta kohdistaa osaaminen pienimuotoisempiin ja enemmän itsensä näköisiin 
 
 Irrational Gamesin perintö voi siis hyvin tässä maailmassa, vaikka studio itse suljettiin suunnitteluguru **Ken Levinen** toimesta alkuvuodesta 2014. Pittmanin veljesten luomalla _NEON STRUCTilla_ on harteillaan menneisyyden kevyehkö taakka – miten AAA-kehittäjästä siirrytään indien maailmaan? Erinomaisin tuloksin, jos minulta kysyt.
 
-[![Neon Struct](http://www.pelilegacy.fi/wp-content/uploads/2015/05/neon_struct_1.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/05/neon_struct_1.jpg)
+[![Neon Struct](/uploads/2015/05/neon_struct_1.jpg)](/uploads/2015/05/neon_struct_1.jpg)
 
 _NEON STRUCT_ on pelaajan silmien takaa kuvattu hiiviskely, jonka teemat ovat tuttuja ja ajankohtaisia. Brittiläisen kirjailija **George Orwellin** (1903–1950) _Vuonna 1984_ -romaanin hengessä pelaaja tulee kukistaneeksi NEON-yhtiön lanseeraaman globaalin salakuunteluohjelman samalla nimensä puhdistaen. Loppu ei osoittaudu niin riemun täyteiseksi kuin edellä kirjoitettu lause saattaisi antaa ymmärtää. Kaukana ei myöskään kuljeta amerikkalaisen kirjailija **Philip K. Dickin** (1928–1982) vinksahtaneista uhkakuvista, joissa asiat saavat uusia merkityksiä sen mukaan, mitä syvemmin niitä tarkastellaan.
 
@@ -54,7 +54,7 @@ Jokaisen tehtävän lopussa Clearyn vakoojan taidot punnitaan, ja niille annetaa
 
 Lukot, hälyttimet, turvakamerat ja muut apparaatit ohitetaan minipelissä, joka on klooni Atarin kuuluisasta _Breakout_-pelistä. Hauskana viittauksena murtautumiseen käytettyä työkalua kutsutaan “Break-In” -työkaluksi. Verkkoon murtautuminen palikoita yksitellen hävittämällä toimii paremmin kuin esimerkiksi kliseeksi muodostunut tiirikointi tai numeroitujen liuskojen pyörittely.
 
-[![Neon Struct](http://www.pelilegacy.fi/wp-content/uploads/2015/05/neon_struct_2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/05/neon_struct_2.jpg)
+[![Neon Struct](/uploads/2015/05/neon_struct_2.jpg)](/uploads/2015/05/neon_struct_2.jpg)
 
 Ulkoasua sekoittavan filmikohinan ja väriaberraation käyttämiselle on vaikea löytää perusteita, mutta _NEON STRUCT_ ei toisaalta muutu rumaksi, vaikka ne kytkisi asetuksista pois. Pelkistettyihin tekstuureihin lisätyt varjostukset ja valaistukset ovat ennen kaikkea näyttäviä, mutta tukevat myös pelaamista: varjoisia alueita on hyödynnettävä, mikäli aikoo menestyä. Alueen saa tarvittaessa pimennettyä kokonaan erikoisella antivalokranaatilla, joka nimestäänkin päätellen synnyttää räjähdyksen yhteydessä ympärilleen pimeyttä.
 

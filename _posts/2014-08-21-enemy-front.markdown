@@ -19,7 +19,7 @@ tags:
 - Uutuudet
 ---
 
-[caption id="attachment_881" align="aligncenter" width="960"][![Enemy Front](http://www.pelilegacy.fi/wp-content/uploads/2014/08/enemy_front.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/enemy_front.jpg) "Mutta äiti, leikin mieluummin tällä jäniksellä kuin pelaan Enemy Frontia."[/caption]
+[caption id="attachment_881" align="aligncenter" width="960"][![Enemy Front](/uploads/2014/08/enemy_front.jpg)](/uploads/2014/08/enemy_front.jpg) "Mutta äiti, leikin mieluummin tällä jäniksellä kuin pelaan Enemy Frontia."[/caption]
 
 
 

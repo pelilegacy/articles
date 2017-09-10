@@ -3,7 +3,7 @@ author: vierastalo
 date: 2016-09-19 07:07:16+00:00
 excerpt: Kuoleman väistämättömyyden voivottelusta on tullut kehittäjille hankalaa alfa- ja beeta-vaiheiden ollessa merkityksettömiä markkinointitermejä.
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/09/monoliitti5.jpg
+    src: /uploads/2016/09/monoliitti5.jpg
     alt: Antío, Kreikka!
 layout: post
 title: 'Monoliitti: Antío, Kreikka!'

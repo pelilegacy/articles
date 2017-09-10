@@ -12,7 +12,7 @@ categories:
 - Kolumnit
 ---
 
-[![`Kuvituskuva](http://www.pelilegacy.fi/wp-content/uploads/2014/07/kolumni_lapaisetko_pelisi.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/07/kolumni_lapaisetko_pelisi.jpg)
+[![`Kuvituskuva](/uploads/2014/07/kolumni_lapaisetko_pelisi.jpg)](/uploads/2014/07/kolumni_lapaisetko_pelisi.jpg)
 
 Sukkelasti sanailevat toverimme **Rock, Paper, Shotgun** -verkkojulkaisussa [kyselivät tällä viikolla](http://www.rockpapershotgun.com/2014/07/01/rps-asks-why-and-how-often-do-you-finish-games/) miksi ja kuinka usein pelaat ostamasi pelit läpi? Koska kysymys on erittäin ajankohtainen suurten verkkokauppojen kesäalennusten taas päätyttyä, ajattelin virittää samanhenkistä keskustelua myös tänne.
 

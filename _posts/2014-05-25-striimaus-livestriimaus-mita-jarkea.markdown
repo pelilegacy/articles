@@ -19,7 +19,7 @@ tags:
 - Puhe
 ---
 
-[![Puheohjelma: Streamia](http://www.pelilegacy.fi/wp-content/uploads/2014/05/puheohjelma_streamia.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/05/puheohjelma_streamia.jpg)
+[![Puheohjelma: Streamia](/uploads/2014/05/puheohjelma_streamia.jpg)](/uploads/2014/05/puheohjelma_streamia.jpg)
 
 **Peli Legacylla** on kunnia toimittaa ensimmäinen haastattelunsa suorassa lähetyksessä **tiistaina 27. toukokuuta klo 21:15**.
 

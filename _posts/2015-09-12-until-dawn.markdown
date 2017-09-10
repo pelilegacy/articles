@@ -22,7 +22,7 @@ tags:
 - Yksinoikeuspelit
 ---
 
-[![Arvio: Until Dawn](http://www.pelilegacy.fi/wp-content/uploads/2015/09/until_dawn.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/until_dawn.jpg)
+[![Arvio: Until Dawn](/uploads/2015/09/until_dawn.jpg)](/uploads/2015/09/until_dawn.jpg)
 
 [ingressi]Se mitä pelkäät, määrittelee itsesi.[/ingressi]
 
@@ -40,7 +40,7 @@ Vertaus onkin erityisesti osuva, kun pohditaan kauhuelokuvan ja -pelin eroavaisu
 
 Kiehtovinta hyvin elokuvalliseen tapaan rakennetussa _Until Dawnissa_ on, että pelaaja siirretään pelinomaisesti katsojan roolista ohjaajaksi ja käsikirjoittajaksi. Ratkaisu toimii moitteetta nimenomaan kauhupelin kohdalla.
 
-[![Tohtori Hill (Peter Stormare)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/tohtori_hill.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/tohtori_hill.jpg)
+[![Tohtori Hill (Peter Stormare)](/uploads/2015/09/tohtori_hill.jpg)](/uploads/2015/09/tohtori_hill.jpg)
 
 _Until Dawnin_ pelaaminen on myös emotionaalisesti kivulias kokemus, enkä tällä kertaa puhu sen aiheuttamista pelkotiloista. Juoni haarautuu useassa kohtaa ja valintojen lopullisuuden vuoksi jokaista valintaa kannattaa _Quantic Dreamin_ peleistä opitulla hartaudella miettiä tarkkaan.
 
@@ -60,7 +60,7 @@ Mistä kaikki sitten alkoi? _Until Dawnin_ varsinaisessa tarinassa palataan prol
 
 Tarinan alusta käytetään reiluhko osa hahmojen esittelyyn ja pohjustukseen, missä kannattaa olla pelkkänä korvana. Myöhemmin kyseisiä hahmoja ohjatessa heidän keskusteluihin voi toki vaikuttaa ja näin ollen kuljettaa tarinaa haluamaansa suuntaan. Esimerkiksi Matt ja Emily ovat nuori pariskunta, joiden tuore parisuhde on menneiden tapahtumien vuoksi alati koetuksella. Kun Emily moittii Mattia toistuvasti, voi pelaaja valita ollako kannustava vai antaako samalla mitalla takaisin. Vaihtoehtoihin lukeutuu tietysti myös molempien tapattaminen.
 
-[![Sam (Hayden Panettiere)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/sam.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/sam.jpg)
+[![Sam (Hayden Panettiere)](/uploads/2015/09/sam.jpg)](/uploads/2015/09/sam.jpg)
 
 _Until Dawnin_ pelaajalle kohdistama ”musteläikkätesti” on kekseliäs tapa nostaa koetun kauhun teho seuraavalle tasolle. Kun pelissä avasin erään kaapin ja sieltä silmille syöksähti aggressiivinen ahma tai kun heikosti valaistussa kellarissa suuren hämähäkin varjo kulki television ruudun poikki, säpsähdin aidosti. Olisiko vaikutus ollut sama, jos olisin valehdellut pelille ja vakuuttanut pelkääväni klovneja, joille korkeintaan nauran?
 
@@ -76,7 +76,7 @@ Teemallisesti wendigot kytkeytyvät luonnon haluun vastustaa ihmiskuntaa, mutta 
 
 Intiaanikansojen tarustossa wendigot heräävät saalistamaan öisin ihmislihaan sortuneita heikko-osaisia ja mökillinen nuoria on mitä oivallisin katettu pöytä niille. Ainakin siihen asti, kunnes tyttöystävänsä menettämisestä suivaantunut Mike löytää haulikon. Enää puuttuu vain käteen asennettava moottorisaha, mutta camp-huumorin puolelle _Until Dawn_ ei alennu, vaan kokonaisuus pysyy vakavana. Verisillä kohtauksilla toki herkutellaan toisinaan jopa sadististen Saw-elokuvien tyyliin.
 
-[![Matt ja Emily vaarassa](http://www.pelilegacy.fi/wp-content/uploads/2015/09/matt_and_emily.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/matt_and_emily.jpg)
+[![Matt ja Emily vaarassa](/uploads/2015/09/matt_and_emily.jpg)](/uploads/2015/09/matt_and_emily.jpg)
 
 Toimittaja **Patrick Klepeck** avaa [Kotakussa julkaistussa artikkelissaan kauhuelokuviin pinttyneitä trooppeja](http://kotaku.com/how-until-dawn-messes-with-two-of-horror-s-most-overuse-1729817525), joita myös _Until Dawn_ tuo estoitta ruutuun.
 

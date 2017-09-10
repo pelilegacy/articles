@@ -14,7 +14,7 @@ categories:
 - Kolumnit
 ---
 
-[![Kolumni: Vaikeus ei myy](http://www.pelilegacy.fi/wp-content/uploads/2014/02/kuvitus.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/02/kuvitus.jpg)
+[![Kolumni: Vaikeus ei myy](/uploads/2014/02/kuvitus.jpg)](/uploads/2014/02/kuvitus.jpg)
 
 
 

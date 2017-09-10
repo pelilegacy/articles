@@ -18,7 +18,7 @@ tags:
 - Uutuudet
 ---
 
-[![Quake Live](http://www.pelilegacy.fi/wp-content/uploads/2014/09/quake-live.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/09/quake-live.jpg)
+[![Quake Live](/uploads/2014/09/quake-live.jpg)](/uploads/2014/09/quake-live.jpg)
 
 _**Vapise ja tärise, sillä järistys elää nyt höyryssä. Anteeksi, oli pakko kirjoittaa näin.**_
 

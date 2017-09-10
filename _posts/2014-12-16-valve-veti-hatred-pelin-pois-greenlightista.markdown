@@ -19,7 +19,7 @@ tags:
 - Valve
 ---
 
-[![Hatred](http://www.pelilegacy.fi/wp-content/uploads/2014/12/hatred_game.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/hatred_game.jpg)
+[![Hatred](/uploads/2014/12/hatred_game.jpg)](/uploads/2014/12/hatred_game.jpg)
 
 **Päivitys 17.12.2014:** Episodi ei vielä ole päättynyt, sillä [Hatred](http://steamcommunity.com/sharedfiles/filedetails/?id=356532461) palasikin Greenlightiin. Tuotesivulla käydään kuumaa keskustelua mm. siitä kenet eräiden tahojen vihaamista julkisuuden henkilöistä pitäisi mallintaa pelissä tapettavaksi, joten katso omalla vastuulla.
 

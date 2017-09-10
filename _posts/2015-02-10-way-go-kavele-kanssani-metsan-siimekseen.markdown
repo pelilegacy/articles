@@ -17,7 +17,7 @@ tags:
 - Uutuudet
 ---
 
-[![Way to Go](http://www.pelilegacy.fi/wp-content/uploads/2015/02/waytogo.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/waytogo.jpg)
+[![Way to Go](/uploads/2015/02/waytogo.jpg)](/uploads/2015/02/waytogo.jpg)
 
 [ingressi]Way to Go on todennäköisesti paras peli, jota tulet tänään pelaamaan.[/ingressi]
 

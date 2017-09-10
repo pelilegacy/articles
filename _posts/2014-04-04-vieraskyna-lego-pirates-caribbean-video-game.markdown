@@ -17,7 +17,7 @@ tags:
 - Lego
 ---
 
-[![Lego Pirates of the Caribbean: The Video Game](http://www.pelilegacy.fi/wp-content/uploads/2014/04/lego_pirates_of_the_caribbean2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/lego_pirates_of_the_caribbean2.jpg)
+[![Lego Pirates of the Caribbean: The Video Game](/uploads/2014/04/lego_pirates_of_the_caribbean2.jpg)](/uploads/2014/04/lego_pirates_of_the_caribbean2.jpg)
 
 
 
@@ -45,7 +45,7 @@ Traveller's Tales on pitkän 24-vuotisen uransa aikana ehtinyt olla tekemässä 
 
 
 
-[![Lego Pirates of the Caribbean: The Video Game Gameplay](http://www.pelilegacy.fi/wp-content/uploads/2014/04/lego_pirates_of_the_caribbean1-600x337.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/lego_pirates_of_the_caribbean1.jpg)
+[![Lego Pirates of the Caribbean: The Video Game Gameplay](/uploads/2014/04/lego_pirates_of_the_caribbean1-600x337.jpg)](/uploads/2014/04/lego_pirates_of_the_caribbean1.jpg)
 
 
 

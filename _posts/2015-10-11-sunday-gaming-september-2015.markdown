@@ -29,7 +29,7 @@ tags:
 - Twitch
 ---
 
-[![Sunday Gaming](http://www.pelilegacy.fi/wp-content/uploads/2015/07/sunday_gaming.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/07/sunday_gaming.jpg)
+[![Sunday Gaming](/uploads/2015/07/sunday_gaming.jpg)](/uploads/2015/07/sunday_gaming.jpg)
 
 [ingressi]Welcome to the issue #3 of Sunday Gaming. Let's embark on a voyage to boldly screen the internet for best games writing this September.[/ingressi]
 

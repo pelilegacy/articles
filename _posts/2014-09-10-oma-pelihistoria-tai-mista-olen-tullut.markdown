@@ -19,7 +19,7 @@ tags:
 - Yliopisto
 ---
 
-[![Oma pelihistoria - mistä olen tullut](http://www.pelilegacy.fi/wp-content/uploads/2014/09/oma_pelihistoria.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/09/oma_pelihistoria.jpg)
+[![Oma pelihistoria - mistä olen tullut](/uploads/2014/09/oma_pelihistoria.jpg)](/uploads/2014/09/oma_pelihistoria.jpg)
 
 _[Niko](http://www.pelilegacy.fi/tekijat/niko-heikkila) osallistuu Jyväskylän yliopiston Humanistisen tiedekunnan ja tietotekniikan laitoksen yhteistyössä järjestämälle [Pelin lumo](https://www.jyu.fi/hum/opiskelu-ohjeet/tutorial/opintojaksot/htka112) -kurssille. Koska työ ja harrastus on jokapäiväisen jaksamisen kannalta oleellista yhdistää, tullaan Peli Legacyssa julkaisemaan kurssiin liittyviä kirjoituksia tämän syksyn aikana. Tässä niistä ensimmäinen, jossa käsitellään henkilökohtaista suhdetta pelaamiseen ja muistellaan muutamaa vanhaa klassikkoa._
 

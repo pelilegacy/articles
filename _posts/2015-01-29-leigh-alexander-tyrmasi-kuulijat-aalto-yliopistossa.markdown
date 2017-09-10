@@ -19,7 +19,7 @@ tags:
 - Puhe
 ---
 
-[caption id="attachment_1359" align="aligncenter" width="1050"][![Leigh Alexander - XOXO](http://www.pelilegacy.fi/wp-content/uploads/2015/01/leigh_alexander-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/leigh_alexander.jpg) Leigh Alexander XOXO-festivaaleilla 2014. (Kuva: [Ian Linkletter](https://www.flickr.com/photos/linkletter/15130838279/)).[/caption]
+[caption id="attachment_1359" align="aligncenter" width="1050"][![Leigh Alexander - XOXO](/uploads/2015/01/leigh_alexander-1050x591.jpg)](/uploads/2015/01/leigh_alexander.jpg) Leigh Alexander XOXO-festivaaleilla 2014. (Kuva: [Ian Linkletter](https://www.flickr.com/photos/linkletter/15130838279/)).[/caption]
 
 Ihmisten huulille ja kiistanalaiseen julkisuuteen viime vuonna noussut kulttuuritoimittaja ja kirjailija **Leigh Alexander** vieraili Suomessa 19. tammikuuta Aalto-yliopiston järjestämässä Games Now! -luentosarjassa. Tallenne puheesta on katsottavissa [Livestreamissa](http://new.livestream.com/accounts/6845410/gamesnow/videos/74254711). Tässä kolumnissa kertaan näkemääni sekä avaan ja pohdin Alexanderin ajatuksia.
 
@@ -221,4 +221,4 @@ _L: Niin, koskien sitä miksen muodosta omia piirejäni – olen jo muodostanut 
 
 
 
-[![TKO](http://www.pelilegacy.fi/wp-content/uploads/2015/01/tko-600x440.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/tko.jpg)
+[![TKO](/uploads/2015/01/tko-600x440.jpg)](/uploads/2015/01/tko.jpg)

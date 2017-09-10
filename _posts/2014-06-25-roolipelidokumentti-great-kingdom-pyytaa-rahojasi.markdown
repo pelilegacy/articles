@@ -19,7 +19,7 @@ tags:
 - Tulossa
 ---
 
-[![The Great Kingdom](http://www.pelilegacy.fi/wp-content/uploads/2014/06/the_great_kingdom.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/06/the_great_kingdom.jpg)
+[![The Great Kingdom](/uploads/2014/06/the_great_kingdom.jpg)](/uploads/2014/06/the_great_kingdom.jpg)
 
 _The AMERICAN DREAM can become the AMERICAN NIGHTMARE, if you’re not careful._
 

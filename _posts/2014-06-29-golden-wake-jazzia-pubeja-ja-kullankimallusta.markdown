@@ -19,7 +19,7 @@ tags:
 - Wadjet Eye Games
 ---
 
-[caption id="attachment_750" align="aligncenter" width="940"][![A Golden Wake](http://www.pelilegacy.fi/wp-content/uploads/2014/06/agoldenwake.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/06/agoldenwake.png) A Golden Wake tulossa syksyllä 2014. Kuva: Wadjet Eye Games.[/caption]
+[caption id="attachment_750" align="aligncenter" width="940"][![A Golden Wake](/uploads/2014/06/agoldenwake.png)](/uploads/2014/06/agoldenwake.png) A Golden Wake tulossa syksyllä 2014. Kuva: Wadjet Eye Games.[/caption]
 
 [Wadjet Eye Games](http://www.pelilegacy.fi/tiedotteet/594/wadjet-eye-games-enemman-kuin-pikseleista-nakyy) ratsastaa jälleen. Tänä syksynä he julkaisevat **Grundislav Gamesin** (mm. Ben Jordan) tekemän [A Golden Waken](http://www.wadjeteyegames.com/games/golden-wake/). Tyylilaji on tietenkin seikkailu, mitä muuta odotitte?
 

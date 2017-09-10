@@ -19,7 +19,7 @@ tags:
 - YLE
 ---
 
-[caption id="attachment_982" align="aligncenter" width="600"][![Jyrki Kasvi](http://www.pelilegacy.fi/wp-content/uploads/2014/10/yle_puhe_jyrki_kasvi-600x337.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/10/yle_puhe_jyrki_kasvi.jpg) Kuva: YLE[/caption]
+[caption id="attachment_982" align="aligncenter" width="600"][![Jyrki Kasvi](/uploads/2014/10/yle_puhe_jyrki_kasvi-600x337.jpg)](/uploads/2014/10/yle_puhe_jyrki_kasvi.jpg) Kuva: YLE[/caption]
 
 **Yle Puheen Aamussa** puhuttiin tänään monia eittämättä kiinnostavasta aiheesta pelikulttuurissa: videopelinostalgiasta. Mistä kaipuumme vanhoja pelejä kohtaan nousee? Miksi nykyisin retropelit ovat suosiossa? Ohjelmassa asiaa pohti Vuoden nörtiksi valittu poliitikko ja Tietoyhteiskunnan kehittämiskeskuksen tutkimus- ja kehittämisjohtaja **Jyrki Kasvi** (kuvassa).
 

@@ -19,7 +19,7 @@ tags:
 - Wadjet Eye Games
 ---
 
-[![Ron Gilbert](http://www.pelilegacy.fi/wp-content/uploads/2014/10/gilbert.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/10/gilbert.jpg)
+[![Ron Gilbert](/uploads/2014/10/gilbert.jpg)](/uploads/2014/10/gilbert.jpg)
 
 Piraattilaivan kapteeni Maniac Mansionin ja Monkey Island -pelisarjan takaa,** Ron Gilbert** toiselta nimeltään Grumpy Gamer, latoi aikoinaan pöytään nyrkkisäännöt hyvälle ja häiriöttömälle seikkailupelien suunnittelulle. Säännöt on alun perin julkaistu _The Journal of Computer Game Design_ -lehdessä vuonna 1989 ja 15 vuotta myöhemmin Gilbertin omassa [blogissa](http://grumpygamer.com/why_adventure_games_suck) avoimella lisenssillä. Olemmeko oppineet mitään kuluneina 25 vuotena? Aina ei siltä näytä, vaikka toivoa saattaisi.
 
@@ -35,7 +35,7 @@ Gilbert mainitsee artikkelissaan englantilaisen filosofi **Samuel Taylor Colerid
 
 Mitä ne hyvät vinkit sitten ovat? Alle olen koonnut Gilbertin artikkelista kuusi tärkeintä, mutta kuten kaikkien sääntöjen kanssa pätee, näitäkin voi rikkoa. Etenkin silloin kun se tehdään taiteellisen vapauden nimissä.
 
-[![Maniac Mansion](http://www.pelilegacy.fi/wp-content/uploads/2014/10/maniac_mansion.jpeg)](http://www.pelilegacy.fi/wp-content/uploads/2014/10/maniac_mansion.jpeg)
+[![Maniac Mansion](/uploads/2014/10/maniac_mansion.jpeg)](/uploads/2014/10/maniac_mansion.jpeg)
 
 
 
@@ -65,7 +65,7 @@ Olen pelannut tarpeeksi pelejä, joissa esimerkiksi kadonnut kirja löytyy ennen
 
 Älä koskaan oleta, että pelaaja on poiminut sellaisen esineen aikaisemmin, jota pelissä nyt tarvitaan. Vielä pahempaa on, että pelaaja ei enää pääse poimimaan koko esinettä lataamatta aikaisempaa tallennusta. Jos siltaa vartioiva peikko ohitetaan antamalla tälle punainen silli, älä piilota silliä edelliseen lukuun rajattuun luolaan, jossa pelaajalla ei tullut mieleenkään laittaa pientä sätkivää kalaa taskuunsa. Peliä ei mielellään aloita enää alusta, mikäli ainoa tallennus muuttuu käytännössä turhaksi, koska peliä ei siitä pisteestä enää ole mahdollista läpäistä.
 
-[![Red Herring](http://www.pelilegacy.fi/wp-content/uploads/2014/10/red_herring.gif)](http://www.pelilegacy.fi/wp-content/uploads/2014/10/red_herring.gif)
+[![Red Herring](/uploads/2014/10/red_herring.gif)](/uploads/2014/10/red_herring.gif)
 
 
 

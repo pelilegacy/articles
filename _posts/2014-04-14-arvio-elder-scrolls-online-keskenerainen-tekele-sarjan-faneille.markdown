@@ -18,7 +18,7 @@ tags:
 - Uutuudet
 ---
 
-[![The Elder Scrolls Online - Spider](http://www.pelilegacy.fi/wp-content/uploads/2014/04/The-Elder-Scrolls-Online-Spider-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/The-Elder-Scrolls-Online-Spider.jpg)
+[![The Elder Scrolls Online - Spider](/uploads/2014/04/The-Elder-Scrolls-Online-Spider-1050x590.jpg)](/uploads/2014/04/The-Elder-Scrolls-Online-Spider.jpg)
 
 
 
@@ -54,7 +54,7 @@ Taistelu on ihmisiä puhututtanut asia The Elder Scrolls Onlinessa. Henkilökoht
 
 
 
-[![The Elder Scrolls Online - Bug Attack](http://www.pelilegacy.fi/wp-content/uploads/2014/04/The-Elder-Scrolls-Online-Bug-1050x597.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/The-Elder-Scrolls-Online-Bug.jpg)
+[![The Elder Scrolls Online - Bug Attack](/uploads/2014/04/The-Elder-Scrolls-Online-Bug-1050x597.jpg)](/uploads/2014/04/The-Elder-Scrolls-Online-Bug.jpg)
 
 
 

@@ -19,7 +19,7 @@ tags:
 - Tulossa
 ---
 
-[![The Witcher 3: Wild Hunt](http://www.pelilegacy.fi/wp-content/uploads/2014/08/the_witcher_3-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/the_witcher_3.jpg)
+[![The Witcher 3: Wild Hunt](/uploads/2014/08/the_witcher_3-1050x590.jpg)](/uploads/2014/08/the_witcher_3.jpg)
 
 Viime päivien ajan olen seisonut, istunut, maannut, juonut kahvia, syönyt leipää ja kävellyt edestakaisin huoneesta toiseen. Kaiken tämän aktiviteetin keskellä mielessä on ollut vain ja ainoastaan yksi peli -- **The Witcher 3: Wild Hunt**.
 

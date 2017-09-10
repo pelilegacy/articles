@@ -22,7 +22,7 @@ tags:
 - Uutuudet
 ---
 
-[![Hack 'n' Slash](http://www.pelilegacy.fi/wp-content/uploads/2014/09/hack_n_slash-1050x590.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/09/hack_n_slash.png)
+[![Hack 'n' Slash](/uploads/2014/09/hack_n_slash-1050x590.png)](/uploads/2014/09/hack_n_slash.png)
 
 **_"Katso itseäsi, hakkeri. Pateettinen olento, lihaa ja verta. Huohottaen ja hikoillen juokset käytävilläni. Miten kuvittelit haastavasi täydellisen, kuolemattoman koneen?" Helposti, eihän se vaadi kuin kokeneen tiimin ja omaperäisen idean. Hack 'n' Slash on juuri sitä tiivistettynä._**
 

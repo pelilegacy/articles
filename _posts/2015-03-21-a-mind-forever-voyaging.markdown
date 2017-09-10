@@ -19,7 +19,7 @@ tags:
 - Taide
 ---
 
-[![A Mind Forever Voyaging](http://www.pelilegacy.fi/wp-content/uploads/2015/03/a_mind_forever_voyaging-201x300.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/a_mind_forever_voyaging.jpg)
+[![A Mind Forever Voyaging](/uploads/2015/03/a_mind_forever_voyaging-201x300.jpg)](/uploads/2015/03/a_mind_forever_voyaging.jpg)
 
 
 
@@ -67,7 +67,7 @@ Holmes korostaa, että valintojen määrää tärkeämpää on kuitenkin tehdä 
 
 Kirjan loppupuolella asiaa käsitellään enempi. _Dear Esther_ -pelissä pelaajaa ajaa eteenpäin pelillisen haasteen sijasta tarinan seuraaminen. Samoin Heavy Rainin tapauksessa pelin suola on sen tarjoamassa interaktiivisessa elokuvassa.
 
-[![Hauskuus ja videopelit](http://www.pelilegacy.fi/wp-content/uploads/2015/03/fun_and_games.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/fun_and_games.png)
+[![Hauskuus ja videopelit](/uploads/2015/03/fun_and_games.png)](/uploads/2015/03/fun_and_games.png)
 
 Piinaavan yleinen tapa varsinkin pelijournalismissa on arvottaa pelit niiden tarjoaman hauskuuden perusteella. Esimerkiksi tähän Holmesilla on tarjota naseva vasta-argumentti. Siinä missä sarjakuvat ovat jo aikoja sitten lakanneet olemasta puhtaasti koomisia, myös videopelit ovat tulleet kauas pelihallien juuriltaan. Tämä on totta. Pelit voivat tarjota sellaisia vangitsevia kokemuksia, jotka eivät välttämättä ole hauskoja, ja niistä voi nauttia täysin rinnoin.
 

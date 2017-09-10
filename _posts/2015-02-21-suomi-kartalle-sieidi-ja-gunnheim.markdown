@@ -19,7 +19,7 @@ tags:
 - Tulossa
 ---
 
-[![Gunnheim](http://www.pelilegacy.fi/wp-content/uploads/2015/02/gunnheim-1050x408.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/gunnheim.jpg)
+[![Gunnheim](/uploads/2015/02/gunnheim-1050x408.jpg)](/uploads/2015/02/gunnheim.jpg)
 
 Ensin tulivat vihaiset linnut -- nyt äkkipikaisia ovat viikingit, mitä vielä. Eivätkä mitkä tahansa pohjanmiehet, vaan rynnäkkökiväärein varustautuneet vieraan ulottuvuuden sarvipäät jyväskyläläisen [**Sieidin**](http://sieidi.com) ensimmäisessä PC-pelissä **Gunnheim**.
 
@@ -35,7 +35,7 @@ Gunnheim yrittää vallata markkinoilta nurkkausta, jonne on paljon tungosta, mu
 
 Sain tilaisuuden pelitestata Gunnheimia Sieidin toimitiloissa viime perjantaina ja tämän artikkelin kannalta se oli palkitsevaa, sillä peli ei vielä tässä vaiheessa sovellu juurikaan yksin pelattavaksi, ellei vain kehitysversion päävalikossa sijaitsevia asetuksia muuta kevyempään suuntaan. Tiivis moninpeli on se, mitä tarvitset. Yhdestä neljään pelaajan ohjaamaa pohjanmiestä laskeutuvat pimeimmästä Valhallasta, keräävät parannuksia aseisiin ja terveyteen sekä yrittävät selviytyä lukuisista vihollisaalloista. Vihollisia on vain muutamaa eri tyyppiä ja demokentän lopun päävastus tuo hieman mieleen The Legend of Zelda -seikkailut.
 
-[![Gunnheim #2](http://www.pelilegacy.fi/wp-content/uploads/2015/02/gunnheim-2-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/gunnheim-2.jpg)
+[![Gunnheim #2](/uploads/2015/02/gunnheim-2-1050x591.jpg)](/uploads/2015/02/gunnheim-2.jpg)
 
 Ensimmäisenä Gunnheimissa katse kohdistuu pelin visuaaliseen ilmeeseen, joka on sangen pirteä ja värikäs luoden kontrastin runsaalle väkivaltaisuudelle. Juuri sellainen kontrasti on hyvä, joskaan ei uniikki valttikortti kun halutaan erottautua massasta. Ehkä viikingit saavat jatkokehityksen myötä osakseen hieman persoonallisuutta, sillä tekijät lupaavat peliin useita hahmoluokkia, joista kehitysversiossa pelataan Berserker-luokalla.
 

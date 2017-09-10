@@ -21,7 +21,7 @@ tags:
 - Veturitallit
 ---
 
-[![Mikko Meriläinen](http://www.pelilegacy.fi/wp-content/uploads/2015/09/gameonjkl_mikko_merilainen.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/gameonjkl_mikko_merilainen.jpg)
+[![Mikko Meriläinen](/uploads/2015/09/gameonjkl_mikko_merilainen.jpg)](/uploads/2015/09/gameonjkl_mikko_merilainen.jpg)
 
 [ingressi]Peli Legacy jatkoi yhteistyötään Jyväskylän kaupungin kanssa syyskuun alussa auttamalla sekä pelikasvatusseminaarin että kaksi päivää kestäneen PLAYHARD-konsolipelitapahtuman järjestämisessä. Hitaan journalismin periaatteita tukevassa raportissamme paneudutaan mielestämme varsin onnistuneen seminaarin puintiin.[/ingressi]
 

@@ -25,7 +25,7 @@ tags:
 - Seminaarit
 ---
 
-[![Pelipäiväviikko – Jyväskylä](http://www.pelilegacy.fi/wp-content/uploads/2015/09/pelipaivaviikko.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/pelipaivaviikko.png)
+[![Pelipäiväviikko – Jyväskylä](/uploads/2015/09/pelipaivaviikko.png)](/uploads/2015/09/pelipaivaviikko.png)
 
 [ingressi]Kansallinen pelipäivä viikon kestävine oheistoimintoineen kutsuu taas -- ilmianna lähiseutusi tapahtumat.[/ingressi]
 

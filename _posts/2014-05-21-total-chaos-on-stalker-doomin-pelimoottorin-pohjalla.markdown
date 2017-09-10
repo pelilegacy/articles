@@ -19,7 +19,7 @@ tags:
 - Tulossa
 ---
 
-[![Total Chaos - Doom II Mod](http://www.pelilegacy.fi/wp-content/uploads/2014/05/totalchaos.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/05/totalchaos.jpg)
+[![Total Chaos - Doom II Mod](/uploads/2014/05/totalchaos.jpg)](/uploads/2014/05/totalchaos.jpg)
 
 Selvästi STALKER-sarjasta vaikutteita ottanut **Total Chaos** väläyttää pintaansa lyhyellä videolla. Doom II -pelimoottorin äärimmilleen viedyssä pelissä ei pelata perinteisellä merijalkaväen sotilaalla vaan pelaaja pudotetaan videokameransa kanssa yksin saarelle. Kaaos tietenkin syntyy siitä, että pelaaja ei olekaan yksin eikä edes turvassa.
 

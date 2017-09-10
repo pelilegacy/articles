@@ -22,7 +22,7 @@ tags:
 - YouTube
 ---
 
-[![Volume](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume.jpg)
+[![Volume](/uploads/2015/09/volume.jpg)](/uploads/2015/09/volume.jpg)
 
 [ingressi]Kun rikolliset hiipivät, on äänenvoimakkuus syytä pitää matalalla.[/ingressi]
 
@@ -40,7 +40,7 @@ Taustatarina on hahmojen nimiä myöten uusintaa Robin Hoodin saagasta, mutta _V
 
 Päähahmo Robert Locksleyn arkkivihollinen Guy Gisborne johtaa tulevaisuudessa totalitaarisen kybervaltion nyrkin alle luhistunutta Englantia, jonka aarteita Locksley yhdessä Volume-laitteen muistissa majailevan keinoäly-Alanin kanssa alkaa omia itselleen. Rikokset ovat kuitenkin vain simulaatioita, joilla salainen vallankaappausyritys pyritään kätkemään. Julkisen nöyryytyksen takaamiseksi kaikki simulaatiot lähetetään suorana verkkoon. Tavoitteena tietenkin on riisua tyranni Gisborne oletetusta mahdistaan esittämällä tämä mitättömänä ja haavoittuvaisena vanhana miehenä, jolta varastaminen on helppoa kuin lahnalta.
 
-[![Volume](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume1.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume1.jpg)
+[![Volume](/uploads/2015/09/volume1.jpg)](/uploads/2015/09/volume1.jpg)
 
 Locksleyn matka kulkee läpi museoiden, kirjastojen ja yksityisten asuntojen aina Gisbornen kartanoon asti. Simulaation johdosta mieleenpainuvana tyylikeinona jokainen pelin taso esitetään eräänlaisena virtuaalitodellisuudesta emanoituvana huoneistona, minkä ansiosta eri sijaintien autenttisuudesta ei tarvitse välittää -- kunhan palikat ovat kauniisti rivissä.
 
@@ -48,7 +48,7 @@ Puolet tästä palstasta voisi kuluttaa pohtiessa sitä, miksi Bithell on niin k
 
 Virtuaalitodellisuus toimii samalla näyttämönä pelin varsinaiselle kontekstille, joka yllättäen ei kuvaa niinkään kertomusta diktatuurin syleilyyn kahlitun valtion selviytymistaistelusta, vaan kritisoi digitaalista kulttuuria. Ansionsa mukaan saavat erityisesti Twitch-striimaajien sekä YouTube-videontekijöiden egomaanisuus ja ahnas katsojalukujen tavoittelu. Eräässä kohtauksessa Keinoäly-Alanin suljettua suoran lähetyksen rikkoo peli neljännen seinän yllättävällä tavalla kehottaen pelaajaa lopettamaan leikin -- eihän tällä ole enää edes katsojia. Mitä hyötyä on tuottaa suoria lähetyksiä tai videoita, jos niillä ei ole katsojia? Jalo tavoite kansakunnan pelastamisesta pitää kuitenkin toivoa yllä.
 
-[![Volume](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume2.jpg)
+[![Volume](/uploads/2015/09/volume2.jpg)](/uploads/2015/09/volume2.jpg)
 
 Kun pelaaja on saanut kouransa tukevasti ohjaimen ympärille, ei _Volumea_ voi kuvailla vaikeaksi peliksi -- jossain määrin haastavaksi ehkä. Viimeisten tasojen kehittyneitä ritareita lukuun ottamatta vartijoita voi paeta helposti kulmien taakse, ja kiinni jäädessäänkin pelaajalle suodaan mahdollisuus aloittaa hyvin läheltä -- kiitos tiheään sijoitettujen tallennuspisteiden.
 
@@ -62,7 +62,7 @@ Maltillisesti kasvavan vaikeustason ansiosta tasot käyvät hermoille vasta lopp
 
 Volumen ääninäyttelyn osalta olen kuullut paljon moitteita, mutta omaan korvaani Danny Wallace lakonisena keinoälynä ja vloggaaja **Charlie McDonnell** Locksleyna suoriutuvat hyvin vuoropuheluistaan. Klonkkua **Peter Jacksonin** Keskimaa-filmatisoinneissa näytelleen **Andy Serkisin** ei myöskään tarvitse hävetä päänsä aukomista Gisbornen roolissa. Dialogi ja ääninäyttely tuovat tummanpuhuvaan dystopiaan ripauksen virkistävää brittikomiikkaa.
 
-[![Volume](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume3.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume3.jpg)
+[![Volume](/uploads/2015/09/volume3.jpg)](/uploads/2015/09/volume3.jpg)
 
 Volumea on verrattu paljon _Metal Gear Solid_ -sarjan VR-tehtäviin, johon Bithell on todennut pelin vetäneen enempi esteettisiä vaikutteita muun muassa _Thiefista_, _Hitmanista_ ja _Pac-Manista_. Vertaus etenkin jälkimmäiseen on sikäli osuva, että _Volume_ ei ole niin monipuolinen peli kuin voisi olettaa. Useimmiten ratkaisuna on juosta vartijan selän takaa tämän ihmetellessä esimerkiksi nurkkaan heitettyä kiiltävää esinettä. Kehittyneemmät vartijat näkevät kaiken ympärillään, mutta tason lopetusta merkitsevään valokeilaan voi juosta helposti, vaikka koko kentän vastustajat olisivat kintereillä. Hiiviskelypelien vakiokomponentit, kuten päälle ja pois kytkeytyvät lasersäteet ja varjoisat ruudut ovat jo konseptina kuluneita eivätkä pelissäkään toimi hyvin.
 

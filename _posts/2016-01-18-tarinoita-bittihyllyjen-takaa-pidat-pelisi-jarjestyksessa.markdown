@@ -17,7 +17,7 @@ tags:
 - Trello
 ---
 
-![Pelihylly](https://www.pelilegacy.fi/wp-content/uploads/2016/01/pelihylly.jpg)
+![Pelihylly](/uploads/2016/01/pelihylly.jpg)
 
 [ingressi]Kun digitaaliset pelihyllyt olivat ratketa liitoksistaan, Niko sulki toimistonsa oven ja ryhtyi töihin.[/ingressi]
 

@@ -4,7 +4,7 @@ comments: true
 date: 2016-07-25 07:41:16+00:00
 excerpt: Toimittajamme testasi Suomen Turun ja palasi kertomaan siitä.
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/07/turku_castle.jpg
+    src: /uploads/2016/07/turku_castle.jpg
     alt: Turun linna
 layout: post
 title: Pelin nimi on Turku

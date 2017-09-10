@@ -19,7 +19,7 @@ tags:
 - Uutuudet
 ---
 
-[![Rail Nation Logo](http://www.pelilegacy.fi/wp-content/uploads/2014/04/railnation_logo.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/railnation_logo.png)
+[![Rail Nation Logo](/uploads/2014/04/railnation_logo.png)](/uploads/2014/04/railnation_logo.png)
 
 
 
@@ -35,7 +35,7 @@ Pelin alkeet on erittäin helppo oppia alussa tarjotun suomenkielisen _tutoriaal
 
 Vaikka erilaisia strategiataisteluita rautateiden herruudesta on tehty paljon (esimerkkeinä _Railroad Tycoon ja Sid Meier’s Railroads!_), Rail Nation poikkeaa edeltäjistään. Esimerkiksi tietokonevastuksia ei ole ollenkaan, vaan kaikki muut ovat ihan oikeita pelaajia. Pelin lopullinen tarkoitus ei olekaan pelkästään oman yrityksen, vaan myös oman kaupungin kasvattaminen kymmenen suurimman joukkoon ja lopulta loppukilpailussa suurimmaksi.
 
-[caption id="attachment_564" align="aligncenter" width="1050"][![Rail Nation kuvakaappaus](http://www.pelilegacy.fi/wp-content/uploads/2014/04/railnation1-1050x656.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/railnation1.jpg) Pelin rakennukset puhuvat puolestaan näyttävyydellään.[/caption]
+[caption id="attachment_564" align="aligncenter" width="1050"][![Rail Nation kuvakaappaus](/uploads/2014/04/railnation1-1050x656.jpg)](/uploads/2014/04/railnation1.jpg) Pelin rakennukset puhuvat puolestaan näyttävyydellään.[/caption]
 
 Travian Gamesilla on jo kymmenen vuoden kokemus selainpohjaisista moninpeleistä. Ensimmäinen pelinsä Travian julkaistiin jo 2004 (suomeksi v. 2007) ja Rail Nation on nyt yhtiön viides julkaisu. Kaikki pelit ovat ns. MMOG (Massively Multiplayer Online Game) -pelejä eli jopa useamman tuhannen pelaajan yhtäaikaisesti pelattavia.
 
@@ -43,6 +43,6 @@ Bright Future puolestaan on aikaisemmin keskittynyt lähinnä FIFA Manager -peli
 
 Huonona puolena äänimaisema on tässä vaiheessa peliä harmittavan vähäinen. Käytännössä ainoat äänet ovat junien puuskutus ja lentokoneen pörinä. Jälkimmäistä ääntä ei allekirjoittanut ole muutaman pelipäivän jälkeen kuullut kuin kerran. Taustamusiikkikin loistaa poissaolollaan. Ulkonäköön toisaalta on panostettu. Peli on kaunista katseltavaa, kunhan vain laitteen ja nettiyhteyden ominaisuudet riittävät pyörittämään tätä silmäkarkkia. Testikokoonpanolla ei ilmennyt ongelmia.
 
-[caption id="attachment_565" align="aligncenter" width="1050"][![Rail Nation kuvakaappaus](http://www.pelilegacy.fi/wp-content/uploads/2014/04/railnation2-1050x554.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/railnation2.jpg) Omasta rautatieverkostostaan saa kattavan kuvan isommassa näkymässä.[/caption]
+[caption id="attachment_565" align="aligncenter" width="1050"][![Rail Nation kuvakaappaus](/uploads/2014/04/railnation2-1050x554.jpg)](/uploads/2014/04/railnation2.jpg) Omasta rautatieverkostostaan saa kattavan kuvan isommassa näkymässä.[/caption]
 
 Mukaan voi rekisteröityä ilmaiseksi [Rail Nationin nettisivuilla](http://railnation.fi/). Peliin voi myös halutessaan ostaa kultaharkkoja, jotka pelaaja voi käyttää erilaisiin hyödyttäviin ostoihin, kuten esimerkiksi tutkijan palkkaamiseen tai rakennusten nopeampaan kehittämisen. Rail Nation tuottaa pelaamisen iloa pitkäksi aikaa, vaikka sille omistautuminen ei vaadikaan välttämättä kuin muutamia viidestä minuutista varttituntiin kestäviä pelikertoja päivittäin.

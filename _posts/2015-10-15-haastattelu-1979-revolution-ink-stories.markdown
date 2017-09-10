@@ -27,7 +27,7 @@ tags:
 - This War of Mine
 ---
 
-[![1979 Revolution](http://www.pelilegacy.fi/wp-content/uploads/2015/10/1979_Revolution1.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/10/1979_Revolution1.jpg)
+[![1979 Revolution](/uploads/2015/10/1979_Revolution1.jpg)](/uploads/2015/10/1979_Revolution1.jpg)
 
 _Tämä on käännös englanninkielisestä haastattelusta. Voit lukea alkuperäisen version [täällä](https://medium.com/peli-legacy/interview-1979-revolution-takes-you-to-the-middle-of-iran-s-decisive-cultural-uprising-2aa439066bfd)._
 
@@ -85,7 +85,7 @@ Erityisesti historiallisista ja poliittisista peleistä kiinnostuneena pelaajana
 
 **Navid:** Kunnioitamme valtavasti sitä, mitä Telltale on saanut peleillään aikaan ja näemme heidät eräänlaisina suunnannäyttäjinä, jotka antoivat meillekin inspiraation tehdä omaa juttuamme tällä alalla. Luulen, että merkittävin ero välillämme on se, että _1979 Revolution_ perustuu fiktion sijasta oikean maailman tapahtumiin. Seikkailupelin sijoittaminen oikeaan maailmaan on suuri haaste.
 
-[caption id="attachment_2310" align="alignright" width="225"][![Navid Khonsari](http://www.pelilegacy.fi/wp-content/uploads/2015/10/navid_khonsari-225x300.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/10/navid_khonsari.jpg) Navid Khonsari[/caption]
+[caption id="attachment_2310" align="alignright" width="225"][![Navid Khonsari](/uploads/2015/10/navid_khonsari-225x300.jpg)](/uploads/2015/10/navid_khonsari.jpg) Navid Khonsari[/caption]
 
 -- Toiseksi, pelimekaniikkamme ei rajoitu seikkailupeleille tyypillisiin elementteihin. Voit pelatessasi tehdä kaiken kivien ja molotovien heittelystä kuvien ottamiseen ja katseluun. Keräiltävät asiat, kuten valokuvat ja äänileikkeet ovat peräisin oikeasta maailmasta. Pelissä voit tutkia esineitä ja oppia oikeista tapahtumista niiden kautta. Perinteiset seikkailupelien elementitkin ovat mukana, joten oven avaamiseksi joudut etsiä avaimen, mutta sellaisille, jotka eivät tunne tapahtumien alkuperää on seikkailu ja tutkimus oikeaan maailmaan perustuvassa sijainnissa varmasti mielenkiintoinen kokemus. Elävöitämme maailmaa myös musiikilla ja katutaiteella, minkä lisäksi pelissä väistellään paljon ammuksia ja navigoidaan mellakoiden seassa.
 

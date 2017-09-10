@@ -19,7 +19,7 @@ tags:
 
 
 
-[![Kuvitus](http://www.pelilegacy.fi/wp-content/uploads/2014/07/gog_linux.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/07/gog_linux.png)
+[![Kuvitus](/uploads/2014/07/gog_linux.png)](/uploads/2014/07/gog_linux.png)
 
 Virkkoipa kerran wanha kansa: pelaaminen tarvitsee Windows-koneen. Vanhan kansan suita hiljennetään tänäänkin kun suosittu digitaalisten pelien jakelija [GOG.com](http://www.gog.com) julkaisee ensimmäiset 50 virallisesti tukemaansa [Linux-peliä](http://www.gog.com/news/gogcom_now_supports_linux).
 

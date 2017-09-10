@@ -20,7 +20,7 @@ tags:
 - Wii U
 ---
 
-[![Vieraskynä: Star Fox Zero ja väärinymmärretyt kontrollit](https://www.pelilegacy.fi/wp-content/uploads/2016/05/vieraskyna_star_fox_zero.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/05/vieraskyna_star_fox_zero.jpg)
+[![Vieraskynä: Star Fox Zero ja väärinymmärretyt kontrollit](/uploads/2016/05/vieraskyna_star_fox_zero.jpg)](/uploads/2016/05/vieraskyna_star_fox_zero.jpg)
 
 [ingressi]Sami Hartikaisen mielestä uusi Star Fox Zero ei ole niin ongelmallinen kuin annetaan ymmärtää.[/ingressi]
 
@@ -34,7 +34,7 @@ Toinen esimerkki: _64DD_, Nintendo 64 -konsolille tarkoitettu levyasema. Tuotet
 
 _Star Fox Zeron_ ohjaustapa on suunniteltu kahdelle ruudulle tavalla, jota ei aiemmin ole tehty juuri missään. Peliohjaimen ruudulla ammutaan ensimmäisestä persoonasta ja käytetään gyroskooppista tähtäystä. Tämä tarkoittaa, että heiluttelet ohjainta edestakaisin osuaksesi tarkemmin edessä oleviin vihollisiin. Tässä ei ole mitään ihmeellistä, sillä tällaista on tehty aiemminkin. Uutena mukaan tuleekin TV-ruudun kuva. TV-ruudulla näet aluksen kokonaan aivan kuten _Star Fox 64_ -pelissä. Ohjaat ruudulla menevää alusta peliohjaimen vasemmalla tatilla ja samalla pystyt katsomaan TV-ruutua halutessasi koko ajan, mutta samalla menetät peliohjaimen tuoman tarkemman ampumisen, joita osa vihollisista vaatii.
 
-[![Star Fox Zeron kontrollit](https://www.pelilegacy.fi/wp-content/uploads/2016/05/star_fox_zero_controls.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/05/star_fox_zero_controls.jpg)
+[![Star Fox Zeron kontrollit](/uploads/2016/05/star_fox_zero_controls.jpg)](/uploads/2016/05/star_fox_zero_controls.jpg)
 
 Tämä tuo pelikokemukseen oman sekavuutensa, sillä pelissä onnistuakseen joudut seuraamaan molempia ruutuja. Vaikka peli onkin osittain _raideräiskinnän_ tyylinen ja voit suurimmaksi osaksi vain seurata tähtäystä peliohjaimelta, ei tämä poista sitä, että edessäsi tulee olemaan kielekkeitä, vihollisaluksia ja muita esteitä, joita on väisteltävä ohjaamalla itse alusta. Ensimmäisen persoonan kuvasta ei saa täysin selvää siitä, kuinka lähellä nämä esteet ovat ja osuuko aluksesi niihin. Näinä hetkinä joudut nostamaan katseesi pois tähtäimestä ja katsomaan aluksen etenemistä TV-ruudulta, jolloin et voi tähdätä. Hoitamattomat viholliset saattavat tykittää sinua tehokkaasti. Vaikka TV-ruudullakin on omat tähtäysalueet, nämä eivät ole yhtä tarkkoja ja niillä osuminen on vaikeampaa vihollisiin – varsinkin niihin tarkkuutta vaativiin.
 

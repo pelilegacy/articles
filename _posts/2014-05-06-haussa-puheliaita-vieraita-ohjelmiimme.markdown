@@ -18,7 +18,7 @@ tags:
 - Puhe
 ---
 
-[![Keskustelkaa!](http://www.pelilegacy.fi/wp-content/uploads/2014/05/discuss.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/05/discuss.jpg)
+[![Keskustelkaa!](/uploads/2014/05/discuss.jpg)](/uploads/2014/05/discuss.jpg)
 
 **Peli Legacylla** on ollut alusta alkaen tarkoitus järjestää ohjelmistossaan myös viikoittaisia puheohjelmia katsojien iloksi. Toistaiseksi olemme kuitenkin keskittyneet pelkästään tavallisiin pelilähetyksiin, joista olemmekin saaneet hyvää palautetta. Katsojatyytyväisyyskyselyssä osa palautteen antajista toivoi ohjelmistoon enempi keskustelua silkan pelaamisen sijaan. Tämän tilauksen täytämme tulevana kesänä.
 

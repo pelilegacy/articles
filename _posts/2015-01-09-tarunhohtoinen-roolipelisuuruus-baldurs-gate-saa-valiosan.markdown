@@ -19,7 +19,7 @@ tags:
 - Icewind Dale
 ---
 
-[![Baldur's Gate II: Enhanced Edition](http://www.pelilegacy.fi/wp-content/uploads/2015/01/baldurs_gate_2_ee-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/baldurs_gate_2_ee.jpg)
+[![Baldur's Gate II: Enhanced Edition](/uploads/2015/01/baldurs_gate_2_ee-1050x591.jpg)](/uploads/2015/01/baldurs_gate_2_ee.jpg)
 
 Vuolaasti ylistetyn roolipelisarja _Baldur's Gaten Enhanced Edition_ -uusversioiden takana oleva **Beamdog** on tekemässä uutta osaa sarjaan. Ennen kuin korkkaamme shampanjan mainittakon, ettei kyseessä kuitenkaan ole _Baldur's Gate 3_, vaan työnimellä _Adventure Y_ kulkeva peli, joka sijoittuu osien välimaastoon.
 

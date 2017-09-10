@@ -18,7 +18,7 @@ tags:
 - Ubisoft
 ---
 
-[![Trials Fusion Logo](http://www.pelilegacy.fi/wp-content/uploads/2014/04/trials_fusion.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/trials_fusion.jpg)
+[![Trials Fusion Logo](/uploads/2014/04/trials_fusion.jpg)](/uploads/2014/04/trials_fusion.jpg)
 
 
 
@@ -58,7 +58,7 @@ Sain arvioitavakseni pelin betaversion PC:lle, joten pieniä bugeja sopi odottaa
 
 
 
-[caption id="attachment_498" align="aligncenter" width="704"][![Trials Fusion Gameplay](http://www.pelilegacy.fi/wp-content/uploads/2014/04/trials_fusion_gameplay.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/trials_fusion_gameplay.jpg) Lennä Matti, mutta pidä sarvista kiinni![/caption]
+[caption id="attachment_498" align="aligncenter" width="704"][![Trials Fusion Gameplay](/uploads/2014/04/trials_fusion_gameplay.jpg)](/uploads/2014/04/trials_fusion_gameplay.jpg) Lennä Matti, mutta pidä sarvista kiinni![/caption]
 
 
 

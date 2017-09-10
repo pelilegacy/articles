@@ -22,7 +22,7 @@ tags:
 - Tomb Raider
 ---
 
-[![Näitä pelikirjoituksia luimme tässä kuussa](http://www.pelilegacy.fi/wp-content/uploads/2015/02/pelikirjoitukset.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/pelikirjoitukset.png)
+[![Näitä pelikirjoituksia luimme tässä kuussa](/uploads/2015/02/pelikirjoitukset.png)](/uploads/2015/02/pelikirjoitukset.png)
 
 Helmikuu on jo osoittanut vahvoja merkkejä tulevasta keväästä, mutta suurin osa siitä on kulunut märissä kengissä loskaisessa säässä astellessa sekä pohtiessa, mitä hienoja artikkeleita on maailmalla kirjoitettu. Elektroninen posti polkikin niitä runsain määrin, joten lue parhaat päältä tämän kuun juttukatsauksestamme. Muistutuksena linkkejä maaliskuun painokseen voi lähettää jälleen esimerkiksi Twitterissä tunnisteella [#pelikirjoitukset](https://twitter.com/search?q=%23pelikirjoitukset) sekä [Facebook-sivumme](https://facebook.com/pelilegacy) ja sähköpostin kautta.
 

@@ -20,7 +20,7 @@ tags:
 - Pelinkehitys
 ---
 
-[![Oculus Rift](http://www.pelilegacy.fi/wp-content/uploads/2014/03/oculus_rift-300x300.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/03/oculus_rift.jpg)Eilen ei kukaan tiettävästi jäänyt paitsi siitä uutisesta, että suuri ja paha **Facebook** osti **Oculus VR** -yhtiön 2 miljardilla dollarilla. Henkilökohtaisesta Twitter-virrastani sain illalla selata pelkkää tukahdutettua itkua, epäilyjä, spekulointia ja sitäkin enemmän huonoja puujalkavitsejä. Yllättävää tässä ostossa oli, että suurimmat valittajat olivat ihmisiä, joiden en ole koskaan aiemmin nähnyt puhuvan mitään Oculus Riftistä tai virtuaalitodellisuudesta.
+[![Oculus Rift](/uploads/2014/03/oculus_rift-300x300.jpg)](/uploads/2014/03/oculus_rift.jpg)Eilen ei kukaan tiettävästi jäänyt paitsi siitä uutisesta, että suuri ja paha **Facebook** osti **Oculus VR** -yhtiön 2 miljardilla dollarilla. Henkilökohtaisesta Twitter-virrastani sain illalla selata pelkkää tukahdutettua itkua, epäilyjä, spekulointia ja sitäkin enemmän huonoja puujalkavitsejä. Yllättävää tässä ostossa oli, että suurimmat valittajat olivat ihmisiä, joiden en ole koskaan aiemmin nähnyt puhuvan mitään Oculus Riftistä tai virtuaalitodellisuudesta.
 
 Kaava siis menee näin: _Facebook ostaa firman / tuotteen X → Facebookin paha karma nousee potenssiin X + 1._ Tämä on tapahtunut ennenkin Facebookin ostaessa WhatsAppin ja sitä ennen Instagramin, mikä todistaa kaavan oikeaksi. Kohun liekehtivään rovioon on tärkeintä heittää lisää öljyä. Työskenteleehän itse **John Carmack** nykyisin Facebookilla.
 

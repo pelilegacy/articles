@@ -22,7 +22,7 @@ tags:
 - Uutuudet
 ---
 
-[![Crimsonland](http://www.pelilegacy.fi/wp-content/uploads/2014/08/crimsonland1.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/crimsonland1.png)
+[![Crimsonland](/uploads/2014/08/crimsonland1.png)](/uploads/2014/08/crimsonland1.png)
 
 
 
@@ -34,7 +34,7 @@ Aloituskuva antaa olettaa, että tiedossa olisi aivotonta yhden miehen mörköje
 
 Perusidea on todellakin räiskintäpelien _perusidea --_ eli tuhotaan kaikki mikä liikkuu, ampuu, tai synnyttää edellä mainittuja. Aseita löytyy pistoolista haulikkoon sekä konekivääristä plasma-aseeseen. Pisteitä tietysti kerääntyy möttiäisiä tappamalla.
 
-[![Crimsonland](http://www.pelilegacy.fi/wp-content/uploads/2014/08/crimsonland2.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/08/crimsonland2.png)
+[![Crimsonland](/uploads/2014/08/crimsonland2.png)](/uploads/2014/08/crimsonland2.png)
 
 **Pelin** eteneminen on jaoteltu kahteen eri osioon.
 

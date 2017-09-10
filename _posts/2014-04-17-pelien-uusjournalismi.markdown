@@ -18,7 +18,7 @@ tags:
 - Pelikritiikki
 ---
 
-[![New Games Journalism](http://www.pelilegacy.fi/wp-content/uploads/2014/04/new_games_journalism.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/new_games_journalism.jpg)
+[![New Games Journalism](/uploads/2014/04/new_games_journalism.jpg)](/uploads/2014/04/new_games_journalism.jpg)
 
 Kieron Gillen on sarjakuvataiteilija, videopelikriitikko ja omanlaisensa nero.
 

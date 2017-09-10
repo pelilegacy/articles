@@ -20,7 +20,7 @@ tags:
 - Väkivallattomuus
 ---
 
-[![Arvio: Submerged](http://www.pelilegacy.fi/wp-content/uploads/2015/10/submerged_whale.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/10/submerged_whale.jpg)
+[![Arvio: Submerged](/uploads/2015/10/submerged_whale.jpg)](/uploads/2015/10/submerged_whale.jpg)
 
 [ingressi]Meri on kaikessa armottomuudessaan kaunis näyttämö tuhoutuneen kaupungin tutkimukselle.[/ingressi]
 
@@ -44,7 +44,7 @@ Kaupungin karmivuutta korostaa päivän vaihtuminen yöksi, jolloin voi kuvitell
 
 Osaltaan _Submergedin_ merimatkailu tuo vahvasti mieleen muun muassa _The Legend of Zelda: Wind Wakerin_, jonka suuren meren salaisuuksien kartoitus on toisinaan pääjuonenkin suorittamista hauskempaa. Kun pelin omat musiikit korvaa vielä **Vangeliksen** mestarillisella [_Conquest of Paradise_](https://www.youtube.com/watch?v=WYeDsa4Tw0c) -sävelteoksella, vetää kokemus vertoja jo mille tahansa AAA-pelille.
 
-[![Arvio: Submerged](http://www.pelilegacy.fi/wp-content/uploads/2015/10/submerged_night.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/10/submerged_night.jpg)
+[![Arvio: Submerged](/uploads/2015/10/submerged_night.jpg)](/uploads/2015/10/submerged_night.jpg)
 
 Valitettavasti heti veneestä poistuessa _Submergedin_ pelaaminen latistuu mekaaniseksi suorittamiseksi, jossa Mikun on määrä hakea rakennuksen katolta sinne pudotetun tarvikelaatikon sisältö ja palata (automaattisesti) tukikohtaan hoitamaan veljeään.
 

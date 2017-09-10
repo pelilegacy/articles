@@ -20,7 +20,7 @@ tags:
 - Vieraskynä
 ---
 
-[![Kansikuva](http://www.pelilegacy.fi/wp-content/uploads/2015/09/aleatoriedade.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/aleatoriedade.jpg)
+[![Kansikuva](/uploads/2015/09/aleatoriedade.jpg)](/uploads/2015/09/aleatoriedade.jpg)
 
 [ingressi]Tämänkertaisessa vieraskynässä Johan Nylund seuraa jälkiä vaurauden äärelle ja valaisee rahapelaamisen historiaa.[/ingressi]
 
@@ -44,7 +44,7 @@ Huijaaminen ja peliongelmat ovat luultavasti aina olleet keskeinen osa rahapelej
 
 Keskiajan Englannissa rahapelaamisen sääntely keskittyi pääosin rahvaan pelitapoihin.  Esimerkiksi **Richard I Leijonamielen** (1157–1199) vuonna 1190 ristiretkellä vain ritareita korkeampiarvoisemmat henkilöt saivat pelata rahapelejä rauhassa. Ritareille ja papeille suotiin oikeus pelata noppapelejä korkeintaan 20 shillingillä päivässä, ja rangaistuksena shillinkimäärän ylittämisestä oli maksettava sadan shillingin sakkoraha. Jalkasotilaille ei suotu samaa luksusta. Kuningas **Henrik VII** (1457–1509) taisi kuitenkin ylittää kansan sietokyvyn vuonna 1495 asettamallaan lailla, jonka mukaan työntekijät saivat pelata muutoin laittomia pelejä ainoastaan jouluna esimiehensä asunnossa.
 
-[![William Hogarth](http://www.pelilegacy.fi/wp-content/uploads/2015/09/william_hogarth.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/william_hogarth.jpg)
+[![William Hogarth](/uploads/2015/09/william_hogarth.jpg)](/uploads/2015/09/william_hogarth.jpg)
 
 
 
@@ -62,7 +62,7 @@ Yhdysvaltojen historian varhaisimpia pelipaikkoja kutsuttiin saluunoiksi. Saluun
 
 Suurten voittojen toivossa Nevada laillisti rahapelaamisen vuonna 1931 ensimmäisenä osavaltiona Yhdysvalloissa, minkä ansiosta Las Vegas tuli vähitellen tunnetuksi pelimaailman pääkaupunkina. Nykyään Las Vegas, eli ”synnin kaupunki”, on edelleen kasinomaailman tunnetuimpia paikkoja. Vaikka kasinoiden välkkyvät valot, suuret voitot ja tyylikkäät rikolliset ovat elokuvista tuttuja, vähemmälle huomiolle jäänyt korttipelien [kulissien takaa paljastuva kova työ](https://fi.unibet.com/hub/vegas-casino-krupieeri/) kertoo aivan omanlaistaan tarinaa.
 
-[![Las Vegasin kasino](http://www.pelilegacy.fi/wp-content/uploads/2015/09/mgm_grand_hotel.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/mgm_grand_hotel.jpg)
+[![Las Vegasin kasino](/uploads/2015/09/mgm_grand_hotel.jpg)](/uploads/2015/09/mgm_grand_hotel.jpg)
 
 
 

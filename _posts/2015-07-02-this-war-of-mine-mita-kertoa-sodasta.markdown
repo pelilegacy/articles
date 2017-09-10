@@ -20,7 +20,7 @@ tags:
 - This War of Mine
 ---
 
-[![Vieraskynä](http://www.pelilegacy.fi/wp-content/uploads/2015/06/vieraskyna_this_war_of_mine.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/06/vieraskyna_this_war_of_mine.jpg)
+[![Vieraskynä](/uploads/2015/06/vieraskyna_this_war_of_mine.jpg)](/uploads/2015/06/vieraskyna_this_war_of_mine.jpg)
 
 [ingressi]Antti Ylä-Rakkola pohtii, mikä on viime vuonna ilmestyneen This War of Mine -pelin suhde todellisen maailman sotiin.[/ingressi]
 

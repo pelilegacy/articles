@@ -18,7 +18,7 @@ tags:
 - Uutuudet
 ---
 
-[![This War of Mine](http://www.pelilegacy.fi/wp-content/uploads/2015/02/this_war_of_mine.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/this_war_of_mine.jpg)
+[![This War of Mine](/uploads/2015/02/this_war_of_mine.jpg)](/uploads/2015/02/this_war_of_mine.jpg)
 
 [ingressi]Miten kuvailisit sodan sitä näkemättömälle?[/ingressi]
 
@@ -28,7 +28,7 @@ Tavallaan juuri sade on erinomainen vertauskohta pelille. This War of Mine on po
 
 Pelin narratiivin sydän on hahmojen jokapäiväisen elossapysymistaistelun seuraaminen. Ohjaat muutamaa nälkää näkevää, sairasta ja väsynyttä siviiliä. Kerronta on jätetty ohueksi eikä sitä hierota pelaajan kasvoihin, vaan kaikki tarinat syntyvät pelaajan omasta mielikuvituksesta. Mitä Katia ajattelee? Onko hän todellakin vihainen Borikselle? Jos on, mitä niin pahaa Boris teki. Olen varma, ettei Roman kertonut kaikkea mitä viimeöisellä reissulla naapurustoon tapahtui – itse asiassa en voi edes luottaa täysin Romaniin. Luotan mieluummin Emiliaan. Erikoisesti yksi pelin vetoavimmista puolista on eräänlaisessa metapelaamisessa, omien tarinoiden luonnissa.
 
-[![This War of Mine - Roman](http://www.pelilegacy.fi/wp-content/uploads/2015/02/Roman.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/Roman.jpg)
+[![This War of Mine - Roman](/uploads/2015/02/Roman.jpg)](/uploads/2015/02/Roman.jpg)
 
 Pelin osalta This War of Minea voisi leikkisästi luonnehtia _The Walking Deadin_, _The Simsin_ ja _Don’t Starven_ sukulaiseksi, mutta näin selkeät vertaukset eivät tee pelille oikeutta. This War of Mine on oma uniikki tuotteensa. Valintoja pelin kuluessa tulee eteen paljon eivätkä ne ole millään moraalisella asteikolla helppoja. Autanko oveen koputtavaa naishenkilöä, vaikka en tiedä onko hän huijari? Peli sisältää tusinoittain mustavalkoisia valintatilanteita, joiden kautta pelaajan harkinta- ja empatiakykyä koetellaan.
 
@@ -38,7 +38,7 @@ Vaikka Pogoren on selkeästi mallinnettu itäisen Euroopan kaupunkien pohjalta, 
 
 Mikäli hahmojen taustoihin ei tutustu, jäävät ne kovin etäisiksi. Pelin kamera ei anna tarkentaa tarpeeksi lähelle, jolloin lopullinen yhteys hahmoihin jää mielikuvituksen varaan. Tämä voi osaltaan karkottaa monia pelaajia -- etenkin sellaisia, jotka ovat uusien seikkailupelien kautta tottuneet perinteisempään valmiiksi esitettyyn kerronnan muotoon.
 
-[![This War of Mine - Raided](http://www.pelilegacy.fi/wp-content/uploads/2015/02/raided-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/raided.jpg)
+[![This War of Mine - Raided](/uploads/2015/02/raided-1050x591.jpg)](/uploads/2015/02/raided.jpg)
 
 <div class="pullquote">FUCK. THE. WAR?</div>
 

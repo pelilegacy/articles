@@ -20,7 +20,7 @@ tags:
 - Uutuudet
 ---
 
-[![Hatred](http://www.pelilegacy.fi/wp-content/uploads/2015/06/hatred.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/06/hatred.jpg)
+[![Hatred](/uploads/2015/06/hatred.jpg)](/uploads/2015/06/hatred.jpg)
 
 [ingressi]Kohu ei kanna kunniaan varsinkaan kritiikin kritiikistä muovautuneen Hatredin tapauksessa.[/ingressi]
 
@@ -40,7 +40,7 @@ Eräänä päivänä Pauli järjestelee vaatekaappiinsa suosikkibändiensä pait
 
 Seuraavat kuukaudet Pauli odottaa malttamattomana _Hatredin_ julkaisua samalla kirjoittaen kehittäjille, mitä julkisuuden henkilöitä hän haluaisi tuoda peliin mestattavaksi. Mitään ei kuitenkaan kuulu takaisin ja Pauli alkaa hermostua. Ovatko tekijät pettäneet lupauksensa? Onko globaalin salaliiton seurausta, että _Hatredilla_ ei ole vieläkään julkaisupäivää?
 
-[![Hatred](http://www.pelilegacy.fi/wp-content/uploads/2015/06/hatred2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/06/hatred2.jpg)
+[![Hatred](/uploads/2015/06/hatred2.jpg)](/uploads/2015/06/hatred2.jpg)
 
 Pauli alkaa opiskella Puolan kieltä verkossa ja jatkaa tekijöille kirjoittamista. Kirjoittaminen ei Paulilta suju kovinkaan hyvin, mutta onneksi audiovisuaalisen alan opintojensa kautta hän oppi käsittelemään tietokoneella kuvia. Kuvien avulla Pauli voi kertoa teorioistaan muille foorumin käyttäjille. Se ilahduttaa Paulia suuresti.
 
@@ -56,7 +56,7 @@ Henkitoreissaan olevalle kohteelle voi antaa viimeisen voitelun painamalla Q-nä
 
 Monotoninen ja tylsän väritön maailma puhuttelee Paulin sisintä, vaikka sen vuoksi on lähes mahdoton havaita kohteita, ellei niille piirrä erikseen reunaviivoja. Positiivisena huomiona rakennusten räjäyttäminen on itse tappamista kiinnostavampaa ja tulenlieskojen valossa hohtavat veriroiskeet vaikuttavat hetken aikaa jopa hienoilta.
 
-[![Hatred #2](http://www.pelilegacy.fi/wp-content/uploads/2015/06/hatred3.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/06/hatred3.jpg)
+[![Hatred #2](/uploads/2015/06/hatred3.jpg)](/uploads/2015/06/hatred3.jpg)
 
 Visuaalinen esitystapa lisää sekavuudellaan pelin haastavuutta, sillä esimerkiksi metsiin sijoittuvissa osuuksissa voi omaa sijaintiaan vain arvailla. Pauli pettyy siitä, ettei pelin metsissä voi kulkea alasti juomassa kiljua pääkallosta.
 
@@ -72,7 +72,7 @@ Mikä ontuvinta, _Hatredin_ pitkätukkaisen ja trenssitakkiin pukeutuneen klovni
 
 Kuten Paulinkin, myös _Hatredin_ päähahmon ainoa tarve on, että joku halaisi häntä ja kertoisi välittävänsä.
 
-[![Hatred](http://www.pelilegacy.fi/wp-content/uploads/2015/06/hatred4.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/06/hatred4.jpg)
+[![Hatred](/uploads/2015/06/hatred4.jpg)](/uploads/2015/06/hatred4.jpg)
 
 Pohjaamalla koko konseptinsa viattomien siviilien tappamiselle _Hatred_ yrittää tavoitella suuria, mutta ajaa ojaan. Väkivalta ja tappaminen peleissä on tuotteistettu jo historian hämäristä alkaen niin pitkälle, että siitä voidaan puhua jopa kolikkopelimäisenä mekaanisena suorittamisena. Valitse jokin toimintapeli ja on todennäköistä, että lahtaat sitä pelatessasi suuria määriä siviilejä.
 
@@ -80,7 +80,7 @@ Tehokeino on tehdä väkivallasta merkityksellinen kokemus esimerkiksi tyylittel
 
 Jos pelin pitäisi kantaa puhtaan shokkiarvon voimalla, tarvitsee katsoa vain digitaalisesti uudelleenjulkaistuun _Harvester_-seikkailupelin suuntaan, joka ajan tekniset kompastukset huomioon ottaen onnistui sohaisemaan hehkuvalla miekalla keskushermostoon esimerkiksi [kohtauksella](https://www.youtube.com/watch?v=-9F5vWd5Slo), jossa lapset syövät äitiään elävältä. Mitä ennennäkemätöntä _Hatredilla_ on tarjota?
 
-[![Hatred](http://www.pelilegacy.fi/wp-content/uploads/2015/06/hatred5.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/06/hatred5.jpg)
+[![Hatred](/uploads/2015/06/hatred5.jpg)](/uploads/2015/06/hatred5.jpg)
 
 _Hatredin_ harmaus ulottuu syvälle pelin rakenteisiin saakka tehden pelistä jo ensimetreiltä mitäänsanomattoman, mutta myös turhauttavan kokemuksen.
 

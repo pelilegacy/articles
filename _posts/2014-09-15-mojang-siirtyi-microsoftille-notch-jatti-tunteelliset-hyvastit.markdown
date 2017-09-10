@@ -18,7 +18,7 @@ tags:
 - Pelinkehitys
 ---
 
-[![Mojang Logo](http://www.pelilegacy.fi/wp-content/uploads/2014/09/mojang-logo.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/09/mojang-logo.png)
+[![Mojang Logo](/uploads/2014/09/mojang-logo.png)](/uploads/2014/09/mojang-logo.png)
 
 Jokaisen pojan -- ja ehkä tytönkin -- suosikkipeli **Minecraftin** luonut peliyhtiö [**Mojang** on myyty](https://mojang.com/2014/09/yes-were-being-bought-by-microsoft/). 2,5 miljardin euron suuruisen kaupan myötä yhtiö siirtyy **Microsoftin** omistukseen. Uusi omistaja ei tule yllätyksenä, sillä yhtiöt ovat tehneet tiivistä yhteistyötä jo kahden vuoden ajan. Mojang vakuuttaa tiedotteessaan, että kaikki jatkuu ennallaan. Minecraftin kehitys tulee jatkumaan, vaikka tarkkoja suunnitelmia tulevaisuuden varalle ei vielä ole.
 

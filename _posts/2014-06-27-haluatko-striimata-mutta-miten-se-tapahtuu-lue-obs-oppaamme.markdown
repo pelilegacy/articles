@@ -16,7 +16,7 @@ tags:
 - Oppaat
 ---
 
-[caption id="attachment_741" align="aligncenter" width="600"][![Open Broadcast Software -opas](http://www.pelilegacy.fi/wp-content/uploads/2014/06/obs-opas.jpg)](http://www.pelilegacy.fi/open-broadcast-software-obs-opas) Kiinnostaako striimaus, mutta alkuun pääseminen tekniikan kanssa tuntuu hankalalta? Peliyhdistys Legacyn oppaan avulla pääset tuottamaan laadukasta jälkeä omiin lähetyksiisi ilmaisella OBS-ohjelmistolla.[/caption]
+[caption id="attachment_741" align="aligncenter" width="600"][![Open Broadcast Software -opas](/uploads/2014/06/obs-opas.jpg)](http://www.pelilegacy.fi/open-broadcast-software-obs-opas) Kiinnostaako striimaus, mutta alkuun pääseminen tekniikan kanssa tuntuu hankalalta? Peliyhdistys Legacyn oppaan avulla pääset tuottamaan laadukasta jälkeä omiin lähetyksiisi ilmaisella OBS-ohjelmistolla.[/caption]
 
 **Peli Legacy** on tuottanut suoria lähetyksiä jo useamman kuukauden ajan ja kaiken sen laadun takana on siitä lähtien ollut kohtalaisen suosionkin saavuttanut **Open Broadcast Software**. Suosimme OBS:ää, koska sillä on mahdollista luoda vähäisellä kuormalla erittäin hyvää laatua. Lisäksi sen lähdekoodi on kokonaan avoin, josta syystä sen kehitys on myös ripeää.
 

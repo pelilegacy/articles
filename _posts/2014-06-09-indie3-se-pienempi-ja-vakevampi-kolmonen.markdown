@@ -20,7 +20,7 @@ tags:
 - Tapahtumat
 ---
 
-[![IndiE3](http://www.pelilegacy.fi/wp-content/uploads/2014/06/indie3-1050x350.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/06/indie3.png)
+[![IndiE3](/uploads/2014/06/indie3-1050x350.png)](/uploads/2014/06/indie3.png)
 
 
 

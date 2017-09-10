@@ -15,7 +15,7 @@ tags:
 - Eurogamer
 ---
 
-[![Pisteet, ne pisteet](http://www.pelilegacy.fi/wp-content/uploads/2015/02/8510.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/8510.jpg)
+[![Pisteet, ne pisteet](/uploads/2015/02/8510.jpg)](/uploads/2015/02/8510.jpg)
 
 **Eurogamer** ilmoitti aiemmin verrattain valtavasta ja keskustelua herättäneestä uudistuksesta [lopettaa peliarvioidensa pisteyttäminen](http://www.eurogamer.net/articles/2015-02-10-eurogamer-has-dropped-review-scores). Ilmoitus on saanut internetin väestöltä pitkälti positiivista palautetta ja kannatusta, minkä johdosta on tärkeää keskustella pisteyttämisen tarpeellisuudesta nykyaikaisessa pelijournalismissa. Aiemmin saman päätöksen pudottaa pisteytys vastaavista syistä teki sittemmin jo kuopattu AOL:n alaisuudessa toiminut mediasivusto [Joystiq](http://www.joystiq.com/2015/01/13/joystiq-isnt-scoring-reviews-anymore-and-heres-why/). Omiin suosikkisivustoihini kuuluva ja tietokonepeleihin ainoastaan keskittyvä [Rock, Paper, Shotgun](http://www.rockpapershotgun.com) puolestaan ei ole koskaan antanut pisteitä peleille. Onko kyseessä harkitsematon trendi vai merkittävä murros pelimediassa?
 

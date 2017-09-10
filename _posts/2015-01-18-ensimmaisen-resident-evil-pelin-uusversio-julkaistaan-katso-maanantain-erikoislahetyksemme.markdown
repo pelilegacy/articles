@@ -17,7 +17,7 @@ tags:
 - Resident Evil
 ---
 
-[![biohazard HD REMASTER](http://www.pelilegacy.fi/wp-content/uploads/2015/01/biohazard_hd_remaster.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/biohazard_hd_remaster.jpg)
+[![biohazard HD REMASTER](/uploads/2015/01/biohazard_hd_remaster.jpg)](/uploads/2015/01/biohazard_hd_remaster.jpg)
 
 Lisänimellä _biohazard HD Remaster_ kulkeva ensimmäisen Resident Evil -pelin uusversio vie pelaajat jälleen kerran takaisin sarjan alkuräjähdykseen, jolloin Raccoon Cityn liepeillä murhaa tutkinut kaksikko joutuu perääntymään verenhimoisten koirien tieltä hylättyyn kartanoon. Kauhuperinteiden johdosta kartano onkin kaikkea muuta kuin hylätty. Tarina on iskostunut keskusmuistiimme, mutta miten se kantaa vielä vuonna 2015?
 

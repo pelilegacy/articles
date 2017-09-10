@@ -20,7 +20,7 @@ tags:
 - Uutuudet
 ---
 
-[![Gods Will Be Watching](http://www.pelilegacy.fi/wp-content/uploads/2014/07/gods_will_be_watching1.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/07/gods_will_be_watching1.png)
+[![Gods Will Be Watching](/uploads/2014/07/gods_will_be_watching1.png)](/uploads/2014/07/gods_will_be_watching1.png)
 
 
 
@@ -34,7 +34,7 @@ Gods Will Be Watchingia on kuvailtu point & click -trillerinä, jonka teemat py�
 
 Pohjimmaisena ongelmana on, että Gods Will Be Watching on typerämpi ja törkeämmin pelaajaa aliarvioiva kuin moni suuresta budjetista nauttinut valtavirtapeli. Tämä on jo saavutus indiepeliltä, joiden parissa on tavallisesti tottunut saamaan pientä rahasummaa vastaan kosolti iloa. Naputtelin läpi kaksi ensimmäistä lukua enkä nauttinut lainkaan.
 
-[caption id="attachment_799" align="aligncenter" width="1024"][![Gods Will Be Watching](http://www.pelilegacy.fi/wp-content/uploads/2014/07/gods_will_be_watching2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/07/gods_will_be_watching2.jpg) Kyseessä on kauniin pikselihunnun taakse kätketty kankea strategiapeli – tai aikashakki.[/caption]
+[caption id="attachment_799" align="aligncenter" width="1024"][![Gods Will Be Watching](/uploads/2014/07/gods_will_be_watching2.jpg)](/uploads/2014/07/gods_will_be_watching2.jpg) Kyseessä on kauniin pikselihunnun taakse kätketty kankea strategiapeli – tai aikashakki.[/caption]
 
 **Pelin** juoni alkaa varsin sekavissa merkeissä alkunäytöksestä kun jäisellä planeetalla nuotion ääressä pelin päähahmo kersantti _Taakka_ (Sgt. Burden) keskustelee joukkueensa kanssa aiemmista tapahtumista, joista pelaajalla ei ole mitään käsitystä. Haluaisin avata teille juonta enempi, mutta on vaikea päästä mistään kärryille, sillä hyppy ensimmäiseen pelattavaan lukuun tulee pian ja tarina jää täysin auki.
 
@@ -42,7 +42,7 @@ Ensimmäinen pelattava kohtaus tapahtuu vuotta ennen pelin varsinaisia tapahtumi
 
 Ennen pelin aloittamista on mahdollisuus valita vaikeustaso helpon ja alkuperäisen väliltä. Alkuperäinen näyttää pelin sellaisena kuten se on suunniteltukin ja se kehotetaan valitsemaan, mikäli rakastat tekijöitä. Käytännössä alkuperäisellä vaikeustasolla kaikki aikaresurssit ovat moninkertaisesti niukemmalla ja peli koostuu lähes kokonaan silkasta epäonnistumisesta. Kun tästä on saatu tarpeeksi, käynnistetään peli uudelleen ja valitaan helpompi vaikeustaso, jolloin lukujen läpäisyyn on edes teoreettinen mahdollisuus. Pyydän anteeksi tekijät, mutta taidan sittenkin vihata teitä.
 
-[![Gods Have Been Watching](http://www.pelilegacy.fi/wp-content/uploads/2014/07/gods_have_been_watching.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/07/gods_have_been_watching.png)
+[![Gods Have Been Watching](/uploads/2014/07/gods_have_been_watching.png)](/uploads/2014/07/gods_have_been_watching.png)
 
 **Gods Will Be Watching** nimenä viitannee siihen, että jokaisen luvun läpäisyn jälkeen voi katsella tilastoja muiden pelaajien suorituksista ja verrata niitä omiin. Isoveli valvoo pelaamistasi hyvinkin tarkkaan.
 
@@ -50,7 +50,7 @@ Pelaamisen kohdallani katkaissut kohtaus tuli järjestyksessä jo toisessa luvus
 
 Toinen suuri ongelma rampautetun pelimekaniikan ohella on sen tarinan ja hahmojen vetoamattomuus. Vaikka Jack tai Taakka olisi roikkunut kidutushuoneen seinällä raajoistaan venytettynä, en tuntenut sisälläni mitään. En välittänyt näistä hahmoista ja niiden toistuva tapattaminen silmieni edessä tuntui lähinnä kehnolta harrastajateatterilta toistuvine ottoineen. Pelatessani lukua yhä uudelleen ja uudelleen muutuin kokonaisvaltaisesti tunteettomaksi ihmiseksi. Hahmojen sijasta se olin minä, jota Imperiumi kidutti – olin henkisesti ruhjeilla enkä parane tästä kokemuksesta hetkeen. Osittain mietin onko peliin kätketty alitajuntaista kommentointia peliväkivallasta, jonka ymmärtää vasta näiden tuskaisten tuntien jälkeen. Äkkiä mieleeni tuli Stanley Kubrickin erinomaisen syvällinen elokuva [Kellopeliappelsiini](http://www.imdb.com/title/tt0066921/?ref_=fn_al_tt_1), jossa Malcolm McDowellin päähahmoa Alexia eheytetään pois väkivaltaisuuden tieltä näyttämällä tälle teatterissa joukko brutaaleja kohtauksia ilman, että silmiään voi sulkea. Tähänkö on tultu? Voinko enää koskaan pelata väkivaltaisia pelejä tuntematta rajua pahoinvointia?
 
-[caption id="attachment_800" align="aligncenter" width="1050"][![Gods Will Be Watching](http://www.pelilegacy.fi/wp-content/uploads/2014/07/gods_will_be_watching3.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/07/gods_will_be_watching3.png) Kaikki tiet johtavat lopulta venäläiseen rulettiin, jossa viimeistään kaikki tarkkaan harkitut päätökset väistyvät puhtaan lottoarvonnan tieltä.[/caption]
+[caption id="attachment_800" align="aligncenter" width="1050"][![Gods Will Be Watching](/uploads/2014/07/gods_will_be_watching3.png)](/uploads/2014/07/gods_will_be_watching3.png) Kaikki tiet johtavat lopulta venäläiseen rulettiin, jossa viimeistään kaikki tarkkaan harkitut päätökset väistyvät puhtaan lottoarvonnan tieltä.[/caption]
 
 **Eksentrisestä** markkinoinnistaan erityisesti sosiaalisessa mediassa tunnettu Devolver Digital on tällä kertaa julkaissut tuotteen, jonka ei olisi maksullisena pitänyt koskaan nähdä päivänvaloa. Tätä ei pidä ymmärtää väärin, sillä olen rakastanut ja osittain jumaloinutkin Devolver Digitalin aikaisempia julkaisuja aina vaikeasti lähestyttävää Always Sometimes Monstersia myöten ja odotan tulevaisuudessakin heiltä paljoa.
 

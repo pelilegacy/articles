@@ -22,7 +22,7 @@ tags:
 - Uutuudet
 ---
 
-[![The Detail](http://www.pelilegacy.fi/wp-content/uploads/2014/11/The-Detail-4-1050x590.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/11/The-Detail-4.png)
+[![The Detail](/uploads/2014/11/The-Detail-4-1050x590.png)](/uploads/2014/11/The-Detail-4.png)
 
 
 
@@ -38,7 +38,7 @@ Sarjakuvapaneelien hyödyntäminen kerronnassa tuo mieleen erään suosikkini, *
 
 Tekijät mainitsevat The Detailin selkeinä vaikutteina ilmeisten Telltalen seikkailupelien lisäksi HBO:n suuresti ihailemani _Langalla_-televisiosarjan (The Wire). Itse asiassa The Detail on myös The Wiren ensimmäisen kauden toisen jakson nimi. Samaisessa jaksossa nostetaan esille aina ajankohtainen kysymys poliisin väkivallan käytöstä, kun humaltunut poliisi lyö pistoolilla nuorta miestä tämän käyttäytyessä huonosti. Kritiikki yhteiskunnan rakenteita ja viidennellä kaudella median asemaa kohtaan on yksi The Wiren kantavia vahvoja teemoja, joten toivottavasti myös The Detail päättää kulkea samaa polkua oman tyylinsä säilyttäen.
 
-[![The Detail](http://www.pelilegacy.fi/wp-content/uploads/2014/11/The-Detail-9-1050x590.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/11/The-Detail-9.png)
+[![The Detail](/uploads/2014/11/The-Detail-9-1050x590.png)](/uploads/2014/11/The-Detail-9.png)
 
 Sekä The Detailin että The Wiren maailmassa tilastoilla on väliä ja kaupungin isät laittavat rahaa mieluummin julkisivua siloitteleviin projekteihin kuin suoraan rikollisuuden torjuntaan.
 

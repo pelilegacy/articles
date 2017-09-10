@@ -20,7 +20,7 @@ tags:
 - Uusversio
 ---
 
-[![Resident Evil HD](http://www.pelilegacy.fi/wp-content/uploads/2015/01/resident_evil_hd-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/resident_evil_hd.jpg)
+[![Resident Evil HD](/uploads/2015/01/resident_evil_hd-1050x591.jpg)](/uploads/2015/01/resident_evil_hd.jpg)
 
 [ingressi]Montako uusversiota voi pelistä tehdä? Selviytymiskauhufanien sydämiin kiteytyneen Resident Evilin tapauksessa lisä ei kartanon perustuksia romahduta.[/ingressi]
 
@@ -34,7 +34,7 @@ Graafisesti varsinkin täysillä asetuksilla peli näyttää upealta. Gamecuben 
 
 Ensimmäistä kertaa peliä käynnistäessäni pelkäsin, että tuleeko pelaamisesta yhtään mitään, jos siinä on vanhan liiton _tankkikontrollit._ Uusitut kontrollit ovat upeat. Peliä pystyy myös pelaamaan näppäimistöllä ja hiirellä, mikä tuo hieman uutta säväystä Resident Eviliin. Xbox 360:n ohjaimella pelatessani huomasin, miten hyvin ohjain toimi -- termi “plug & play” toimii tässäkin tilanteessa ja ohjaustapaa voi vaihtaa parempaan lennosta.
 
-[![Vaikeusasteiden valinta](http://www.pelilegacy.fi/wp-content/uploads/2015/01/resident_evil_hd_vaikeusasteet-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/resident_evil_hd_vaikeusasteet.jpg)
+[![Vaikeusasteiden valinta](/uploads/2015/01/resident_evil_hd_vaikeusasteet-1050x591.jpg)](/uploads/2015/01/resident_evil_hd_vaikeusasteet.jpg)
 
 Pelin vaikeustasosta mainittakon, että virheet kostautuvat ikävästi, mikä on tyypillistä Resident Eviliä. Vaikeustason valinta olisi voitu tehdä paremmaksi lisäämällä vanhat valikot näille. Vaikeustasoiksi löytyvät seuraavat hämmentävät valinnat: “Like climbing a mountain. Fullfilling, but takes a lot of work”, “Like going on a hike. Good exercise, but not too strenuous.” sekä “Like taking a walk. You can relax and enjoy yourself.”.
 

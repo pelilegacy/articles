@@ -17,7 +17,7 @@ tags:
 - Tulossa
 ---
 
-[![Outcast (1999)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/outcast-300x300.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/outcast.jpg)
+[![Outcast (1999)](/uploads/2014/04/outcast-300x300.jpg)](/uploads/2014/04/outcast.jpg)
 
 **Outcast** (ei se hiphop-ryhmä) retusoidaan tälle vuosikymmenelle, mikäli kunnianhimoinen **Outcast Reboot HD** -rahoitusprojekti Kickstarterissa onnistuu. Tämä on kenties parhaimpia uutisia, joita olen miesmuistiin kuullut.
 

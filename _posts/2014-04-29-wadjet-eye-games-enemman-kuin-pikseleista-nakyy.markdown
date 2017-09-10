@@ -22,7 +22,7 @@ tags:
 - Wadjet Eye Games
 ---
 
-[![Blackwell Epiphany](http://www.pelilegacy.fi/wp-content/uploads/2014/04/blackwell_epiphany.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/blackwell_epiphany.png)
+[![Blackwell Epiphany](/uploads/2014/04/blackwell_epiphany.png)](/uploads/2014/04/blackwell_epiphany.png)
 
 Viime viikolla eräs aikakausi sai päätöksensä kun yhdysvaltalainen **Wadjet Eye Games** julkaisi viidennen ja viimeisen osan Blackwell-sarjastaan. Niille, jotka eivät sarjaa tunne, kertoo Blackwell meedioetsivä Rosangelina Blackwellista ja tämän aaveapuri Joey Mallonesta. Sarjassa ilmestyneet osat ovat _Blackwell Legacy (2006), Blackwell Unbound (2007), Blackwell Convergence (2009), Blackwell Deception (2011) _sekä viimeisin_ Blackwell Epiphany (2014)_.
 

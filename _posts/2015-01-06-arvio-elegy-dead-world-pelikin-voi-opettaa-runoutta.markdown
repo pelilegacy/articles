@@ -17,7 +17,7 @@ tags:
 - Uutuudet
 ---
 
-[![Elegy for a Dead World](http://www.pelilegacy.fi/wp-content/uploads/2015/01/elegy-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/elegy.jpg)
+[![Elegy for a Dead World](/uploads/2015/01/elegy-1050x591.jpg)](/uploads/2015/01/elegy.jpg)
 
 [ingressi]"Ei, ällös turvaa Lethen aaltoihin, äl' ukonhatun myrkkyyn mehuiseen."[/ingressi]
 

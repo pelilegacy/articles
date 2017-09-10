@@ -15,7 +15,7 @@ tags:
 - Tulossa
 ---
 
-[![Abe's Oddysee: New 'n' Tasty](http://www.pelilegacy.fi/wp-content/uploads/2015/02/new_n_tasty-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/new_n_tasty.jpg)
+[![Abe's Oddysee: New 'n' Tasty](/uploads/2015/02/new_n_tasty-1050x591.jpg)](/uploads/2015/02/new_n_tasty.jpg)
 
 Liity seuraamme tänään klo 17 kun [Erno "Ertsi" Koivistoinen](https://twitter.com/ertsi86) suunnistaa harharetkille Oddworld Inhabitantsin julkaisemaan **Abe's Oddysee: New 'n' Tasty** -peliin. Omaperäisellä otteellaan jo 90-luvulla PlayStationilla ja PC:llä viehättäneen pelin uusversio julkaistiin viime vuonna PlayStatation 4:lle ja saa nyt kaivatun julkaisunsa PC:lle, Macille ja Linuxille.
 

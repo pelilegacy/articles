@@ -18,7 +18,7 @@ tags:
 - Duke Nukem
 ---
 
-[![Duke Nukem Forever](http://www.pelilegacy.fi/wp-content/uploads/2014/02/Duke-Nukem-Forever.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/02/Duke-Nukem-Forever.jpg)
+[![Duke Nukem Forever](/uploads/2014/02/Duke-Nukem-Forever.jpg)](/uploads/2014/02/Duke-Nukem-Forever.jpg)
 
 Olen lähes sanaton, monestakin syystä. Peli, jonka ensimmäisiä kuvakaappauksia mehustelin jo yläasteen ATK-tunneilla, on arvioitavanani. Koko pelialan suurin vitsi kuivui kokoon 10.6.2011. Sanattomaksi vetää pohdinta, että miten tällainen tekele pitäisi arvioida? Otetaanko huomioon pelin historiallisen kivulias syntyprosessi vai pannaanko kova kovaa vasten ja tuomitaan raa'asti tämän päivän standardeilla? Totuus on tuolla jossain. Siinä välissä, jännän äärellä ja haluan uskoa.
 

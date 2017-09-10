@@ -15,7 +15,7 @@ categories:
 - Videot
 ---
 
-[![The Brothers Rapture](http://www.pelilegacy.fi/wp-content/uploads/2014/07/the-brothers-rapture.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/07/the-brothers-rapture.png)
+[![The Brothers Rapture](/uploads/2014/07/the-brothers-rapture.png)](/uploads/2014/07/the-brothers-rapture.png)
 
 Kuten kaikki taide, myös elokuvat ovat palkitsevaa ajanvietettä varsinkin aikoina, jolloin mitään kiireellistä peliä ei ole työn alla. Kävin eilen katsomassa elokuvan [Snowpiercer](http://blog.keittopaiva.com/snowpiercer-nayttaa-etta-etela-korea-parjaa-ilman-hollywoodia/), joka toi mieleeni muutaman mutkan kautta **Irrational Gamesin** suuren suosion saavuttaneen **Bioshock**-sarjan ja siitä tehdyn The Brothers Rapture -lyhytelokuvan. Se on upea kahden veljeksen välillä tapahtuva mikrokertaus siitä, miten Andrew Ryanin _laissez-faire_ -aatteen ympärille kietoutunut Rapturen vedenalainen kaupunki muuttui utopiasta dystopiaksi. Muistutuksena Bioshock itse alkaa vasta vuodesta 1960 kun suuri romahdus on jo tapahtunut ja huumausaineella kyllästetyt mutantit vaeltavat kaupungin käytävillä.
 

@@ -21,7 +21,7 @@ tags:
 - Pelikritiikki
 ---
 
-[![Saturday Night At Sea](http://www.pelilegacy.fi/wp-content/uploads/2015/11/peli_legacy_2_vuotta.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/11/peli_legacy_2_vuotta.jpg)
+[![Saturday Night At Sea](/uploads/2015/11/peli_legacy_2_vuotta.jpg)](/uploads/2015/11/peli_legacy_2_vuotta.jpg)
 
 [ingressi]“I think it's time I had a talk with my kids. I'll just tell 'em what my daddy told me. You aint't never gonna amount nothin'”[/ingressi]
 
@@ -37,7 +37,7 @@ Olemme alusta asti toimineet voittoa tavoittelematta, joten tuottavuudesta puhue
 
 Täällä toimiessani olen ollut onnekas päästyäni tutustumaan lähemmin esimerkiksi [Peliosuuskunta Expan](http://www.expa.fi) ja [IGDAn](http://www.igda.fi) toimintaan. Myös aluksi kieroon katsomani nuorisotyö on tullut tutuksi Jyväskylän Veturitallien [#GameONjkl-hanketoiminnan](http://www.pelilegacy.fi/hitaat/2218/gameonjkl-pelien-historiaa-ja-pelikasvatusta) kautta. Olen päässyt raportoimaan [pientä, mutta äärettömän kunnianhimoista elektronisen urheilun tapahtumaa](http://www.pelilegacy.fi/hitaat/1005/keikalla-jessembly-verkkopelitapahtuma), haastatellut [pelialan innovaattoreita](http://www.pelilegacy.fi/hitaat/816/the-internet-game-database-lupaa-pelaajille-toimivan-ja-luotettavan-pelitietopankin) ja [kokeneita kehittäjiä](http://www.pelilegacy.fi/hitaat/2301/haastattelu-1979-revolution-ink-stories) sekä ottanut voimakkaasti kantaa [pelikulttuurin lieveilmiöihin](http://www.pelilegacy.fi/ajassa/963/me-olemme-pelaajien-asialla). On päiviä, joita voisin vaihtaa pois, mutta ei näitä.
 
-[![Do You Regret?](http://www.pelilegacy.fi/wp-content/uploads/2015/12/do_you_regret.gif)](http://www.pelilegacy.fi/wp-content/uploads/2015/12/do_you_regret.gif)
+[![Do You Regret?](/uploads/2015/12/do_you_regret.gif)](/uploads/2015/12/do_you_regret.gif)
 
 Yleisö on ollut kohdallamme vastaanottavainen, ja usein olenkin kuullut ihmeteltävän, miksei vastaavaa sisältöä ole aiemmin löytynyt. Syitä voi etsiä monesta paikkaa.
 

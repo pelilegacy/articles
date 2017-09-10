@@ -19,7 +19,7 @@ tags:
 - Uutuudet
 ---
 
-[![Wolfenstein: The New Order Logo](http://www.pelilegacy.fi/wp-content/uploads/2014/06/2014-05-20_00024-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/06/2014-05-20_00024.jpg)
+[![Wolfenstein: The New Order Logo](/uploads/2014/06/2014-05-20_00024-1050x590.jpg)](/uploads/2014/06/2014-05-20_00024.jpg)
 
 
 
@@ -33,13 +33,13 @@ Uuden Wolfensteinin viholliset ovat kaikessa psykoottisuudessaan tuttuja ja lois
 
 Lienee huonoa tuuriani, mutta peli lisäksi kaatui pari kertaa lataamisen aikana ja jälkimmäisellä kerralla -- juuri ennen viimeistä loppuvastusta, tietenkin -- tallennuksen korruptoituminen pakotti aloittamaan kentän alusta. Kampanjan juosta pyrähtää läpi noin kymmenessä tunnissa, minkä jälkeen uusi pelikerta on kiinni ainoastaan halukkuudesta kerätä pelin kaikki pokaalit. Studio on epätoivoisesti yrittänyt nostaa uudelleenpeluuarvoa kahtia jakautuvalla aikajanalla, mikä tapahtuu ensimmäisessä tehtävässä suoritettavasta valinnasta. Käytännössä erona kahden aikajanan välillä ovat kuitenkin vain muutamat välivideot ja hieman erilainen erikoistaito, joka liittyy salaisuuksien löytämiseen ja keräilyyn.
 
-[caption id="attachment_683" align="aligncenter" width="1050"][![Wolfenstein: The New Order Dual-Wield](http://www.pelilegacy.fi/wp-content/uploads/2014/06/2014-05-20_00011-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/06/2014-05-20_00011.jpg) Pelin kaksin käsin kannettavat aseet helpottavat B.J:n matkaa.[/caption]
+[caption id="attachment_683" align="aligncenter" width="1050"][![Wolfenstein: The New Order Dual-Wield](/uploads/2014/06/2014-05-20_00011-1050x590.jpg)](/uploads/2014/06/2014-05-20_00011.jpg) Pelin kaksin käsin kannettavat aseet helpottavat B.J:n matkaa.[/caption]
 
 Arsenaalista löytyy aseita aina pistooleista laserleikkuriin. Pelissä saa myös kahden käden aseet (dual-wield), mikä auttaa paljon. Jos vihollisia on paljon, voit aina painaa napin pohjaan ja natsit lentävät kuuhun.
 
 Taistelut onkin toteutettu hienosti. Voit valita menetkö hiiviskelemällä vai aseet laulaen kohti tuntematonta ja musiikit vaihtuvat tilanteen mukaan.
 
-[caption id="attachment_684" align="aligncenter" width="1050"][![Wolfenstein: The New 3D?](http://www.pelilegacy.fi/wp-content/uploads/2014/06/2014-05-20_00033-1050x590.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/06/2014-05-20_00033.jpg) Peli tarjoilee vanhoille pelaajille muun muassa kokonaisen kentällisen vanhaa Wolfenstein 3D:ta.[/caption]
+[caption id="attachment_684" align="aligncenter" width="1050"][![Wolfenstein: The New 3D?](/uploads/2014/06/2014-05-20_00033-1050x590.jpg)](/uploads/2014/06/2014-05-20_00033.jpg) Peli tarjoilee vanhoille pelaajille muun muassa kokonaisen kentällisen vanhaa Wolfenstein 3D:ta.[/caption]
 
 Wolfenstein: The New Order sisältää viittauksia vanhaan **Wolfenstein 3D:hen** ja sitä on erään salapaikan kautta mahdollista päästä pelaamaan. Pelissä seikkaillaan niin sodanaikaisesta ympäristöstä keskitysleirille, vankiloihin ja kuun kautta Deathsheadin päälinnakkeeseen, jossa tapahtuu pelin loppuhuipennus. Pelissä saa tarinan edettyä yhteistyökumppaneita, tarkemmin sanottuna vastarintaliikkeen edustajia, jotka auttavat sankarin etenemisessä. Peli loppuu ehkäpä liian aikaisin ja pelaajassa saattaa herätä kysymys, tuoko kolmas osa sarjaan jatkoa vai ei.
 

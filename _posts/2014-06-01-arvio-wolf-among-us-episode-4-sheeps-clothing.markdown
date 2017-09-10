@@ -18,7 +18,7 @@ tags:
 - Uutuudet
 ---
 
-[![Wolf Among Us - Nerissa & Bigby](http://www.pelilegacy.fi/wp-content/uploads/2014/06/Wolf-Among-Us-Nerissa-600x337.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/06/Wolf-Among-Us-Nerissa.jpg)
+[![Wolf Among Us - Nerissa & Bigby](/uploads/2014/06/Wolf-Among-Us-Nerissa-600x337.jpg)](/uploads/2014/06/Wolf-Among-Us-Nerissa.jpg)
 
 
 
@@ -32,7 +32,7 @@ Luvassa on juonipaljastuksia ensimmäisestä kolmesta episodista. Pelaa ne ensin
 
 Neljäs osa esittelee [kolmannen osan lopussa](http://www.pelilegacy.fi/arvostelut/518/arvio-wolf-among-us-episode-3-crooked-mile) pahasti haavoittuneen Fabletownin sheriffi Bigby Wolfin, joka ensimmäistä kertaa vieraili kuoleman porteilla. Hopealuoti on klassinen varuste taistelussa ihmissusia vastaan, niinpä se Bloody Maryn laukaisemana vie Bigbynkin heikkoon kuntoon. Onneksi kaikki selviää lääkärin kotikäynnillä, mutta hinta on suuri. Lähes kappaleiksi hajonnut Bigby saa ajattelemaan peliä taaksepäin ja pohtimaan olisiko ne kaikki konfliktit voinut jollain tapaa välttää? Ehkä tämä selviää seuraavalla pelikerralla. Mielenkiintoisena alitajuntaisena seurauksena pyrin haavoittumisen jälkeen välttämään turhan aggressiivista käyttäytymistä. Vain sen varalta, etten haavottaisi päähahmoa enempää. Onnistuiko se? Ei kovin hyvin. Tässä pelissä haasteellisinta on ehdottomasti maltillinen käyttäytyminen eikä se johdu itsestäni, sillä Bigby on tunnetusti kuin kärpäspaperia ongelmille. Tätä myös neljännen episodin lisänimi _In Sheep's Clothing_ kuvastaa. Teemme kaikkemme ollaksemme lampaita, mutta valheen naamiot riisuttuamme meistä paljastuu oikeita susia.
 
-[![Wolf Among Us - Colin & Bigby](http://www.pelilegacy.fi/wp-content/uploads/2014/06/Wolf-Among-Us-Colin-600x337.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/06/Wolf-Among-Us-Colin.jpg)
+[![Wolf Among Us - Colin & Bigby](/uploads/2014/06/Wolf-Among-Us-Colin-600x337.jpg)](/uploads/2014/06/Wolf-Among-Us-Colin.jpg)
 
 Wolf Among Us on edennyt draaman kaaressa siihen pisteeseen, jossa se ei voi enää esittää liikaa kysymyksiä, sillä nyt kaivataan jo vastauksia. Niitä satelee silti verrattain varovasti, jolloin varsinaiset paukut ammutaan viimeisessä osassa. Tai mahdollisesti kaikki jätetään auki. Hahmot etsivät yhä salaperäisen Crooked Manin hahmoa, joka tuntuu olevan samaan aikaan kaikkialla, muttei missään. Suurta finaalia lähestyessä muutamien hahmojen kanssa pidetyt vanhat kaunat on mahdollista haudata ja koin parhaaksi tehdä juuri niin. Odotan itse asiassa Bigbyn liittoutuvan erään tutun kirveenheiluttajan kanssa yhteen viimeisessä osassa päitä ja raajoja katkaisten.
 

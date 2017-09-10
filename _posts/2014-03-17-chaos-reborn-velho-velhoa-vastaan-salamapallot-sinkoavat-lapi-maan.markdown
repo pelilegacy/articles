@@ -18,7 +18,7 @@ tags:
 - Kickstarter
 ---
 
-[![Chaos Reborn](http://www.pelilegacy.fi/wp-content/uploads/2014/03/chaosreborn.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/03/chaosreborn.jpg)
+[![Chaos Reborn](/uploads/2014/03/chaosreborn.jpg)](/uploads/2014/03/chaosreborn.jpg)
 
 **Julian Gollop** on mies, joka ei muiden pelitaivaan kiintotähtien tavoin ole tehnyt suurta määrää palkintoja voittaneita pelejä, mutta yksittäisiä täysosumia löytyy. Naavaparrat muistanevat legendaarisen **UFO: Enemy Unknown** -pelin, jonka Gollop tiimeineen kehitti **MicroProselle** vuonna 1994. Kyseinen peli oli kova juttu PC-piireissä tuohon aikaan ja vierailee toki päiväunissamme edelleen säännöllisesti.
 

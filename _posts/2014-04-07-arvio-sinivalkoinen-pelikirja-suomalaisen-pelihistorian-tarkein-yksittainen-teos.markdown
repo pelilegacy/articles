@@ -21,7 +21,7 @@ tags:
 - Pelinkehitys
 ---
 
-[caption id="attachment_152" align="aligncenter" width="600"][![Sinivalkoinen Pelikirja](http://www.pelilegacy.fi/wp-content/uploads/2014/02/sinivalkoinenpelikirja.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/02/sinivalkoinenpelikirja.jpg) Suomen pelialan kronikka 1984-2014[/caption]
+[caption id="attachment_152" align="aligncenter" width="600"][![Sinivalkoinen Pelikirja](/uploads/2014/02/sinivalkoinenpelikirja.jpg)](/uploads/2014/02/sinivalkoinenpelikirja.jpg) Suomen pelialan kronikka 1984-2014[/caption]
 
 **Juho Kuorikosken** kirjoittamasta ja pienen Fobos-kustantamon julkaisemasta **Sinivalkoisesta Pelikirjasta** uutisoimme jo [helmikuussa](http://www.pelilegacy.fi/ajassa/151/sinivalkoisen-pelikirjan-mesenointi-paattyy-talla-viikolla) kirjan mesenoinnin saavuttua kalkkiviivoille. Tuon jälkeen olenkin malttamattomasti odottanut mesenoidun painoksen kolahtamista postiluukustani. Perjantaina oveltani kuului apokalyptista kolinaa ja ryminää. Ovi ei tullut niskaan, mutta vertauskuvallisesti katto nousi ilmaan ruskeaa pakettia avatessani. Nyt viikonlopun tiheän tankkauksen jälkeen katsastan kirjan sekä arvioin, oliko materiaali odotuksen arvoinen.
 

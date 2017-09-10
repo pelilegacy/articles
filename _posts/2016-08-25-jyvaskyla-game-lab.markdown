@@ -3,7 +3,7 @@ author: nikoheikkila
 date: 2016-08-25 13:28:35+00:00
 excerpt: Suomen pelialan kasvu on laboratorioissa, joissa koeputkista sikiää hirviöiden sijaan pelejä.
 cover:
-    src: https://www.pelilegacy.fi/wp-content/uploads/2016/08/gamelab.jpg
+    src: /uploads/2016/08/gamelab.jpg
     alt: Jyväskylä Game Lab (Vapaudenkatu)
 layout: post
 title: 'Tupakkapaikalta ideaksi: Jyväskylä Game Lab kouluttaa pelialan uusia kykyjä'
@@ -39,7 +39,7 @@ Jyväskylä Game Lab tarjoaa mahdollisuuksia myös Keski-Suomen ulkopuolella asu
 
 "Jos hakijalla ei ole ansioluettelossa aikaisempia projekteja, on todella hankala saada töitä. Tilanne helpottuu, jos voi esittää yhdenkin projektin sekä mitä on saanut sen parissa aikaiseksi", Koskenkorva toteaa.
 
-![Clusterloop](https://www.pelilegacy.fi/wp-content/uploads/2016/08/clusterloop.jpg)
+![Clusterloop](/uploads/2016/08/clusterloop.jpg)
 
 Varsinainen tavoite Game Labissa ei siten ole myytävien pelien tuottaminen tai kannattavien yritysten perustaminen, vaan ammattimaisen projektikokemuksen tarjoaminen osallistujille. Jokainen osallistuja voi kuitenkin itse päättää, millä asenteella haasteeseen lähtee. Toiset saattavat haluta vain täytettä portfolioon, kun taas toiset pyrkivät löytämään ympärilleen osaavat tekijät uuden yrityksen perustamista varten.
 

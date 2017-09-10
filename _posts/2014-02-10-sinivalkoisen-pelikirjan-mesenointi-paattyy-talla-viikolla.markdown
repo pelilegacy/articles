@@ -18,7 +18,7 @@ tags:
 - Mesenaatti.me
 ---
 
-[caption id="attachment_152" align="aligncenter" width="600"][![Sinivalkoinen Pelikirja](http://www.pelilegacy.fi/wp-content/uploads/2014/02/sinivalkoinenpelikirja.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/02/sinivalkoinenpelikirja.jpg) Suomen pelialan kronikka 1984-2014[/caption]
+[caption id="attachment_152" align="aligncenter" width="600"][![Sinivalkoinen Pelikirja](/uploads/2014/02/sinivalkoinenpelikirja.jpg)](/uploads/2014/02/sinivalkoinenpelikirja.jpg) Suomen pelialan kronikka 1984-2014[/caption]
 
 
 

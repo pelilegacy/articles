@@ -20,7 +20,7 @@ tags:
 - The Detail
 ---
 
-[![The Detail Episode 2 - From the Ashes](http://www.pelilegacy.fi/wp-content/uploads/2015/07/the_detail_2_from_the_ashes.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/07/the_detail_2_from_the_ashes.jpg)
+[![The Detail Episode 2 - From the Ashes](/uploads/2015/07/the_detail_2_from_the_ashes.jpg)](/uploads/2015/07/the_detail_2_from_the_ashes.jpg)
 
 [ingressi]Suomen Turku jatkaa vahvasti kirjoitettujen seikkailupelien ystävien palvelemista Rival Gamesin The Detail -pelisarjan toisessa osassa From the Ashes.[/ingressi]
 
@@ -32,7 +32,7 @@ Jos _Where the Dead Lien_ visuaalinen anti jäi joidenkin mielestä hapuilevaksi
 
 Pelaajaa näet kuumotellaan edelleen oikeasta maailmasta otetuilla kiperillä valinnoilla, joiden seurauksia vertaillaan jakson viimeisessä ruudussa esiteltävään tilastotietoon. The Detail ei tarjoa mahdollisuutta vertailla valintoja muiden pelaajien kanssa, mikä on viisas ratkaisu ottaen huomioon pelin verrattain pienen pelaajakunnan verrattuna muihin tyylilajin peleihin.
 
-[![The Detail Episode 2 - Cliffhanger](http://www.pelilegacy.fi/wp-content/uploads/2015/07/the_detail_2_cliffhanger.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/07/the_detail_2_cliffhanger.jpg)
+[![The Detail Episode 2 - Cliffhanger](/uploads/2015/07/the_detail_2_cliffhanger.jpg)](/uploads/2015/07/the_detail_2_cliffhanger.jpg)
 
 Eräs pelin moraalisista haasteista liittyy jälleen poliisivoimien käytökseen. Palveletko kirkasotsaisesti lakia vai yritätkö oikoteiden kautta nopeaan ja likaiseen kunniaan? Valitsin tietoisen oikotien rynnätessäni huumausainerikoksesta epäillyn tummaihoisen miehen kotiin ”kuullessani” hänen huuhtovan todisteita alas viemäristä. Myöhemmin avautuvat seuraukset olivat arvattavat, mutta siitä huolimatta mielenkiintoiset.
 
