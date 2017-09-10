@@ -4,9 +4,11 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
     <header class="post-header">
-        <div class="post-cover">
-            <img src="{{ page.cover.src }}" alt="{{ page.cover.alt }}">
-        </div>
+        {% if page.cover %}
+            <div class="post-cover">
+                <img src="{{ page.cover.src }}" alt="{{ page.cover.alt }}">
+            </div>
+        {% endif %}
         <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
         <p class="post-excerpt">{{ page.excerpt | truncate: 160 }}</p>
 
