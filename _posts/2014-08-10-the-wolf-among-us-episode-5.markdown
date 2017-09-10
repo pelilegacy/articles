@@ -1,30 +1,16 @@
 ---
 author: nikoheikkila
-comments: true
 date: 2014-08-10 11:27:21+00:00
-excerpt: Post-seikkailupelaamisen helmi The Wolf Among Us lopettaa sarjan näköiseensä
-  tyyliin — oikeus on voittanut taas, silmä silmästä ja rauha on maas'. Sarjan toista
-  kautta odotellessa, sen pituinen se.
+excerpt: Post-seikkailupelaamisen helmi The Wolf Among Us lopettaa sarjan näköiseensä tyyliin — oikeus on voittanut taas, silmä silmästä ja rauha on maas.
+cover:
+  src: /uploads/2014/08/crooked_man.jpg
+  alt: The Wolf Among Us Episode 5
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/861/the-wolf-among-us-episode-5
-slug: the-wolf-among-us-episode-5
-title: 'Arvio: The Wolf Among Us Episode 5 - susi huutaa, oikeus voittaa'
-wordpress_id: 861
+title: The Wolf Among Us Episode 5 - susi huutaa, oikeus voittaa
 categories:
 - Arvostelut
 - Seikkailu
-tags:
-- Telltale Games
-- Uutuudet
 ---
-
-[![The Wolf Among Us - Crooked Man](/uploads/2014/08/crooked_man-1050x589.jpg)](/uploads/2014/08/crooked_man.jpg)
-
-
-
-Post-seikkailupelaamisen helmi The Wolf Among Us lopettaa sarjan näköiseensä tyyliin — oikeus on voittanut taas, silmä silmästä ja rauha on maas'.
-
-
 
 On mielenkiintoista, kuinka paljon voit lykätä ensin pelin pelaamista ja sen jälkeen sen arviointia. **Telltalen The Wolf Among Us** -sarjan päätösosa piileksi viikkoja Xbox 360 -konsolini kovalevyllä, mutta päivääkään ei kulunut, etten olisi ajatellut sen aloittamista. Oliko niin, etten halunnut mielessäni tämän pelisarjan loppuvan vai pelkäsinkö, että lopetus jättäisi kylmäksi, jopa vihaiseksi? Ei ole edes ensimmäinen kerta kun näin käy, joskin tutumpi ilmiö on ollut TV-sarjojen kanssa. Hetkinen, The Wolf Among Us on kuin onkin TV-sarja, mutta se on interaktiivinen. Elämmekö murroksen aikaa, jossa Telltale työntekijöineen johdattaa meidät laatusarjoineen uuteen aikaan?
 

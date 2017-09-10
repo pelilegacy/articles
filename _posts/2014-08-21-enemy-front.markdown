@@ -1,31 +1,18 @@
 ---
-author: toimitus
-comments: true
+author: jonniestola
 date: 2014-08-21 12:04:14+00:00
-excerpt: Aina silloin tällöin on päästettävä höyryjä pihalle peleistä, jotka aiheuttavat
-  silkkaa mielipahaa niiden pelaajille. Jonni Estola ei pääse koskaan natseja pakoon,
-  joten hänen kirouksensa on pelata niiden kanssa. Silloin ei tosin läiskitä korttia,
-  vaan kansallissosialistia pataan.
+excerpt: Aina silloin tällöin on päästettävä höyryjä pihalle peleistä, jotka aiheuttavat silkkaa mielipahaa niiden pelaajille.
+cover:
+  src: /uploads/2014/08/enemy_front.jpg
+  alt: Enemy Front
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/879/enemy-front
-slug: enemy-front
-title: 'Näppituntuma: Enemy Frontin saksanpolkka vaatii vielä askelten hiontaa'
-wordpress_id: 879
+title: Enemy Frontin saksanpolkka vaatii vielä askelten hiontaa
 categories:
 - Arvostelut
 - Toiminta
-tags:
-- Steam
-- Uutuudet
 ---
 
-[caption id="attachment_881" align="aligncenter" width="960"][![Enemy Front](/uploads/2014/08/enemy_front.jpg)](/uploads/2014/08/enemy_front.jpg) "Mutta äiti, leikin mieluummin tällä jäniksellä kuin pelaan Enemy Frontia."[/caption]
-
-
-
 Aina silloin tällöin on päästettävä höyryjä pihalle peleistä, jotka aiheuttavat silkkaa mielipahaa niiden pelaajille. Jonni Estola ei pääse koskaan natseja pakoon, joten hänen kirouksensa on pelata niiden kanssa. Silloin ei tosin läiskitä korttia, vaan kansallissosialistia pataan.
-
-
 
 Sain yksi kaunis päivä käsiini pelin, joka kertoo toisen maailmansodan tapahtumista. Tuo ajanjakso on jo kulutettu pelien osalta puhki, mutta **City Interactiven** tekemä ja julkaisema **Enemy Front** jatkaa kyseistä tapahtumasarjaa. Tehden sen epäonnistuneesti.
 
@@ -38,9 +25,3 @@ Peliin on otettu selviä viittauksia mm. _Call of Duty_ ja _Sniper Elite_ -pelis
 Grafiikat pelissä ovat kauniit ja hahmon ohjaaminen toimii moitteettomasti. Sekaan on tosin sattunut muutamia korjaavaa kynää kaipaavia yksityiskohtia. Esimerkiksi vihollisten aseiden piiput näkyvät seinien läpi, mikä saa pelaajassa aikaan naurun pyrskähdyksiä. Lisäksi viholliset voivat ampua seinien läpi, johon pelaaja itse ei tietysti pysty.
 
 Pohjimmiltaan Enemy Front on hyvin suunniteltu peli, mutta näiden perustavien ongelmien vuoksi suoritus jää reilusti alle keskinkertaisen.
-
-**Teksti ja kuvat:** Jonni Estola
-
-https://youtu.be/IIhtBKje48c
-
-

@@ -1,32 +1,19 @@
 ---
 author: nikoheikkila
-comments: true
 date: 2014-06-17 17:00:18+00:00
-excerpt: Vagabond Dogin tekemä ja Devolver Digitalin julkaisema inhorealistinen taidepeliksikin
-  mahdollisesti kuvailtava elämäsimulaattori Always Sometimes Monsters lyö pelaajaa
-  kasvoille ja kehottaa katsomaan asioiden kurjan puolen. Niitä on paljon eikä pelin
-  esittämistavassa turhia arastella.
+excerpt: Taidepeliksikin mahdollisesti kuvailtava elämäsimulaattori Always Sometimes Monsters lyö pelaajaa kasvoille ja kehottaa katsomaan asioiden kurjan puolen.
+cover:
+  src: /uploads/2014/06/always-sometimes-monsters.jpg
+  alt: Always Sometimes Monsters
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/714/always-sometimes-monsters-on-elamasi-pelin-mitassa
-slug: always-sometimes-monsters-on-elamasi-pelin-mitassa
-title: 'Arvio: Always Sometimes Monsters on elämäsi pelin mitassa'
-wordpress_id: 714
+title: Always Sometimes Monsters on elämäsi pelin mitassa
 categories:
 - Arvostelut
 - Roolipelit
 - Seikkailu
-tags:
-- Devolver Digital
-- Indie
 ---
 
-[![Always Sometimes Monsters](/uploads/2014/06/always-sometimes-monsters-1050x590.jpg)](/uploads/2014/06/always-sometimes-monsters.jpg)
-
-
-
 Pidät pelaamisesta, eikö totta? Miksi muuten olisit tullut lukemaan tätä. Miltä tuntuisi pelata peliä, joka on kuin jonkun toisen ihmisen elämä pahimmillaan? Ei, en puhu Grand Theft Autosta tällä kertaa.
-
-
 
 **Vagabond Dogin** tekemä ja **Devolver Digitalin** julkaisema inhorealistinen taidepeliksikin mahdollisesti kuvailtava elämäsimulaattori **Always Sometimes Monsters** lyö pelaajaa kasvoille ja kehottaa katsomaan asioiden kurjan puolen. Niitä on paljon eikä pelin esittämistavassa turhia arastella.
 
@@ -51,5 +38,3 @@ Peli ei tyytynyt ainoastaan seuraamaan sivusta tekojani, vaan loppuvaiheilla ole
 Viimeisessä avainkohtauksessa päähahmo ilmestyi naamioituneena pimeältä kujalta ja kertoi tarinansa kahdelle gangsterille. Tarinan kuultuaan oli heidän päätettävä ammutaanko päähahmo kylmästi vai annetaanko jatkaa elämäänsä. Tässä kohtaa pelin käsikirjoituksellinen erinomaisuus tuli viimeistään selville. Voimme tehdä juuri sen mitä haluamme, mutta harvoin näin suorasti annetaan pelaajan itse päättää voiko valintojen jälkeen vielä elää itsensä kanssa. Tällaista vahvaa itsetutkiskelevaa kerrontaa tarvitaan peleihin lisää.
 
 Olemme kaikki tasa-arvoisia, yhtä hyviä tai pahoja ihmisiä. Joko aina tai vain joskus hirviöitä. Valintoja on tehtävä, mutta voitko elää niiden kanssa? Jos voit, kokeile Always Sometimes Monstersia.
-
-

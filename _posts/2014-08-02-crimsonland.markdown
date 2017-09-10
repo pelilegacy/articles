@@ -1,34 +1,19 @@
 ---
-author: petri.hotakainen
-comments: true
+author: petrihotakainen
 date: 2014-08-02 08:32:01+00:00
-excerpt: 10Tonsin kehittämä ja julkaisema Crimsonland olisi todennäköisesti kuulunut
-  juurikin niihin ensimmäisiin peleihin, jotka saivat vanhemmat huolestumaan lastensa
-  sosiaalisen elämän puutteesta ja holhousyhteiskunnan pelien väkivaltaisuuksista.
-  Lue miten Petri suhtautui tähän väkivaltaiseen ilotteluun.
+excerpt: 10Tonsin kehittämä ja julkaisema Crimsonland olisi todennäköisesti kuulunut juurikin niihin ensimmäisiin peleihin, jotka saivat vanhemmat huolestumaan lastensa sosiaalisen elämän puutteesta ja holhousyhteiskunnan pelien väkivaltaisuuksista.
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/821/crimsonland
-slug: crimsonland
-title: 'Arvio: Crimsonland - älä huido, ota OFF … tai plasmatykki'
-wordpress_id: 821
+cover:
+  src: /uploads/2014/08/crimsonland1.png
+  alt: Crimsonland
+title: Crimsonland - älä huido, ota plasmatykki
 categories:
 - Arvostelut
 - Suomalaiset
 - Toiminta
-tags:
-- Indie
-- Retro
-- Steam
-- Uutuudet
 ---
 
-[![Crimsonland](/uploads/2014/08/crimsonland1.png)](/uploads/2014/08/crimsonland1.png)
-
-
-
 Harvan indiepelinkään ominaisuuksiin kuuluu virtuaalinen aikakone, joka vie tunnelman vuosia taaksepäin -- siis hyvällä tavalla. Entisinä aikoina **10tonsin** kehittämä ja julkaisema Crimsonland olisi todennäköisesti kuulunut juurikin niihin ensimmäisiin peleihin, jotka saivat vanhemmat huolestumaan lastensa sosiaalisen elämän puutteesta ja holhousyhteiskunnan pelien väkivaltaisuuksista; ja tässä tapauksessa uskonmiehet saatanallisesta heavy-rock -taustamusiikista.
-
-
 
 Aloituskuva antaa olettaa, että tiedossa olisi aivotonta yhden miehen mörköjen räiskintää vieraalla planeetalla (toim. huom. muistuttaapa kuva muuten kovasti erästä toista peliä -Niko). Mistään strategiapelistä ei ole kyse, mutta kun alienit ovat muutaman kerran ahdistaneet pelaajan nurkkaan ja vyöryneet massoittain päälle, alkaa jo tarvita jonkinlaista nopeaa taktikointia. Tai vaihtoehtoisesti hermoja lepuuttavaa kävelyä viileässä syysilmassa.
 
@@ -45,7 +30,3 @@ Perusidea on todellakin räiskintäpelien _perusidea --_ eli tuhotaan kaikki mi
 Crimsonland on koukuttava, todellakin. Alkuun pääseminen tapahtuu nopeasti ja yksinkertaisesti eikä outo ohjaustapa kauaa haittaa. Peli ei käytännössä kysele saati neuvo mitään turhaa. Tilantarvekin on niin vähäinen, ettei kovalevy edes huomaakaan koko peliä (n. 80 Mt). Tekemisen puutteen pikaiseen helpotukseen suosittelen peliä lämpimästi. Vaikka pelin idea ei uutuuksilla juhlikaan, niin jälki on laadukasta.
 
 Ai niin, yksi asia jäi vaivaamaan: miksi asetukset löytyvät Extra-valikon takaa?
-
-[Osta peli Steamista.](http://store.steampowered.com/app/262830/)
-
-_Kiitämme 10tons-pelistudiota lahjoittamastaan Steam-latauskoodista. Oletko julkaissut tai julkaisemassa pelin? Lue miten saat pelisi meille arvioitavaksi [täältä](http://www.pelilegacy.fi/mediakortti)._
