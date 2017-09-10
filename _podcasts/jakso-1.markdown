@@ -1,6 +1,7 @@
 ---
 title: "Jakso #1: Batman - The Telltale Series, osat 1 & 2"
 excerpt: Toimituksen oma podcast aloittaa. Ensimmäisessä jaksossa puhutaan lepakon moraalista. Lähetyksen toimittavat Niko Heikkilä ja Miikka Mononen.
+audio: /uploads/2016/10/jakso_001.mp3
 ---
 
 _Batman: The Telltale Series_, tuon moraalisista valinnoista vuorovaikutteista teatteria tekevän Telltale Gamesin tuorein taidonnäyte, ojennettiin toimituksen tuomittavaksi.
