@@ -51,7 +51,6 @@ post_build() {
 	bundle exec htmlproofer \
 		--assume-extension \
 		--disable-external \
-		--checks-to-ignore ImageCheck \
 		./_site
 }
 
