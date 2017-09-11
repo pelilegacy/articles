@@ -1,34 +1,17 @@
 ---
 author: nikoheikkila
-comments: true
 date: 2014-11-14 14:24:52+00:00
-excerpt: Turkulaisen Rival Gamesin ensimmäinen suuri peli The Detail on vahvasti film
-  noirin hengessä tehty seikkailupeli ja osittain interaktiivinen graafinen tarina.
-  Kaikki tiet vievät Roomaan, mutta teitä on useita. Telltalen seikkailupelien tapaan
-  pelaajaa ei laiteta vaikeiden pulmien eteen kuin eettisellä tasolla.
+excerpt: Turkulaisen Rival Gamesin ensimmäinen suuri peli The Detail on vahvasti film noirin hengessä tehty seikkailupeli ja osittain interaktiivinen graafinen tarina.
+cover:
+  src: /uploads/2014/11/The-Detail-4.png
+  alt: The Detail 
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/1100/the-detail-1
-slug: the-detail-1
-title: 'Arvio: The Detail Episode 1 - Where the Dead Lie'
-wordpress_id: 1100
+title: 'The Detail Episode 1: Where the Dead Lie'
 categories:
 - Arvostelut
 - Seikkailu
 - Suomalaiset
-tags:
-- HBO
-- Telltale
-- The Detail
-- Uutuudet
 ---
-
-[![The Detail](/uploads/2014/11/The-Detail-4-1050x590.png)](/uploads/2014/11/The-Detail-4.png)
-
-
-
-Turkulaisen Rival Gamesin ensimmäinen suuri peli The Detail on vahvasti film noirin hengessä tehty seikkailupeli ja osittain interaktiivinen graafinen tarina. Kaikki tiet vievät Roomaan, mutta teitä on useita. Telltalen seikkailupelien tapaan pelaajaa ei laiteta vaikeiden pulmien eteen kuin eettisellä tasolla.
-
-
 
 **Korruptio**, väkivalta ja pahuus saastuttavat ja häiritsevät amerikkalaisen kaupungin eloa. Jengipomo murhataan rikospoliisiakin hämmentävän ammattimaisin ottein kahdella puhtaalla laukauksella. Johtolankoja ei löydy, mutta kuolinsyyntutkinta paljastaa yhteyden huumebisnekseen. Käänteiden kautta kuvioihin liittyvät myös venäläiset gangsterit. Veteraanietsivä Reginald "Reggie" Mooren illanvietto keskeytyy tylysti työn kutsuessa.
 
@@ -38,7 +21,7 @@ Sarjakuvapaneelien hyödyntäminen kerronnassa tuo mieleen erään suosikkini, *
 
 Tekijät mainitsevat The Detailin selkeinä vaikutteina ilmeisten Telltalen seikkailupelien lisäksi HBO:n suuresti ihailemani _Langalla_-televisiosarjan (The Wire). Itse asiassa The Detail on myös The Wiren ensimmäisen kauden toisen jakson nimi. Samaisessa jaksossa nostetaan esille aina ajankohtainen kysymys poliisin väkivallan käytöstä, kun humaltunut poliisi lyö pistoolilla nuorta miestä tämän käyttäytyessä huonosti. Kritiikki yhteiskunnan rakenteita ja viidennellä kaudella median asemaa kohtaan on yksi The Wiren kantavia vahvoja teemoja, joten toivottavasti myös The Detail päättää kulkea samaa polkua oman tyylinsä säilyttäen.
 
-[![The Detail](/uploads/2014/11/The-Detail-9-1050x590.png)](/uploads/2014/11/The-Detail-9.png)
+[![The Detail](/uploads/2014/11/The-Detail-9.png)](/uploads/2014/11/The-Detail-9.png)
 
 Sekä The Detailin että The Wiren maailmassa tilastoilla on väliä ja kaupungin isät laittavat rahaa mieluummin julkisivua siloitteleviin projekteihin kuin suoraan rikollisuuden torjuntaan.
 
@@ -51,15 +34,3 @@ Ensimmäinen episodi jää nopeaksi alle kahden tunnin sessioksi Steamin pelikel
 Seuraavaa episodia odotellessa jäin kuumottuneeksi lopun cliffhangerista. Enää tarvitsee vain toivoa, että Rival Games pitää julkaisutahdin sopivan ripeänä. Tekijöillä on The Detailin myötä kaikki edellytykset nostaa Suomen pelialaa sekä kuolleeksi oletettua seikkailupeligenreä entistäkin korkeampaan loistoon.
 
 Slim Charles toteaa The Wire -sarjassa osuvasti, "Game's the same, just got more fierce". Jos tunteisiin raa'asti vetoavaa  ja tunnelmallista seikkailupeliä haet, kiinnitä huomiosi The Detailin tuleviin jaksoihin. Interaktiivinen traileri antaa hyvän ensivaikutelman pelistä. Katso myös pelin läpipeluuvideo alempaa.
-
-
-
-
-
-
-
-
-
-
-
-_The Detailin ensimmäinen episodi Where the Dead Lie on ostettavissa [Steamin kaupasta](http://store.steampowered.com/app/319970/). Ensimmäisen episodin huokea kuuden euron hinta ei kauaa tunnu lompakossa. Kausipassia pelistä ei toistaiseksi ole tarjolla._

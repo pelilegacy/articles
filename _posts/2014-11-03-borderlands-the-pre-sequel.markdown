@@ -1,30 +1,15 @@
 ---
-author: toimitus
-comments: true
+author: eetuarvila
 date: 2014-11-03 17:46:52+00:00
-excerpt: Gearboxin ja 2K Gamesin Borderlands-pelisarjassa olemme aina olleet hyvien
-  puolella. Mitä tapahtuukaan kun hyppäämme vastapuolelle? Eetu Arvila otti siitä
-  selvää sarjan uusimman osan, The Pre-Sequelin parissa.
+excerpt: Borderlands-pelisarjassa olemme aina olleet hyvien puolella. Mitä tapahtuukaan kun hyppäämme vastapuolelle?
+cover:
+  src: /uploads/2014/11/borderlands_the_pre_sequel_moxxi_bar.jpg
+  alt: Moxxi Bar 
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/1051/borderlands-the-pre-sequel
-slug: borderlands-the-pre-sequel
-title: 'Arvio: Borderlands - The Pre-Sequel'
-wordpress_id: 1051
+title: 'Borderlands - The Pre-Sequel'
 categories:
-- Arvostelut
-- Roolipelit
-- Toiminta
-tags:
-- 2K Games
-- Borderlands
-- Gearbox
-- Sci-fi
-- Uutuudet
+- Arviot
 ---
-
-[![Borderlands: The Pre-Sequel](/uploads/2014/11/borderlands_the_pre_sequel_moxxi_bar.jpg)](/uploads/2014/11/borderlands_the_pre_sequel_moxxi_bar.jpg)
-
-[ingressi]Gearboxin ja 2K Gamesin Borderlands-pelisarjassa olemme aina olleet hyvien puolella. Mitä tapahtuukaan kun hyppäämme vastapuolelle?[/ingressi]
 
 Ensimmäisessä Borderlandsissa saavut Pandora-planeetalle etsimään _holvia_, joka tarujen mukaan pitää sisällään mittaamattomia rikkauksia ja alien-teknologiaa. Holvi aukeaa kuitenkin vain 200 vuoden välein ja se hetki on nyt käsillä. Tarinan sankarit Lilith, Roland, Brick ja Mordecai matkustavat päästäkseen käsiksi holvin avaimeen ja sitä kautta holviin. Holvissa ei kuitenkaan ole sitä, mitä luulla saattoi ja päällimmäisenä illasta jäi suuhun pettymyksen maku holvin pitäessä sisällään vain pelin loppuvastuksen. Tämän seurauksena holvi sulkeutui jälleen 200 vuodeksi odottamaan uusia aarteenetsijöitä tai uhreja.
 
@@ -32,7 +17,7 @@ Seuraavan osan, Borderlands 2:n tarina ei jatka suoraan ensimmäisestä osasta, 
 
 Uusi tulokas, The Pre-Sequel, sijoittuu nimensä mukaisesti pelisarjan ensimmäisen ja toisen osan väliin. Tällä kertaa ei seikkailla kuitenkaan Pandoralla, vaan Pandoraa kiertävällä Elpis-kuulla. Pelaajan on määrä auttaa Handsome Jackia ja samalla voi seurata hänen muutostaan hyvästä hahmosta pahaan holvin metsästyksen ohella.
 
-[caption id="attachment_1056" align="aligncenter" width="1280"][![Borderlands: The Pre-Sequel](/uploads/2014/11/borderlands_the_pre_sequel_maisema.jpg)](/uploads/2014/11/borderlands_the_pre_sequel_maisema.jpg) Kuun maisemat todistavat, että yksinkertainen grafiikkakin voi olla näyttävää.[/caption]
+[![Borderlands: The Pre-Sequel](/uploads/2014/11/borderlands_the_pre_sequel_maisema.jpg)](/uploads/2014/11/borderlands_the_pre_sequel_maisema.jpg)
 
 **The Pre-Sequelissa** pelaajan on mahdollista valita pelattavansa neljästä eri hahmosta, jotka ovat aikaisemmista Borderlands-peleistä tuttuja. Hahmoilla on omat vahvuutensa. Nisha keskittyy aseisiin. Athena on kilvellä varustautunut gladiaattori. Wilhelm hallitsee robotit ja Claptrap, joka myös fanien suosikkina muistetaan, on se ärsyttävä pikkurobotti. Claptrap on oma henkilökohtainen suosikkini hahmoista ja samaa mieltä ovat varmasti muutkin sarjan pitkäaikaiset fanit.
 
@@ -58,6 +43,6 @@ Aseisiin lisäyksenä on tuotu laser- ja cryo-aseet. Laser vaikuttaa vihollisten
 
 Tiivistettynä Borderlands: The Pre-Sequel on täynnä sarjan aiemmilla osille uskollista ja huumoripitoista räiskintää, mutta 50 euron hintalapulla voisi pelaaja saada enemmänkin eikä vain kierrätystä sarjan aiempien osien elementeistä. Tämän johdosta peli tuntuu enemmänkin isolta lisäsisältöpaketilta kuin kokonaiselta peliltä. Sen takia suosittelenkin odottamaan hinnan tippumista tai ostamista jostain halvemmalla.
 
-**Teksti ja kuvat:** Eetu Arvila
+***
 
-_Katso myös tallenteet lähetyksistä, joissa Borderlands: The Pre-Sequelia pelattiin: [osa 1](https://www.youtube.com/watch?v=j0l97_shMws), [osa 2](https://www.youtube.com/watch?v=Sld3jYqZAY0)._
+_Katso myös tallenteet lähetyksistä, joissa Borderlands: The Pre-Sequelia pelattiin: [osa 1](https://www.youtube.com/watch?v=j0l97_shMws) ja [osa 2](https://www.youtube.com/watch?v=Sld3jYqZAY0)._
