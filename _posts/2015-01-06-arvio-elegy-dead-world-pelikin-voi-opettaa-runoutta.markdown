@@ -1,25 +1,15 @@
 ---
 author: nikoheikkila
-comments: true
 date: 2015-01-06 16:50:53+00:00
-excerpt: Matkusta avaruuteen, he sanoivat. Koe elämyksiä, he sanoivat. Kirjoita itse
-  tarinasi, he sanoivat.
+excerpt: Matkusta avaruuteen, he sanoivat. Koe elämyksiä, he sanoivat. Kirjoita itse tarinasi, he sanoivat.
+cover:
+  src: /uploads/2015/01/elegy.jpg
+  alt: Elegy for a Dead World 
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/1240/arvio-elegy-dead-world-pelikin-voi-opettaa-runoutta
-slug: arvio-elegy-dead-world-pelikin-voi-opettaa-runoutta
-title: 'Arvio: Elegy for a Dead World - pelikin voi opettaa runoutta'
-wordpress_id: 1240
+title: Elegy for a Dead World -- pelikin voi opettaa runoutta
 categories:
-- Arvostelut
-- Seikkailu
-tags:
-- Indie
-- Uutuudet
+- Arviot
 ---
-
-[![Elegy for a Dead World](/uploads/2015/01/elegy-1050x591.jpg)](/uploads/2015/01/elegy.jpg)
-
-[ingressi]"Ei, ällös turvaa Lethen aaltoihin, äl' ukonhatun myrkkyyn mehuiseen."[/ingressi]
 
 Matkusta avaruuteen, he sanoivat. Koe elämyksiä, he sanoivat. Kirjoita itse tarinasi, he sanoivat.
 
@@ -32,9 +22,3 @@ Vaikuttavalla piirrosjäljellä korostetut maailmat ovat erilaisia mukaelmia kuu
 Voimakkaasti eri vuodenaikoja ja värejä hyödyntävät maisemat jäävät vahvasti mieleen, mutta pelin taiteellinen viehätys nousee esiin vasta sen kauniissa äänimaisemissa koneellisine huminoineen ja veden virtauksineen. Tarinoiden kirjoittamisen lomassa äänimaailma kaappaa mukaansa.
 
 Nuorena tapasin kirjoittaa kouluvihkoihin (eihän niihin läksyjä tehdä) lyhyitä tarinoita, joita kuvittelin omistamani lelufiguurien kokevan päivittäisissä taisteluissaan. _Elegy for a Dead World_ tuottaa samanlaisia kokemuksia digitaalisessa muodossa ja viihdyinkin hyvän tunnin sykkivää runosuonta kuiviin vuodattamassa. Taidepeleistä kenties kuuluisin, _Proteus_ (2013), oli jo viittaus oikeaan suuntaan, mutta kaltaisilleni sanasepoille vasta kuolleen maailman elegia tarjoaa niitä oikeita aistikokemuksia.
-
-
-
-
-
-_Elegy for a Dead World on saatavilla PC:lle, Macille ja Linuxille. Lue lisää pelin [kotisivuilta](http://www.dejobaan.com/elegy/)._
