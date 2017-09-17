@@ -1,26 +1,15 @@
 ---
 author: nikoheikkila
-comments: true
 date: 2015-02-02 14:02:38+00:00
-excerpt: 'This War of Mine kertoo enemmän sodasta kuin patriotismia terävästi kritisoinut
-  Spec Ops: The Line, joka puolestaan kertoi sodasta enemmän kuin Call of Duty -sarja
-  koskaan.'
+excerpt: Miten kuvailisit sodan sitä näkemättömälle?
+cover:
+  src: /uploads/2015/02/this_war_of_mine.jpg
+  alt: This War of Mine 
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/1381/this-war-of-mine
-slug: this-war-of-mine
-title: 'Arvio: This War of Mine - tarina tähtäimen toiselta puolen'
-wordpress_id: 1381
+title: This War of Mine - tarina tähtäimen toiselta puolen
 categories:
-- Arvostelut
-- Selviytymispelit
-tags:
-- Sota
-- Uutuudet
+- Arviot
 ---
-
-[![This War of Mine](/uploads/2015/02/this_war_of_mine.jpg)](/uploads/2015/02/this_war_of_mine.jpg)
-
-[ingressi]Miten kuvailisit sodan sitä näkemättömälle?[/ingressi]
 
 Oletko kuullut sitä lausahdusta? Sota, sota ei koskaan muutu. Tämä on Fallout-sarjan kuolemattomaksi tekemä sanonta, jota on käytetty jo siinä määrin, että sen merkitys on haalistunut läpikuultavaksi ja ponnettomaksi. Siitä huolimatta **11bit Studiosin** tekemään _This War of Mine_ -peliin se sopii paremmin kuin useaan muuhun interaktiiviseen tuotteeseen pitkään aikaan. This War of Mine saavuttaa tehokkaasti sen minkä lupaa: se saa meidät kiitollisiksi siitä, että arjessamme meillä on katto päämme päällä, ja yöt saamme nukkua ehjien seinien sisällä – mikä tärkeintä, nukkua. This War of Mine tarkastelee sotaa universaalina ja muuttumattomana tilana: kuin sateena, jonka pilvi ei koskaan siirry pois yltäsi.
 
@@ -38,7 +27,7 @@ Vaikka Pogoren on selkeästi mallinnettu itäisen Euroopan kaupunkien pohjalta, 
 
 Mikäli hahmojen taustoihin ei tutustu, jäävät ne kovin etäisiksi. Pelin kamera ei anna tarkentaa tarpeeksi lähelle, jolloin lopullinen yhteys hahmoihin jää mielikuvituksen varaan. Tämä voi osaltaan karkottaa monia pelaajia -- etenkin sellaisia, jotka ovat uusien seikkailupelien kautta tottuneet perinteisempään valmiiksi esitettyyn kerronnan muotoon.
 
-[![This War of Mine - Raided](/uploads/2015/02/raided-1050x591.jpg)](/uploads/2015/02/raided.jpg)
+[![This War of Mine - Raided](/uploads/2015/02/raided.jpg)](/uploads/2015/02/raided.jpg)
 
 <div class="pullquote">FUCK. THE. WAR?</div>
 

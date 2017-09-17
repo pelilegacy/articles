@@ -1,24 +1,15 @@
 ---
 author: nikoheikkila
-comments: true
 date: 2015-01-15 12:03:24+00:00
-excerpt: Infamous First Light on saatavilla PlayStation 4:lle tammikuun 2015 kuukauden
-  pelinä. Onko narkomaanista supersankariksi? Lue ja valaistu.
+excerpt: Punk-säpinää Seattlen kaduilla
+cover:
+  src: /uploads/2015/01/infamous-first-light-2.jpg
+  alt: Infamous First Light 
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/1298/arvio-infamous-first-light
-slug: arvio-infamous-first-light
-title: 'Arvio: Infamous First Light - punk-säpinää Seattlen kaduilla'
-wordpress_id: 1298
+title: Infamous First Light
 categories:
-- Arvostelut
-- Toiminta
-tags:
-- Playstation 4
+- Arviot
 ---
-
-[![Infamous First Light](/uploads/2015/01/infamous-first-light-2.jpg)](/uploads/2015/01/infamous-first-light-2.jpg)
-
-[ingressi]Juokse valoa kohti, tyttöni.[/ingressi]
 
 **Abigail Walker** on narkomaani ja supersankaritar vasten tahtoaan -- kauniisti sanottuna Yhdysvaltain länsirannikon vaarallisin nainen. Ponteva premissi lupaa paljon, mutta myös antaa. Suositun Infamous-kaanonin uusin osa _First Light_ saapui PlayStation Plus -jäsenyyden myötä tililleni kuukauden ilmaispelinä, joten kerrankin voin osoittaa Sonylle kiitokset oivallisesta valinnasta. Lue eteenpäin, mikäli mietit pitäisikö sinun maksaa siitä?
 
@@ -35,5 +26,3 @@ Pääjuonen seuraamisen ohella pelissä voi suorittaa _lumenien_ (hohtavia val
 Peliympäristönä värikäs Seattle jää valitettavan hengettömäksi eikä pelin lopun putkijuoksu lumisessa maastossa paranna kokemusta. Nekin ovat kuitenkin nautinnollisempia kohtia pelissä kuin Curdun Cayn vankilassa tapahtuvat toistuvat ja ylipitkät taisteluharjoitukset hologrammeja vastaan. Toistuva ongelma avoimen maailman peleissä on ironisesti niiden avoimuus, joka myös First Lightissa jää teknisesti vaatimattomaksi. En kiinnostunut lainkaan kaupungin tutkimisesta, vaan päätin kartan avulla luovia mahdollisimman nopeasti seuraavaan kohteeseen.
 
 Muutamista sudenkuopistaan huolimatta kestoltaan lyhyehkö First Light toimii hyvänä ja intensiivisenä välipalana, joka ehdottomasti ansaitsee jatkoa. Mikäli Sucker Punch päättää panostaa sarjan seuraavaan osaan huolellisesti elävöitetyllä kaupungilla, ajatuksia herättävällä tarinalla ja uskottavilla hahmoilla, saavat he minusta sarjan lojaalin fanin. Viimeinen näytös antaa odottamisen aihetta.
-
-
