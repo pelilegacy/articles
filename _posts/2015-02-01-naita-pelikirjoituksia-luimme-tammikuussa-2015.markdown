@@ -19,7 +19,7 @@ Miltä tuntuu seikkailla Artëmina Dmitri Glukhovskin romaaniin perustuvassa _Me
 
 > Metro 2033 works to traumatize you, to expose you to the post-nuclear surface and its horrors until the claustrophobic underground feels cozy. Spend enough time in the metro, and you become agoraphobic, huddled in the darkness out of fear of what lurks above.
 
-Millaista palautetta kehittäjille tulisi antaa, kun kohdalle sattuu todella epämiellyttävä ja jopa epäpelattava peli? [_Gods Will Be Watching_ -pelin tekijä avautuu internet-kommenteista](http://www.deconstructeam.com/dont-read-the-comments/). Lue myös [arvioni]({{site.baseurl }}{{ link _posts/2014-07-26-gods-will-be-watching.markdown }}) kyseisestä pelistä -- en minäkään pelistä pitänyt.
+Millaista palautetta kehittäjille tulisi antaa, kun kohdalle sattuu todella epämiellyttävä ja jopa epäpelattava peli? [_Gods Will Be Watching_ -pelin tekijä avautuu internet-kommenteista](http://www.deconstructeam.com/dont-read-the-comments/). Lue myös [arvioni]({{site.baseurl }}{% link _posts/2014-07-26-gods-will-be-watching.markdown %}) kyseisestä pelistä -- en minäkään pelistä pitänyt.
 
 > What’s the point of all this? Well, it never gets easier being insulted or simply reading harsh feedback, but I found it really useful to do so. If you learn how to read through the rage, and ask yourself “why did this person said that?” (a part of him being an asshole), there’s an opportunity to grow as a game developer. It’s a useful exercise even with positive feedback, why did she like this? why did he praise this exact thing? And the most important question: Is there anything I can do to appeal the players who are insulting me and also make my games even more enjoyable to the ones who liked them?
 
