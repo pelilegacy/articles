@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-07-28 11:38:08+00:00
 excerpt: Pelianalytiikan ja konsultoinnin palveluita tarjoava Quantic Foundry on puolestaan
@@ -17,7 +17,7 @@ tags:
 - Richard Bartle
 ---
 
-[![Quantic Foundry: Gaming Profile](http://www.pelilegacy.fi/wp-content/uploads/2015/07/gamer-profile-ertsi.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/07/gamer-profile-ertsi.png)
+[![Quantic Foundry: Gaming Profile](/uploads/2015/07/gamer-profile-ertsi.png)](/uploads/2015/07/gamer-profile-ertsi.png)
 
 Kerro minulle, mikä on pelaaja? Pulssi korkealla adrenaliinipäissään vauhdikkaasta tilanteesta toiseen kiihdyttävä räjähtävien toimintapelien fantisoija, matemaattisen tarkasti jokaisen tilanteen laskelmoiva strategiapelien guru, uusia maailmoja ennakkoluulottomasti tutkiva ja niihin uppoutuva digitaalisen ajan Kolumbus vai kenties stressin lievitystä varten satunnaisesti sohvan pohjalle vajoava huvittelija?
 

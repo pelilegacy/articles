@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-04-02 09:44:37+00:00
 excerpt: Suomalainen pelikulttuuri on jo museoiässä – tai ainakin sen ensimmäiset

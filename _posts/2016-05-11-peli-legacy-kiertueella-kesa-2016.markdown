@@ -19,7 +19,7 @@ tags:
 - Yläkaupungin Yö
 ---
 
-[![Powerlan 2016 (Kuva: Facebook)](https://www.pelilegacy.fi/wp-content/uploads/2016/05/powerlan2016.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/05/powerlan2016.jpg)
+[![Powerlan 2016 (Kuva: Facebook)](/uploads/2016/05/powerlan2016.jpg)](/uploads/2016/05/powerlan2016.jpg)
 
 [ingressi]Peli Legacy osallistuu eri pelitapahtumiin kesän aikana. Tule tapaamaan meitä tai jätä oma menovinkkisi, josta meidän tulisi kiinnostua.[/ingressi]
 

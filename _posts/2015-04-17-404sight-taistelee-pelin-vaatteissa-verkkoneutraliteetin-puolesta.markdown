@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-04-17 14:03:46+00:00
 excerpt: Täyttä kaistaa eteenpäin. 404Sight kritisoi verkon epätasa-arvoa peliä ilmaisukeinona
@@ -25,7 +25,7 @@ tags:
 
 
 
-[![404Sight](http://www.pelilegacy.fi/wp-content/uploads/2015/04/404sight.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/04/404sight.png)
+[![404Sight](/uploads/2015/04/404sight.png)](/uploads/2015/04/404sight.png)
 
 [ingressi]Täyttä kaistaa eteenpäin. 404Sight kritisoi verkon epätasa-arvoa peliä ilmaisukeinona käyttäen.[/ingressi]
 
@@ -53,7 +53,7 @@ Kannanotto verkkoneutraliteetin puolesta on henkilökohtainen asia 404Sightin te
 
 Internet on tänä päivänä monelle eräänlainen toinen koti. "Useat ihmiset eivät ole tavanneet parhaita ystäviään kasvotusten, joten on tärkeää ymmärtää, mitä verkkoneutraliteetti tarkoittaa tällä tasolla", kertoo pelin graafikkona toiminut **Rachel Leiker**.
 
-[pullquote]“Our game is a statement about protecting net neutrality and preventing internet service providers from slowing or restricting access to the internet.”[/pullquote]
+<div class="pullquote">“Our game is a statement about protecting net neutrality and preventing internet service providers from slowing or restricting access to the internet.”</div>
 
 404Sightin viimeinen avattavissa oleva saavutus on nimeltään "Internet Saved". Jollet kovasta yrityksestä huolimatta pysty pelastamaan internetiä oikeassa elämässä, voit tyydyttää mielesi ja tehdä sen ainakin pelissä.
 

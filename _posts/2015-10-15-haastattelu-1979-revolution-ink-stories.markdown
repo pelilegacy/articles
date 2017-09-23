@@ -1,37 +1,19 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2015-10-15 11:00:56+00:00
-excerpt: Navid Khonsari vietti lapsuutensa Iranissa, mutta muutti perheineen Kanadaan
-  Iranin vallankumouksen seurauksena. Nyt hän työstää lapsuutensa tapahtumiin ja maisemiin
-  sijoittuvaa peliä 1979 Revolution. Lue massiivinen haastattelumme.
+excerpt: Navid Khonsari vietti lapsuutensa Iranissa, mutta muutti perheineen Kanadaan Iranin vallankumouksen seurauksena. Nyt hän työstää lapsuutensa tapahtumiin ja maisemiin sijoittuvaa peliä 1979 Revolution.
+cover:
+  src: /uploads/2015/10/1979_Revolution1.jpg
+  alt: 1979 Revolution
 layout: post
-link: https://www.pelilegacy.fi/hitaat/2301/haastattelu-1979-revolution-ink-stories
-slug: haastattelu-1979-revolution-ink-stories
-title: 'Haastattelu: 1979 Revolution vie pelaajan keskelle Iranin vallankumousta'
-wordpress_id: 2301
+title: 1979 Revolution vie pelaajan keskelle Iranin vallankumousta
 categories:
-- Ennakot
-- Hitaat
-tags:
-- 1979 Revolution
 - Haastattelut
-- Historia
-- iNK Studios
-- Lähi-itä
-- Mass Effect
-- Sota
-- Star Wars
-- Telltale
-- The Detail
-- This War of Mine
 ---
-
-[![1979 Revolution](http://www.pelilegacy.fi/wp-content/uploads/2015/10/1979_Revolution1.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/10/1979_Revolution1.jpg)
 
 _Tämä on käännös englanninkielisestä haastattelusta. Voit lukea alkuperäisen version [täällä](https://medium.com/peli-legacy/interview-1979-revolution-takes-you-to-the-middle-of-iran-s-decisive-cultural-uprising-2aa439066bfd)._
 
-[ingressi]“Jos istun hiljaa, olen tehnyt syntiä”[/ingressi]
+<div class="pullquote">"Jos istun hiljaa, olen tehnyt syntiä."</div>
 
 Nämä uhmakkaat sanat kuuluvat Iranin entiselle pääministerille, **Mohammed Mossadeqille**, joka kammettiin virastaan CIA:n ja Englannin salaisen tiedustelupalvelun toimesta vuonna 1953. Valtaan palasi Pahlavien dynastiaan kuulunut shaahi **Mohammad Reza Pahlavi**, jonka paluusta alkanut tapahtumien ketju kulminoitui Iranin islamilaiseen vallankumoukseen 1970-luvun lopussa.
 
@@ -45,11 +27,7 @@ _1979 Revolutionin_ kehitys alkoi jo muutama vuosi sitten ja rahoitusta iNK Stor
 
 Erityisesti historiallisista ja poliittisista peleistä kiinnostuneena pelaajana päätin ottaa iNK Storiesiin yhteyttä, ja sain järjestettyä haastattelun Navidin kanssa. Jälkikäteen todettakon, että hänen kunnianhimonsa ja visionsa ovat vähintäänkin yhtä korkealla kuin vallankumoukseen osallistuneilla ihmisillä. Lue haastattelu alta.
 
-
-
-* * *
-
-
+***
 
 **Niko: Jos aloitamme vallankumouksesta, niin onko kenelläkään muulla tiimistänne henkilökohtaisia kokemuksia tai muistoja Iranin vallankumouksen ajoilta? Entä mitä lähteitä olette käyttäneet materiaalin keräämisessä peliä varten?**
 
@@ -69,7 +47,7 @@ Erityisesti historiallisista ja poliittisista peleistä kiinnostuneena pelaajana
 
 -- Se on kieltämättä kiehtovaa, kun jokin teos _syöttää_ sinulle uutta kulttuuria, johon et ole tottunut. Kun fanit omaksuvat esimerkiksi Tähtien Sodan, he uppoutuvat siihen maailmaan, jonka tekijät ovat tehneet heitä varten ja ymmärtävät, että maailma toimii tiettyjen sääntöjen puitteissa. Joku voisi todeta saman pelisarjoista, kuten _Mass Effect_, jossa olet myös kiinteä osa maailmaa. Mekin haluamme luoda maailman, johon pystyt uppoutumaan siten, ettei se kuitenkaan tunnu täysin vieraalta.
 
-[pullquote]Haluamme tarinamme resonoivan ihmisissä ympäri maailman tunsivat he Iranin historian tai eivät. Se on avaintavoitteemme.[/pullquote]
+<div class="pullquote">Haluamme tarinamme resonoivan ihmisissä ympäri maailman tunsivat he Iranin historian tai eivät. Se on avaintavoitteemme.</div>
 
 **Niko: Julkaisette pelin erillisinä jaksoina. Voitko paljastaa kuinka monta jaksoa peli kaiken kaikkiaan sisältää?**
 
@@ -85,7 +63,7 @@ Erityisesti historiallisista ja poliittisista peleistä kiinnostuneena pelaajana
 
 **Navid:** Kunnioitamme valtavasti sitä, mitä Telltale on saanut peleillään aikaan ja näemme heidät eräänlaisina suunnannäyttäjinä, jotka antoivat meillekin inspiraation tehdä omaa juttuamme tällä alalla. Luulen, että merkittävin ero välillämme on se, että _1979 Revolution_ perustuu fiktion sijasta oikean maailman tapahtumiin. Seikkailupelin sijoittaminen oikeaan maailmaan on suuri haaste.
 
-[caption id="attachment_2310" align="alignright" width="225"][![Navid Khonsari](http://www.pelilegacy.fi/wp-content/uploads/2015/10/navid_khonsari-225x300.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/10/navid_khonsari.jpg) Navid Khonsari[/caption]
+[![Navid Khonsari](/uploads/2015/10/navid_khonsari.jpg)](/uploads/2015/10/navid_khonsari.jpg)
 
 -- Toiseksi, pelimekaniikkamme ei rajoitu seikkailupeleille tyypillisiin elementteihin. Voit pelatessasi tehdä kaiken kivien ja molotovien heittelystä kuvien ottamiseen ja katseluun. Keräiltävät asiat, kuten valokuvat ja äänileikkeet ovat peräisin oikeasta maailmasta. Pelissä voit tutkia esineitä ja oppia oikeista tapahtumista niiden kautta. Perinteiset seikkailupelien elementitkin ovat mukana, joten oven avaamiseksi joudut etsiä avaimen, mutta sellaisille, jotka eivät tunne tapahtumien alkuperää on seikkailu ja tutkimus oikeaan maailmaan perustuvassa sijainnissa varmasti mielenkiintoinen kokemus. Elävöitämme maailmaa myös musiikilla ja katutaiteella, minkä lisäksi pelissä väistellään paljon ammuksia ja navigoidaan mellakoiden seassa.
 
@@ -93,7 +71,7 @@ Erityisesti historiallisista ja poliittisista peleistä kiinnostuneena pelaajana
 
 -- Ennen kaikkea haluamme erottautua sisällöllä. Emme halua erottautua Telltalen peleistä siinä mielessä, että ajattelisimme heidän tehneen jotain väärin. Ei todellakaan, arvostamme todella paljon heidän työtään ja haluammekin kehittää tätä genreä, jonka kärjessä he ovat olleet.
 
-**Niko: Telltalen peleistä puheen ollen, mieleeni tuli suomalainen [_The Detail_ -pelisarja](http://www.pelilegacy.fi/tag/the-detail). Oletko kuullut siitä?**
+**Niko: Telltalen peleistä puheen ollen, mieleeni tuli suomalainen _The Detail_ -pelisarja. Oletko kuullut siitä?**
 
 **Navid:** [epäröi hetken] Kyllä, olenhan minä kuullut siitä! Yritätkö nyt kysyä, miten _1979 Revolution_ vertautuu siihen sarjaan?
 
@@ -113,7 +91,7 @@ Erityisesti historiallisista ja poliittisista peleistä kiinnostuneena pelaajana
 
 **Navid:** Ehdottomasti! Muiden päähenkilöiden taustalla vaikuttavat eri kansallisuudet, ja se onkin yksi _1979 Revolutionin_ tavoitteista: tehdä peli, joka on omaksuttavissa kulttuurillisesta tai kielellisestä tausta riippumatta.
 
-https://www.youtube.com/watch?v=pGeFR8AqM7Q
+<div class="embed"><iframe src="https://www.youtube.com/embed/pGeFR8AqM7Q?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 **Niko: _1979 Revolutionin_ Greenlight -video (yllä) esittelee pelaajan mm. ottamassa valokuvia kamerallaan. Onko tämä mekaniikka sidottu ainoastaan narratiiviin vai onko pelissä mahdollista hyödyntää erilaista valokuvaustilaa tai jopa avata salaisuuksia kameran avulla?**
 
@@ -129,7 +107,7 @@ https://www.youtube.com/watch?v=pGeFR8AqM7Q
 
 -- Huomautan kuitenkin, että kyseessä on vain yksi kulttuuri maailmassa. Eräs pelimme tarkoituksista on samalla antaa työkalu muiden kulttuurien edustajille, jotka haluavat kertoa puolestaan oman tarinansa.
 
-[pullquote]Kulttuurimme, joka on kuitenkin tuhansia vuosia vanha, on monimuotoisempi kuin mediassa alati esiintyvistä kasvonsa peittäneistä naisista tai papeista voisi olettaa.[/pullquote]
+<div class="pullquote">Kulttuurimme, joka on kuitenkin tuhansia vuosia vanha, on monimuotoisempi kuin mediassa alati esiintyvistä kasvonsa peittäneistä naisista tai papeista voisi olettaa.</div>
 
 **Niko: Tänä vuonna pakolaiskriisi on puhuttanut eurooppalaisia hyvin paljon. Heijastavatko _1979 Revolutionin_ teemat ja tarina jollain tapaa tätä kriisiä sekä tämänhetkisiä olosuhteita Lähi-idän maissa?**
 
@@ -155,17 +133,17 @@ https://www.youtube.com/watch?v=pGeFR8AqM7Q
 
 -- Elokuvat ovat myös olleet suuri vaikuttaja suunnittelemamme pelikokemuksen osalta. 1970-luvun elokuvat, kuten _Hikinen iltapäivä_ (1975) ja … [lyhyt hiljaisuus] mikä helvetti sen yhden elokuvan nimi oli? [kaappikello raksuttaa] En voi uskoa, että olen unohtanut sen!
 
-**Niko: Twitterissä olette ainakin puhuneet Walter Hillin ohjaamasta elokuvasta [_Soturit_ (1979)](http://www.imdb.com/title/tt0080120/?ref_=nv_sr_1).**
+**Niko: Twitterissä olette ainakin puhuneet Walter Hillin ohjaamasta elokuvasta [_Soturit_ (1979)](http://www.imdb.com/title/tt0080120/).**
 
 **Navid:** Kyllä, _Soturit_ oli suuri juttu kohdallamme ja pelisovitusta varten sain hoitaa roolituksen. Mikä olikaan se elokuva, jossa **James Woods** näytteli varhaisessa vaiheessa urallaan?
 
 **Niko: En valitettavasti tunne James Woodsin tuotantoa niin hyvin, mutta ymmärrän mitä ajat takaa elokuvaviittauksilla.**
 
-**Navid:** Jos olen täysin rehellinen, niin… sen elokuvan nimi on [_Salvador_ (1986)](http://www.imdb.com/title/tt0091886/?ref_=nv_sr_1) ja sen ohjasi ja käsikirjoitti **Oliver Stone**! Elokuva sijoittuu murenevaan El Salvadoriin, ja se kertoo millaista on olla toimittajana todistamassa sitä kaikkea.
+**Navid:** Jos olen täysin rehellinen, niin… sen elokuvan nimi on [_Salvador_ (1986)](http://www.imdb.com/title/tt0091886/) ja sen ohjasi ja käsikirjoitti **Oliver Stone**! Elokuva sijoittuu murenevaan El Salvadoriin, ja se kertoo millaista on olla toimittajana todistamassa sitä kaikkea.
 
 -- Lisäksi monet dokumentit, kuten se eräs New Yorkilaisesta sotatoimittajasta kertova, vaikuttivat meihin. Se tiivisti hyvin valinnan vaikeuden sellaisessa tilanteessa, jossa voit joko ottaa valokuvan väkivaltaisesta tilanteesta tai riskeerata henkesi ja puuttua siihen. Se on mielenkiintoinen filosofinen kysymys, jonka halusimme erityisesti tuoda mukaan _1979 Revolutioniin_.
 
--- TV-sarjoista mainittakon esimerkkinä [_Isänmaan puolesta_ (2011–)](http://www.imdb.com/title/tt1796960/?ref_=nv_sr_1), joka käsittelee Lähi-itään liittyvää sisältöä mielenkiintoisella otteella. Kaiken yllä vaaniva salaperäisyys [_True Detective_ (2014–)](http://www.imdb.com/title/tt2356777/?ref_=nv_sr_1) -sarjassa on myös kiinnostava aihe. Avasimme mielemme laajalle skaalalle erilaisia vaikutteita, koska pelimme ei ole perinteinen kolmannesta persoonasta kuvattu seikkailupeli, vaan keskitymme huomattavasti enemmän tarinalliseen sisältöön.
+-- TV-sarjoista mainittakon esimerkkinä [_Isänmaan puolesta_ (2011–)](http://www.imdb.com/title/tt1796960/), joka käsittelee Lähi-itään liittyvää sisältöä mielenkiintoisella otteella. Kaiken yllä vaaniva salaperäisyys [_True Detective_ (2014–)](http://www.imdb.com/title/tt2356777/) -sarjassa on myös kiinnostava aihe. Avasimme mielemme laajalle skaalalle erilaisia vaikutteita, koska pelimme ei ole perinteinen kolmannesta persoonasta kuvattu seikkailupeli, vaan keskitymme huomattavasti enemmän tarinalliseen sisältöön.
 
 **Niko: Telltalen peleissä vastaan tulee suunnitelmallisesti tilanteita, joissa kahdesta vaihtoehdosta on valittava se vähemmän huono ja tämä aiheuttaa aina pienen syyllisyyden tunteen myöhemmin pelissä. Yrittääkö _1979 Revolution_ poiketa tästä kaavasta?**
 
@@ -177,7 +155,7 @@ https://www.youtube.com/watch?v=pGeFR8AqM7Q
 
 **Navid:** Peli sisältää tiettyjä kohtia, joihin haluamme upottaa samanlaisen systeemin, mutta haluamme silti olla nojaamatta liikaa ei-pelattavilta hahmoilta tulevaan palautteeseen. Jotkut pelaajat pitävät hahmojen antamasta palautteesta, ja toiset haluavat kuulemamme mukaan säilyttää pelikokemuksen ennalta-arvaamattomuuden. _1979 Revolution_ tulee sisältämään seuraamukset, mutta niitä ei sovelleta peliin niin raskaalla kädellä.
 
-**Niko: _1979 Revolutioninkin_ teema muistuttaa vahvasti viime vuoden _[This War of Mine](http://www.pelilegacy.fi/hitaat/1998/this-war-of-mine-mita-kertoa-sodasta)_ -peliä. Löydätkö mitään yhtäläisyyksiä näistä kahdesta?**
+**Niko: _1979 Revolutioninkin_ teema muistuttaa vahvasti viime vuoden _This War of Mine_ -peliä. Löydätkö mitään yhtäläisyyksiä näistä kahdesta?**
 
 **Navid:** _This War of Mine_ on kyllä huomattavasti synkempi peli kuin omamme! [naurua]
 
@@ -197,7 +175,7 @@ https://www.youtube.com/watch?v=pGeFR8AqM7Q
 
 -- Historiallisen tarkkuuden ansiosta uskomme, että tämä peli tulee saavuttamaan paljon suuremman yleisön suosion ja herättämään sellaisia ajatuksia kuin "Hei, ajattelin, että pelit on tarkoitettu 17-vuotiaille nuorille, jotka pelaavat _Haloa_ ja _Call of Dutya_ kuulokkeet päässä!". Haluamme saada nämä ihmiset tajuamaan, että pelit ovat ainutlaatuinen media ja niiden kautta voi käsitellä huomattavasti laajempia aihealueita kuin luullaan.
 
-[pullquote]1979 Revolutionin kohdalla pyrimme muuttamaan tätä kaavaa, sillä Teheran 1970-luvulla ei oikeastaan ollut sen erilaisempi kaupunki kuin saman ajan New York, Helsinki tai jopa Pariisi.[/pullquote]
+<div class="pullquote">1979 Revolutionin kohdalla pyrimme muuttamaan tätä kaavaa, sillä Teheran 1970-luvulla ei oikeastaan ollut sen erilaisempi kaupunki kuin saman ajan New York, Helsinki tai jopa Pariisi.</div>
 
 **Niko: Olen vahvasti samaa mieltä siitä, että pelit ovat kehittyneet kun tarkastellaan niiden ilmaisukykyä. Sotaa simuloidakseen ei tarvitse suunnitella räiskintäpeliä, vaan voit keskittyä tarinalliseen seikkailuun, strategiaan ja moneen muuhun tyylilajiin.**
 
@@ -210,5 +188,3 @@ https://www.youtube.com/watch?v=pGeFR8AqM7Q
 **Niko: Kiitos erittäin paljon haastattelusta! Oli ilo keskustella kanssasi.**
 
 **Navid:** Kiitos samoin!
-
-https://www.youtube.com/watch?v=YOr2YhdZ9LE

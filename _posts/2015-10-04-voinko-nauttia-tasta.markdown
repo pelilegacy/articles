@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-10-04 14:45:02+00:00
 excerpt: Kolumnissa pohditaan voiko pelistä nauttia, vaikka vierastaakin sen tekijöiden
@@ -20,7 +20,7 @@ tags:
 - WWE
 ---
 
-[![Mafia II](http://www.pelilegacy.fi/wp-content/uploads/2015/10/mafia2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/10/mafia2.jpg)
+[![Mafia II](/uploads/2015/10/mafia2.jpg)](/uploads/2015/10/mafia2.jpg)
 
 [ingressi]Kolumnissa pohditaan voiko pelistä nauttia, vaikka vierastaakin sen tekijöiden ajatusmaailmaa.[/ingressi]
 

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-08-24 09:31:03+00:00
 excerpt: Super System Softworksin Drift Stage on ajoittain jopa naurettavan maskuliininen,
@@ -23,7 +23,7 @@ tags:
 - Tulossa
 ---
 
-[![Drift Stage](http://www.pelilegacy.fi/wp-content/uploads/2015/08/drift_stage.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/08/drift_stage.jpg)
+[![Drift Stage](/uploads/2015/08/drift_stage.jpg)](/uploads/2015/08/drift_stage.jpg)
 
 Pikselöitynyt savu nousee kulmikkaan auton renkaista vasten pastellinvärisenä helottavan kaupungin horisonttia. Kulmassa auton hallinta kysyy lujia hermoja -- liian vähän käännöstä ja törmäät seinään, liian paljon ja menetät arvokkaita sekunteja. Todellisuudentaju sumentuu synteettisen kitararaidan ulvontaan ja kurvista ulos päästyäsi kiihdytät BMW:n täyteen vauhtiin vain valmistautuaksesi seuraavaan vielä tiukempaan kumien polttoon.
 

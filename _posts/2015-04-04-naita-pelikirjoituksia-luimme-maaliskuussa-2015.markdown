@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-04-04 10:47:31+00:00
 excerpt: Erinäisten kiireiden johdosta maaliskuun painos pelikirjoituksista tulee
@@ -24,7 +24,7 @@ tags:
 - Vaihtoehtopelit
 ---
 
-[![Näitä pelikirjoituksia luimme tässä kuussa](http://www.pelilegacy.fi/wp-content/uploads/2015/02/pelikirjoitukset.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/pelikirjoitukset.png)
+[![Näitä pelikirjoituksia luimme tässä kuussa](/uploads/2015/02/pelikirjoitukset.png)](/uploads/2015/02/pelikirjoitukset.png)
 
 [ingressi]Erinäisten kiireiden johdosta maaliskuun painos pelikirjoituksista tulee vasta nyt, mutta laadusta ei ole tingitty. Tämän kertaiset linkit ovat jälleen yhtä arvoituksellisia ja polarisoituneita kuin ennenkin.[/ingressi]
 

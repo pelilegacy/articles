@@ -1,39 +1,25 @@
 ---
-author: toimitus
-comments: false
+author: nikoheikkila
 date: 2014-10-05 15:48:50+00:00
-excerpt: Ei ole syytä uskoa, että pelijournalismi likoaa korruptiossa. GamerGate tarkoittaa
-  hyvää, mutta toimii itse arveluttavin keinoin vetäen uskottavuuspohjan pois liikkeeltä.
-  Pelijournalismi vaatii myös mielipiteitä ja kriittistä näkökulmaa. Tässä kirjoituksessa
-  tutkimme miksi näin on.
+excerpt: Miksi ei ole syytä uskoa, että pelijournalismi likoaa korruptiossa?
+cover:
+  src: /uploads/2014/10/pelaajien_asialla.jpg
+  alt: Me olemme pelaajien asialla
 layout: post
-link: https://www.pelilegacy.fi/ajassa/963/me-olemme-pelaajien-asialla
-slug: me-olemme-pelaajien-asialla
-title: 'Kommentti: Me olemme pelaajien asialla'
-wordpress_id: 963
+title: 'Kolumni: Me olemme pelaajien asialla'
 categories:
-- Ajassa
-tags:
-- GamerGate
-- Journalismi
-- Pelikritiikki
+- Kolumnit
 ---
-
-[![Kuvituskuva](http://www.pelilegacy.fi/wp-content/uploads/2014/10/pelaajien_asialla.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/10/pelaajien_asialla.jpg)
 
 **Internet** on suutahtanut, joten vetäydyimme päämajamme bunkkeriin ja toisin kuin Berliinissä vuoden 1945 huhtikuussa, tulemme sieltä elossa ja hyvin voivina ulos. Yhtäkkiä onkin kolea syksyinen sunnuntai ja lehdet putoilevat puusta. Valmistautukaa miehet, sillä talvi on tulossa.
 
 Alla on muutamia väitteitä ja oletuksia, joita on kohdistettu sekä meihin että pelimedioihin yleisesti kuluneiden viikkojen aikana #GamerGate-skandaalin pyörteissä. Avaamme näitä omalta osaltamme ja pohdimme samalla, miten pelijournalismia voisi kehittää kaikkia tasa-arvoisesti palvelevaan, mutta kuitenkin mielenkiintoiseen suuntaan.
 
-TL;DR: Ei ole syytä uskoa, että pelijournalismi likoaa korruptiossa. GamerGate tarkoittaa hyvää, mutta toimii itse arveluttavin keinoin vetäen uskottavuuspohjan pois liikkeeltä. Pelijournalismi vaatii myös mielipiteitä ja kriittistä näkökulmaa.
+**TL;DR:** Ei ole syytä uskoa, että pelijournalismi likoaa korruptiossa. GamerGate tarkoittaa hyvää, mutta toimii itse arveluttavin keinoin vetäen uskottavuuspohjan pois liikkeeltä. Pelijournalismi vaatii myös mielipiteitä ja kriittistä näkökulmaa.
 
+***
 
-
-* * *
-
-
-
-**"Ahdistelua ei juurikaan ole tapahtunut ilman muutamia yksittäisiä poikkeuksia"**
+**"Ahdistelua ei juurikaan ole tapahtunut ilman muutamia yksittäisiä poikkeuksia."**
 
 Ensimmäinen väite tuli vastaan kommenteissa ja on siksi lainausmerkeissä.
 
@@ -93,7 +79,7 @@ Pelejä voi toki edelleen pelata viihteellisenä ja _kasuaalina_ harrastuksena j
 
 **Miksi tämä on kirjoitettu?**
 
-Muutama päivä sitten kirjoitimme [Intelin päätöksestä vetää mainoksensa pois Gamasutra-pelisivustolta](http://www.pelilegacy.fi/kolumnit/955/intel-veti-mainoksensa-pois-gamergaten-painostamana-eravoitto-trolleille). Kirjoitus oli tietoisesti kärjistävä ja saimme siitä vihaista lukijapalautetta. Onnistuimme herättämään keskustelua ja ilman tuota keskustelua nyt lukemaasi huomattavasti vähemmän kärjistetympää kirjoitusta ei ehkä olisi koskaan syntynyt. Nyt toivomme, että ajatuksia herää edelleen ja rohkaisemme kirjoittamaan kokonaisia vastineita tälle tekstille, mikäli olet kanssamme eri mieltä. Tutkimus ja keskustelu ovat suurimpia palveluksia, joita pelialalle tällä hetkellä voi tehdä.
+Muutama päivä sitten kirjoitimme Intelin päätöksestä vetää mainoksensa pois Gamasutra-pelisivustolta. Kirjoitus oli tietoisesti kärjistävä ja saimme siitä vihaista lukijapalautetta. Onnistuimme herättämään keskustelua ja ilman tuota keskustelua nyt lukemaasi huomattavasti vähemmän kärjistetympää kirjoitusta ei ehkä olisi koskaan syntynyt. Nyt toivomme, että ajatuksia herää edelleen ja rohkaisemme kirjoittamaan kokonaisia vastineita tälle tekstille, mikäli olet kanssamme eri mieltä. Tutkimus ja keskustelu ovat suurimpia palveluksia, joita pelialalle tällä hetkellä voi tehdä.
 
 Peli Legacyssa kirjoitamme silti jatkossakin vahvoilla mielipiteillä varustettuja kirjoituksia, sillä olemme pelaajia pelaajien asialla. Kaikkia lukijoita ei ole mahdollista tyydyttää samanaikaisesti emmekä sitä tavoittelekaan. Jos otat itseesi kirjoituksistamme, ohita ne. Te muut, tervetuloa lukijoiksemme ja toivottavasti viihdytte seurassamme.
 

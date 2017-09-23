@@ -1,44 +1,27 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2016-08-25 13:28:35+00:00
-excerpt: Uskomaton unelmatehdas vai uuvuttava urakointipaja? Jyväskylä Game Lab -hanke
-  päättyy tämän vuoden lopulla. Mitä hanke on tuonut kaupungin pelialalle?
+excerpt: Suomen pelialan kasvu on laboratorioissa, joissa koeputkista sikiää hirviöiden sijaan pelejä.
+cover:
+    src: /uploads/2016/08/gamelab.jpg
+    alt: Jyväskylä Game Lab (Vapaudenkatu)
 layout: post
-link: https://www.pelilegacy.fi/hitaat/2959/jyvaskyla-game-lab
-slug: jyvaskyla-game-lab
 title: 'Tupakkapaikalta ideaksi: Jyväskylä Game Lab kouluttaa pelialan uusia kykyjä'
-wordpress_id: 2959
 categories:
 - Hitaat
-tags:
-- Game Lab
-- Jyväskylä
-- Koulutus
-- Neogames
-- Oulu
-- Pelinkehitys
 ---
 
-[![Jyväskylä Game Lab (Vapaudenkatu)](https://www.pelilegacy.fi/wp-content/uploads/2016/08/gamelab.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/08/gamelab.jpg)
+Verkkojulkaisu Torikokous julkaisi viime vuoden alussa artikkelin otsikolla [_Unelmatehtaan todellisuus_](http://torikokous.fi/unelmatehtaan-todellisuus/). Jutussa taustoitettiin, mitä mahdollisuuksia ja erityisesti haasteita Keski-Suomen peliskenellä tuolloin oli kohdattavana. Tälläkin alalla vaarana on tipahtaa todellisuuteen ruusuisista haavekuvista: lupaaville ideoille ei löydy aikaa saati ohjausta, myös kynnys lähteä perustamaan omaa yritystä on korkea.
 
-[ingressi]Suomen pelialan kasvu on laboratorioissa, joissa koeputkista sikiää hirviöiden sijaan pelejä.[/ingressi]
-
-Verkkojulkaisu Torikokous julkaisi viime vuoden alussa artikkelin otsikolla_[ Unelmatehtaan todellisuus](http://torikokous.fi/unelmatehtaan-todellisuus/)_. Jutussa taustoitettiin, mitä mahdollisuuksia ja erityisesti haasteita Keski-Suomen peliskenellä tuolloin oli kohdattavana. Tälläkin alalla vaarana on tipahtaa todellisuuteen ruusuisista haavekuvista: lupaaville ideoille ei löydy aikaa saati ohjausta, myös kynnys lähteä perustamaan omaa yritystä on korkea.
-
-
-
-<blockquote>“Paikallinen pelibisnes tarvitsee ohjausta ja organisoitumista kasvaakseen. Jyväskylässä tällaista ei ole ollut – paitsi vasta nyt.”</blockquote>
-
-
+> Paikallinen pelibisnes tarvitsee ohjausta ja organisoitumista kasvaakseen. Jyväskylässä tällaista ei ole ollut – paitsi vasta nyt.
 
 Alasta unelmoivien ihmisten saattaminen yhteen ei tietenkään ole helppo tehtävä. Se on ennen kaikkea haaste markkinoinnin ja organisoinnin kannalta, johon oppilaitosten ja muiden järjestöjen on tartuttava.
 
-Yhtenä toimijana haasteeseen on viime vuodesta alkaen vastannut[** Jyväskylä Game Lab**](http://www.jklgamelab.fi), jossa koulutetaan pelialalle uusia osaajia jakamalla heidät tiimeihin sekä laittamalla heidät suunnittelemaan ja toteuttamaan omia pelejään.
+Yhtenä toimijana haasteeseen on viime vuodesta alkaen vastannut [**Jyväskylä Game Lab**](http://www.jklgamelab.fi), jossa koulutetaan pelialalle uusia osaajia jakamalla heidät tiimeihin sekä laittamalla heidät suunnittelemaan ja toteuttamaan omia pelejään.
 
 Jyväskylä Game Lab on Jyväskylän yliopiston ja Jyväskylän ammattikorkeakoulun järjestämä kahden vuoden yhteistyöhanke, jonka tarkoituksena on kehittää opetusmenetelmiä samalla pelialan koulutusta tarjoten.
 
-Torikokouksen jutussa viitataan Suomen pelialan kattojärjestö _Neogamesin_[ ylläpitämään listaan](http://www.neogames.fi/tietoa-toimialasta/alan-toimijat/) vähintään yhden pelin julkaisseista suomalaisista yrityksistä, joita Jyväskylässä oli tuolloin 11. Nyt reilua vuotta myöhemmin luku on kasvanut [yli kahteenkymmeneen](http://www.expa.fi/game-companies/). Vaikka pelialan suosio ei Jyväskylässä varsinaisesti olekaan räjähtänyt, on ala antanut kaupungille kiitettävästi kansallista huomiota. Ehkä tulevaisuudessa voimme puhua Jyväskylästä rallikaupungin rinnalla myös pelikaupunkina.
+Torikokouksen jutussa viitataan Suomen pelialan kattojärjestö _Neogamesin_ [ylläpitämään listaan](http://www.neogames.fi/tietoa-toimialasta/alan-toimijat/) vähintään yhden pelin julkaisseista suomalaisista yrityksistä, joita Jyväskylässä oli tuolloin 11. Nyt reilua vuotta myöhemmin luku on kasvanut [yli kahteenkymmeneen](http://www.expa.fi/game-companies/). Vaikka pelialan suosio ei Jyväskylässä varsinaisesti olekaan räjähtänyt, on ala antanut kaupungille kiitettävästi kansallista huomiota. Ehkä tulevaisuudessa voimme puhua Jyväskylästä rallikaupungin rinnalla myös pelikaupunkina.
 
 Syksyisin, keväisin ja kesäisin Game Labissa aloitetaan uusi työskentelyjakso, johon pyritään saamaan ainakin viisi tiimiä. Osallistujamäärässä se tarkoittaa noin 30 henkeä.
 
@@ -48,7 +31,7 @@ Osallistujia Game Lab pyrkii houkuttelemaan niin korkeakouluista kuin työttömi
 
 Jyväskylä ei tietenkään ole ainoa tällaista toimintaa tarjoava kaupunki Suomessa, vaan omat _pelilabransa_ ovat pystyttäneet esimerkiksi Turku, Joensuu, Kajaani ja Oulu. Esimerkiksi Ouluun verrattuna Jyväskylän toiminta on erilaista, sillä **Oulu Game Lab** on Oulun seudun ammattikorkeakoulun oma opintokokonaisuus, johon osallistuvat myös avoimen ammattikorkeakoulun opiskelijat. Jyväskylä Game Labiin osallistuminen ei edellytä opiskelupaikkaa missään oppilaitoksessa.
 
-Hiljattain Oulu Game Lab[ sai uudet toimitilat](http://www.kaleva.fi/uutiset/oulu/oulun-pelikampuksen-toiminta-kaynnistyy-oulu-game-lab-muuttaa-kampuksen-tiloihin/735214/) Oulun pelikampukselta, joka on muun muassa _Hill Climb Racing_ -mobiilipelistä ja railakkaan kosteista _Fingerparty_-bileistä tunnetun peliyhtiö **Fingersoftin** hanke.
+Hiljattain Oulu Game Lab [sai uudet toimitilat](http://www.kaleva.fi/uutiset/oulu/oulun-pelikampuksen-toiminta-kaynnistyy-oulu-game-lab-muuttaa-kampuksen-tiloihin/735214/) Oulun pelikampukselta, joka on muun muassa _Hill Climb Racing_ -mobiilipelistä ja railakkaan kosteista _Fingerparty_-bileistä tunnetun peliyhtiö **Fingersoftin** hanke.
 
 Jyväskylä Game Lab tarjoaa mahdollisuuksia myös Keski-Suomen ulkopuolella asuville. Louken mukaan esimerkiksi peliprojektin äänisuunnittelua voi hyvin tehdä etätyönä, minkä lisäksi mukana on ollut aiemmin Jyväskylästä pois muuttaneita opiskelijoita. Osallistujan rooli määrittelee pitkälti sen, tarvitseeko kehitystyössä olla fyysisesti läsnä.
 
@@ -56,7 +39,7 @@ Jyväskylä Game Lab tarjoaa mahdollisuuksia myös Keski-Suomen ulkopuolella asu
 
 "Jos hakijalla ei ole ansioluettelossa aikaisempia projekteja, on todella hankala saada töitä. Tilanne helpottuu, jos voi esittää yhdenkin projektin sekä mitä on saanut sen parissa aikaiseksi", Koskenkorva toteaa.
 
-[caption id="attachment_2966" align="aligncenter" width="960"][![Clusterloop](https://www.pelilegacy.fi/wp-content/uploads/2016/08/clusterloop.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/08/clusterloop.jpg) Tuore peliyritys Clusterloop esitteli oppimaansa keväällä 2016.[/caption]
+![Clusterloop](/uploads/2016/08/clusterloop.jpg)
 
 Varsinainen tavoite Game Labissa ei siten ole myytävien pelien tuottaminen tai kannattavien yritysten perustaminen, vaan ammattimaisen projektikokemuksen tarjoaminen osallistujille. Jokainen osallistuja voi kuitenkin itse päättää, millä asenteella haasteeseen lähtee. Toiset saattavat haluta vain täytettä portfolioon, kun taas toiset pyrkivät löytämään ympärilleen osaavat tekijät uuden yrityksen perustamista varten.
 
@@ -70,7 +53,7 @@ Mobiilialustoille _Projekt: Tiles_ -puzzlepeliä kehittävät Jyväskylän ammat
 
 Ideoiden vaihtaminen ja tuotannollisista ongelmista keskusteleminen pelintekijöiden välillä on tilaisuus, johon ei aina tarjoudu mahdollisuutta. Toisaalta jalkautuminen erilaisiin tapahtumiin omaa prototyyppiä tarjoten on hyvä keino sekä parantaa omaa peliään että saada uusia kontakteja.
 
-[pullquote]Tästä huolimatta monien huulilla pyörii kysymys, milloin seuraava Supercell tai Rovio ponnistaa Game Labin uumenista.[/pullquote]
+<div class="pullquote">Tästä huolimatta monien huulilla pyörii kysymys, milloin seuraava Supercell tai Rovio ponnistaa Game Labin uumenista.</div>
 
 _Projekt: Tiles_ -tiimi painottaa erityisesti, että mikäli Jyväskylässä halutaan rakentaa pelialaa yhteisöllisemmäksi, on kehitystyön perustuttava avoimelle keskustelulle ja verkostoitumiselle.
 

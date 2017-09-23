@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-09-06 15:34:08+00:00
 excerpt: 'Welcome to the issue #2 of Sunday Gaming — a collection of 15 articles with
@@ -25,7 +25,7 @@ tags:
 - Taide
 ---
 
-[![Sunday Gaming](http://www.pelilegacy.fi/wp-content/uploads/2015/07/sunday_gaming.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/07/sunday_gaming.jpg)
+[![Sunday Gaming](/uploads/2015/07/sunday_gaming.jpg)](/uploads/2015/07/sunday_gaming.jpg)
 
 [ingressi]Welcome to the issue #2 of Sunday Gaming — a collection of 15 articles with different ways to appreciate the gift that we call games.[/ingressi]
 

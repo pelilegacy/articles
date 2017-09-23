@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-06-16 15:11:09+00:00
 excerpt: E3-messut ovat vyöryttäneet lavalle toinen toistaan kovempia muistopommeja,
@@ -23,7 +23,7 @@ tags:
 - Tulossa
 ---
 
-[![Final Fantasy VII Remake](http://www.pelilegacy.fi/wp-content/uploads/2015/06/ff7_remake.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/06/ff7_remake.jpg)
+[![Final Fantasy VII Remake](/uploads/2015/06/ff7_remake.jpg)](/uploads/2015/06/ff7_remake.jpg)
 
 Pelkästään sosiaalista mediaa seuraamalla on tämän ja eilisen päivän ajan voinut huomata toistuvan kaavan ihmisten vuolaassa hehkutuksessa: suurimmat riemunkiljahdukset tulevat vanhojen hiljaa nukkuneiden muistojen heräämisestä.
 

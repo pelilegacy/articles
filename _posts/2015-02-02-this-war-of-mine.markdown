@@ -1,26 +1,15 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2015-02-02 14:02:38+00:00
-excerpt: 'This War of Mine kertoo enemmän sodasta kuin patriotismia terävästi kritisoinut
-  Spec Ops: The Line, joka puolestaan kertoi sodasta enemmän kuin Call of Duty -sarja
-  koskaan.'
+excerpt: Miten kuvailisit sodan sitä näkemättömälle?
+cover:
+  src: /uploads/2015/02/this_war_of_mine.jpg
+  alt: This War of Mine 
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/1381/this-war-of-mine
-slug: this-war-of-mine
-title: 'Arvio: This War of Mine - tarina tähtäimen toiselta puolen'
-wordpress_id: 1381
+title: This War of Mine - tarina tähtäimen toiselta puolen
 categories:
-- Arvostelut
-- Selviytymispelit
-tags:
-- Sota
-- Uutuudet
+- Arviot
 ---
-
-[![This War of Mine](http://www.pelilegacy.fi/wp-content/uploads/2015/02/this_war_of_mine.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/this_war_of_mine.jpg)
-
-[ingressi]Miten kuvailisit sodan sitä näkemättömälle?[/ingressi]
 
 Oletko kuullut sitä lausahdusta? Sota, sota ei koskaan muutu. Tämä on Fallout-sarjan kuolemattomaksi tekemä sanonta, jota on käytetty jo siinä määrin, että sen merkitys on haalistunut läpikuultavaksi ja ponnettomaksi. Siitä huolimatta **11bit Studiosin** tekemään _This War of Mine_ -peliin se sopii paremmin kuin useaan muuhun interaktiiviseen tuotteeseen pitkään aikaan. This War of Mine saavuttaa tehokkaasti sen minkä lupaa: se saa meidät kiitollisiksi siitä, että arjessamme meillä on katto päämme päällä, ja yöt saamme nukkua ehjien seinien sisällä – mikä tärkeintä, nukkua. This War of Mine tarkastelee sotaa universaalina ja muuttumattomana tilana: kuin sateena, jonka pilvi ei koskaan siirry pois yltäsi.
 
@@ -28,7 +17,7 @@ Tavallaan juuri sade on erinomainen vertauskohta pelille. This War of Mine on po
 
 Pelin narratiivin sydän on hahmojen jokapäiväisen elossapysymistaistelun seuraaminen. Ohjaat muutamaa nälkää näkevää, sairasta ja väsynyttä siviiliä. Kerronta on jätetty ohueksi eikä sitä hierota pelaajan kasvoihin, vaan kaikki tarinat syntyvät pelaajan omasta mielikuvituksesta. Mitä Katia ajattelee? Onko hän todellakin vihainen Borikselle? Jos on, mitä niin pahaa Boris teki. Olen varma, ettei Roman kertonut kaikkea mitä viimeöisellä reissulla naapurustoon tapahtui – itse asiassa en voi edes luottaa täysin Romaniin. Luotan mieluummin Emiliaan. Erikoisesti yksi pelin vetoavimmista puolista on eräänlaisessa metapelaamisessa, omien tarinoiden luonnissa.
 
-[![This War of Mine - Roman](http://www.pelilegacy.fi/wp-content/uploads/2015/02/Roman.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/Roman.jpg)
+[![This War of Mine - Roman](/uploads/2015/02/Roman.jpg)](/uploads/2015/02/Roman.jpg)
 
 Pelin osalta This War of Minea voisi leikkisästi luonnehtia _The Walking Deadin_, _The Simsin_ ja _Don’t Starven_ sukulaiseksi, mutta näin selkeät vertaukset eivät tee pelille oikeutta. This War of Mine on oma uniikki tuotteensa. Valintoja pelin kuluessa tulee eteen paljon eivätkä ne ole millään moraalisella asteikolla helppoja. Autanko oveen koputtavaa naishenkilöä, vaikka en tiedä onko hän huijari? Peli sisältää tusinoittain mustavalkoisia valintatilanteita, joiden kautta pelaajan harkinta- ja empatiakykyä koetellaan.
 
@@ -38,9 +27,9 @@ Vaikka Pogoren on selkeästi mallinnettu itäisen Euroopan kaupunkien pohjalta, 
 
 Mikäli hahmojen taustoihin ei tutustu, jäävät ne kovin etäisiksi. Pelin kamera ei anna tarkentaa tarpeeksi lähelle, jolloin lopullinen yhteys hahmoihin jää mielikuvituksen varaan. Tämä voi osaltaan karkottaa monia pelaajia -- etenkin sellaisia, jotka ovat uusien seikkailupelien kautta tottuneet perinteisempään valmiiksi esitettyyn kerronnan muotoon.
 
-[![This War of Mine - Raided](http://www.pelilegacy.fi/wp-content/uploads/2015/02/raided-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/raided.jpg)
+[![This War of Mine - Raided](/uploads/2015/02/raided.jpg)](/uploads/2015/02/raided.jpg)
 
-[pullquote]FUCK. THE. WAR?[/pullquote]
+<div class="pullquote">FUCK. THE. WAR?</div>
 
 Koska objektiivisia peliarvioita ei ole olemassakaan, voin hyvillä mielin jatkaa vielä This War of Minen merkityksistä. Suojaraunioiden ulkopuolella lukee valkoisella maalilla painokas ilmaisu “_Fuck the War !_”. Silti keskeisenä pyrkimyksenä ei nähdäkseni ole niinkään sodanvastaisen sanoman levittäminen kuin tietoisuuden lisääminen sodan kauheuksia esittelemällä. Nämä menevät osittain päällekkäin, mutta näen pelin varsinaisena tarkoituksena pyrkimyksen esitellä sodan vaikutuksia pelaajalle uudessa ja vieraassa kontekstissa. Sotaa käsittelevissä peleissä on totuttu näkemään asiat tähtäimen toiselta puolen: sen henkilön silmin, joka liipaisinta painaa. Koteja tuhoutuu, ruokaa ja vettä ei ole nimeksikään, kylmyys jäykistää sormet ja vierustoverit voivat pettää koska tahansa. Se mitä sotapeleissä näemme, on glorifioitu kiiltokuva, joka vastaa suurinpiirtein sotilaiden näkemystä tulevista tapahtumista heidän marssiessa kohti ensimmäisen maailmansodan rintamia. Vertaa saman sodan rintamalta saapuneiden sotilaiden ilmeitä ennen ja jälkeen: muutos on suuri.
 

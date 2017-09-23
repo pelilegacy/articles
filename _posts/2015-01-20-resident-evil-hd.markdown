@@ -1,28 +1,15 @@
 ---
-author: toimitus
-comments: true
+author: jonniestola
 date: 2015-01-20 14:10:54+00:00
-excerpt: Montako uusversiota voi pelistä tehdä? Selviytymiskauhufanien sydämiin kiteytyneen
-  Resident Evilin tapauksessa lisä ei kartanon perustuksia romahduta. Lue Jonni Estolan
-  arvio.
+excerpt: Selviytymiskauhufanien sydämiin kiteytyneen Resident Evilin tapauksessa lisä ei kartanon perustuksia romahduta.
+cover:
+  src: /uploads/2015/01/resident_evil_hd.jpg
+  alt: Resident Evil 
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/1319/resident-evil-hd
-slug: resident-evil-hd
-title: 'Arvio: Liki 20-vuotinen Resident Evil viettelee yhä'
-wordpress_id: 1319
+title: Liki 20-vuotinen Resident Evil viettelee yhä
 categories:
-- Arvostelut
-- Kauhu
-- Toiminta
-tags:
-- Capcom
-- Resident Evil
-- Uusversio
+- Arviot
 ---
-
-[![Resident Evil HD](http://www.pelilegacy.fi/wp-content/uploads/2015/01/resident_evil_hd-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/resident_evil_hd.jpg)
-
-[ingressi]Montako uusversiota voi pelistä tehdä? Selviytymiskauhufanien sydämiin kiteytyneen Resident Evilin tapauksessa lisä ei kartanon perustuksia romahduta.[/ingressi]
 
 Tunnustan, olen suuri _Resident Evil_ -sarjan fani. Saadessani tuoreen **Resident Evil HD:n** Steamin kirjastooni olin hyvin innoissani, sillä omistan jo sarjasta osat 1-6, joista olen nauttinut täysin rinnoin. Ainoan poikkeuksen tekee Resident Evil 5, josta tekoäly teki hankalan pelattavan. Asennettuani **Capcomin** uudelleenmasteroiman ensimmäisen Resident Evilin yllätyin erityisesti siitä, miten hienosti jo pelin alku oli toteutettu.
 
@@ -34,12 +21,10 @@ Graafisesti varsinkin täysillä asetuksilla peli näyttää upealta. Gamecuben 
 
 Ensimmäistä kertaa peliä käynnistäessäni pelkäsin, että tuleeko pelaamisesta yhtään mitään, jos siinä on vanhan liiton _tankkikontrollit._ Uusitut kontrollit ovat upeat. Peliä pystyy myös pelaamaan näppäimistöllä ja hiirellä, mikä tuo hieman uutta säväystä Resident Eviliin. Xbox 360:n ohjaimella pelatessani huomasin, miten hyvin ohjain toimi -- termi “plug & play” toimii tässäkin tilanteessa ja ohjaustapaa voi vaihtaa parempaan lennosta.
 
-[![Vaikeusasteiden valinta](http://www.pelilegacy.fi/wp-content/uploads/2015/01/resident_evil_hd_vaikeusasteet-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/resident_evil_hd_vaikeusasteet.jpg)
+[![Vaikeusasteiden valinta](/uploads/2015/01/resident_evil_hd_vaikeusasteet.jpg)](/uploads/2015/01/resident_evil_hd_vaikeusasteet.jpg)
 
 Pelin vaikeustasosta mainittakon, että virheet kostautuvat ikävästi, mikä on tyypillistä Resident Eviliä. Vaikeustason valinta olisi voitu tehdä paremmaksi lisäämällä vanhat valikot näille. Vaikeustasoiksi löytyvät seuraavat hämmentävät valinnat: “Like climbing a mountain. Fullfilling, but takes a lot of work”, “Like going on a hike. Good exercise, but not too strenuous.” sekä “Like taking a walk. You can relax and enjoy yourself.”.
 
 Musiikkiin ja äänimaailmaan on panostettu enemmän luoden peliin todellisen kauhumeiningin. Pelatessani 7.1 Surround -kuulokkeilla pääsin todelliseen fiilikseen zombien örähtäessä tai muuta hasardia tapahtuessa. Myös ääninäyttelyä on paranneltu alkuperäisestä, mikä on omasta mielestäni hyvä asia. Hahmojen puhe oli hieman tönkköä alkuperäisessä versiossa, mutta tässä se sointuu paremmin hahmon persoonaan.
 
 Yhteenvetona peli on erinomainen uusversiointi, josta on suositeltava lähteä liikkeelle sarjaan tutustuttaessa. PC-version kanssa samaan aikaan ilmestyvät myös konsoliversiot molempien nykyisten sukupolvien laitteille, joten sohvapelaajatkaan eivät jää huvista paitsi.
-
-**Teksti ja kuvat:** Jonni Estola

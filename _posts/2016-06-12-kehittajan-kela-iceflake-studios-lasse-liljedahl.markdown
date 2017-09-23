@@ -1,41 +1,25 @@
 ---
-author: toimitus
-comments: true
+author: nikoheikkila
 date: 2016-06-12 12:01:18+00:00
-excerpt: Katso sunnuntain ratoksi intensiivinen pilkkihetkemme Iceflake Studios Oy:n
-  Lasse Liljedahlin kanssa tai lue haastattelun parhaimmat palat.
+excerpt: Miten modien parista päädytään kehittämään pelejä? Mitä hulluilla suomalaisilla on vielä antaa maailmalle pelien saralla?
 layout: post
-link: https://www.pelilegacy.fi/videot/2818/kehittajan-kela-iceflake-studios-lasse-liljedahl
-slug: kehittajan-kela-iceflake-studios-lasse-liljedahl
 title: 'Kehittäjän kela: Iceflake Studios ja Lasse Liljedahl'
-wordpress_id: 2818
 categories:
 - Lähetykset
 - Videot
 post_format:
 - Video
-tags:
-- Battlefield
-- Ice Lakes
-- Modaaminen
-- Pelinkehitys
-- Pro Pilkki
-- Suomi
-- Tampere
-- Virtuaalitodellisuus
 ---
 
-[ingressi]Miten modien parista päädytään kehittämään pelejä? Mitä hulluilla suomalaisilla on vielä antaa maailmalle pelien saralla?[/ingressi]
+<div class="embed">
+    <iframe src="https://www.youtube.com/embed/nBZFYjS_jlg" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Viime kuussa toimituksemme avasi jälleen majatalonsa ovet ja toivotti haastatteluun tervetulleeksi tamperelaisen _Iceflake Studios Oy:n_ toimitusjohtaja **Lasse Liljedahlin**. Lassen kanssa otimmekin kairat oitis käteen ja keskustelimme avannon äärellä mm. pelien modaamisesta, _Ice Lakes_ -pelin suomalaisista teemoista ja pelin saamasta myönteisestä vastaanotosta. Myös Jonni piti pelistä aiemmin julkaisemassamme [arviossa](https://www.pelilegacy.fi/arvostelut/2755/ice-lakes).
 
 Katso sunnuntain ratoksi intensiivinen pilkkihetkemme tai lue haastattelun parhaimmat palat alta.
 
-
-
 ## Haastattelu
-
-
 
 **Kauanko olette tehneet pelejä?**
 
@@ -61,7 +45,7 @@ Katso sunnuntain ratoksi intensiivinen pilkkihetkemme tai lue haastattelun parha
 
 – Fysiikoiden puolesta kaloissa on _ragdoll_-animaatiot, siima käyttäytyy vedessä realistisesti, veden vastukset otetaan huomioon ja sää vaikuttaa pelaamiseen kerryttämällä esimerkiksi sohjoa avantoon.
 
-[pullquote]Miten paljon kaksi saman genren peliä eroavat toisistaan riippuu vähän teemoista, mutta olemme tässä lähteneet siitä näkökulmasta, että yritetään ottaa globaalimpi ja modernimpi asenne kehitykseen.[/pullquote]
+<div class="pullquote">Miten paljon kaksi saman genren peliä eroavat toisistaan riippuu vähän teemoista, mutta olemme tässä lähteneet siitä näkökulmasta, että yritetään ottaa globaalimpi ja modernimpi asenne kehitykseen.</div>
 
 **Paljon yksityiskohtia. Se mikä itseäni positiivisesti yllätti oli, että jäätä pitää avannon pinnasta poistaa kauhan avulla.**
 
@@ -107,7 +91,7 @@ Katso sunnuntain ratoksi intensiivinen pilkkihetkemme tai lue haastattelun parha
 
 **LL:** Ehkä niin suuria liikkeitä ei tarvitse kuitenkaan tehdä.
 
-[pullquote]Virtuaalitodellisuuslaitteet ovat tätä päivää, ja pelistähän olemme kehittämässä myös mobiiliversiota, missä kalastus toimii laitetta heiluttelemalla.[/pullquote]
+<div class="pullquote">Virtuaalitodellisuuslaitteet ovat tätä päivää, ja pelistähän olemme kehittämässä myös mobiiliversiota, missä kalastus toimii laitetta heiluttelemalla.</div>
 
 **Pelissä on jo tuki Xboxin ja Steamin omille ohjaimille?**
 
@@ -152,11 +136,3 @@ Katso sunnuntain ratoksi intensiivinen pilkkihetkemme tai lue haastattelun parha
 **Olet itse yrityksenne toimitusjohtaja. Miten paljon osallistut luovaan prosessiin? Onko mukana jokin luova hullu tai nero pelisuunnittelijana?**
 
 **LL:** Näin pienissä pelifirmoissa (vajaa 10 henkeä) kukaan ei ole yhdessä tietyssä roolissa, vaan kaikki osallistuu kehitykseen jossain määrin. Olen itse tehnyt 3D-grafiikkaa ja animointia sekä kenttäsuunnittelua. Aloitin graafikkona ja se on ollut itselleni tärkeä ja läheinen aihe. Aina kun pääsen tekemään grafiikkaa, olen hyvin innoissani siitä. Pääsen samalla irti byrokratian pyörittämisestä.
-
-
-
-* * *
-
-
-
-Oletko pelinkehittäjä? Tule haastateltavaksi. Ota yhteyttä [toimitukseen](mailto:toimitus@pelilegacy.fi).

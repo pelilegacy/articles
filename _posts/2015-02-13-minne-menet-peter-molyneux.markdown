@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-02-13 18:03:57+00:00
 excerpt: Peter Molyneux'n ja 22Cans-studion Godus on joukkorahoitettu, mutta projekti
@@ -18,7 +18,7 @@ tags:
 - Peter Molyneux
 ---
 
-[![Peter Molyneux](http://www.pelilegacy.fi/wp-content/uploads/2015/02/peter_molyneux.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/peter_molyneux.jpg)
+[![Peter Molyneux](/uploads/2015/02/peter_molyneux.jpg)](/uploads/2015/02/peter_molyneux.jpg)
 
 [ingressi]Quo vadis, Peter?[/ingressi]
 

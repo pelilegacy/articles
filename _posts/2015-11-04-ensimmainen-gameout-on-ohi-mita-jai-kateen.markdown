@@ -24,7 +24,7 @@ tags:
 - Tapahtumat
 ---
 
-[![#GameOUT](http://www.pelilegacy.fi/wp-content/uploads/2015/11/gameout_article.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/11/gameout_article.jpg)
+[![#GameOUT](/uploads/2015/11/gameout_article.jpg)](/uploads/2015/11/gameout_article.jpg)
 
 [ingressi]Järjestimme 24.–25. lokakuuta Jyväskylän Veturitalleilla yli 24 tuntia kestäneen peleille pyhitetyn erikoislähetyksen. Missä onnistuimme? Mitä opimme? Mitä viikonlopusta jäi käteen?[/ingressi]
 
@@ -114,4 +114,4 @@ Haluaisitko sinä auttaa meitä seuraavan tapahtuman järjestämisessä? Lähet�
 
 Haaveenamme on järjestää #GameOUT-tapahtumia ainakin muutaman kerran vuodessa. Tulemme hiomaan konseptia kiinnostavampaan suuntaan ottamalla mukaan enemmän vieraita niin haastateltaviksi kuin pelaajiksi sekä pyrimme järjestämään sijainnin siten, että sinne on mielekästä tulla myös paikan päälle vierailemaan ja katsomaan mitä kulisseissa tapahtuu. Ehkä järjestämme samalla joitain turnauksia, joita voi seurata myös verkossa. Hankkiudu siis mukaan toimintaamme!
 
-[pullquote]GameON, GameOUT![/pullquote]
+<div class="pullquote">GameON, GameOUT!</div>

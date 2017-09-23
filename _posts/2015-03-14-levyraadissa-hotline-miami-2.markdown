@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-03-14 06:32:40+00:00
 excerpt: 'Syvän Floridan auringonlaskussa kukaan ei säästy elektroniselta ja rytmiseltä
@@ -23,7 +23,7 @@ Hotline Miami 2: Wrong Number -arvio julkaistaan poikkeuksellisesti kahdessa osa
 
 
 
-[![Levyarvio](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2_levyraati.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2_levyraati.jpg)
+[![Levyarvio](/uploads/2015/03/hotline_miami_2_levyraati.jpg)](/uploads/2015/03/hotline_miami_2_levyraati.jpg)
 
 [ingressi]Syvän Floridan auringonlaskussa kukaan ei säästy elektroniselta ja rytmiseltä tykistötulelta, jota Hotline Miami 2: Wrong Number -musiikkiraita tarjoaa.[/ingressi]
 
@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=qFfybn_W8Ak
 
 
 
-[pullquote]“Hotline Miami 2:n musiikillinen anti on edeltäjäänsä nähden hienovaraisempaa ja vivahteikkaampaa.”[/pullquote]
+<div class="pullquote">“Hotline Miami 2:n musiikillinen anti on edeltäjäänsä nähden hienovaraisempaa ja vivahteikkaampaa.”</div>
 
 Välimuotoja löytyy ensimmäisen osankin musiikkiraidalla esiintyneen **Scattlen** myötä, jonka kappale "Remorse" osuu vetävällä keskitemmollaan sinne iltapäivän laskevan auringon tienoille.
 

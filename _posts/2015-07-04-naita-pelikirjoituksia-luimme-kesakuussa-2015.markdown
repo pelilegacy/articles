@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-07-04 10:45:23+00:00
 excerpt: Viime viikot ovat kuluneet suureksi harmiksi sateisen koleassa säässä, joten
@@ -26,7 +26,7 @@ tags:
 - The Witcher 3
 ---
 
-[![Näitä pelikirjoituksia luimme tässä kuussa](http://www.pelilegacy.fi/wp-content/uploads/2015/02/pelikirjoitukset.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/pelikirjoitukset.png)
+[![Näitä pelikirjoituksia luimme tässä kuussa](/uploads/2015/02/pelikirjoitukset.png)](/uploads/2015/02/pelikirjoitukset.png)
 
 Viime viikot ovat kuluneet suureksi harmiksi sateisen koleassa säässä, joten allekirjoittaneella oli hyvin aikaa penkoa RSS-syötteitä ja Twitter-keskusteluita löytääkseen kesäkuun parhaita peliaiheisia kirjoituksia muista medioista. Vähemmän puhetta, enemmän linkkejä!
 

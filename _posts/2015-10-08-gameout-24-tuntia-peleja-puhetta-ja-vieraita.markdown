@@ -21,7 +21,7 @@ tags:
 - Pelikulttuuri
 ---
 
-[![#GameOUT](http://www.pelilegacy.fi/wp-content/uploads/2015/10/gameout_v1.jpg)](https://www.facebook.com/events/1023055127757565/)
+[![#GameOUT](/uploads/2015/10/gameout_v1.jpg)](https://www.facebook.com/events/1023055127757565/)
 
 Talveksi kääntyvää syksyä, Suomen sykkivää pelialaa ja nimeltä mainitsemattomien pakanajumaluuksien voimaannuttavaa läsnäoloa juhlistetaan **Peli Legacyn** ainutlaatuisessa 25(*) tuntia kestävässä erikoislähetyksessä **24. lokakuuta klo 16 alkaen**.
 

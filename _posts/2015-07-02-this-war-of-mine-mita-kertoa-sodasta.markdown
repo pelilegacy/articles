@@ -20,7 +20,7 @@ tags:
 - This War of Mine
 ---
 
-[![Vieraskynä](http://www.pelilegacy.fi/wp-content/uploads/2015/06/vieraskyna_this_war_of_mine.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/06/vieraskyna_this_war_of_mine.jpg)
+[![Vieraskynä](/uploads/2015/06/vieraskyna_this_war_of_mine.jpg)](/uploads/2015/06/vieraskyna_this_war_of_mine.jpg)
 
 [ingressi]Antti Ylä-Rakkola pohtii, mikä on viime vuonna ilmestyneen This War of Mine -pelin suhde todellisen maailman sotiin.[/ingressi]
 
@@ -30,7 +30,7 @@ Kunnioitettavista lähtökohdista ja onnistuneesti luodusta tunnelmasta huolimat
 
 Kehittäjiä [inspiroivat](http://techraptor.net/content/art-war-mine-interview-11-bit-studios) sotaselviytymispelin tekoon Sarajevon piirityksestä, muista sodista kootut muistelmat ja selviytymistarinat sekä kuinka ihmiset maksoivat sodasta suurimman hinnan nimenomaan henkisellä tasolla. Pelissä painottuukin ohjattavien siviilien henkilökohtaiset kokemukset, jotka avautuvat päiväkirjamerkintöinä sekä erilaisina reaktioina vastoinkäymisiin, stressiin ja naapurien avunpyyntöihin. Yleisempi käsitys sodasta ja sen etenemisestä jää sen sijaan hämäräksi. Pelaaja voi radiolähetysten avulla saada tietoja esimerkiksi kahvin saatavuuden vähenemisestä ja joskus pääsy tiettyihin kaupunginosiin estyy taisteluiden takia, mutta nämä tuntuvat lähinnä satunnaisilta tapahtumilta, jotka eivät kytkeydy mihinkään laajempaan kehitykseen sodassa.
 
-[pullquote]_This War of Mine_ tuntuu kovasti korostavan itseään pelinä, jolla on sanoma.[/pullquote]
+<div class="pullquote">_This War of Mine_ tuntuu kovasti korostavan itseään pelinä, jolla on sanoma.</div>
 
 _This War of Minen_ osapuolia ovat fiktiivisen Pogorenin valtion armeija ja sitä vastustava kapinallisryhmittymä. Juuri mitään taustoja sodalle ei kerrota. Millainen valtio Pogoren on, millaisia ovat sen ihmiset? Millainen on hallitus, jota vastaan on noustu kapinaan? Millaisia kapinalliset ovat ihmisinä ja mitä motiiveja heillä on? Liittyykö sotaan epäsuorasti joitain muitakin osapuolia Miljöön epämääräisyys paitsi ohjaa huomiota yksilöiden kokemuksiin, myös antaa pelille tietyn filosofisen ja yleismaailmallisen ilmeen. Pelin realismikin on universaalia: kahvin ja tupakan muovautuminen valuutaksi ja ruokaa ryöstävien rikollisjengien ilmeneminen resurssien vähetessä ovat ilmiöitä, jotka voisivat olla läsnä melkein missä tahansa pitkittyneessä nykypäivän kaupunkisodassa. 11 bit studiosin kehittäjät kertovatkin pyrkineensä poistamaan pelistä kaikki poliittiset merkitykset ja kuvaamaan pelissä eräänlaista [universaalia sotakokemusta](http://www.rockpapershotgun.com/2014/10/25/this-war-of-mine-interview/).
 
@@ -50,7 +50,7 @@ Poliittiset merkitykset eivät siis välttämättä peitä alleen sotakokemusten
 
 Esittämällä sodat historiallisessa ja sosiaalisessa kontekstissa havaitsemme myös, ettei sota saavu ihmisten keskuuteen kuin hallitsematon sääilmiö, vaan sen syitä ja dynamiikkaa on mahdollista ymmärtää ainakin osittain. Hyvässä tapauksessa opimme virheistä. Ehkä sodan kulkuun voi jopa vaikuttaa -- ihanteellisessa tapauksessa pahimpia skenaarioita voi ehkäistä. Meidän ei tarvitse alistua kosmisten myrskyjen heiteltäväksi ja koota itsemme vain tullaksemme lyödyksi maahan uudelleen.
 
-[pullquote]Ehkä _This War of Mine _onnistuu laajentamaan ihmisten käsitystä sodasta, mutta tällä käsityksellä on riski kadota fiktiivisten raunioiden ja uhrien mukana pelin päättyessä.[/pullquote]
+<div class="pullquote">Ehkä _This War of Mine _onnistuu laajentamaan ihmisten käsitystä sodasta, mutta tällä käsityksellä on riski kadota fiktiivisten raunioiden ja uhrien mukana pelin päättyessä.</div>
 
 Tietenkin pelin tekeminen todellisen konfliktin pohjalta on haastavampaa. Se vaatii lisää käsikirjoitustyötä ja tutkimusta, koska tekijöillä on myös eettinen vastuu historialliseen tarkkuuteen. Tekijöiltä vaaditaan myös rohkeutta tarttua lähtökohtaisesti provosoivaan aiheeseen etenkin sodan arpien ollessa tuoreessa muistissa. Ehkä haastavuuden taustalla on myös yleisempi pelien luonne: pelintekijä joutuu aina rakentamaan maailman sääntöineen ja lakeineen, joiden ensisijainen tehtävä on mahdollistaa pelattavuus. Tämän ja todellisuuden yhdistäminen onnistuneesti on haastavaa. Esimerkiksi Colossal Orderin pelisuunnittelija **Karoliina Korppoo** on kertonut, [millä tavoin realismia on Cities: Skylines -pelissä jouduttu taivuttamaan pelattavuuden ehdoilla](http://areena.yle.fi/1-1917764). Muun muassa uusiutuvasta energiasta on tehty huomattavasti tehokkaampaa, jotta se olisi varteenotettava vaihtoehto hiilivoimalle. Uusiutuvan energian positiivisia ympäristövaikutuksia ei taas voi kunnolla mallintaa ja esittää pelaajalle mittakaavan rajoittuessa yksittäisen kaupungin energiaratkaisuihin.
 

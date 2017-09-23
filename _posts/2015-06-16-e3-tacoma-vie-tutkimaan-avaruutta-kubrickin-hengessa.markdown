@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-06-16 06:44:30+00:00
 excerpt: 'Microsoftin E3-lehdistötilaisuuden pelijulkistusten huumassa yksi peli vei

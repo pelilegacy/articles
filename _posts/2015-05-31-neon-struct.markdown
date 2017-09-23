@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-05-31 07:00:14+00:00
 excerpt: NEON STRUCT on tärkeitä kannanottoja tekevä poliittinen trilleri, jonka juuret
@@ -24,7 +24,7 @@ tags:
 
 
 
-[![Neon Struct](http://www.pelilegacy.fi/wp-content/uploads/2015/05/neon_struct.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/05/neon_struct.jpg)
+[![Neon Struct](/uploads/2015/05/neon_struct.jpg)](/uploads/2015/05/neon_struct.jpg)
 
 [ingressi]Sota on rauhaa, vapaus orjuutta ja tietämättömyys voimaa.[/ingressi]
 
@@ -36,7 +36,7 @@ Halusta kohdistaa osaaminen pienimuotoisempiin ja enemmän itsensä näköisiin 
 
 Irrational Gamesin perintö voi siis hyvin tässä maailmassa, vaikka studio itse suljettiin suunnitteluguru **Ken Levinen** toimesta alkuvuodesta 2014. Pittmanin veljesten luomalla _NEON STRUCTilla_ on harteillaan menneisyyden kevyehkö taakka – miten AAA-kehittäjästä siirrytään indien maailmaan? Erinomaisin tuloksin, jos minulta kysyt.
 
-[![Neon Struct](http://www.pelilegacy.fi/wp-content/uploads/2015/05/neon_struct_1.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/05/neon_struct_1.jpg)
+[![Neon Struct](/uploads/2015/05/neon_struct_1.jpg)](/uploads/2015/05/neon_struct_1.jpg)
 
 _NEON STRUCT_ on pelaajan silmien takaa kuvattu hiiviskely, jonka teemat ovat tuttuja ja ajankohtaisia. Brittiläisen kirjailija **George Orwellin** (1903–1950) _Vuonna 1984_ -romaanin hengessä pelaaja tulee kukistaneeksi NEON-yhtiön lanseeraaman globaalin salakuunteluohjelman samalla nimensä puhdistaen. Loppu ei osoittaudu niin riemun täyteiseksi kuin edellä kirjoitettu lause saattaisi antaa ymmärtää. Kaukana ei myöskään kuljeta amerikkalaisen kirjailija **Philip K. Dickin** (1928–1982) vinksahtaneista uhkakuvista, joissa asiat saavat uusia merkityksiä sen mukaan, mitä syvemmin niitä tarkastellaan.
 
@@ -48,13 +48,13 @@ Vain huono vakooja tepastelee rakennukseen etuovesta, mitä korostaa sekin asia,
 
 Jos todellakin haluat valita etuoven, ota mukaasi katumarkkinoilta ostettavia ruiskeita, jotka esimerkiksi parantavat Clearyn juoksunopeutta tai tekevät hänet kokonaan näkymättömäksi. Kuolema koittaa usein, mikä pakottaa harkitsemaan uusia taktiikoita. Kyseessä ei kuitenkaan ole vaikea peli: siitä huolehtii taskukellon tarkkuudella toimiva automaattitallennus.
 
-[pullquote]“NEON STRUCT on pelaajan silmin kuvattu hiiviskely, jonka teemat ovat tuttuja ja ajankohtaisia.”[/pullquote]
+<div class="pullquote">“NEON STRUCT on pelaajan silmin kuvattu hiiviskely, jonka teemat ovat tuttuja ja ajankohtaisia.”</div>
 
 Jokaisen tehtävän lopussa Clearyn vakoojan taidot punnitaan, ja niille annetaan arvosana F:stä A:han. Paras arvosana saavutetaan toimimalla huomaamatta, väkivallattomasti sekä pitkin kenttää ripotellut geokätköt avaten. Kätköistä saa myös hyödyllisiä lätkiä, joita heittelemällä voi harhauttaa vartijat katsomaan toiseen suuntaan. En kokenut tehtävien pisteytystä kovin tärkeänä osana pelikokemusta, mutta perfektionisteille järjestelmä toimii moitteetta antaen pisteitä yksinomaan hyvästä suorittamisesta eikä pelimekaniikoiden tahallisesta rikkomisesta.
 
 Lukot, hälyttimet, turvakamerat ja muut apparaatit ohitetaan minipelissä, joka on klooni Atarin kuuluisasta _Breakout_-pelistä. Hauskana viittauksena murtautumiseen käytettyä työkalua kutsutaan “Break-In” -työkaluksi. Verkkoon murtautuminen palikoita yksitellen hävittämällä toimii paremmin kuin esimerkiksi kliseeksi muodostunut tiirikointi tai numeroitujen liuskojen pyörittely.
 
-[![Neon Struct](http://www.pelilegacy.fi/wp-content/uploads/2015/05/neon_struct_2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/05/neon_struct_2.jpg)
+[![Neon Struct](/uploads/2015/05/neon_struct_2.jpg)](/uploads/2015/05/neon_struct_2.jpg)
 
 Ulkoasua sekoittavan filmikohinan ja väriaberraation käyttämiselle on vaikea löytää perusteita, mutta _NEON STRUCT_ ei toisaalta muutu rumaksi, vaikka ne kytkisi asetuksista pois. Pelkistettyihin tekstuureihin lisätyt varjostukset ja valaistukset ovat ennen kaikkea näyttäviä, mutta tukevat myös pelaamista: varjoisia alueita on hyödynnettävä, mikäli aikoo menestyä. Alueen saa tarvittaessa pimennettyä kokonaan erikoisella antivalokranaatilla, joka nimestäänkin päätellen synnyttää räjähdyksen yhteydessä ympärilleen pimeyttä.
 
@@ -66,7 +66,7 @@ Suurin yksittäinen mielihyvän tuottaja _NEON STRUCTissa_ on sen musiikki. Elek
 
 _NEON STRUCTin_ hahmot esitetään kadulla kasvottomina ihmisinä tai videopuheluissa ääriviivapiirroksina. Erityisesti sivuhahmot ovat suureksi osaksi persoonattomia non-entiteettejä – orjia koneiston rattaissa ja autuaan tietämättömiä ympäröivästä tarkkailusta. Poikkeuksen kaavaan tekevät kadunkulmissa seiniin nojailevat punkkarit, joiden läsnäolo on erottamaton vastavoima osana fiktiivisen poliisivaltion katukuvaa.
 
-[pullquote]“Kävellessä läpi neonhehkuisen betonilähiön musiikkia kuunnellen voi vahviten aistia pelin mystisen hekuman.”[/pullquote]
+<div class="pullquote">“Kävellessä läpi neonhehkuisen betonilähiön musiikkia kuunnellen voi vahviten aistia pelin mystisen hekuman.”</div>
 
 Cleary on oiva esimerkki yhtäaikaisesti vahvasta, mutta haavoittuvaisesta ihmisestä. Ensimmäisen tehtävän päätteeksi hän joutuu esimiehensä tytöttelemäksi, johon voi vastata asiankuuluvalla huomautuksella. Hieman tämän jälkeen Cleary luottaa liikaa vanhoihin ystäviinsä joutuen heidän pettämäksi. Nämä kaksi helposti ohimenevää seikkaa tuovat paljon syvyyttä Clearyn hahmoon ja viime kädessä hänen perimmäiset motiivinsa linkittyvät pelaajan tekemien valintojen kanssa.
 

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-03-26 08:43:11+00:00
 excerpt: Hotline Miami 2 -arvion toisessa osassa ruoditaan itse peliä. Jatko-osassa
@@ -27,7 +27,7 @@ Hotline Miami 2 -arvion toisessa osassa ruoditaan itse peliä. Lue myös arviopa
 
 
 
-[![Hotline Miami 2](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2.jpg)
+[![Hotline Miami 2](/uploads/2015/03/hotline_miami_2.jpg)](/uploads/2015/03/hotline_miami_2.jpg)
 
 [ingressi]Hotline Miami 2: Wrong Numberissa kaikki on edeltäjäänsä suureellisempaa aina mutkikkaasta tarinasta pitempiin tasoihin saakka. Mutta miksi?[/ingressi]
 
@@ -53,7 +53,7 @@ Ei ole hauskaa kuolla ruudun ulkopuolelta tulevaan haulikonlaukaukseen, kun on e
 
 Kuolema on halpamainen ystävä, ja Wrong Numberissa se perii velkansa takaisin moninkertaisilla koroilla.
 
-[![Hotline Miami 2](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2_dialogue.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2_dialogue.jpg)
+[![Hotline Miami 2](/uploads/2015/03/hotline_miami_2_dialogue.jpg)](/uploads/2015/03/hotline_miami_2_dialogue.jpg)
 
 Ensimmäisen Hotline Miamin tarina oli kevyestä käsikirjoituksesta huolimatta kiinnostavaa arvuuttelua tappajan oikeasta henkilöllisyydestä, missä pelaaja toimi eräänlaisena meediona tai välikätenä toteuttaessaan tuntemattomien puhelinsoittojen kautta tilattuja veritekoja.
 
@@ -69,7 +69,7 @@ Tuhovoimaisin puolestaan on pelin kansikuvaakin koristava entinen sotilas, jonka
 
 Kiinnostavin hahmoista on näyttelijä Matin Brown, lavanimeltään _The Pig Butcher_, jolla on vaikeuksia erottaa faktaa fiktiosta, mikä johtaa hahmon karuun kohtaloon myöhemmin pelissä. The Pig Butcherin hahmo toimii eräänlaisena mikrokerrontana pelistä. Käsitämmekö todella edes, mitä on tapahtumassa?
 
-[![Hotline Miami 2](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2_comic.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/hotline_miami_2_comic.jpg)
+[![Hotline Miami 2](/uploads/2015/03/hotline_miami_2_comic.jpg)](/uploads/2015/03/hotline_miami_2_comic.jpg)
 
 Ennen kaikkea Wrong Number tiedostaa olevansa jatko-osa eikä häpeile peitellä sitä.
 
@@ -77,7 +77,7 @@ Ennakkokritiikissä tartuttiin alun elokuvan kuvauksissa tapahtuvaan kohtaukseen
 
 Tarinan kannalta merkityksettömän kohtauksen suurin virhe on sen sijoittaminen pelin alkuun ennen kuin edes hahmoihin on päästy käsiksi, jolloin se on kenties paras esimerkki tarpeettoman väkivallan troopista. Tämän voi todeta, vaikka peli on muutoinkin täynnä raajojen katkomisia ja päiden irti leikkauksia, joilla pelihahmojen psykoottisia edesottamuksia alleviivataan. Herää kysymys miksi kohtaus edes täytyi laittaa mukaan peliin, kun sen voi kuitenkin ohittaa?
 
-[pullquote]“Harmillista tosin on, että tekijöiden suuret visiot purkavat sen kuumeisen ja surrealistisen taianomaisuuden, joka ensimmäistä osaa pelatessa vallitsi.”[/pullquote]
+<div class="pullquote">“Harmillista tosin on, että tekijöiden suuret visiot purkavat sen kuumeisen ja surrealistisen taianomaisuuden, joka ensimmäistä osaa pelatessa vallitsi.”</div>
 
 Hotline Miami 2: Wrong Number yrittää kovasti olla kiivaan poliittinen peli ottaessaan brutaalin värikkäine tyylikeinoineen vahvasti kantaa ihmisten mediankulutukseen. Rönsyilevä toteutus kuitenkin unohtaa, että ensimmäisen osan viehätyksen perusteena oli puhdas -- joskin buginen -- ongelmanratkaisu loputtomilla uusintayrityksillä. Jatko-osan kannalta nämä ideat on vesitetty uhraamalla kaikki potentiaali suuria tavoittelevalle tarinalle.
 

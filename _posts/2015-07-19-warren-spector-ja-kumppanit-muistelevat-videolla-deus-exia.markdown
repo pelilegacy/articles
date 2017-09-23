@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-07-19 10:26:36+00:00
 excerpt: Warren Spector, Sheldon Pacotti ja Chris Norden palaavat 15 vuotta vanhan
