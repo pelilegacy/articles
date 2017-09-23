@@ -3,7 +3,7 @@ author: nikoheikkila
 date: 2014-02-13 16:03:45+00:00
 excerpt: Pienistä onnettomista sattumuksista huolimatta The Wolf Among Usin toinen episodi luo hyvän pohjan jatkolle ja pelaajat voivat jo hyvää vauhtia kehitellä omia hypoteeseja murhaajan henkilöllisyydestä.
 cover:
-  src: /uploads/2014/02/wolf_among_us-300x300.png
+  src: /uploads/2014/02/wolf_among_us.png
   alt: The Wolf Among Us
 layout: post
 title: 'Arvio: The Wolf Among Us laittaa pelaajan miettimään tarkasti valintojensa

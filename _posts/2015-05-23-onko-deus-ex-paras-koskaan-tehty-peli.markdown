@@ -1,28 +1,15 @@
 ---
 author: nikoheikkila
-comments: true
 date: 2015-05-23 10:00:17+00:00
 excerpt: Ei välttämättä, mutta mikä tekee pelistä parhaan koskaan?
+cover:
+  src: /uploads/2015/04/deus_ex.jpg
+  alt: Deus Ex
 layout: post
-link: https://www.pelilegacy.fi/kolumnit/1807/onko-deus-ex-paras-koskaan-tehty-peli
-slug: onko-deus-ex-paras-koskaan-tehty-peli
 title: Onko Deus Ex paras koskaan tehty peli?
-wordpress_id: 1807
 categories:
 - Kolumnit
-tags:
-- Deus Ex
-- Eidos Interactive
-- Ion Storm
-- John Walker
-- Looking Glass
-- Niko Nirvi
-- Rock Paper Shotgun
 ---
-
-
-
-[![Deus Ex – paras peli koskaan?](/uploads/2015/04/deus_ex-1200x675.jpg)](/uploads/2015/04/deus_ex.jpg)
 
 [Betteridgen otsikoinnin lain](https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines) mukaan mihin tahansa kysymysmerkkiin päättyvään otsikkoon voidaan vastata kieltävästi. Jos unohdamme sellaisen pykälän hetkeksi ja pohdimme, onko **Deus Ex** paras koskaan tehty peli? Puhutaan otsikon sanavalinnassa nimenomaan peleistä välittämättä siitä, ilmestyivätkö ne konsoleille, mobiililaitteille, tietokoneelle, kaikille vaiko vain osalle edellä mainituista.
 
@@ -40,19 +27,11 @@ Eräässä tarinan avainkohtauksessa päähahmo JC Dentonin on pelastettava velj
 
 Tässä kohtaa pelin skriptattu älyttömyys muodostuu Walkerin mukaan todelliseksi ongelmaksi.
 
-
-
-<blockquote>Much as how I was accused of murder for walking through the wrong door at the start, here I was without a sibling because I’d taken the sensible route out of the hotel once I’d assured Paul’s safe exit. Come on, scripting! How can you not have seen that as a secure route for Paul’s life? Sure, if I’ve left him in a building full of armed lunatics – as I so cowardly did in 2000 – then yes, he’d be dead. But this is stupid.</blockquote>
-
-
+> Much as how I was accused of murder for walking through the wrong door at the start, here I was without a sibling because I’d taken the sensible route out of the hotel once I’d assured Paul’s safe exit. Come on, scripting! How can you not have seen that as a secure route for Paul’s life? Sure, if I’ve left him in a building full of armed lunatics – as I so cowardly did in 2000 – then yes, he’d be dead. But this is stupid.
 
 Toisena outoutena Hong Kongissa Maggie Chow'n asunnolla voi löytää pelin tehokkaimman lyömäaseen, Dragon's Tooth -miekan, ennen kuin narratiivi on edes esitellyt sitä. Tällaisten ongelmien todennäköisyys kasvaa usein lineaarisesti pelaajalle suodun vapauden lisääntyessä. Deus Ex on peli, joka on hyvin helppo rikkoa.
 
-
-
-<blockquote>_My_ experience of playing Chow’s apartment was a bit silly. It was obvious she was lying, I accidentally found a secret base and stumbled on a sword I wasn’t yet looking for, and then got out before it could have a narrative impact on me.</blockquote>
-
-
+> My experience of playing Chow’s apartment was a bit silly. It was obvious she was lying, I accidentally found a secret base and stumbled on a sword I wasn’t yet looking for, and then got out before it could have a narrative impact on me.
 
 Näiden lisäksi pelaajan tekemiä valintoja erityisesti voimankäytön suhteen kommentoidaan hyvin tarkasti aina siihen saakka, kunnes JC Denton loikkaa tarinassa alun vastapuolta näytelleen National Secessionist Forces -järjestön puolelle. Tämän jälkeen peli ei välitä eteneekö pelaaja varjojen kautta väistäen vai kaiken vastarinnan tieltään lakaisten.
 
