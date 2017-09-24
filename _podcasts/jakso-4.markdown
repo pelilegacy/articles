@@ -1,7 +1,8 @@
 ---
 title: 'Jakso #4: Jouluspesiaali'
 excerpt: Toivotus hyvän joulun ja uuden vuoden tuodaan teille kera toimituksen joulun
-audio: /uploads/2016/12/jakso_004.mp3
+link: https://archive.org/details/pelilegacy_004
+audio: https://archive.org/download/pelilegacy_004/jakso_004.mp3
 ---
 Lähetyksessä Niko muistelee _Duke Nukem 3D:n_ joululisäosaa, Kim siivoaa joulun jälkiä _Viscera Cleanup Detailin_ parissa ja lopuksi palataan mentaalisesti vuoteen 1995, jolloin Miikka joulupukilta… PlayStation 1:n demolevyn sai.
 
