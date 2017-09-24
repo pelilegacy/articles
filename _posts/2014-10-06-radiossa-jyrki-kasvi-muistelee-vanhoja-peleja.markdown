@@ -1,33 +1,19 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2014-10-06 13:57:04+00:00
-excerpt: 'Yle Puheen Aamussa puhuttiin tänään monia epäilemättä kiinnostavasta aiheesta
-  pelikulttuurissa: videopelinostalgiasta. Mistä kaipuumme vanhoja pelejä kohtaan
-  nousee? Miksi nykyisin retropelit ovat suosiossa? Ohjelmassa asiaa pohti Vuoden
-  nörtiksi valittu poliitikko ja Tietoyhteiskunnan kehittämiskeskuksen tutkimus- ja
-  kehittämisjohtaja Jyrki Kasvi.'
+excerpt: 'Yle Puheen Aamussa keskusteltiin tänään monia epäilemättä kiinnostavasta aiheesta pelikulttuurissa: videopelinostalgiasta.'
+cover:
+  src: /uploads/2014/10/yle_puhe_jyrki_kasvi.jpg
+  alt: 'Jyrki Kasvi (Kuva: Yle)'
 layout: post
-link: https://www.pelilegacy.fi/ajassa/979/radiossa-jyrki-kasvi-muistelee-vanhoja-peleja
-slug: radiossa-jyrki-kasvi-muistelee-vanhoja-peleja
 title: 'Radiossa: Jyrki Kasvi muistelee vanhoja pelejä'
-wordpress_id: 979
 categories:
 - Ajassa
-tags:
-- Radio
-- YLE
 ---
 
-[caption id="attachment_982" align="aligncenter" width="600"][![Jyrki Kasvi](http://www.pelilegacy.fi/wp-content/uploads/2014/10/yle_puhe_jyrki_kasvi-600x337.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/10/yle_puhe_jyrki_kasvi.jpg) Kuva: YLE[/caption]
+Mistä kaipuumme vanhoja pelejä kohtaan nousee? Miksi nykyisin retropelit ovat suosiossa? Ohjelmassa asiaa pohti Vuoden nörtiksi valittu poliitikko ja Tietoyhteiskunnan kehittämiskeskuksen tutkimus- ja kehittämisjohtaja **Jyrki Kasvi** (kuvassa).
 
-**Yle Puheen Aamussa** puhuttiin tänään monia eittämättä kiinnostavasta aiheesta pelikulttuurissa: videopelinostalgiasta. Mistä kaipuumme vanhoja pelejä kohtaan nousee? Miksi nykyisin retropelit ovat suosiossa? Ohjelmassa asiaa pohti Vuoden nörtiksi valittu poliitikko ja Tietoyhteiskunnan kehittämiskeskuksen tutkimus- ja kehittämisjohtaja **Jyrki Kasvi** (kuvassa).
-
-
-
-<blockquote>Ensimmäisenä kaupallisena videopelinä pidetään vuonna 1971 julkaistua Computer Space -nimistä kolikkopeliä. Ensimmäinen hyvin menestynyt mikroprosessoripohjainen pelikonsoli oli Atari 2600, kolmannen sukupolven konsoleista tunnetuin on 8-bittinen Nintendo. Sittemmin 80- ja myös 90-luvun vaihteen konsoleista ja peleistä on tullut himoittuja keräilyesineitä. Moni myös emuloi vanhoja pelejä uusilla pelikoneilla. On jollain tavalla ristiriitaista, että vaikka tämän hetken pelikonsolit ovat tehokkaampia ja grafiikkakorteiltaan kehittyneempiä kuin koskaan, ovat 8- ja 16-bittisen maailmaan estetiikkaa myötäilevät uuden pelit suosittuja. Pelintekijät tekevät tämän päivän konsoleille ja tietokoneille edelleen pelejä jotka ainakin päällisin puolin muistuttavat 80- ja 90-luvuista. Puheen Aamussa puhuttiin videopelinostalgiasta.</blockquote>
-
-
+> Ensimmäisenä kaupallisena videopelinä pidetään vuonna 1971 julkaistua Computer Space -nimistä kolikkopeliä. Ensimmäinen hyvin menestynyt mikroprosessoripohjainen pelikonsoli oli Atari 2600, kolmannen sukupolven konsoleista tunnetuin on 8-bittinen Nintendo. Sittemmin 80- ja myös 90-luvun vaihteen konsoleista ja peleistä on tullut himoittuja keräilyesineitä. Moni myös emuloi vanhoja pelejä uusilla pelikoneilla. On jollain tavalla ristiriitaista, että vaikka tämän hetken pelikonsolit ovat tehokkaampia ja grafiikkakorteiltaan kehittyneempiä kuin koskaan, ovat 8- ja 16-bittisen maailmaan estetiikkaa myötäilevät uuden pelit suosittuja. Pelintekijät tekevät tämän päivän konsoleille ja tietokoneille edelleen pelejä jotka ainakin päällisin puolin muistuttavat 80- ja 90-luvuista. Puheen Aamussa puhuttiin videopelinostalgiasta.
 
 Varhaisista pelimuistoista Kasvi mainitsi suositun Elite-avaruusstrategiapelin, joka saa Kickstarter-kampanjan kautta jatkoa _Elite: Dangerousin_ muodossa Frontier Developmentsin kehittämänä. Tuoreemmista peleistä Kasvi puolestaan odottaa tässä kuussa julkaistavaa _Civilization: Beyond Earthia_. Valinnat eivät ole huonoja, mutta mättääkö uusissa peleissä erityisesti jokin?
 
@@ -45,8 +31,8 @@ Takaisin nostalgiaan. Eräs Kasvin huolenaihe on, ettei Suomen varhaista digitaa
 
 Onneksi kuitenkin [Skrolli-lehti](http://skrolli.fi/) on kunnostautunut vanhemman tietokonekulttuurin edistäjänä Suomessa, mutta riittääkö se?
 
-Vielä eräs mielenkiintoinen esimerkki retropeleihin liittyen tuli allekirjoittaneenkin suosikkipeleihin kuuluvasta _Hotline Miamista_, jonka visuaalinen anti voisi hyvin olla 80- tai 90-luvulta, mutta pelimekaniikka on sulavuudessaan tämän päivän standardeille hiottua. Ehkä tässä on syy siihen, miksi niin moni on vaikuttunut retropeleistä. Ne tuovat pelaajalle mieleen omat ensimmäiset pelikokemukset, joissa oli hyvä käsikirjoitus sekä kiehtova maailma yhdistäen ne nykyajan optimaaliseen pelattavuuteen. Arvioimani tänä vuonna julkaistu [Shovel Knight](http://www.pelilegacy.fi/arvostelut/754/shovel-knight-kaivaa-tiensa-pelaamisen-kulta-aikaan) on erinomainen esimerkki tällaisesta pelistä.
+Vielä eräs mielenkiintoinen esimerkki retropeleihin liittyen tuli allekirjoittaneenkin suosikkipeleihin kuuluvasta _Hotline Miamista_, jonka visuaalinen anti voisi hyvin olla 80- tai 90-luvulta, mutta pelimekaniikka on sulavuudessaan tämän päivän standardeille hiottua. Ehkä tässä on syy siihen, miksi niin moni on vaikuttunut retropeleistä. Ne tuovat pelaajalle mieleen omat ensimmäiset pelikokemukset, joissa oli hyvä käsikirjoitus sekä kiehtova maailma yhdistäen ne nykyajan optimaaliseen pelattavuuteen. Arvioimani tänä vuonna julkaistu [Shovel Knight]({{ site.baseurl }}{% link _posts/2014-07-01-shovel-knight-kaivaa-tiensa-pelaamisen-kulta-aikaan.markdown %}) on erinomainen esimerkki tällaisesta pelistä.
 
 Kiinnostavaa on myös pohtia, mitä pelinostalgialle tapahtuu 20 vuoden sisällä, kun silloiset aikuiset pelaajat ovat aloitelleet pelaamisen Call of Duty -sarjan ja vastaavien parissa.
 
-_Lataa ja kuuntele puolen tunnin mittainen ohjelma [Yle Areenasta](http://areena.yle.fi/radio/2408630)._
+Lataa ja kuuntele puolen tunnin mittainen ohjelma [Yle Areenasta](http://areena.yle.fi/radio/2408630).

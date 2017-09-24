@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-10-21 11:01:12+00:00
 excerpt: Kun Timmy putoaa kaivoon, ei häntä pelasta kukaan muu kuin hän itse. Ojiro
@@ -25,7 +25,7 @@ tags:
 - Roguelike
 ---
 
-[![Downwell](http://www.pelilegacy.fi/wp-content/uploads/2015/10/downwell1.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/10/downwell1.jpg)
+[![Downwell](/uploads/2015/10/downwell1.jpg)](/uploads/2015/10/downwell1.jpg)
 
 [ingressi]Kun Timmy putoaa kaivoon, ei häntä pelasta kukaan muu kuin hän itse. Ojiro Fumoton kehittämä ja Devolver Digitalin julkaisema Downwell on koukuttava esimerkki siitä, miten roguelikea voidaan toteuttaa vuonna 2015.[/ingressi]
 
@@ -45,11 +45,11 @@ Kerättävät parannukset, erilaiset tyylit, väripaletit ja _roguelikelle_ tyy
 
 Myös _Downwellissa_ kuolema on vain pieni este matkalla suuruuteen: ohjainta on vaikea laskea käsistä, sillä uusi yritys ei koskaan lakkaa houkuttelemasta. Ensimmäisellä kerralla vietin pelin parissa lähes kolme tuntia eri tyylejä, tekniikoita ja väripaletteja kokeillen.
 
-[![Downwell](http://www.pelilegacy.fi/wp-content/uploads/2015/10/downwell2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/10/downwell2.jpg)
+[![Downwell](/uploads/2015/10/downwell2.jpg)](/uploads/2015/10/downwell2.jpg)
 
 Nopeasti silkalta visuaaliselta sokerilta tuntuvien väripalettien käytöllä on selkeä vaikutus onnistumiseen. Jos haluat selkeästi havaita vihollisten osumakohdat ja jalokivet, valitse kirkkaan sävyinen väripaletti. Jos taas kaipaat enemmän haastetta, sitä tarjoaa täysin yksibittinen paletti, joka esittää pelin vain mustana ja valkoisena – välissä ei ole pikseliäkään harmaata. Välimuotojakin löytyy ja suosittelen käymään ne kaikki lävitse omaan silmään parhaan yhdistelmän löytämiseksi.
 
-[pullquote]Downwellissa et koe kahta samanlaista pudotusta.[/pullquote]
+<div class="pullquote">Downwellissa et koe kahta samanlaista pudotusta.</div>
 
 Visuaalinen suunnittelu ei korostu ainoastaan väripaleteissa, sillä _Downwell_ ilmaisee hienosti eri väreillä tuleeko vihollisen päälle hypätä vai tuleeko tätä ampua. Oletuspaletilla valkoisia vihollisia kannattaa talloa, kun taas punaisia on viisain ampua jo etäältä.
 

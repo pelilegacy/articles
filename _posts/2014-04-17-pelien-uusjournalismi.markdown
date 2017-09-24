@@ -1,24 +1,15 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2014-04-17 10:54:36+00:00
-excerpt: Kieron Gillen on sarjakuvataiteilija, videopelikriitikko ja omanlaisensa
-  nero.
+excerpt: Kieron Gillen on sarjakuvataiteilija, pelikriitikko ja omanlaisensa nero.
+cover:
+  src: /uploads/2014/04/new_games_journalism.jpg
+  alt: New Games Journalism
 layout: post
-link: https://www.pelilegacy.fi/kolumnit/542/pelien-uusjournalismi
-slug: pelien-uusjournalismi
-title: Pelien uusjournalismi – matkapäiväkirja käymättömille korpimaille
-wordpress_id: 542
+title: 'Essee: Pelien uusjournalismi – matkapäiväkirja käymättömille korpimaille'
 categories:
 - Kolumnit
-tags:
-- Essee
-- Kieron Gillen
-- Pelijournalismi
-- Pelikritiikki
 ---
-
-[![New Games Journalism](http://www.pelilegacy.fi/wp-content/uploads/2014/04/new_games_journalism.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/04/new_games_journalism.jpg)
 
 Kieron Gillen on sarjakuvataiteilija, videopelikriitikko ja omanlaisensa nero.
 
@@ -44,7 +35,7 @@ Muista perimmäinen totuus: mikäli kirjoittaminen tuntuu työltä, älä kirjoi
 
 Gillenin teesit aiheesta pelien uusjournalismi voidaan tiivistää seuraaviin kohtiin.
 
-**1) Pelaamisen arvo on pelaajassa, ei pelissä.**
-** 2) Kirjoita matkailureportaasia kuvitteellisista paikoista.**
+1. Pelaamisen arvo on pelaajassa, ei pelissä.
+2. Kirjoita matkailureportaasia kuvitteellisista paikoista.
 
-Veljet ja siskot, me pystymme siihen.
+Veljet, siskot ja muunsukupuoliset, me pystymme siihen.

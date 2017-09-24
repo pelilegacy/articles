@@ -1,0 +1,181 @@
+---
+# SCSS customizations go here.
+---
+
+@import 'minima';
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Raleway:900');
+
+/* Fonts */
+$font-heading: "Raleway", sans-serif;
+$font-body: "Crimson Text", serif;
+
+/* Colors */
+$color-blue:    #193549;
+$color-blue2:   #0D3A58;
+$color-gray:    #35434d;
+$color-light:   #f0f0f0;
+$color-light2:  #c0c0c0;
+$color-orange:  #ff9d00;
+$color-dark:    #222222;
+
+/* Images */
+$gaming: 'images/pattern.png';
+
+body {
+    font-family: $font-body;
+    font-size: 24px;
+}
+
+a:link {
+    color: $color-blue;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.site-header {
+    font-family: $font-heading;
+    background-color: $color-blue;
+    border-top: solid 5px $color-blue;
+    border-bottom: solid 5px $color-light;
+    padding-bottom: 5px;
+
+    .site-title {
+        font-size: 1.8em;
+        color: $color-light;
+        text-shadow: 0 0 5px $color-blue2, 0 0 10px $color-blue2,
+         0 0 20px $color-blue2, 0 0 30px $color-blue2,
+         0 0 40px $color-blue2;
+    }
+
+    .site-nav {
+        .page-link {
+            color: $color-light2;
+        }
+
+        .page-link:hover {
+            color: $color-orange;
+        }
+    }
+}
+
+.page-content {
+    background: url($gaming) repeat;
+}
+
+.post-list {
+    .post-author {
+        letter-spacing: -2px;
+        text-transform: uppercase;
+    }
+
+    .post-category {
+        @extend .post-author;
+        color: $color-orange;
+    }
+
+    .post-title {
+        font-family: $font-heading;
+    }
+
+    .post-meta {
+        font-size: 1.0em;
+    }
+}
+
+.post {
+    img {
+        display: block;
+        margin: 0px auto;
+        max-width: 100%;
+        height: auto;
+        border-radius: 3px;
+        box-shadow: 0 3px 6px $color-dark;
+    }
+
+    .post-header {
+        font-family: $font-heading;
+        text-align: center;
+    }
+    .post-cover {
+        margin-bottom: 40px;
+    }
+
+    .post-excerpt {
+        text-align: center;
+        color: $color-gray;
+        padding: 20px 0;
+    }
+
+    .post-meta {
+        font-size: 1.25em;
+        color: $color-blue;
+    }
+
+    .pullquote::before {
+        content: "“";
+    }
+
+    .pullquote {
+        text-align: center;
+        color: $color-blue;
+        font-size: 1.75em;
+        font-weight: 700;
+        padding: 25px 0;
+    }
+
+    .pullquote::after {
+        content: "”";
+    }
+
+}
+
+.footer-col-wrapper {
+    font-size: 0.8em;
+}
+
+.rss svg {
+    width: 16px;
+    height: 16px;
+    padding-right: 5px;
+}
+
+/* Embedded content */
+.embed {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+
+    iframe, object, embed {
+        position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+    }
+}
+
+/* HTML5 Audio Player */
+audio {
+    width: 90%;
+    height: auto;
+    padding: 30px 0;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 600px) {
+    .site-header {
+        .site-nav {
+            .page-link {
+                color: $color-dark;
+            }
+        }
+    }
+}
+
+@media screen and (orientation: portrait) {
+    .post img { max-width: 90%; }
+}
+
+@media screen and (orientation: landscape) {
+    .post img { max-height: 90%; }
+}

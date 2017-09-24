@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-03-06 14:11:52+00:00
 excerpt: Mitä tehdä pelin kanssa, josta ei koskaan tunnu tulevan valmista? Ennakossa
@@ -20,7 +20,7 @@ tags:
 - Steam
 ---
 
-[![Mitä pelasimme tänään: Broforce](http://www.pelilegacy.fi/wp-content/uploads/2015/03/mpt_broforce.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/mpt_broforce.jpg)
+[![Mitä pelasimme tänään: Broforce](/uploads/2015/03/mpt_broforce.jpg)](/uploads/2015/03/mpt_broforce.jpg)
 
 [ingressi]Mitä tehdä pelin kanssa, josta ei koskaan tunnu tulevan valmista? Ennakossa tänään jo viime vuonna Steamin varhaispelitarjontaan saapunut patrioottisimulaattori Broforce.[/ingressi]
 
@@ -32,7 +32,7 @@ Julkaisija Devolver Digital muistetaan Broforcen ohella Hotline Miami- ja Seriou
 
 Peleissä liian vähän nähdyllä komediallisella otteella Broforce osoittaakin, että poliittisen sanoman kätkeminen pelimekaniikan sekaan on helpompaa kuin ennalta arvaisi. Pikselisotilaat aloittavat pyhän kampanjansa kommunistien kansoittamasta Vietnamista, josta matka jatkuu aina terroristien täyttämään Kazakhstaniin. Matkalla kohdataan muun muassa dynamiittiin pukeutuneita itsemurhapommittajia, taisteluhelikoptereita ja mechoja. Silmiä rankaisevassa menossa tärkeintä on kuitenkin räjäyttää kaikki elävä ja eloton aines tieltä.
 
-[pullquote]“Mitään Broforcessa ei oteta niin vakavasti kuin jokaisen amerikkalaisen itsepintaista oikeutta kantaa tuliaseita ja lahdata ulkomaan uhkaajia yhteisen hyvän nimissä.”[/pullquote]
+<div class="pullquote">“Mitään Broforcessa ei oteta niin vakavasti kuin jokaisen amerikkalaisen itsepintaista oikeutta kantaa tuliaseita ja lahdata ulkomaan uhkaajia yhteisen hyvän nimissä.”</div>
 
 Yhdysvaltoja ajatellessa mieleen tulevat usein ensimmäisenä sodankäynti, räjähdykset, maskuliinisuus ja globaalista valta-asemastaan äärimmäisen tietoinen demokratia (tai imperiumi). Osittain tästä voidaan kiittää 1980- ja 90-lukujen toimintaelokuvia, joiden hahmot muodostavat Broforcen oman veljesarmadan. Nimestään huolimatta myös muutamalla naisella on tilaa veljesten joukossa. Planet Terror -elokuvassa jalkaansa rynnäkkökiväärin sitoneella Cherry Brolingilla on minitykkiä lentorakettina käyttävän Brominatorin ohella runsaiten tuhovoimaa.
 
@@ -40,7 +40,7 @@ Idea on niin helppo, ettei ihmettelylle ollut sijaa kun The Expendables 3 -eloku
 
 Koska kyseessä on Early Access -peli, emme voi vielä tietää, mihin sotilaiden ristiretki päättyy. Tätä kirjoittaessa uusin lisäys kampanjaan kertoo Aliens-elokuvan petojen tunkeutumisesta maapallolle. Tasaisesti päivittyvä peli lisääkin ovelasti jälleenpeluuarvoa kampanjaa asteittain pidentämällä, sillä alieneiden kimppuun ei pääse ennen kuin on tehnyt aikaisemmista tasoista selvää. Samalla kokonaisuus pysyy tuoreena ja lyhyyden ansiosta pelin pelaa miellään läpi muutaman kuukauden välein.
 
-[![Broforce](http://www.pelilegacy.fi/wp-content/uploads/2015/03/broforce_2.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/broforce_2.png)
+[![Broforce](/uploads/2015/03/broforce_2.png)](/uploads/2015/03/broforce_2.png)
 
 Jos Broforcen ylväs Yhdysvaltain lippu otetaan pois salosta liehumasta, onko edessämme jälleen vain yksi lattea ja merkityksetön sivulta kuvattu räiskintäpeli? Alien Infestation -päivitys on merkki tähän suuntaan joko hukaten pelin ytimen tai osoittaen, että yksikään _muukalainen_ ei ole tervetullut rikkomaan valkopäämerikotkan siunaaman kansan rauhaa. Alienit vihollisina ovat näet vain teuraskarjaa uusissa vaatteissa.
 

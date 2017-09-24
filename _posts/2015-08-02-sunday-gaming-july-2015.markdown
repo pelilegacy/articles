@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-08-02 09:28:53+00:00
 excerpt: Welcome to the first international issue of Sunday Gaming -- the finest,
@@ -30,7 +30,7 @@ tags:
 - Telltale
 ---
 
-[![Sunday Gaming](http://www.pelilegacy.fi/wp-content/uploads/2015/07/sunday_gaming.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/07/sunday_gaming.jpg)
+[![Sunday Gaming](/uploads/2015/07/sunday_gaming.jpg)](/uploads/2015/07/sunday_gaming.jpg)
 
 [ingressi]Welcome to the first international issue of Sunday Gaming -- the finest, fanciest and craftiest compilation of games writing from all universe.[/ingressi]
 

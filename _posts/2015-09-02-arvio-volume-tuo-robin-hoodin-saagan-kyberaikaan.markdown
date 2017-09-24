@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-09-02 15:16:26+00:00
 excerpt: Volume on vahvasti Mike Bithellin näköinen peli toimien selkeänä jatkumona
@@ -22,7 +22,7 @@ tags:
 - YouTube
 ---
 
-[![Volume](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume.jpg)
+[![Volume](/uploads/2015/09/volume.jpg)](/uploads/2015/09/volume.jpg)
 
 [ingressi]Kun rikolliset hiipivät, on äänenvoimakkuus syytä pitää matalalla.[/ingressi]
 
@@ -34,13 +34,13 @@ Näin oli myös alun perin vuonna 2010 Flash-pelinä, ja sittemmin PC:lle sekä 
 
 Elokuussa ilmestynyt _Volume_ on vahvasti Bithellin näköinen peli toimien selkeänä jatkumona _Thomas Was Alonelle_. Teemoillaan _Volume_ kertoo akuutiksi paisuneen eriarvoisuuden, luokkajaon ja tuloerojen uuvuttamasta englantilaisesta korporatokratiasta kohdistaen samalla ivansa modernin ihmisen digitaalista elämäntapaa kohtaan.
 
-[pullquote]“Bithell on mies, joka ympäristöään havainnoivan pelinkehittäjän tavoin mielellään upottaa sanomansa pelin sisälle kätkien sen samalla houkuttavan minimalistisiin tyyliratkaisuihin.”[/pullquote]
+<div class="pullquote">“Bithell on mies, joka ympäristöään havainnoivan pelinkehittäjän tavoin mielellään upottaa sanomansa pelin sisälle kätkien sen samalla houkuttavan minimalistisiin tyyliratkaisuihin.”</div>
 
 Taustatarina on hahmojen nimiä myöten uusintaa Robin Hoodin saagasta, mutta _Volume_ on imenyt vaikutteita selkeästi myös sarjakuvakäsikirjoittaja **Alan Mooren** _V for Vendetta_ -sarjakuvasta.
 
 Päähahmo Robert Locksleyn arkkivihollinen Guy Gisborne johtaa tulevaisuudessa totalitaarisen kybervaltion nyrkin alle luhistunutta Englantia, jonka aarteita Locksley yhdessä Volume-laitteen muistissa majailevan keinoäly-Alanin kanssa alkaa omia itselleen. Rikokset ovat kuitenkin vain simulaatioita, joilla salainen vallankaappausyritys pyritään kätkemään. Julkisen nöyryytyksen takaamiseksi kaikki simulaatiot lähetetään suorana verkkoon. Tavoitteena tietenkin on riisua tyranni Gisborne oletetusta mahdistaan esittämällä tämä mitättömänä ja haavoittuvaisena vanhana miehenä, jolta varastaminen on helppoa kuin lahnalta.
 
-[![Volume](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume1.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume1.jpg)
+[![Volume](/uploads/2015/09/volume1.jpg)](/uploads/2015/09/volume1.jpg)
 
 Locksleyn matka kulkee läpi museoiden, kirjastojen ja yksityisten asuntojen aina Gisbornen kartanoon asti. Simulaation johdosta mieleenpainuvana tyylikeinona jokainen pelin taso esitetään eräänlaisena virtuaalitodellisuudesta emanoituvana huoneistona, minkä ansiosta eri sijaintien autenttisuudesta ei tarvitse välittää -- kunhan palikat ovat kauniisti rivissä.
 
@@ -48,13 +48,13 @@ Puolet tästä palstasta voisi kuluttaa pohtiessa sitä, miksi Bithell on niin k
 
 Virtuaalitodellisuus toimii samalla näyttämönä pelin varsinaiselle kontekstille, joka yllättäen ei kuvaa niinkään kertomusta diktatuurin syleilyyn kahlitun valtion selviytymistaistelusta, vaan kritisoi digitaalista kulttuuria. Ansionsa mukaan saavat erityisesti Twitch-striimaajien sekä YouTube-videontekijöiden egomaanisuus ja ahnas katsojalukujen tavoittelu. Eräässä kohtauksessa Keinoäly-Alanin suljettua suoran lähetyksen rikkoo peli neljännen seinän yllättävällä tavalla kehottaen pelaajaa lopettamaan leikin -- eihän tällä ole enää edes katsojia. Mitä hyötyä on tuottaa suoria lähetyksiä tai videoita, jos niillä ei ole katsojia? Jalo tavoite kansakunnan pelastamisesta pitää kuitenkin toivoa yllä.
 
-[![Volume](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume2.jpg)
+[![Volume](/uploads/2015/09/volume2.jpg)](/uploads/2015/09/volume2.jpg)
 
 Kun pelaaja on saanut kouransa tukevasti ohjaimen ympärille, ei _Volumea_ voi kuvailla vaikeaksi peliksi -- jossain määrin haastavaksi ehkä. Viimeisten tasojen kehittyneitä ritareita lukuun ottamatta vartijoita voi paeta helposti kulmien taakse, ja kiinni jäädessäänkin pelaajalle suodaan mahdollisuus aloittaa hyvin läheltä -- kiitos tiheään sijoitettujen tallennuspisteiden.
 
 Sopivan lyhytkestoiset tasot tarjoavat muodollista vaihtelua, joskin on myönnettävä, että lineaarisuus muodostuu rasitteeksi. Sen sijaan, että pelaajan sallittaisiin kehitellä omia ratkaisuja vartijoiden ohittamiseen, opitaan ainoa oikea reitti usein yrityksen ja erehdyksen kautta. Tasoissa on tarjolla erilaisia apuvälineitä, joista ensimmäiset synnyttävät vartijoita harhauttavia ääniä ja viimeiset tarjoavat hieman tehokkaampaa suojaa esimerkiksi äänettömällä juoksemisella.
 
-[pullquote]“Ansionsa mukaan saavat erityisesti Twitch-striimaajien sekä YouTube-videontekijöiden egomaanisuus ja ahnas katsojalukujen tavoittelu.”[/pullquote]
+<div class="pullquote">“Ansionsa mukaan saavat erityisesti Twitch-striimaajien sekä YouTube-videontekijöiden egomaanisuus ja ahnas katsojalukujen tavoittelu.”</div>
 
 Maltillisesti kasvavan vaikeustason ansiosta tasot käyvät hermoille vasta loppusuoralla, joita tasapainotetaan ehkäpä liiaksi vartijoita hetkeksi tainnuttavalla Blackjack-aseella tai näkymättömyydellä. Mutta miksi käyttää aseita hiiviskelypelissä, kun tyylilajin peleissä eteneminen kuuluu mitata älyllä raa’an voiman sijaan?
 
@@ -62,7 +62,7 @@ Maltillisesti kasvavan vaikeustason ansiosta tasot käyvät hermoille vasta lopp
 
 Volumen ääninäyttelyn osalta olen kuullut paljon moitteita, mutta omaan korvaani Danny Wallace lakonisena keinoälynä ja vloggaaja **Charlie McDonnell** Locksleyna suoriutuvat hyvin vuoropuheluistaan. Klonkkua **Peter Jacksonin** Keskimaa-filmatisoinneissa näytelleen **Andy Serkisin** ei myöskään tarvitse hävetä päänsä aukomista Gisbornen roolissa. Dialogi ja ääninäyttely tuovat tummanpuhuvaan dystopiaan ripauksen virkistävää brittikomiikkaa.
 
-[![Volume](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume3.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/volume3.jpg)
+[![Volume](/uploads/2015/09/volume3.jpg)](/uploads/2015/09/volume3.jpg)
 
 Volumea on verrattu paljon _Metal Gear Solid_ -sarjan VR-tehtäviin, johon Bithell on todennut pelin vetäneen enempi esteettisiä vaikutteita muun muassa _Thiefista_, _Hitmanista_ ja _Pac-Manista_. Vertaus etenkin jälkimmäiseen on sikäli osuva, että _Volume_ ei ole niin monipuolinen peli kuin voisi olettaa. Useimmiten ratkaisuna on juosta vartijan selän takaa tämän ihmetellessä esimerkiksi nurkkaan heitettyä kiiltävää esinettä. Kehittyneemmät vartijat näkevät kaiken ympärillään, mutta tason lopetusta merkitsevään valokeilaan voi juosta helposti, vaikka koko kentän vastustajat olisivat kintereillä. Hiiviskelypelien vakiokomponentit, kuten päälle ja pois kytkeytyvät lasersäteet ja varjoisat ruudut ovat jo konseptina kuluneita eivätkä pelissäkään toimi hyvin.
 

@@ -1,26 +1,15 @@
 ---
-author: toimitus
-comments: true
+author: elisa
 date: 2015-01-23 11:41:55+00:00
-excerpt: LittleBigPlanetin plyysihahmot laittavat pelaajan koetukselle myös sarjan
-  kolmannessa osassa. Lue, mitä Elisa piti pelistä.
+excerpt: LittleBigPlanetin plyysihahmot laittavat pelaajan koetukselle myös sarjan kolmannessa osassa.
+cover:
+  src: /uploads/2015/01/Little-Big-Planet-3.jpg
+  alt: LittleBigPlanet 3 
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/1347/littlebigplanet-3
-slug: littlebigplanet-3
-title: 'Arvio: LittleBigPlanet 3'
-wordpress_id: 1347
+title: LittleBigPlanet 3
 categories:
-- Arvostelut
-- Seikkailu
-tags:
-- LittleBigPlanet
+- Arviot
 ---
-
-[![LittleBigPlanet3](http://www.pelilegacy.fi/wp-content/uploads/2015/01/Little-Big-Planet-3.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/Little-Big-Planet-3.jpg)
-
-[ingressi]LittleBigPlanetin plyysihahmot laittavat pelaajan koetukselle myös sarjan kolmannessa osassa.[/ingressi]
-
-_Arvostelu on tehty PlayStation 3 -version pohjalta (toim. huom.)._
 
 LittleBigPlanet-sarjan uusimmassa osassa pelin päähahmo Sackboy joutuu pahan Newtonin valtaamaan maailmaan yrittäen muutaman ystävänsä turvin pelastaa maailman tuhon partaalta. Pelin alkaessa nähdään, kuinka Newton vapauttaa pahan hengen, jonka vangiksi hän joutuu pahan hengen johdattaessa hänet pahojen tekojen äärelle.
 
@@ -33,9 +22,3 @@ LittleBigPlanet 3:n tarina on mielenkiintoinen, mutta pelin alun pienet grafiikk
 Huonona puolena pelistä mainittakon latausaikojen olevan pitkiä eivätkä ohjainkontrollit aina tottele komentoja. Vaikeusaste on asetettu melko korkealle, mistä esimerkkinä eräässä tasossa pelaaja joutuu juoksemaan petoa karkuun ja välillä hyppäämään maan sortuessa alta. Tässä tasossa pelaajan huomio ei saa herpaantua hetkeksikään. Piristävänä asiana latausruuduissa näkyy usein hauskoja tekstejä, joiden huumori tosin on välillä hieman kyseenalaista -- yritetään näyttää ahkerilta ja pistetään kissa takaisin säkkiin.
 
 LittleBigPlanet 3 on kehittynyt aikaisemmista osista, mutta grafiikkaa olisi voinut parannella. Äänet ja suomenkieliset tekstitykset ovat pääosin laadukkaat, joskin ääninäyttelijöiden ääni pilaa muutamissa kohtaa tunnelman. Pelin musiikki sopii tilanteisiin hyvin ja korjaa tämän asian. Yhteenvetona pelistä ei liiemmin jää muuta negatiivista sanottavaa kuin taka-alalle jääneet grafiikat ja uusimista kaipaava ääninäyttely.
-
-**Teksti ja kuvat:** Elisa Hyvönen-Estola
-
-https://youtu.be/ymCDdrMKPrY
-
-

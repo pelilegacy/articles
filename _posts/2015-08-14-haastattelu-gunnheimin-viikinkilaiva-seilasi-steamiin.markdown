@@ -22,7 +22,7 @@ tags:
 - Suomi
 ---
 
-[![Gunnheim](http://www.pelilegacy.fi/wp-content/uploads/2015/08/gunnheim_ennakko.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/08/gunnheim_ennakko.jpg)
+[![Gunnheim](/uploads/2015/08/gunnheim_ennakko.jpg)](/uploads/2015/08/gunnheim_ennakko.jpg)
 
 [ingressi]Gunnheim saapui viimein Steamiin. Voiko viikinkilaivaa pysäyttää enää?[/ingressi]
 
@@ -48,7 +48,7 @@ En pitänyt juurikaan peliohjaimella pelaamisesta, vaan vaihdoin nopeasti hiiree
 
 Kaipaisin myös lisää hajoavaa ympäristöä, sillä olin erittäin monityydyttynyt joka kerta saadessani ydinohjuksen kannettavaksi ja surukseni se komeasta räjähdyksestä huolimatta ei pahemmin jättänyt jälkeä ympäristöön vihollislauman siivoamisen ohessa. Todellinen viikinki tietenkin ratsastaisi taisteluun ydinohjuksen selässä muinaisnorjaa huutaen ja selviäisi kertomaan siitä vielä jälkipolville. Ugh!
 
-[![Ennakossa Gunnheim](http://www.pelilegacy.fi/wp-content/uploads/2015/08/gunnheim_ennakko2.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/08/gunnheim_ennakko2.jpg)
+[![Ennakossa Gunnheim](/uploads/2015/08/gunnheim_ennakko2.jpg)](/uploads/2015/08/gunnheim_ennakko2.jpg)
 
 Peli Legacy päätti haastatella suorassa lähetyksessä SIEIDIn toimitusjohtaja **[Petri Pekkarista](https://twitter.com/PetriPekkarinen)** _Gunnheimin_ nykytilasta ja tulevaisuudesta.
 
@@ -64,7 +64,7 @@ Peli Legacy päätti haastatella suorassa lähetyksessä SIEIDIn toimitusjohtaja
 
 – Miksipä ei. Riippuu siitä, että millaisen vastaanoton tämä peli saa seuraavien kuukausien aikana ja jälkeen sekä mitkä asiat kiinnostavat pelissä. Ideoita on ja viikinkitarinoista löytyy ammennettavaa, minkä seurauksena _Gunnheim_ voisi muuttua erilaisiksi peleiksi – se jää nähtäväksi. Lisäsisällön osalta emme julkaise erillisiä DLC:tä, vaan jos pelin on ostanut niin kaiken sisällön saa heti käyttöönsä.
 
-[pullquote]“Todellinen viikinki tietenkin ratsastaisi taisteluun ydinohjuksen selässä muinaisnorjaa huutaen ja selviäisi kertomaan siitä vielä jälkipolville.”[/pullquote]
+<div class="pullquote">“Todellinen viikinki tietenkin ratsastaisi taisteluun ydinohjuksen selässä muinaisnorjaa huutaen ja selviäisi kertomaan siitä vielä jälkipolville.”</div>
 
 **Peliä esiteltiin ensimmäisen kerran julkisuudessa tämän vuoden alussa. Miten pelinkehitys on sujunut? Erityisesti mikä on ollut haastavinta prosessissa?**
 
@@ -78,7 +78,7 @@ Peli Legacy päätti haastatella suorassa lähetyksessä SIEIDIn toimitusjohtaja
 
 – Kun ottaa huomioon pelin aseistuksen hahmoluokat, niin miksipä ei. Ehkä kun olemme hioneet pelimekaniikan Early Accessin aikana kuntoon ja saatu itsekin tehtyä sisältöä peliin jossakin vaiheessa. Emme ole päätöksiä sen suhteen tehneet, mutta se lisäisi pelin ikää varmasti aika paljon. Saavutukset tulevat peliin myöhemmin.
 
-[![Ennakossa Gunnheim](http://www.pelilegacy.fi/wp-content/uploads/2015/08/gunnheim_ennakko3.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/08/gunnheim_ennakko3.jpg)
+[![Ennakossa Gunnheim](/uploads/2015/08/gunnheim_ennakko3.jpg)](/uploads/2015/08/gunnheim_ennakko3.jpg)
 
 **Pelin alkuvalikossahan on Rewards-osio. Mitä se tulee sisältämään?**
 

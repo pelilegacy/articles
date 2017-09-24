@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-03-27 11:13:19+00:00
 excerpt: Suomalaisen Starflower Gamesin Baldric's Quest julkaistiin tovi sitten Windowsille,

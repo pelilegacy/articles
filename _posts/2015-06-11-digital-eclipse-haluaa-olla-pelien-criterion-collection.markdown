@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-06-11 10:54:35+00:00
 excerpt: '"Klassikkopeleleille harvoin annetaan samaa huolenpitoa ja kunnioitusta
@@ -21,7 +21,7 @@ tags:
 - Uudelleenjulkaisut
 ---
 
-[![Mega Man Legacy Collection](http://www.pelilegacy.fi/wp-content/uploads/2015/06/mega_man_legacy_collection.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/06/mega_man_legacy_collection.jpg)
+[![Mega Man Legacy Collection](/uploads/2015/06/mega_man_legacy_collection.jpg)](/uploads/2015/06/mega_man_legacy_collection.jpg)
 
 _"Klassikkopeleleille harvoin annetaan samaa huolenpitoa ja kunnioitusta kuin muille taiteenmuodoille. Mielestämme pelit ansaitsevat parempaa."_
 
@@ -45,7 +45,7 @@ https://twitter.com/frankcifaldi/status/607978517096071168
 
 Vanhojen pelien kunnostaminen pelattavaksi ei ole helppo prosessi. Digital Eclipse pyrkii keventämään haastetta omalla Eclipse-alustallaan, joka kulkee pelialustojen mukana. Pelit käännetään Eclipsen omaan formaattiin, jolloin ne toimivat käytännössä kaikkialla, missä Eclipsekin. Kunnianhimoisen idean tueksi tekijät lupaavat päivittää Eclipsea säännöllisesti, mikä onkin välttämätöntä, mikäli todella aikoo pelata samoja pelejä samalla alustalla vielä kymmenien vuosien kuluttua.
 
-[![Digital Eclipse](http://www.pelilegacy.fi/wp-content/uploads/2015/06/digital_eclipse.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/06/digital_eclipse.png)
+[![Digital Eclipse](/uploads/2015/06/digital_eclipse.png)](/uploads/2015/06/digital_eclipse.png)
 
 Vaikka Mega Man on klassikkopelien itseoikeutettua kermaa, on kiintoisampaa spekuloida muilla mahdollisilla uudelleenjulkaisuilla aina Fallout-sarjan ensiosista Blizzardin vanhoihin reaaliaikastrategioihin saakka. Jos kaikki menee suunnitellusti ja Digital Eclipse ei joudu immateriaalioikeuksien vuoksi hankaluuksiin julkaisijoiden kanssa, on tulevaisuus jälleen parempi paikka pelaajille legitistejä lukuunottamatta, jotka tällaisen "pyhäinhäväistyksen" kohdatessaan todennäköisesti purevat alahuulensa puhki.
 

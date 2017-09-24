@@ -1,16 +1,20 @@
 title: Peli Legacy
+author: Peliyhdistys Legacy ry
 email: toimitus@pelilegacy.fi
-description: # asdfasf
-twitter_username: pelilegacy
+description: Peliyhdistys Legacy ry on vuonna 2014 perustettu pelejä ja pelaamista käsitteleviä artikkeleita sekä mediasisältöä toimittava yhdistys.
 github_username:  pelilegacy
+repository: pelilegacy.github.io
+lang: fi
 timezone: Europe/Helsinki
 
 # Build settings
 strict_front_matter: true
 permalink: pretty
-paginate_path: /page/:num
 theme: minima
-gems:
+date_format: "%d.%m.%Y"
+sass:
+  style: compressed
+plugins:
   - jekyll-feed
 exclude:
   - run.sh
@@ -21,3 +25,16 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+# Collections
+collections:
+  podcasts:
+    output: false
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: podcasts
+    values:
+      layout: page

@@ -1,38 +1,19 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2016-07-26 09:53:40+00:00
-excerpt: Powerlan osoitti, ettei se ainoastaan ratsasta elektronisen urheilun kasvavalla
-  maineella, vaan pystyy sen lisäksi hyödyntämään myös paikallisten pelitoimijoiden
-  apua kiinnostavan pelitapahtuman järjestämiseksi.
+excerpt: Onko Keski-Suomen uudesta tulokkaasta haastajaksi Insomnian ja LanTrekin kokoisille tapahtumille?
+cover:
+    src: /uploads/2016/07/powerlan.jpg
+    alt: Powerlan 2016
 layout: post
-link: https://www.pelilegacy.fi/hitaat/2936/powerlan-2016
-slug: powerlan-2016
 title: 'Keikalla: Powerlan 2016 -verkkopelitapahtuma'
-wordpress_id: 2936
 categories:
 - Hitaat
-tags:
-- Counter-Strike
-- Dota 2
-- eSports
-- Jyväskylä
-- Jyväskylä Game Lab
-- League of Legends
-- Pelikasvatus
-- Pelinkehitys
-- Powerlan
-- Tapahtumat
-- YLE
 ---
-
-[![Powerlan 2016](https://www.pelilegacy.fi/wp-content/uploads/2016/07/powerlan.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/07/powerlan.jpg)
-
-[ingressi]Onko Keski-Suomen uudesta tulokkaasta haastajaksi Insomnian ja LanTrekin kokoisille tapahtumille?[/ingressi]
 
 **Elektronisen urheilun** suosio kasvaa edelleen niin kansallisesti kuin kansainvälisestikin. Olemme mahdollisesti astuneet aikaan, jossa perinteisten urheilulehtien kolumnistit eivät enää vedä automaattilatteaan väärään kurkkuun kuullessaan televisioitavista _Counter-Strike_ -lähetyksistä tai Veikkauksen järjestämistä vedonlyöntikierroksista. Sen sijaan sosiaalisen median käyttäjät muodostavat toisiinsa harmonisen yhteyden kommentoidessaan _ESL One_ -turnauksen käänteitä samalla intohimolla kuin muutama viikko sitten päättyneitä jalkapallon EM-kisojakin.
 
-Viimeistään vuosi 2016 merkitsee käännekohtaa, jolloin lajin merkitys myös suomalaiselle pelikulttuurille on aika ottaa vakavasti. Yksi elektronisen urheilun peruskomponenteista, verkkopelitapahtumat eli _lanit_, ovat silti edelleen voimissaan uusien tapahtumien ilmaantuessa kartalle säännöllisesti. Tänä kesänä vierailin 17.–19. kesäkuuta Jyväskylässä järjestetyssä **[Powerlan-verkkopelitapahtumassa](http://powerlan.fi/)**.
+Viimeistään vuosi 2016 merkitsee käännekohtaa, jolloin lajin merkitys myös suomalaiselle pelikulttuurille on aika ottaa vakavasti. Yksi elektronisen urheilun peruskomponenteista, verkkopelitapahtumat eli _lanit_, ovat silti edelleen voimissaan uusien tapahtumien ilmaantuessa kartalle säännöllisesti. Tänä kesänä vierailin 17.–19. kesäkuuta Jyväskylässä järjestetyssä [Powerlan-verkkopelitapahtumassa](http://powerlan.fi/).
 
 Ensimmäistä kertaa Powerlan näki päivänvalon tälläkin kertaa järjestäjänä toimimeen **Jesse Ala-Lahden** voimin Pirkanmaan maakunnassa sijaitsevassa Virtain kaupungissa joulukuussa 2013. Ala-Lahti halusi elävöittää paikkakuntaa omalla tapahtumalla. Jyväskylä oli vuorossa tapahtuman kuudentena iteraationa. Uuden kaupungin myötä lisääntynyt panostus näkyi muun muassa siinä, että myytävien konepaikkojen määrä oli kasvanut vajaasta sadasta jo 520:een.
 
@@ -40,13 +21,13 @@ Powerlan onkin markkinoinut itseään kiivaasti Keski-Suomen suurimpana verkkope
 
 Powerlanin järjestäjänä toimii paikallisista tietotekniikan opiskelijoista koostuva Osuuskunta DynamIT, jonka jäsenet muun toiminnan ohella harjoittavat erilaisia ohjelmistopalveluita ja konsultointia.
 
-[![Powerlan 2016](https://www.pelilegacy.fi/wp-content/uploads/2016/07/dark2.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/07/dark2.jpg)
+![Powerlan 2016](/uploads/2016/07/dark2.jpg)
 
 **Kesäisestä vesisateesta** turvaan päästyäni silmääni iskivät ensimmäisenä Jyväskylän pergamenttihallin askeettiset puitteet, joista oli kuitenkin kekseliäästi muokattu lähes _Counter-Strike_ -ottelun kartaksi sopiva kokonaisuus. Seiniin ja lattioihin oli väriliidulla piirretty pelin karttojen A- ja B-saitteja ilmaisevat merkinnät. Muutenkin hylätty halli sopisi yhtä hyvin näyttämöksi pommin purkamiselle siinä missä ekstaasipitoisille teknobileille. Vieraiden turvallisuuden takaamiseksi kumpaankaan ei viikonloppuna ollut aihetta ryhtyä – tärkeintä pelaajien keskuudessa olivat yhdessäolo, uusien kavereiden löytäminen ja menestyksen niittäminen.
 
 Voimauttavien juomien ja **Gabe Newellin** viekkaasti hymyilevän valokuvan palvonnan kyllästämien pelaajien takaraivojen katseluun ei ollut kuitenkaan tyytyminen, sillä Powerlanin oheisohjelmistosta löytyivät muun muassa konsolinurkkaus sekä kisakatsomo otteluiden seuraamista varten. Juuri kilpapelaamiseen pohjaavissa tapahtumissa mahdollisuus seurata otteluita joko paikan päällä katsomossa tai verkossa on tärkeä viihtyvyyttä lisäävä elementti. Toimituksessa siirryimmekin loppuillasta katsomaan otteluita mukavasti PlayStation 4:n Twitch-sovelluksen kautta.
 
-[![Gravitoid](https://www.pelilegacy.fi/wp-content/uploads/2016/07/gravitoid.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/07/gravitoid.jpg)
+![Gravitoid](/uploads/2016/07/gravitoid.jpg)
 
 **Vaihtelua tapahtumaan** toivat myös alueen eri yhteistyökumppanit, jotka olivat paikalla esittelemässä toimintaansa. Erityisen kiehtovaa antia olivat paikallisten kehittäjien pystyttämät standit, joiden tarjoama kirjo ulottui asteroideilla loikkimista tarjoavasta pulmapelistä trippaileviin viikinkeihin sekä uusien planeettojen asuttamiseen.
 
@@ -54,11 +35,7 @@ Jyväskylässä yliopiston ja ammattikorkeakoulun järjestämä _Game Lab_ sek
 
 Paikalla vieraat pääsivät myös pelaamaan oikean elämän versiota suositusta _Rocket League_ -autourheilupelistä, joka toteutettiin radio-ohjattavilla autoilla – ei siis oikeilla mersuilla. Toimiva pelikonsepti voi olla esimerkiksi sellainen, jonka voi viihdyttävyydestä tinkimättä siirtää digitaalisesta ympäristöstä oikealle areenalle.
 
-
-
-* * *
-
-
+***
 
 Miksi elektronista urheilua katsotaan siinä määrin, että jopa Finnkinon elokuvateatteritkin ovat alkaneet näyttää sitä saleissaan? Syyt risteävät yllättävän paljon perinteisen urheilun kanssa.
 
@@ -74,7 +51,7 @@ PwC:n tutkimuksessa havaittiin katsojamäärien olevan suurimmat ensimmäisen pe
 
 Entä mitä voidaan odottaa, jos yksi vuoden merkittävimmistä viihdetuotteista, _Pokémon Go_, keksitään muuntaa kilpailuksi? Suunnistuskilpailuilla on urheilussa jo pitkät perinteet, mistä voisi ennakoida lisätyllä todellisuudella olevan paljon annettavaa myös elektronisen urheilun saralla.
 
-[![First-person shooter rocks content](https://www.pelilegacy.fi/wp-content/uploads/2016/07/esports_content.png)](https://www.pelilegacy.fi/wp-content/uploads/2016/07/esports_content.png)
+![First-person shooter rocks content](/uploads/2016/07/esports_content.png)
 
 **Elektronisen urheilun nopea kasvu** viime vuosina on kiinnittänyt myös virallisten tahojen huomion.
 
@@ -92,10 +69,6 @@ Monimuotoisuudessaan Powerlan osoitti tänä vuonna, ettei se ainoastaan ratsast
 
 _Peli Legacyn toimitus teki yhteistyötä Powerlanin markkinoinnin osalta ennen tapahtumaa. Lisää kuvia tapahtumasta on nähtävissä [täällä](https://goo.gl/photos/e2Qswq2zV6DS8wdG8)._
 
+***
 
-
-* * *
-
-
-
-_Artikkelia päivitetty 9.8.2016: Korjattu Jesse Ala-Lahti ensimmäisen tapahtuman järjestäjäksi._
+_Päivitys 9.8.2016: Korjattu Jesse Ala-Lahti ensimmäisen tapahtuman järjestäjäksi._

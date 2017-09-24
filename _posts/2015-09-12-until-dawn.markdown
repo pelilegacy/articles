@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-09-12 08:35:02+00:00
 excerpt: Vuoden merkittävimmän kauhupelin Until Dawnin perimmäinen viehätys riippuu
@@ -22,7 +22,7 @@ tags:
 - Yksinoikeuspelit
 ---
 
-[![Arvio: Until Dawn](http://www.pelilegacy.fi/wp-content/uploads/2015/09/until_dawn.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/until_dawn.jpg)
+[![Arvio: Until Dawn](/uploads/2015/09/until_dawn.jpg)](/uploads/2015/09/until_dawn.jpg)
 
 [ingressi]Se mitä pelkäät, määrittelee itsesi.[/ingressi]
 
@@ -40,7 +40,7 @@ Vertaus onkin erityisesti osuva, kun pohditaan kauhuelokuvan ja -pelin eroavaisu
 
 Kiehtovinta hyvin elokuvalliseen tapaan rakennetussa _Until Dawnissa_ on, että pelaaja siirretään pelinomaisesti katsojan roolista ohjaajaksi ja käsikirjoittajaksi. Ratkaisu toimii moitteetta nimenomaan kauhupelin kohdalla.
 
-[![Tohtori Hill (Peter Stormare)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/tohtori_hill.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/tohtori_hill.jpg)
+[![Tohtori Hill (Peter Stormare)](/uploads/2015/09/tohtori_hill.jpg)](/uploads/2015/09/tohtori_hill.jpg)
 
 _Until Dawnin_ pelaaminen on myös emotionaalisesti kivulias kokemus, enkä tällä kertaa puhu sen aiheuttamista pelkotiloista. Juoni haarautuu useassa kohtaa ja valintojen lopullisuuden vuoksi jokaista valintaa kannattaa _Quantic Dreamin_ peleistä opitulla hartaudella miettiä tarkkaan.
 
@@ -50,7 +50,7 @@ Kuten oikeassakin elämässä, _Until Dawnissa_ et saa tilaisuutta palata ajassa
 
 Juuri tilanteiden peruuttamattomuuden kautta peliin jää ensimmäisen kerran jäljiltä vielä suuri määrä jälleenpeluuarvoa. Voit uskotella itsellesi, että ensi kerralla kaikki sujuu paremmin, vaikka et voi olla siitä lainkaan varma.
 
-[pullquote]“Vuorovaikutteisessa kerronnassa on voimaa myös kauhupeleihin viitatessa.”[/pullquote]
+<div class="pullquote">“Vuorovaikutteisessa kerronnassa on voimaa myös kauhupeleihin viitatessa.”</div>
 
 Istun jälleen penkillä tohtori Hillin entistäkin rapistuneemmassa toimistossa hänen moittiessa minua vääristä valinnoistani. Mitä tein väärin? Emmekö kaikki ole jo tuomittuja? Kohtaukset tohtorin kanssa ovat loppuun saakka lievässä surrealistisuudessaan hauskoja irtiottoja pelin tarinasta.
 
@@ -60,7 +60,7 @@ Mistä kaikki sitten alkoi? _Until Dawnin_ varsinaisessa tarinassa palataan prol
 
 Tarinan alusta käytetään reiluhko osa hahmojen esittelyyn ja pohjustukseen, missä kannattaa olla pelkkänä korvana. Myöhemmin kyseisiä hahmoja ohjatessa heidän keskusteluihin voi toki vaikuttaa ja näin ollen kuljettaa tarinaa haluamaansa suuntaan. Esimerkiksi Matt ja Emily ovat nuori pariskunta, joiden tuore parisuhde on menneiden tapahtumien vuoksi alati koetuksella. Kun Emily moittii Mattia toistuvasti, voi pelaaja valita ollako kannustava vai antaako samalla mitalla takaisin. Vaihtoehtoihin lukeutuu tietysti myös molempien tapattaminen.
 
-[![Sam (Hayden Panettiere)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/sam.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/sam.jpg)
+[![Sam (Hayden Panettiere)](/uploads/2015/09/sam.jpg)](/uploads/2015/09/sam.jpg)
 
 _Until Dawnin_ pelaajalle kohdistama ”musteläikkätesti” on kekseliäs tapa nostaa koetun kauhun teho seuraavalle tasolle. Kun pelissä avasin erään kaapin ja sieltä silmille syöksähti aggressiivinen ahma tai kun heikosti valaistussa kellarissa suuren hämähäkin varjo kulki television ruudun poikki, säpsähdin aidosti. Olisiko vaikutus ollut sama, jos olisin valehdellut pelille ja vakuuttanut pelkääväni klovneja, joille korkeintaan nauran?
 
@@ -68,7 +68,7 @@ Until Dawn pelottaakin parhaiten silloin, kun olet täysin rehellinen itsellesi,
 
 Kokeilevat ja mukautuvat kauhuelementit saavat tosin pelin viimeisellä puolikkaalla väistyä Algonkin-kansojen mytologiasta kaapattujen wendigo-olentojen saavuttua noutamaan kannibalismin harjoittajia.
 
-[pullquote]“Raakalaismainen realismi saa ohimot kipunoimaan voimakkaasti, mutta hetken itsetutkiskelun jälkeen ymmärrän tästä pelin vienon kieron viehätyksen olevan peräisin.[/pullquote]
+<div class="pullquote">“Raakalaismainen realismi saa ohimot kipunoimaan voimakkaasti, mutta hetken itsetutkiskelun jälkeen ymmärrän tästä pelin vienon kieron viehätyksen olevan peräisin.</div>
 
 Wendigojen tuominen kuvioihin esittelee sen pakollisen yliluonnollisen voiman, joka toimii viimeisenä esteenä pelaajan matkalla. Vikkelästi liikkuvat otukset tarjoavat lähinnä epämiellyttäviä ääniä, muutaman verisen kohtauksen ja maalin ammuksille.
 
@@ -76,7 +76,7 @@ Teemallisesti wendigot kytkeytyvät luonnon haluun vastustaa ihmiskuntaa, mutta 
 
 Intiaanikansojen tarustossa wendigot heräävät saalistamaan öisin ihmislihaan sortuneita heikko-osaisia ja mökillinen nuoria on mitä oivallisin katettu pöytä niille. Ainakin siihen asti, kunnes tyttöystävänsä menettämisestä suivaantunut Mike löytää haulikon. Enää puuttuu vain käteen asennettava moottorisaha, mutta camp-huumorin puolelle _Until Dawn_ ei alennu, vaan kokonaisuus pysyy vakavana. Verisillä kohtauksilla toki herkutellaan toisinaan jopa sadististen Saw-elokuvien tyyliin.
 
-[![Matt ja Emily vaarassa](http://www.pelilegacy.fi/wp-content/uploads/2015/09/matt_and_emily.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/matt_and_emily.jpg)
+[![Matt ja Emily vaarassa](/uploads/2015/09/matt_and_emily.jpg)](/uploads/2015/09/matt_and_emily.jpg)
 
 Toimittaja **Patrick Klepeck** avaa [Kotakussa julkaistussa artikkelissaan kauhuelokuviin pinttyneitä trooppeja](http://kotaku.com/how-until-dawn-messes-with-two-of-horror-s-most-overuse-1729817525), joita myös _Until Dawn_ tuo estoitta ruutuun.
 

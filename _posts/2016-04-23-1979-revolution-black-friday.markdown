@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2016-04-23 08:05:46+00:00
 excerpt: 1979 Revolution hämärtää entisestään opetuksellisen ja viihteellisen pelin
@@ -23,7 +23,7 @@ tags:
 - Tositapahtumat
 ---
 
-[![1979 Revolution](https://www.pelilegacy.fi/wp-content/uploads/2016/04/1979_revolution_1.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/04/1979_revolution_1.jpg)
+[![1979 Revolution](/uploads/2016/04/1979_revolution_1.jpg)](/uploads/2016/04/1979_revolution_1.jpg)
 
 [ingressi]1979 Revolution hämärtää entisestään opetuksellisen ja viihteellisen pelin rajoja. Historian luotaamisessa dramaattisin keinoin se ei valista Iranin tärkeistä tapahtumista vain yhdestä näkökulmasta. Kun tapahtumat eskaloituvat armeijan esiinmarssiin mielenosoituksessa, oletko valmis heittämään kiven?[/ingressi]
 
@@ -37,7 +37,7 @@ _1979 Revolutionin_ tapahtumien konteksti oli länsimaalaisille verrattain tunte
 
 Sarjan ensimmäinen osa _Black Friday_ alkaa syyskuun 1978 tapahtumista, jolloin päähenkilö **Reza Shirazi** palaa Iranin pääkaupunkiin, Teheraniin, oltuaan Euroopassa opiskelemassa. Julkaisua edeltäneessä trailerissakin nähdyt katsaukset tulevaisuuteen näyttävät kuinka Rezaa kuulustellaan rankoin ottein poliittisten vankien säilytyspaikkana tunnetuksi tulleessa Evinin vankilassa muutamaa vuotta myöhemmin. Kuulustelijana toimii vankilanjohtaja **Asadollah Lajevardi**, jonka tiedetään oikeassa elämässä syyllistyneen lukuisiin ihmisoikeusrikkomuksiin muun muassa vankeja kiduttaen ja teloittaen. Lajevardin käsittely on armotonta myös pelissä: alun kuulustelu onnistuu tuntumaan aidosti painostavalta. Henkisesti se laittaa koville vasta lopussa.
 
-[![1979 Revolution](https://www.pelilegacy.fi/wp-content/uploads/2016/04/1979_revolution_2.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/04/1979_revolution_2.jpg)
+[![1979 Revolution](/uploads/2016/04/1979_revolution_2.jpg)](/uploads/2016/04/1979_revolution_2.jpg)
 
 Oivaltavana ratkaisuna _1979 Revolution_ välttää poliittisten linjanvetojen ja mustavalkoisen aseenteellisuuden karikot. Vallankumouksen vaiheita kameransa avulla dokumentoiva Reza on puolueeton hahmo, jota eri voimat repivät kukin omiin suuntiinsa. Hän ei ole selkeästi hallituksen eikä vallankumouksellisten puolella, mikä toimii lähtökohtana monille eteen tuleville valinnoille.
 
@@ -49,7 +49,7 @@ Realisminsa turvin _1979 Revolution_ pyrkii nousemaan muiden saman tyylisuunnan 
 
 Kuvat tunnetusti ilmaisevat asiat tekstiä voimakkaammin: valokuvat näyttävät, miten iranilaiset joutuivat jonottamaan kadulla polttoainetta tai kuinka lääkärit hoitivat mellakoissa haavoittuneita ihmisiä. Shirazin perheen kotoa löytyvät vuosina 1940–79 kuvatut oikeat kotivideot tuovat suttuisuudestaan huolimatta lisää syvyyttä hahmoihin ja saavat niin ikään hetkeksi pysähtymään. Todellisten tapahtumien virtaaminen pelin sisälle on aina kiehtovaa ja juuri edellä mainituista asioista on havaittavissa _1979 Revolutionin_ fokus.
 
-[pullquote]National Foundation for Computer Games on varoittanut iranilaisia perheitä ostamasta peliä, sillä se voisi pahimmassa tapauksessa turmella nuorison mielen[/pullquote]
+<div class="pullquote">National Foundation for Computer Games on varoittanut iranilaisia perheitä ostamasta peliä, sillä se voisi pahimmassa tapauksessa turmella nuorison mielen</div>
 
 Kaltaiselleni vieraista kulttuureista innostuneelle tavattoman suuri kiinnostuksen kohde on myös pelissä esitelty iranilainen Taarof-etiketti, jonka mukaan tarjotusta asiasta tai palveluksesta tulisi ensin kieltäytyä kohteliaasti kolme kertaa ennen hyväksymistä. Löytyypä erään tapahtumapaikan seiniltä myös yksityiskohtainen ohje islamilaisen rukoushetken suorittamiseen.
 

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-06-02 14:56:20+00:00
 excerpt: Kuten on totuttu, jokaisen kuukauden päätteeksi kuratoimme artikkelin täydeltä
@@ -30,7 +30,7 @@ tags:
 - Virtuaalitodellisuus
 ---
 
-[![Näitä pelikirjoituksia luimme tässä kuussa](http://www.pelilegacy.fi/wp-content/uploads/2015/02/pelikirjoitukset.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/pelikirjoitukset.png)
+[![Näitä pelikirjoituksia luimme tässä kuussa](/uploads/2015/02/pelikirjoitukset.png)](/uploads/2015/02/pelikirjoitukset.png)
 
 Kuten on totuttu, jokaisen kuukauden päätteeksi kuratoimme artikkelin täydeltä edeltävän kuun parhaita (osittain) peliaiheisia kirjoituksia lukijoiden nautittavaksi. Toukokuun kattaus kutsuu tallentamaan linkit vaikkapa tabletin lukuohjelmaan ja suuntaamaan kohti läheistä puistoa -- mielellään riippumaton kanssa.
 

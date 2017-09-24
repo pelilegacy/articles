@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-06-18 15:00:45+00:00
 excerpt: Dave Baggett oli kuuluisan pelistudio Naughty Dogin ensimmäinen työntekijä
@@ -20,7 +20,7 @@ tags:
 - Pelinkehitys
 ---
 
-[![Out of Memory?](http://www.pelilegacy.fi/wp-content/uploads/2015/06/cb_out_mem.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/06/cb_out_mem.jpg)
+[![Out of Memory?](/uploads/2015/06/cb_out_mem.jpg)](/uploads/2015/06/cb_out_mem.jpg)
 
 Oletko koskaan miettinyt, kuinka menneisyyden hyvinkin näyttävät pelit saatiin mahtumaan teknisesti alkeellisille konsoleille ja kotitietokoneille? Erityisesti demoskenekulttuurissa on ohjelmien optimointi mahdollisimman pieneen tilaan muodostunut omaksi taiteenlajikseen.
 

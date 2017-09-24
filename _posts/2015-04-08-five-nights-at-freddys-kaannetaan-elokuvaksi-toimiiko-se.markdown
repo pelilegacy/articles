@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-04-08 10:47:08+00:00
 excerpt: The Hollywood Reporterin mukaan Scott Cawthonin suunnittelema ja kehittämä
@@ -18,7 +18,7 @@ tags:
 - Scott Cawthon
 ---
 
-[![Five Night's at Freddys kääntyy elokuvaksi](http://www.pelilegacy.fi/wp-content/uploads/2015/04/fnaf_elokuva.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/04/fnaf_elokuva.jpg)
+[![Five Night's at Freddys kääntyy elokuvaksi](/uploads/2015/04/fnaf_elokuva.jpg)](/uploads/2015/04/fnaf_elokuva.jpg)
 
 Ei mitään niin hienoa kuin unettomat yöt vartijana mekaanisten lelujen asuttamassa pizzeriassa.
 

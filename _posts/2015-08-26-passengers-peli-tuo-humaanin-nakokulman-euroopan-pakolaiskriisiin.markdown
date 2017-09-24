@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-08-26 10:31:04+00:00
 excerpt: Euroopan pakolaiskriisi syvenee entisestään useiden ihmisen ottaessa riskin
@@ -23,7 +23,7 @@ tags:
 - Uutispelit
 ---
 
-[![Passengers](http://www.pelilegacy.fi/wp-content/uploads/2015/08/passengers_game.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/08/passengers_game.jpg)
+[![Passengers](/uploads/2015/08/passengers_game.jpg)](/uploads/2015/08/passengers_game.jpg)
 
 Euroopan pakolaiskriisi syvenee entisestään useiden ihmisen ottaessa riskin Välimerta ylittäessä. Kuluvan vuoden keväästä alkaen jo yli tuhat ihmistä on joutunut äärimmäisen vaarallisten salakuljetusmatkojen uhriksi. [Vice-lehdessä julkaistun syväluotaavan artikkelin](http://motherboard.vice.com/read/hell-on-high-seas) mukaan satoja turvapaikanhakijoita ahdetaan pieniin huonokuntoisiin aluksiin vailla kunnollista muonitusta. Joskus olot ovat jopa niin tukalat, että matkustajat joutuvat lähtemään toiseen maahan kokonaan ilman miehistöä apunaan vain kompassi. Samalla Euroopan unionin jäsenmaissa keskustellaan pitäisikö hädässä olevia ihmisiä vastaanottaa lainkaan.
 
@@ -41,13 +41,13 @@ Vahvalla sanomalla varustetussa pelissä pelaaja asetetaan Eurooppaan ihmisiä t
 
 Merimatkalla useat matkustajasi kuolevat myrskyssä, ellei juomavesi lopu tai rannikkovartiosto ota kiinni ensin. Passengers on pohjimmiltaan peli, jossa tasapainoilet riskin ottamisen ja rahan tekemisen välillä, mutta pelaajan toimiminen eräänlaisena tuomarina on kenties pelin vakuuttavin asia. Jokaisen matkustajan osalta kerrotaan nimen lisäksi, taustat, mahdolliset perhesuhteet ja määränpää. Näiden tietojen valossa pelaajan on päätettävä ketä ottaa mukaan, millä hinnalla ja ketä lopulta jättää rannalle.
 
-[pullquote]“Passengersin luoneet Francois Alliot ja Arnaud De Bock haluavat pelillään muistuttaa meitä, että poliittisen keskustelun vaahdotessa puolin ja toisin ihmisiä kuolee jatkuvasti.”[/pullquote]
+<div class="pullquote">“Passengersin luoneet Francois Alliot ja Arnaud De Bock haluavat pelillään muistuttaa meitä, että poliittisen keskustelun vaahdotessa puolin ja toisin ihmisiä kuolee jatkuvasti.”</div>
 
 Päädyin ottamaan mahdollisimman paljon ihmisiä mukaan kalliilla pääsymaksulla, mikä johti juomaveden loppumiseen ja siihen, että yli puolet matkustajista kuoli matkalla. Paluumatkalla rannikkovartiosto vei kaikki rahani -- ansaitsin tämän opetuksen.
 
 _Passengersin_ eteen asettamat eettiset kysymykset ovat suorastaan tyrmääviä. Otatko mukaan sairaita ihmisiä, jotka lähes varmasti kuolevat matkalla vai siirrätkö heidät syrjään ja varustat laivasi vain terveillä ihmisillä? Otatko mukaan enemmän ihmisiä kuin kantokyky sallii ja riskeeraat kaikkien hengen? Jos tiedät jollain olevan enemmän rahaa kuin toisella, yrittäisitkö neuvotella tältä suuremman maksun?
 
-[![Passengers](http://www.pelilegacy.fi/wp-content/uploads/2015/08/passengers.gif)](http://www.pelilegacy.fi/wp-content/uploads/2015/08/passengers.gif)
+[![Passengers](/uploads/2015/08/passengers.gif)](/uploads/2015/08/passengers.gif)
 
 **Lucas Popen** indie-menestykseksi noussut _Papers Please_ on selkeästi eräs ensimmäisenä mieleen tulevista verrokeista, mutta Passengersissa ihmisten karsiminen ei ole mustavalkoinen kysymys maahan pääsemisestä. Pelissä on ehdottomasti ainesta jatkokehitykselle.
 

@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2016-01-18 15:28:49+00:00
 excerpt: Kun digitaaliset pelihyllyt olivat ratketa liitoksistaan, Niko sulki toimistonsa
@@ -17,7 +17,7 @@ tags:
 - Trello
 ---
 
-![Pelihylly](https://www.pelilegacy.fi/wp-content/uploads/2016/01/pelihylly.jpg)
+![Pelihylly](/uploads/2016/01/pelihylly.jpg)
 
 [ingressi]Kun digitaaliset pelihyllyt olivat ratketa liitoksistaan, Niko sulki toimistonsa oven ja ryhtyi töihin.[/ingressi]
 
@@ -41,7 +41,7 @@ Loin palveluun seuraavanlaiset avainsanat, joita aion käyttää myöhemmin myö
 
 **Hidden:** Viimeinen kategoria on varattu niille kokoelman rumille yksilöille, joita valitettavan usein itsekurin rappeutuessa meidän jokaisen kirjastoon ajautuu esimerkiksi erilaisten Bundle-pakettien kylkiäisinä. GOG tarjoaa mahdollisuuden piilottaa nämä pelit hyllystä, painamalla yksittäisen pelin kohdalla _Hide Game_, mutta muissa palveluissa saatat haluta antaa näillekin oman kategorian.
 
-[pullquote]Ehkäpä tragikoomisinta on kuitenkin toistuvasti havaita omistavansa pelejä, joita ei muista koskaan ostaneensa.[/pullquote]
+<div class="pullquote">Ehkäpä tragikoomisinta on kuitenkin toistuvasti havaita omistavansa pelejä, joita ei muista koskaan ostaneensa.</div>
 
 Avainsanat ovat todella tehokas tapa organisoida kokoelmaa, mutta miksi tyytyisit pelialustojen ja -kauppojen tarjoamiin rajoitettuihin mahdollisuuksiin, kun kolmansien osapuolten työkalut tarjoavat kaiken tarvittavan ja vielä enemmän?
 

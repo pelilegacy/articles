@@ -1,36 +1,18 @@
 ---
 author: vierastalo
-comments: true
 date: 2016-11-01 09:50:24+00:00
-excerpt: HDR, 4K ja VR ovat kaikki lyhenteitä asioista, joita kuluttajille ei ole
-  kovin helppo avata, saati sitten innostaa heitä käyttämään niihin rahojaan. Miten
-  eri yhtiöt markkinoivat näitä uusia konsepteja, ja miten siinä mennään mönkään?
+excerpt: HDR, 4K ja VR ovat kaikki lyhenteitä asioista, joita kuluttajille ei ole kovin helppo avata, saati sitten innostaa heitä käyttämään niihin rahojaan.
+cover:
+    src: /uploads/2016/11/monoliitti6.png
+    alt: Harmillisen Darwinistinen Rappio
 layout: post
-link: https://www.pelilegacy.fi/kolumnit/3048/harmillisen-darwinistinen-rappio
-slug: harmillisen-darwinistinen-rappio
 title: 'Monoliitti: HDR - tai Harmillisen Darwinistinen Rappio'
-wordpress_id: 3048
 categories:
 - Kolumnit
 - Monoliitti
-tags:
-- 4K
-- Audio
-- HDR
-- Microsoft
-- Nintendo
-- Nintendo Switch
-- Peliteknologia
-- Sony
-- Video
-- Virtuaalitodellisuus
 ---
 
-[![Monoliitti](https://www.pelilegacy.fi/wp-content/uploads/2016/11/monoliitti6.png)](https://www.pelilegacy.fi/wp-content/uploads/2016/11/monoliitti6.png)
-
-[ingressi]_HDR_, _4K_ ja _VR_ ovat kaikki lyhenteitä asioista, joita kuluttajille ei ole kovin helppo avata, saati sitten innostaa heitä käyttämään niihin rahojaan. Miten eri yhtiöt markkinoivat näitä uusia konsepteja, ja miten siinä mennään mönkään?[/ingressi]
-
-**2016 on omituinen vuosi myös teknologian saralla.** Pitkään aikaan emme ole nähneet suuryrityksiltä näin suurta työntöä uusia tekniikoita kohti. Perinteisten markkinointitermien, kuten kannettavuuden, rinnalle on noussut _4K_ (noin neljä kertaa perinteistä _Full HD_ -kuvaa suurempi resoluutio), _VR_ (virtuaalitodellisuus) ja _HDR _(_High Dynamic Range_, uudenlainen kuvapaneeli, joka tarjoaa realistisempia kontrastiarvoja kuvalle). Jokainen näistä toi mukanaan uuden haasteen: miten markkinointi voi avata suurelle yleisölle oven etänä jonnekin, mikä pitää kokea?
+**2016 on omituinen vuosi myös teknologian saralla.** Pitkään aikaan emme ole nähneet suuryrityksiltä näin suurta työntöä uusia tekniikoita kohti. Perinteisten markkinointitermien, kuten kannettavuuden, rinnalle on noussut _4K_ (noin neljä kertaa perinteistä _Full HD_ -kuvaa suurempi resoluutio), _VR_ (virtuaalitodellisuus) ja _HDR_ (_High Dynamic Range_, uudenlainen kuvapaneeli, joka tarjoaa realistisempia kontrastiarvoja kuvalle). Jokainen näistä toi mukanaan uuden haasteen: miten markkinointi voi avata suurelle yleisölle oven etänä jonnekin, mikä pitää kokea?
 
 _VR_-lasit ovat ilmiöistä pisimpään tuloaan tehnyt. Ensimmäiset _Oculus Riftin_ joukkorahoitetut versiot saapuivat tukijoilleen vuonna 2014. Teknologian laatu loi jo tällöin lähtemättömän lupauksen siitä, että valmiissa versiossa mukana olisi jotain uutta ja mullistavaa. HTC ja Sony hyppäsivät pian samaan kelkkaan _Vivellä_ ja _PSVR:llä_.
 
@@ -42,11 +24,12 @@ Tämä on harmillista, koska muuten _VR_ on vuoden suurista teknologiauutuuksist
 
 Onnistumisen takaamiseksi Sony on aktiivisimpana kolmesta toimijasta yrittänyt saada laitteensa kuluttajien kokeiltavaksi. Suomeen asti ilmaisia kokeiluständejä ei messujen ulkopuolella ole vielä saatu, mutta Yhdysvalloissa näitä löytyy jokaisesta merkittävästä kaupungista. Iso-Britanniassa videopelikauppaketju _GAME_ otti ohjat omiin käsiinsä ja päätti veloittaa asiakkaitaan laitteen kokeiluista. Sonyn rooli kokeilussa on kysymysmerkki, mutta rohkenen epäillä, että he eivät ole asiaa siunanneet -- niin merkittävä rooli kuluttajien totuttamisella virtuaalitodellisuuteen kun on.
 
-https://twitter.com/GAMEbromley/status/789746618455232512
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Thinking about purchasing <a href="https://twitter.com/hashtag/PSVR?src=hash">#PSVR</a> ? Come and try it in store today! £5 for 10 minutes or £15 for 30 minutes! 🎮 <a href="https://t.co/bQd8pFI0tq">pic.twitter.com/bQd8pFI0tq</a></p>&mdash; GAME Bromley (@GAMEbromley) <a href="https://twitter.com/GAMEbromley/status/789746618455232512">22 October 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Sony on _VR:n_ ohella toisen ison haasteen edessä. [_Playstation 4 Pro_](https://www.youtube.com/watch?v=11XjMplfTd4) -malli julkistettiin syyskuussa. Tehokkaammalla raudalla täytetty konsoli kykenee pyörittämään (lähinnä alhaisemmasta resoluutiosta skaalattuja) _4K_-pelejä täydellä _HDR_-värikirjolla. Sanokaa äskeinen lause ihmiselle, joka ei seuraa peli- ja teknologia-alaa, ja todistakaa hämmennyksen valtaan joutumista. Miten isompi resoluutio sekä korkeampi väriskaala näytetään kuluttajille, jotta he ymmärtävät sen hyödyt?
 
-[pullquote]_4K_ vaatii kalliin television tai projektorin toimiakseen[/pullquote]
+<div class="pullquote">4K vaatii kalliin television tai projektorin toimiakseen.</div>
 
 **Sonyn vastaus toistaiseksi: ei mitenkään.** Lehdistötilaisuutta pystyi kyllä seuraamaan Youtuben tarjoamalla _4K_-tarkkuudella, mutta koska alustana oli Youtube, tarkoitti tämä sitä, että täydellä ruudulla nykyaikaisella _Full HD_ -näytöllä video näytti keskinkertaisesti pakatulta _blu-ray_ -kuvalta. Vaikka kuva olisi pakkaamatonta, se näyttäisi silti alle 50 tuuman televisioissa samanlaiselta kuin vastaava _Full HD_ -video. _4K_:n ongelma onkin aikojen alusta ollut, että se vaatii ison ja kalliin television tai projektorin hyödyttääkseen katsojia millään tapaa.
 
@@ -54,7 +37,7 @@ Sony on _VR:n_ ohella toisen ison haasteen edessä. [_Playstation 4 Pro_](https:
 
 _Playstation 4 Pro_ ilmestyy ensi kuussa. Jos siis haluaisit hyötyä laitteesta täysin siemauksin, tarvitset _4K_-television täydellä _HDR_-tuella. Nämä maksavat tällä hetkellä saman verran kuin kahdet _VR_-lasit. Microsoft otti fiksusti takapakkia omista konsolinuudistamissuunnitelmistaan jättämällä tulevan _Scorpio_-konsolinsa tarkan julkistamisen ensi vuoden puolelle. Ehkä siihen mennessä AV-ala on päättänyt, miten _HDR:ää_ tulisi ylipäänsä toteuttaa kuvapaneeleissa.
 
-[pullquote]Konsolijätistä on tullut häntäänsä haukkova käärme, kapitalistisen evoluution lopputulema.[/pullquote]
+<div class="pullquote">Konsolijätistä on tullut häntäänsä haukkova käärme, kapitalistisen evoluution lopputulema.</div>
 
 **Painotus suurempaan resoluutioon ja _HDR_-tekniikkaan** tuntuu peliharrastajista varmasti hieman oudolta aikana, jolloin nykyisetkään pelit eivät yleensä pyöri tasaisesti 60 ruudun päivitysnopeudella ja _Full HD_ -tarkkuudella. Ne ovat kuitenkin isoja harppauksia, ja etenkin televisiovalmistaja Sonyn tapauksessa vaativat laitteistoa, jonka myyminen saattaisi elvyttää alati kituuttavaa liiketoimintaa. Päätös painottaa kuluttajille näitä kahta etua sen sijaan, että uutta _Tomb Raideria_ voi pelata tasaisella 60 ruudun päivitysnopeudella, on yksinkertaisesti rahalähtöinen. Muutos alkuperäisen Playstation 4:n markkinointiin, joka perustui aina pelien vetovoimaan, on valitettava. Konsolijätistä on tullut häntäänsä haukkova käärme, kapitalistisen evoluution lopputulema.
 
@@ -64,10 +47,6 @@ Selvää kuitenkin on, että suuren yleisön reaktio konsolin ilmestyessä ensi 
 
 Toivottavasti Nintendo ei monimutkaista sitä jatkossa. Konsolin modulaarinen luonne on kuin luotu turhien lisäosien markkinoinnille.
 
-
-
-* * *
-
-
+***
 
 _Päivitys 1.11.2016: Korjattu HDR:n määritelmä oikeammaksi. Kiitokset Petri Teittiselle tarkkanäköisyydestä._

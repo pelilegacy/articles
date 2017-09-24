@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-04-15 07:32:05+00:00
 excerpt: Flickr-käyttäjä Jonathan Taylor on siirtänyt verkkoon runsaasti hienoja 1990-luvun

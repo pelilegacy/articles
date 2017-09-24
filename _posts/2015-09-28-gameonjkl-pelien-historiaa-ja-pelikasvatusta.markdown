@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-09-28 10:49:58+00:00
 excerpt: 'Tunnetko pelien historian? Mikä on Suomen pelimuseo? Mihin pelikasvatusta
@@ -21,7 +21,7 @@ tags:
 - Veturitallit
 ---
 
-[![Mikko Meriläinen](http://www.pelilegacy.fi/wp-content/uploads/2015/09/gameonjkl_mikko_merilainen.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/gameonjkl_mikko_merilainen.jpg)
+[![Mikko Meriläinen](/uploads/2015/09/gameonjkl_mikko_merilainen.jpg)](/uploads/2015/09/gameonjkl_mikko_merilainen.jpg)
 
 [ingressi]Peli Legacy jatkoi yhteistyötään Jyväskylän kaupungin kanssa syyskuun alussa auttamalla sekä pelikasvatusseminaarin että kaksi päivää kestäneen PLAYHARD-konsolipelitapahtuman järjestämisessä. Hitaan journalismin periaatteita tukevassa raportissamme paneudutaan mielestämme varsin onnistuneen seminaarin puintiin.[/ingressi]
 
@@ -59,7 +59,7 @@ Ajan dramaattinen konsolisota oli vasta ovella, kun Nintendo otti yhteen juuri t
 
 Sodan kulku muuttui osittain Nintendon SNES-konsolin pyrittyä laajentamaan teknologiansa uuden median, eli CD-levyn puolelle. Laajennus oli määrä toteuttaa yhteistyössä Sonyn kanssa, mutta kiistojen vuoksi Nintendo päättikin jatkaa projektia yhteistyössä Philipsin kanssa. Tästä suivaantuneena Sony kehitti ja julkaisi muutamaa vuotta myöhemmin Sony PlayStationin, josta sittemmin tuli ensimmäinen sataan miljoonaan myytyyn laitteeseen yltänyt pelikonsoli.
 
-[pullquote]“Ajan dramaattinen konsolisota oli vasta ovella, kun Nintendo otti yhteen juuri toimitusjohtajaa vaihtaneen Segan kanssa.”[/pullquote]
+<div class="pullquote">“Ajan dramaattinen konsolisota oli vasta ovella, kun Nintendo otti yhteen juuri toimitusjohtajaa vaihtaneen Segan kanssa.”</div>
 
 Perintöä jatkanut PlayStation 2 oli niin tehokkaasti markkinoitu kuluttajille, että Pärssisen mukaan kukaan ei jäänyt haikailemaan Sega Dreamcastin perään ja näin Sega hiljalleen antautui paineen edessä. Uusi sukupolvi oli syntynyt, jonka erääksi suureksi ansioksi voidaan lukea Microsoftin verkkopelaamisen kotisohvalle popularisoineen Xbox Live -palvelun.
 
@@ -105,7 +105,7 @@ Negatiivinen leima on Meriläisen mukaan toisaalta myös ansaittu. Kun TV-kasvo 
 
 [Toimittaja **Maddy Myers** on kirjoittanut hyvän kolumnin Mary Sue -lehteen Jimmy Kimmelin tapauksesta](http://www.themarysue.com/jimmy-kimmel-trolls-gamers/). Myersin mukaan Kimmel on rikas ja kuuluisa mies, jonka elämä on hyvin turvattu ja täten häneen kohdistuvat uhkaukset voi ottaa kevyemmin kuin esimerkiksi vähemmistön edustajan, jolla on esittää kurantteja mielipiteitä pelaamisesta.
 
-[pullquote]“1970-luvulla peliharrastuksensa aloittanut voisi helposti moittia 1990-luvulla kasvanutta epäaitoudesta.”[/pullquote]
+<div class="pullquote">“1970-luvulla peliharrastuksensa aloittanut voisi helposti moittia 1990-luvulla kasvanutta epäaitoudesta.”</div>
 
 Myyteistä Meriläinen kumoaa mm. ruutuajan, koska vanhemman on helppo livetä kasvatusvastuusta ruutuaikaan vetoamalla. Sen sijaan tulisi kiinnittää huomiota siihen, mitä lapsi pelissä tekee. Lisäksi Meriläinen pitää harmillisena sitä, että tunteja putkeen piirtävä tai lukeva lapsi nähdään luovana, mutta tunteja putkeen pelaavalla ajatellaan herkästi olevan jokin ongelma.
 

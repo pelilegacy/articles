@@ -42,7 +42,7 @@ Vaikka aluksi _The Old Blood_ ei tuokaan hirveästi mitään uutta verrattuna _T
 
 Juuri kun peli alkaa tuntua siltä, että se olisi antanut kaiken tarjottavan, alkaa mieluisia yllätyksiä sadella oikein urakalla. Pelin loppupuolisko todella räjäyttää tajunnan pirstaleiksi yllättävyydellään. Pelin kesto on noin kahdeksan tuntia joka on todella hyvä mitta lisäosalle, jollainen _The Old Blood_ on.
 
-[pullquote]“Kokonaisuudessaan The Old Bloodin jaksotus on toteutettu mainiosti taisteluiden, hiiviskelyiden ja silkan etenemisen välillä.”[/pullquote]
+<div class="pullquote">“Kokonaisuudessaan The Old Bloodin jaksotus on toteutettu mainiosti taisteluiden, hiiviskelyiden ja silkan etenemisen välillä.”</div>
 
 Myös _The New Orderissa_ loistaneet _Wolfenstein 3D_ -unet ovat tarjolla, ja niihin pääsee totutusti käsiksi nukkumalla ympäri linnaa sijaitsevissa sängyissä. Nämä minipelit takaavat vaihtelua jatkuvaan räiskintään, kun pääosassa on avainten etsintää ja oikeiden ovien löytämistä.
 

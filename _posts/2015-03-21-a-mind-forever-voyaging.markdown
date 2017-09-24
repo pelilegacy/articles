@@ -1,27 +1,15 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2015-03-21 15:16:03+00:00
-excerpt: Luetko peliaiheista tietokirjallisuutta koskaan? Käsittelyssä Dylan Holmesin
-  A Mind Forever Voyaging – tietopaketti pelien tarinankerronnan historiaan.
+excerpt: Luetko peliaiheista tietokirjallisuutta koskaan?
+cover:
+  src: /uploads/2015/03/a_mind_forever_voyaging.jpg
+  alt: A Mind Forever Voyaging
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/1656/a-mind-forever-voyaging
-slug: a-mind-forever-voyaging
 title: A Mind Forever Voyaging - videopelien tarinankerronnan historiaa
-wordpress_id: 1656
 categories:
-- Arvostelut
 - Kirjat
-tags:
-- Dylan Holmes
-- Kirjallisuus
-- Narratiivi
-- Taide
 ---
-
-[![A Mind Forever Voyaging](http://www.pelilegacy.fi/wp-content/uploads/2015/03/a_mind_forever_voyaging-201x300.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/a_mind_forever_voyaging.jpg)
-
-
 
 Luetko peliaiheista tietokirjallisuutta koskaan?
 
@@ -31,11 +19,7 @@ Kirjassaan Holmes tutkii erityisesti pelien pelaajille tarjoamia (moraalisia) va
 
 Holmes käy läpi 13 historiallisesti merkittävää peliä, jotka ovat julkaisunsa yhteydessä haastaneet pelaajien mielikuvituksen ja selkeästi vieneet digitaalisia pelejä ilmaisukeinona eteenpäin. Luku voi vaikuttaa pieneltä, mutta jokaisesta pelistä Holmes kirjoittaa riittämiin yksityiskohtaista tietoa, josta voivat ottaa oppia niin nuoret kuin vanhatkin pelaajat.
 
-
-
-<blockquote>“From the text-based adventure of Planetfall and the interactive cinema of Heavy Rain to the one-act play of Façade and the simulated world of Shenmue, Holmes showcases the diversity of video game stories that have emerged in the last 30 years.”</blockquote>
-
-
+> "From the text-based adventure of Planetfall and the interactive cinema of Heavy Rain to the one-act play of Façade and the simulated world of Shenmue, Holmes showcases the diversity of video game stories that have emerged in the last 30 years."
 
 Pohjimmainen kysymys tietenkin on se kiivaasti väitellyin: **voivatko pelit olla taidetta?**
 
@@ -51,7 +35,7 @@ Planetfallin kehittäjä **Steve Meretzky** on kertonut lukuisten pelaajien otta
 
 Planetfallista Holmes siirtyy sujuvasti moraalisten valintojen äärelle pelissä, jota monet pitävät edelleen yhtenä aidoimmista tietokoneroolipeleistä koskaan: _Ultima IV: Quest of the Avatar_.
 
-[pullquote]“Holmesin mukaan videopelit eivät elä tyhjiössä, vaan lainaavat aktiivisesti elementtejä eri taidemuodoista.”[/pullquote]
+<div class="pullquote">"Holmesin mukaan videopelit eivät elä tyhjiössä, vaan lainaavat aktiivisesti elementtejä eri taidemuodoista."</div>
 
 **Richard Garriotin**, eli Lord Britishin, luoman pelisarjan neljäs osa poikkesi edeltäjistään uudenlaisella lähestymistavalla. Garriot totesi vuonna 1992 antamassaan haastattelussa, kuinka hän oli saanut palautetta Ultima-sarjan osien I-III painottumisesta tavaroiden keräilyyn ja varastamiseen. Ennen kaikkea kolme ensimmäistä Ultimaa keskittyivät hyvän ja pahan väliseen taisteluun. Ultima IV:ssä sen sijaan Britannialle haettiin moraalista johtajaa, joka matkallaan omaksuisi kahdeksan eri hyvettä.
 
@@ -67,12 +51,10 @@ Holmes korostaa, että valintojen määrää tärkeämpää on kuitenkin tehdä 
 
 Kirjan loppupuolella asiaa käsitellään enempi. _Dear Esther_ -pelissä pelaajaa ajaa eteenpäin pelillisen haasteen sijasta tarinan seuraaminen. Samoin Heavy Rainin tapauksessa pelin suola on sen tarjoamassa interaktiivisessa elokuvassa.
 
-[![Hauskuus ja videopelit](http://www.pelilegacy.fi/wp-content/uploads/2015/03/fun_and_games.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/03/fun_and_games.png)
+[![Hauskuus ja videopelit](/uploads/2015/03/fun_and_games.png)](/uploads/2015/03/fun_and_games.png)
 
 Piinaavan yleinen tapa varsinkin pelijournalismissa on arvottaa pelit niiden tarjoaman hauskuuden perusteella. Esimerkiksi tähän Holmesilla on tarjota naseva vasta-argumentti. Siinä missä sarjakuvat ovat jo aikoja sitten lakanneet olemasta puhtaasti koomisia, myös videopelit ovat tulleet kauas pelihallien juuriltaan. Tämä on totta. Pelit voivat tarjota sellaisia vangitsevia kokemuksia, jotka eivät välttämättä ole hauskoja, ja niistä voi nauttia täysin rinnoin.
 
 Kielellisesti Holmes käyttää jonkin verran akateemista kieltä, mutta tekstin rakenne pysyy eheänä ja johdonmukaisena. Lopun liitteissä on vastauksia kirjaa koskeviin kysymyksiin, kuten esimerkiksi siihen miksi kirjassa ei käsitellä lainkaan suuria verkkopelejä. Holmesin mukaan yksinpelissä kyse on pelaajan ja kehittäjän välisestä tarinankerronnan kontekstista, joka muuttuu oleellisesti kun pelaajia onkin yhden sijasta jopa tuhansia.
 
 A Mind Forever Voyaging on erittäin kovatasoinen paketti pelitietoutta, joka antaa erityisesti pelisuunnittelijoille vinkkiä narratiivin toteuttamiseen tarjoten samalla harrastuksesta syvemmin kiinnostuneille pelaajille runsain määrin pyörryttävää triviaa.
-
-**Kirjan voi tilata paperisena itselleen [Amazonin verkkokaupasta](http://www.amazon.com/Mind-Forever-Voyaging-History-Storytelling/dp/1480005754). Jätä kommentti, jos olet jo lukenut kirjan.**

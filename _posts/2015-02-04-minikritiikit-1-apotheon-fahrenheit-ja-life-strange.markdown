@@ -1,36 +1,21 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2015-02-04 09:49:36+00:00
-excerpt: Toisinaan pelejä on niin paljon työn alla, että kaikista haluaisi kirjoittaa
-  yhtaikaa. Hetkinen, sehän on täysin mahdollista! Kokeilemme uutta tyyliä julkaista
-  arvioita sivustolla julkaisemalla 3 tai useamman pelin mittaisia minikritiikkejä
-  vastajulkaistuista peleistä. Oletko pelannut näitä jo?
+excerpt: Toisinaan pelejä on niin paljon työn alla, että kaikista haluaisi kirjoittaa yhtaikaa.
+cover:
+  src: /uploads/2015/02/minikritiikit_vol1.jpg
+  alt: Minikritiikit vol. 1
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/1389/minikritiikit-1-apotheon-fahrenheit-ja-life-strange
-slug: minikritiikit-1-apotheon-fahrenheit-ja-life-strange
-title: 'Minikritiikit 1: Apotheon, Fahrenheit ja Life Is Strange'
-wordpress_id: 1389
+title: 'Minikritiikit vol. 1: Apotheon, Fahrenheit ja Life Is Strange'
 categories:
-- Arvostelut
-- Minikritiikit
-tags:
-- Life is Strange
+- Arviot
 ---
 
-[![Minikritiikit](http://www.pelilegacy.fi/wp-content/uploads/2015/02/minikritiikit_vol1-600x450.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/02/minikritiikit_vol1.jpg)
+Hetkinen, sehän on täysin mahdollista! Kokeilemme uutta tyyliä julkaista arvioita sivustolla julkaisemalla 3 tai useamman pelin mittaisia minikritiikkejä vastajulkaistuista peleistä. Oletko pelannut näitä jo?
 
-[ingressi]Toisinaan pelejä on niin paljon työn alla, että kaikista haluaisi kirjoittaa yhtaikaa. Hetkinen, sehän on täysin mahdollista! Kokeilemme uutta tyyliä julkaista arvioita sivustolla julkaisemalla 3 tai useamman pelin mittaisia minikritiikkejä vastajulkaistuista peleistä. Oletko pelannut näitä jo?[/ingressi]
+***
 
-
-
-
-
-
-
-### [**Apotheon**](http://www.apotheongame.com)
-
-
+## [**Apotheon**](http://www.apotheongame.com)
 
 Oletko koskaan miettinyt, mitä Antiikin Kreikan savimaalauksissa tapahtuu? **Alien Trap Gamesin** toimintapainotteinen roolipeli Apotheon herättää voimakkaasti viivatut maalaukset eloon. Pelin taiteessa silmää miellyttää nimenomaan tyylillinen ratkaisu, jossa minimalismi ja kohteiden elävyys kättelevät. Tarinassa soturi **Nikandreos** suuntaa läpi Haadeksen aina Olympos-vuorelle saakka pudottamaan valtaistuimelta ihmiskunnalle selkänsä kääntäneen ylijumala Zeusin – siinäpä vasta vaatimaton ja jalo sankartyö. Tarina perustuu historian oppitunneilta tuttuun myyttiseen kiistaan Zeusin ja sisarvaimonsa Heran välillä.
 
@@ -38,21 +23,7 @@ Suuri asevalikoima ja hahmon kehittäminen vetävät vanhaa roolipeli-intoilijaa
 
 Toisinaan muuten sulavaa pelattavuutta nakertaa kontrollien omituinen sijoittelu, mikä ainakin peliohjaimella pelatessa hankaloitti etenemistä. Vihollisia ei kannata myöskään lähestyä sokeasti miekalla tai talikolla huitoen, vaan usein paras taktiikka on sijoittua etäälle, antaa jousen laulaa ja kotitekoisten räjähteiden lentää. Älä kuitenkaan pelästy, sillä Apotheon ei ole mikään _Volgarr the Viking_, vaan positiivisen suoraviivaisesti etenevä adrenaliinipurske. Kreikkalaisrunoilija Homeroksen Iliaan lukeminen ei ole pakollista pohjatietoa pelille, sillä peli toimii myös hyvin opettavaisena tutkimusretkenä länsimaisen sivilisaation kehtoon.
 
-
-
-* * *
-
-
-
-
-
-
-
-
-
-### [**Fahrenheit: Indigo Prophecy Remastered**](https://www.fahrenheit-game.com)
-
-
+## [**Fahrenheit: Indigo Prophecy Remastered**](https://www.fahrenheit-game.com)
 
 Ranskalainen art-house -kehittäjä **Quantic Dream** löi itsensä kunnolla läpi vuoden 2005 Fahrenheit-pelillä, joka tunnetaan lisänimellä Indigo Prophecy Pohjois-Amerikassa. Samalta tekijältä tuli myöhemmin PlayStation 3:lle tunnetumpi ja vuolaasti ylistetty Heavy Rain (2010). Fahrenheit kertoo oivallisen mielikuvituksellisin keinoin New Yorkissa asuvan **Lucas Kanen** elämän käännekohdat, jotka saavat alkunsa eräänä talvi-iltana altaan syvästä päästä Lucasin surmatessa julmasti transsin vaikutuksen alaisena erään kahvilan kanta-asiakkaan. Tapausta alkavat tutkia myös pelin kaksi muuta pelattavaa hahmoa: NYPD:n poliisit **Carla Valenti** ja **Tyler Miles**. Loppua kohden raamatulliset mittasuhteet saavuttava tarina pitää muun muassa takaumien ja runsaan temmon vaihtelun ansiosta tiukasti otteessaan.
 
@@ -62,21 +33,9 @@ Jollei ole vielä tullut selväksi: olen kiivas hyvän narratiivin kannattaja. F
 
 Löydätkö muuten Tylerin asunnosta viittauksen erääseen toiseen Quantic Dream -peliin?
 
+***
 
-
-* * *
-
-
-
-
-
-
-
-
-
-### [**Life Is Strange: Episode One**](http://lifeisstrange.com)
-
-
+## [**Life Is Strange: Episode One**](http://lifeisstrange.com)
 
 Life is Strange on Dontnodin tekemä ja Square Enixin julkaisema kuvaavan enteilevästi nimetty viisiosainen episodiseikkailu, jonka luvataan mullistavan tarinapohjaisten pelien genren. Amerikkalaisen nuorisoelokuvan perinteisiin vahvasti nojaavassa ja tunteisiin vetoavassa pelissä ohjaat Oregonilaisen Arcadia Bayn lukion oppilasta **Maxia**, jolla on selfie-kuvien ottamisen jalon taidon lisäksi kyky kelata aikaa eteen- ja taaksepäin. David Lynchin maneerien tapaan opiskelijakaveri katoaa mystisesti eikä tutkimista helpota neljän päivän päässä perjantaina tulevaisuudessa siintävä tornado, joka uhkaa omintakeisten kaupunkilaisten rauhaa. Max löytää lohdun ja turvan vanhan ystävänsä **Chloen** jälleennäkemisestä, jolle puolestaan paineita aiheuttavat tarkkailuun ja armeijakuriin taipuvainen isäpuoli sekä kaupungin rikkaan perheen lapsi.
 

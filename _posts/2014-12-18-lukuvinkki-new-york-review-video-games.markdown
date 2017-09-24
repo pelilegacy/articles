@@ -1,26 +1,19 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2014-12-18 14:29:16+00:00
-excerpt: Yhdysvaltalainen Matter-lehti tuottaa verkkoon tämän viikon ajan jotain poikkeuksellisen
-  hienoa. The New York Review of Video Games on viikon kestävä juhlistus taidemuodoista
-  kokeellisimmalle, eläväisimmälle ja vähiten kunnioitetuimmalle -- siis peleille.
+excerpt: The New York Review of Video Games on viikon kestävä juhlistus taidemuodoista kokeellisimmalle, eläväisimmälle ja vähiten kunnioitetuimmalle -- siis peleille.
+cover:
+  src: /uploads/2014/12/ny_review.png
+  alt: The New York Review of Video Games
 layout: post
-link: https://www.pelilegacy.fi/ajassa/1206/lukuvinkki-new-york-review-video-games
-slug: lukuvinkki-new-york-review-video-games
 title: 'Lukuvinkki: The New York Review of Video Games'
-wordpress_id: 1206
 categories:
-- Ajassa
+- Ulkoa
 ---
-
-[caption id="attachment_1209" align="aligncenter" width="1050"][![The New York Review of Video Games](http://www.pelilegacy.fi/wp-content/uploads/2014/12/ny_review-1050x358.png)](http://www.pelilegacy.fi/wp-content/uploads/2014/12/ny_review.png) **(Kuva: Kyle Read / Matter)**[/caption]
-
-Yhdysvaltalainen [Matter-lehti](https://medium.com/matter) tuottaa verkkoon tämän viikon ajan jotain poikkeuksellisen hienoa. [The New York Review of Video Games](https://medium.com/matter/welcome-to-the-new-york-review-of-video-games-dad14c9d6c8d) on viikon kestävä juhlistus taidemuodoista kokeellisimmalle, eläväisimmälle ja vähiten kunnioitetuimmalle -- siis peleille.
 
 Juttusarjassa käsitellään pelejä tavallisesta poikkeavasta näkökulmasta muun muassa esseiden, arvioiden ja podcastien kautta. Alla on tärpit tähän mennessä julkaistuista kirjoituksista.
 
-[pullquote]Lue ja vaikutu[/pullquote]
+***
 
 [Simon Parkin](https://medium.com/matter/achievement-points-you-cant-take-em-with-you-75ed6ea70e5b) kirjoitti saavutusten merkityksestä pelisuunnittelussa. Suuri osa pelien viehätyksestä tulee edistymisen seurannan kautta, oli kyseessä sitten _rankkauksen_ nostaminen Counter-Strikessa tai saavutusten avaaminen Xboxilla. Menestyminen virtuaalimaailmassa on Parkinin mukaan lähes yhtä tyydyttävää kuin oikeassa elämässä, ja pelit tarjoavat helpon tavan tuntea itsensä voittajaksi.
 
@@ -33,5 +26,3 @@ Juttusarjassa käsitellään pelejä tavallisesta poikkeavasta näkökulmasta mu
 [Steve Gaynor](https://medium.com/matter/dont-look-behind-you-bca1302e87c0) vertaa Evil Withinia ja Alien: Isolationia menneeseen. Seisovatko ne kulttuurin tuotteina omilla jaloillaan, vai pohjaako pelikokemuksesta nauttiminen vielä historiaan? Mielenkiintoisena sivuhuomiona Isolationin kohdalla nousee kysymys tekoälyn hahmojen tappamisesta. Alien-elokuvassa Ellen Ripley ei hiipinyt pahaa aavistamattoman ihmisen taakse ja ampunut häntä revolverilla takaraivoon. Isolationin Amanda Ripley sen sijaan toimii tällä tavoin hyvin paljon.
 
 [Virginia Heffernan](https://medium.com/matter/better-off-dead-57156a3ddd80) koki tuskaa pelatessa The Walking Deadia. Pelin syyllisyyttä tavalla tai toisella herättävät moraaliset valinnat eivät ole helppoja paloja kellekään niellä.
-
-Lisää juttuja on tulossa, joten pysy kuulolla.

@@ -1,32 +1,16 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2016-06-29 10:34:59+00:00
-excerpt: Historiaa seuraten on luonnollista, että Doomin jälkeen myös ensimmäinen
-  aidosti immersioon painottanut ensimmäisen persoonan toimintapeli, System Shock
-  (1994), tuodaan uuden teknologian voimaannuttamaksi.
+excerpt: Mitä meille merkitsee päätyä taas kerran huohottaen juoksemaan Citadelin käytäville metallisen putken kanssa?
+cover:
+    src: /uploads/2016/06/system_shock.jpg
+    alt: System Shock
 layout: post
-link: https://www.pelilegacy.fi/ajassa/2878/system-shock-kickstarter
-slug: system-shock-kickstarter
 title: 'Järkytä järjestelmää: System Shock vakuuttaa ilmaisella demolla'
-wordpress_id: 2878
 categories:
 - Ajassa
-tags:
-- Doom
-- Firewatch
-- Gone Home
-- Kickstarter
-- Looking Glass Studios
-- Night Dive Studios
-- Quake
-- System Shock
-- Uusversio
 ---
-
-[![System Shock](https://www.pelilegacy.fi/wp-content/uploads/2016/06/system_shock.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/06/system_shock.jpg)
-
-[ingressi]Jälleen yksi klassikkopeli saa uuden ilmeen. Mitä meille merkitsee päätyä taas kerran huohottaen juoksemaan Citadelin käytäville metallisen putken kanssa?[/ingressi]
 
 On tunnettu fakta, että peleissä pidämme vanhojen hautojen kaivelusta – ehkä enemmänkin kuin olisi sopivaa? Toukokuussa _id Software_ ja _Bethesda_ julkaisivat uusimman osan toimintapelit uudelleen keksineeseen _Doom_-pelisarjaan. Fanien iloksi peli vielä menestyi muutenkin kuin vain nimensä ansiosta. _Doom_ (1993) ei kuitenkaan ole ainoa tyylisuuntaansa voimakkaasti muokannut ja myöhempiin peleihin sekä pelikulttuuriin vaikuttanut teos. Ei, tällä kertaa ei puhuta vastikään 20 vuotta täyttäneesta _Quakesta_.
 
@@ -46,10 +30,8 @@ Enemmän kuin vain pintaremontti, _System Shock_ on alusta saakka uudelleenmieti
 
 Kick mainitsee vaikutteena _Dead Space_ -pelisarjan, mutta nimeä _System Shock_ ei tietenkään voi mainita viittaamatta sen selvimpään henkiseen perilliseen, _BioShockiin_, jolle tuskin tulemme näkemään enää jatkoa. Siksi onkin hienoa, että _Night Dive Studios_ on herättämässä henkiin _System Shock_ -sarjaa uusversion lisäksi varsinaisella kolmannella osalla, jonka kehittämiseen osallistuu myös entisen _Looking Glass Studiosin_ perustaja **Paul Neurathin** nykyinen yritys, _Otherside Entertainment_.
 
-_Teoksessa _[_A Mind Forever Voyaging_](https://www.pelilegacy.fi/arvostelut/1656/a-mind-forever-voyaging) tietokirjailija **Dylan Holmes** tutkii _System Shockin_ merkittävyyttä pelinarratiivin kannalta. Holmesin mukaan peli sovelsi ensimmäistä kertaa tutkivaa pelaamista tarinankerronnan tukena. Nopeasti seikkailun läpäisevä pelaaja saattoi saada käsityksen tapahtumista lukemalla vain pelin sisäiset sähköpostit, mutta huomattavasti rikkaamman tarinallisen kokemuksen pelistä sai irti etsimällä käsiinsä kaikki äänilokit. Pelisuunnittelun yksityiskohta, joka teki esimerkiksi _BioShockista_ niin muistettavan kokemuksen ja jota pidämme hyvin itsestäänselvänä tämän päivän peleissä, oli tuolloin käänteentekevä harppaus.
+Teoksessa [_A Mind Forever Voyaging_](https://www.pelilegacy.fi/arvostelut/1656/a-mind-forever-voyaging) tietokirjailija **Dylan Holmes** tutkii _System Shockin_ merkittävyyttä pelinarratiivin kannalta. Holmesin mukaan peli sovelsi ensimmäistä kertaa tutkivaa pelaamista tarinankerronnan tukena. Nopeasti seikkailun läpäisevä pelaaja saattoi saada käsityksen tapahtumista lukemalla vain pelin sisäiset sähköpostit, mutta huomattavasti rikkaamman tarinallisen kokemuksen pelistä sai irti etsimällä käsiinsä kaikki äänilokit. Pelisuunnittelun yksityiskohta, joka teki esimerkiksi _BioShockista_ niin muistettavan kokemuksen ja jota pidämme hyvin itsestäänselvänä tämän päivän peleissä, oli tuolloin käänteentekevä harppaus.
 
 Alkuperäisen pelin tuottajana toiminut peliguru **Warren Spector** on kertonut dialogien lomassa klikkailun muistuttavan peleissä enempi kuulustelua kuin oikeaa keskustelua. Anekdootista hauskan tekee se, että Spector tiimeineen ei osannut ratkaista tätä ongelmaa ja sen vuoksi _System Shockissa_ ei esiintynyt muita ihmisiä – yllättävästi ratkaisu kuitenkin toimi. Historiallisen valinnan perintö näkyy esimerkiksi _Gone Homen_ ja _Firewatchin_ kaltaisissa tutkimuspeleissä, joiden tehokas immersio muodostuu osin siksi, ettei pelaaja voi loppujen lopuksi olla varma siitä, onko peliympäristössä yksin.
 
 _Night Dive Studiosille_ projekti on tähän mennessä heidän laajin ja siihen sisältyy lukuisia riskejä. Kiinnostus _System Shockia_ kohtaan elää kuitenkin, minkä voi todeta esimerkiksi sillä, että sosiaaliset mediat täyttyvät aina pyyteettömästä jumaloinnista sarjan toisen osan ilmestyessä hetkellisesti ilmaisena ladattavaksi. Jos projekti onnistuu, uusversion on määrä ilmestyä loppuvuodesta 2017 PC- ja Mac-tietokoneille sekä Xbox Onelle. Voit seurata kampanjan edistymistä [täällä](https://www.kickstarter.com/projects/1598858095/system-shock).
-
-https://www.kickstarter.com/projects/1598858095/system-shock

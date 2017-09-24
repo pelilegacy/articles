@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-08-12 07:47:06+00:00
 excerpt: Hyvän elokuvan sovittaminen peliksi on vähintäänkin haastavaa. Mikä onkaan

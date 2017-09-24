@@ -22,7 +22,7 @@ tags:
 - Uutuudet
 ---
 
-[![Ice Lakes](https://www.pelilegacy.fi/wp-content/uploads/2016/05/ice_lakes.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/05/ice_lakes.jpg)
+[![Ice Lakes](/uploads/2016/05/ice_lakes.jpg)](/uploads/2016/05/ice_lakes.jpg)
 
 [ingressi]Vaikka jäät ovat jo sulaneet, on pilkkikausi vasta alkamassa tietokoneilla.[/ingressi]
 
@@ -32,7 +32,7 @@ _Ice Lakesissa_ on tarkoituksena pilkkiä mahdollisimman paljon kaloja erilaisis
 
 Pelin yli 20 eri kalalajia ovat narrattavissa kymmenessä avoimen maailman kartassa, jotka sijoittuvat vaihteleviin ympäristöihin aina pienistä metsäjärvistä rannikon avoimiin vesiin tai vuoristojärviin. Siimat voi heittää jopa suurkaupungin ytimessä sijaitsevan pienen puistolammen syvyyksiin.
 
-[![Ice Lakes](https://www.pelilegacy.fi/wp-content/uploads/2016/05/ice_lakes2.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/05/ice_lakes2.jpg)
+[![Ice Lakes](/uploads/2016/05/ice_lakes2.jpg)](/uploads/2016/05/ice_lakes2.jpg)
 
 _Ice Lakes_ on hulppean näköinen peli, jonka ympäristössä tapahtuu kaikenlaista, kuten esimerkiksi eläimiä juoksentelemassa jäätiköllä. Pelaajan kuvakulmaa voi vaihtaa ylhäältäpäin tai kolmannesta persoonasta kuvatuksi, jolloin kuva on pelihahmon takana.
 
@@ -40,13 +40,13 @@ Unity-pelimoottorilla tehdyn pelin jälki on näyttävää ja sen pitäisi toimi
 
 _Ice Lakesia_ on helppo pelata eikä se vaadi pelaajaa olemaan ohjekirja kourassa ymmärtääkseen, mitä pelissä on tehtävä. Pelin suomennos on myös tervetullut ominaisuus. Hahmoa voi ohjata hiirellä tai näppäimistön WASD-näppäimillä. Jään kairaus tapahtuu hiiren oikeaa painiketta klikkaamalla. Pienenä lisäyksenä laitetulla hahmon hyppimisellä en huomannut olevan mitään merkitystä pelaamisen kannalta. Uutena tapauksena ovat tulleet myös kalojen houkuttamiseen valmistetut _pallerot_, joita avantoon ripottelemalla saa kaloja houkuteltua paremmin ansaan.
 
-[pullquote]Siimat voi heittää jopa suurkaupungin ytimessä sijaitsevan pienen puistolammen syvyyksiin[/pullquote]
+<div class="pullquote">Siimat voi heittää jopa suurkaupungin ytimessä sijaitsevan pienen puistolammen syvyyksiin</div>
 
 Peli tottelee kontrolleja hyvin ja tulossa on myös ohjaintuki, jota en ainakaan vielä ole päässyt testaamaan käytännössä, vaikka omistankin Xbox 360 -ohjaimen – sitä ei peli tukenut. Kontrollien osalta huonona ominaisuutena kuitenkin on se, ettei syöttiä pysty liikuttamaan koukussa ja näin ollen jokaisen kalan jälkeen on syötti vaihdettava, mikä kuluttaa syöttien lukumäärää.
 
 Ihmisten puhe ja muut elementit on poistettu pelistä ja jäin kaipaamaan hauskoja lausahduksia, joita _Pro Pilkki 2:ssa_ saattoi kuulla.
 
-[![Ice Lakes](https://www.pelilegacy.fi/wp-content/uploads/2016/05/ice_lakes3.jpg)](https://www.pelilegacy.fi/wp-content/uploads/2016/05/ice_lakes3.jpg)
+[![Ice Lakes](/uploads/2016/05/ice_lakes3.jpg)](/uploads/2016/05/ice_lakes3.jpg)
 
 _Ice Lakes_ tukee 32 yhtäaikaisen pelaajan moninpeliä, jota voi pelata internetissä tai lähiverkossa. Palvelimen voi perustaa ongelmitta ja pelaajat voi kutsua Steamin kautta helposti, jolloin taistelu pilkkimestaruudesta voi alkaa. Ainoa ongelma verkkopelissä on se, että portit on avattava ennen pelin _hostaamista_, mikä voi tuottaa mobiilireitittimiä tai vastaavia laitteita käyttävillä ihmisillä ongelmia porttiohjausten kanssa. Tekijöiden mukaan tähän on [korjausta luvassa](https://steamcommunity.com/app/393430/discussions/0/361787186439939537/) ja dedikoitua palvelinta pääsee ennen pitkää käyttämään.
 

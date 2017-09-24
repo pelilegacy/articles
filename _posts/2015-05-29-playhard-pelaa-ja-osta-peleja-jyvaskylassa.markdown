@@ -23,7 +23,7 @@ tags:
 - Yhteistyö
 ---
 
-[![#GameONjkl](http://www.pelilegacy.fi/wp-content/uploads/2015/05/gameonjkl.png)](http://www.pelilegacy.fi/wp-content/uploads/2015/05/gameonjkl.png)
+[![#GameONjkl](/uploads/2015/05/gameonjkl.png)](/uploads/2015/05/gameonjkl.png)
 
 _Peli Legacy on yhteistyössä Jyväskylän kaupungin nuorisopalveluiden [#GameONjkl-hankkeessa](https://www.facebook.com/gameonjkl), jossa järjestetään 13–29 -vuotiaille nuorille sopivia tapahtumia erityisesti pelikasvatuksen näkökulmasta. Tämä on ensimmäinen tulevista yhteistyöartikkeleistamme._
 
@@ -35,6 +35,6 @@ Paikan päällä voit testata taitojasi retropelien ja uusimpien julkaisujen kan
 
 Järjestäjät ovat alla olevalla videolla jo hyvin innoissaan tapahtumasta. Ole sinäkin ja liity tapahtumaan [Facebookissa](https://www.facebook.com/events/916991891684670/).
 
-[pullquote]…and remember kids: play hard, but play well.[/pullquote]
+<div class="pullquote">…and remember kids: play hard, but play well.</div>
 
 https://www.youtube.com/watch?v=h0cJYem7kHk

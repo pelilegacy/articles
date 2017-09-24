@@ -1,18 +1,15 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2014-07-02 13:41:27+00:00
 excerpt: Kolumnissa pohditaan tänään läpäisemättömien pelien aiheuttamaa tuskaa.
+cover:
+    src: /uploads/2014/07/kolumni_lapaisetko_pelisi.jpg
+    alt: Läpäisetkö pelisi?
 layout: post
-link: https://www.pelilegacy.fi/kolumnit/766/kolumni-lapaisetko-pelisi
-slug: kolumni-lapaisetko-pelisi
 title: 'Kolumni: Läpäisetkö pelisi?'
-wordpress_id: 766
 categories:
 - Kolumnit
 ---
-
-[![`Kuvituskuva](http://www.pelilegacy.fi/wp-content/uploads/2014/07/kolumni_lapaisetko_pelisi.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2014/07/kolumni_lapaisetko_pelisi.jpg)
 
 Sukkelasti sanailevat toverimme **Rock, Paper, Shotgun** -verkkojulkaisussa [kyselivät tällä viikolla](http://www.rockpapershotgun.com/2014/07/01/rps-asks-why-and-how-often-do-you-finish-games/) miksi ja kuinka usein pelaat ostamasi pelit läpi? Koska kysymys on erittäin ajankohtainen suurten verkkokauppojen kesäalennusten taas päätyttyä, ajattelin virittää samanhenkistä keskustelua myös tänne.
 
@@ -26,4 +23,4 @@ Ennen kysymykseen vastaamista on syytä määritellä, mitä pelin läpäisemine
 
 Siispä kysyn: läpäisetkö ostamasi pelit ja mitä pelin läpäiseminen tarkoittaa sinulle? Vai pelaatko onnellisesti nk. hiekkalaatikkopelejä ilman huolen häivää seikkailun päättymisestä? Vastaa kommenteissa.
 
-…mitä ikinä vastaatkaan, älä ajattele **Bit.Trip Runneria!**
+…mitä ikinä vastaatkaan, älä ajattele Bit.Trip Runneria!

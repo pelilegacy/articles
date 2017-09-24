@@ -20,7 +20,7 @@ tags:
 - Vieraskynä
 ---
 
-[![Kansikuva](http://www.pelilegacy.fi/wp-content/uploads/2015/09/aleatoriedade.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/aleatoriedade.jpg)
+[![Kansikuva](/uploads/2015/09/aleatoriedade.jpg)](/uploads/2015/09/aleatoriedade.jpg)
 
 [ingressi]Tämänkertaisessa vieraskynässä Johan Nylund seuraa jälkiä vaurauden äärelle ja valaisee rahapelaamisen historiaa.[/ingressi]
 
@@ -34,7 +34,7 @@ Rahapelaamisen juuret juontavat vahvasti uskoon, kohtaloon ja onneen. Ei ole sat
 
 Uskomus siihen, että suurempien voimien aikomukset tai totuudet paljastuvat noppien avulla ei ole vain antiikin historiaa. Vaikka Ruotsissa on valmistettu noppia lampaanluista jo 200-luvulla. Eräiden lähteiden mukaan Ruotsin tuomioistuimessa olisi vielä 1800-luvun alussa käytetty noppia tasapainottamaan oikeuden vaakaa.
 
-[pullquote]“Pelaamisen merkit ulottuvat vähintään yhtä kauas kuin merkit varhaisista sivilisaatioista.”[/pullquote]
+<div class="pullquote">“Pelaamisen merkit ulottuvat vähintään yhtä kauas kuin merkit varhaisista sivilisaatioista.”</div>
 
 Keskiaikaiset kaduntallaajat pelasivat rahapelejä pääosin noppien avulla. Tunnetuin keskiajan noppapeli lienee _raffle_, jossa voittaja on se, joka heittää kolme samaa lukua tai korkeimman parin. Lähes yhtä tunnettu peli on englantilaisten ristiretkeilijöiden Intiasta mukanaan tuoma ja monimutkaisilla säännöillä varustettu peli [_Hazard_](https://en.wikipedia.org/wiki/Hazard_(game)), jonka nimi merkitsee vaaraa.
 
@@ -44,7 +44,7 @@ Huijaaminen ja peliongelmat ovat luultavasti aina olleet keskeinen osa rahapelej
 
 Keskiajan Englannissa rahapelaamisen sääntely keskittyi pääosin rahvaan pelitapoihin.  Esimerkiksi **Richard I Leijonamielen** (1157–1199) vuonna 1190 ristiretkellä vain ritareita korkeampiarvoisemmat henkilöt saivat pelata rahapelejä rauhassa. Ritareille ja papeille suotiin oikeus pelata noppapelejä korkeintaan 20 shillingillä päivässä, ja rangaistuksena shillinkimäärän ylittämisestä oli maksettava sadan shillingin sakkoraha. Jalkasotilaille ei suotu samaa luksusta. Kuningas **Henrik VII** (1457–1509) taisi kuitenkin ylittää kansan sietokyvyn vuonna 1495 asettamallaan lailla, jonka mukaan työntekijät saivat pelata muutoin laittomia pelejä ainoastaan jouluna esimiehensä asunnossa.
 
-[![William Hogarth](http://www.pelilegacy.fi/wp-content/uploads/2015/09/william_hogarth.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/william_hogarth.jpg)
+[![William Hogarth](/uploads/2015/09/william_hogarth.jpg)](/uploads/2015/09/william_hogarth.jpg)
 
 
 
@@ -56,13 +56,13 @@ Vuonna 1638 osa Venetsian San Moise -palatsista muutettiin länsimaailman ensimm
 
 Venetsian hallitsijat päättivät kuitenkin sulkea kasinon vuonna 1774 peläten sen turmelevan paikallisen ylimystön. Pelaamisen katsottiin olevan vaarallista, sillä ihmiset keskittyivät pelaamiseen eivätkä ympärillä oleviin tapahtumiin, kuten voimme huomata **William Hogarthin** maalauksessa, jossa Tom anoo jumalalta apua uhkapelissä hävittyään. Hän tai muut pakkomielteiset pelaajat eivät huomaa, että huoneen takaosassa on alkava tulipalo.
 
-[pullquote]“Kiinni jäädessään huijarit laitettiin häpeäpaaluun nopat kaulassa.”[/pullquote]
+<div class="pullquote">“Kiinni jäädessään huijarit laitettiin häpeäpaaluun nopat kaulassa.”</div>
 
 Yhdysvaltojen historian varhaisimpia pelipaikkoja kutsuttiin saluunoiksi. Saluunoissa matkailijat tapasivat muita ihmisiä juodakseen, keskustellakseen ja pelatakseen korttipelejä keskenään. 1900-luvulla rahapelaaminen kiellettiin liittovaltiotasolla, mutta 1930-luvulla Hooverin padon rakentamisen yhteydessä Las Vegasin rikkaat rahoittajat, liikemiehet ja mafia yhdistivät voimansa rakentaakseen padon miespuolisille työntekijöille kasinoita ja show-teattereita – usein laittomasti.
 
 Suurten voittojen toivossa Nevada laillisti rahapelaamisen vuonna 1931 ensimmäisenä osavaltiona Yhdysvalloissa, minkä ansiosta Las Vegas tuli vähitellen tunnetuksi pelimaailman pääkaupunkina. Nykyään Las Vegas, eli ”synnin kaupunki”, on edelleen kasinomaailman tunnetuimpia paikkoja. Vaikka kasinoiden välkkyvät valot, suuret voitot ja tyylikkäät rikolliset ovat elokuvista tuttuja, vähemmälle huomiolle jäänyt korttipelien [kulissien takaa paljastuva kova työ](https://fi.unibet.com/hub/vegas-casino-krupieeri/) kertoo aivan omanlaistaan tarinaa.
 
-[![Las Vegasin kasino](http://www.pelilegacy.fi/wp-content/uploads/2015/09/mgm_grand_hotel.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/09/mgm_grand_hotel.jpg)
+[![Las Vegasin kasino](/uploads/2015/09/mgm_grand_hotel.jpg)](/uploads/2015/09/mgm_grand_hotel.jpg)
 
 
 

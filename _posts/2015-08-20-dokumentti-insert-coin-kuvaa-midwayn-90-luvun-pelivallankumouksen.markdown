@@ -1,5 +1,5 @@
 ---
-author: Niko Heikkilä
+author: nikoheikkila
 comments: true
 date: 2015-08-20 09:49:07+00:00
 excerpt: 'Insert Coin: Inside Midway''s ''90s Revolution -dokumentti luo katsauksen
@@ -38,7 +38,7 @@ Vuonna 1987 innokas ja jopa elitistinen kolikkopelien harrastaja Tsui muutti Chi
 
 Tsuin nimi osaavana videontekijänä oli jäänyt Midwayn johdolle mieleen. Sinnikäs ponnistelu kantoikin lopulta hedelmää ja Tsui pääsi työskentelemään _WWF Wrestlemania: The Arcade Game_ -kolikkopelin parissa, josta tie vei _Mortal Kombat_ -pelien suunnitteluun.
 
-[pullquote]“From Mortal Kombat to NBA Jam to Cruis'n USA, this is the untold history of the greatest videogame studio of the 90's.”[/pullquote]
+<div class="pullquote">“From Mortal Kombat to NBA Jam to Cruis'n USA, this is the untold history of the greatest videogame studio of the 90's.”</div>
 
 Tsuin mukaan Midwayn villiä länttä muistuttanut tyyli, jossa vastuu kehityksestä siirrettiin pois tuottajilta suoraan tekijöille, oli avaintekijä studion menestyksessä. Kulttuurin varjopuolena tiimien välillä oli usein hankausta, joka ilmeni muun muassa selän takana puhumisena ja tietojen pimittämisenä. Tsui kuvaakin työskentelyn Midwaylla lähennelleen **William Goldingin** (1911–1993) _Kärpästen herra_ -romaania, jossa englantilaiset koulupojat haaksirikkoutuvat autiolle saarelle lento-onnettomuuden jälkeen ja voimiensa tunnossa taantuvat nopeasti villi-ihmisiksi. Niin kauan kuin tiimi pysyi budjetissa ja aikataulussa, säännöillä ei ollut merkitystä.
 

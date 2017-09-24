@@ -1,27 +1,15 @@
 ---
-author: Niko Heikkilä
-comments: true
+author: nikoheikkila
 date: 2015-01-07 16:18:19+00:00
-excerpt: Internet Archive jatkoi muutama päivä sitten hienosti digitaalisen kulttuurin
-  säilyttämistä jälkipolville julkaisemalla yli 2000 MS-DOS-pelin kokoelman sivuillaan.
-  Listasimme 10 MS-DOS-peliä, joita ei missään nimessä sovi unohtaa.
+excerpt: Listasimme 10 MS-DOS-peliä, joita ei missään nimessä sovi unohtaa.
+cover:
+  src: /uploads/2015/01/oregon_trail.jpg
+  alt: "You have died of dysentery" 
 layout: post
-link: https://www.pelilegacy.fi/ajassa/1253/10-ms-dos-pelia-joita-ei-kannata-unohtaa
-slug: 10-ms-dos-pelia-joita-ei-kannata-unohtaa
 title: 10 MS-DOS-peliä, joita ei kannata unohtaa
-wordpress_id: 1253
 categories:
-- Ajassa
-- Ilmaiset
-tags:
-- Klassikot
-- MS-DOS
-- Retro
+- Listat
 ---
-
-[caption id="attachment_1258" align="aligncenter" width="1050"][![Oregon Trail](http://www.pelilegacy.fi/wp-content/uploads/2015/01/oregon_trail-1050x591.jpg)](http://www.pelilegacy.fi/wp-content/uploads/2015/01/oregon_trail.jpg) MECC:n The Oregon Trail on yksi yli 2000 DOS-pelistä saatavilla selaimeesi.[/caption]
-
-[ingressi]Kun DOS voi merkitä myös hyvää…[/ingressi]
 
 **Internet Archive** jatkoi muutama päivä sitten hienosti digitaalisen kulttuurin säilyttämistä jälkipolville julkaisemalla yli 2000 MS-DOS-pelin kokoelman sivuillaan. Pelit toimivat suoraan selaimessa eikä niiden pelaaminen maksa mitään.
 
@@ -68,11 +56,3 @@ Eritoten kaverin kanssa saman tietokoneen äärellä nautittuna käsittämättö
 [**Heretic - Shadow of the Serpent Riders (id Software, 1996)**](https://archive.org/details/msdos_Heretic_-_Shadow_of_the_Serpent_Riders_1996)
 
 Klassinen ensimmäisen persoonan toimintapeli, joka jää turhan usein kumppaniensa Doomin ja Wolfensteinin jalkoihin. Hereticin fantasiamaailma oli ja on edelleen vertaansa vailla tarinoillaan ja pelattavuudeltaan jo sarjan ensimmäisessä osassa palaset ovat tuntuvasti paikoillaan. Vanhan koulukunnan kenttäsuunnittelun ansiosta tasoissa eteneminen on hidasta, mutta palkitsevaa. Sarjan tarina sai myöhemmin jatkoa pelissä _Heretic II_ sekä synnytti _Hexen_-pelisarjan. Kuka kehittäisi meidän iloksemme uusversiot näistä peleistä?
-
-
-
-* * *
-
-
-
-Tältä listalta ei löydy lähellekään kaikkea huomionarvoisia MS-DOS-pelejä. Mitä sinä pelasit aikanaan, ja mitkä pelit olivat suosikkejasi? Kerro se kommenteissa.
