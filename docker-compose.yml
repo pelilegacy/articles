@@ -2,11 +2,15 @@ version: "3.3"
 
 services:
     jekyll:
-        image: jekyll/jekyll
+        image: jekyll/jekyll:latest
         volumes:
-            - .:/srv/jekyll
+            - $PWD:/srv/jekyll
+            - $PWD/vendor/bundle:/usr/local/bundle
         ports:
-            - "80:4000"
+            - 80:4000
+            - 4000:4000
+            - 35729:35729
+            - 3000:3000
         environment:
             JEKYLL_ENV: development
-        command: "bundle exec jekyll serve --force_polling -H 0.0.0.0 -P 4000"
+        command: "jekyll serve --force_polling -H 0.0.0.0 -P 4000"
