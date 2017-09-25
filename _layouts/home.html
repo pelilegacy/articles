@@ -10,9 +10,9 @@ layout: default
             {% assign author = site.data.people[post.author] %}
             <span class="post-author">✒️ {{ author.name | default: "vieraskynä" }}</span>
             <span class="post-category">📂 {{ post.categories | first }}</span><br>
-            <h1 class="post-title">
+            <h2 class="post-title">
                 <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-            </h1>
+            </h2>
             <p><span class="post-meta">{{ post.excerpt }}</span></p>
         </li>
         {% endfor %}
