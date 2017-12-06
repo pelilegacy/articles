@@ -10,7 +10,7 @@ layout: default
             </div>
         {% endif %}
         <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-        <p class="post-excerpt">{{ page.excerpt | truncate: 160 }}</p>
+        <p class="post-excerpt">{{ page.excerpt | truncate: 280 }}</p>
 
         <p class="post-meta">
         {% assign author = site.data.people[page.author] %}
