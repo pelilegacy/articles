@@ -1,31 +1,19 @@
 ---
 author: nikoheikkila
-comments: true
 date: 2015-02-19 13:10:13+00:00
-excerpt: Uusi sukupolvi on hyvää aikaa yksinoikeuspeleille. Sonyn pelivuoden avaavat
-  viktoriaanisen ajan steampunk-ritarit plasma-aseineen.
+excerpt: Uusi sukupolvi on hyvää aikaa yksinoikeuspeleille. Sonyn pelivuoden avaavat viktoriaanisen ajan steampunk-ritarit plasma-aseineen.
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/1430/the-order-1886
-slug: the-order-1886
-title: 'Arvio: The Order 1886 - mies, viikset ja missio'
-wordpress_id: 1430
+title: 'The Order: 1886 - mies, viikset ja missio'
+cover:
+    src: /uploads/2015/02/the_order_1886.jpg
+    alt: 'The Order: 1886'
 categories:
 - Arvostelut
-- Toiminta
-tags:
-- Historia
-- Playstation 4
-- Uutuudet
-- Yksinoikeuspelit
 ---
-
-[![The Order: 1886](/uploads/2015/02/the_order_1886.jpg)](/uploads/2015/02/the_order_1886.jpg)
-
-[ingressi]Uusi sukupolvi on hyvää aikaa yksinoikeuspeleille. Sonyn pelivuoden avaavat viktoriaanisen ajan steampunk-ritarit plasma-aseineen.[/ingressi]
 
 Keskiajalla eläneen kuningas Arthurin hovin pyöreä pöytä ritareineen on **Ready at Dawnin** kehittämän The Order: 1886 -pelin kantapää. Esikuvilleen uskolliset teollistuneen maailman ritarit istuvat pöydän ääressä vankkumattoman tasavertaisina Yhdistyneen Intian turvallisuusasioista päättäen. Ritarien harmonisen elon varmistaa vain heidän kunnioituksensa toista kohtaan.
 
-Aina historiallisiin tapahtumiin perustuvan pelin ilmestyessä on kiehtovaa nähdä, miten tekijät yhdistävät historiankirjojen sivuilta tuttua faktaa fiktiiviseen tarustoon. The Order: 1886:n tapauksessa viktoriaanisen aikakauden Englannin (1837–1901) historia sulautuu steampunkista tuttuun kuvastoon pitäen samalla tarinan eheästi tummasävyisen ja roisin fantasian otteessa. Lopputulos on suureellinen ja häkellyttävän elokuvamainen peli, mutta tuoko se uutta särvintä pöytään?
+Aina historiallisiin tapahtumiin perustuvan pelin ilmestyessä on kiehtovaa nähdä, miten tekijät yhdistävät historiankirjojen sivuilta tuttua faktaa fiktiiviseen tarustoon. The Order: 1886:n tapauksessa viktoriaanisen aikakauden Englannin (1837--1901) historia sulautuu steampunkista tuttuun kuvastoon pitäen samalla tarinan eheästi tummasävyisen ja roisin fantasian otteessa. Lopputulos on suureellinen ja häkellyttävän elokuvamainen peli, mutta tuoko se uutta särvintä pöytään?
 
 Mikä ilmeisintä, The Order: 1886 on täysiverinen toimintapeli, jossa lippaan tyhjentäminen tai veitsen upottaminen viholliseen tehdään tutuksi jatkuvalla toistolla. Pelin ikärajoitus selittyy kohtuullisella määrällä alastomuutta, jota pelissä tarjotaan esimerkiksi miehen sukupuolielintä esittelemällä. Liittäisin tähän videoklipin kyseisestä aktista, mutta se oli poistettu YouTubesta sääntörikkomuksen johdosta -- jumalat siunatkoon moraalinvartijoitamme kovassa arjessaan.
 
@@ -57,7 +45,9 @@ Peliä on jo ennakkoon kritisoitu lyhyeksi ja välinäytöksiin painottuvaksi. E
 
 Niin, miten The Order: 1886 täyttää kestonsa? Välinäytöksiä esiintyy runsaasti ja ne usein päättyvät varoittamatta ohjasten siirtyessä takaisin pelaajalle. Luonnollisesti tämä johtaa moniin hilpeisiin hetkiin kun olit varma, että ohjaimen voi laskea hetkeksi syliin. Toimivan käsikirjoituksen ansiosta mieleni ei tehnyt ohittaa välinäytöksiä, vaikka niitä perinteisesti olikin lähes jokaisen nurkan takana. Rehellisesti sanoen olisin mieluummin ohittanut useita taistelukohtauksia.
 
-<div class="pullquote">"Elämyksiä The Order: 1886 tarjoaa, mutta ne jäävät pinnallisiksi eikä syvältä raapaisevaa tunnesidettä peliin synny"</div>
+<div class="pullquote">
+Elämyksiä The Order: 1886 tarjoaa, mutta ne jäävät pinnallisiksi eikä syvältä raapaisevaa tunnesidettä peliin synny
+</div>
 
 Tarinan taustalla käsitellään luokkasotaa porvariston ja alempien luokkien välillä, mistä olisi ammentaa enemmänkin. Ajan Englantia nimittäin leimasi yläluokan vahva asema ja tapakulttuuri, jonka ulkopuolelle tiukan luokkajaon vuoksi jäivät monet työväen edustajat. Tämä näkyy osittain pelissä, mutta valitettavasti teema jää ohueksi ja se unohdetaan pelin äkkinäisessä lopussa, jossa keskiöön nostetaan enempi ritarikunnan sisäinen mädännäisyys.
 
@@ -66,7 +56,3 @@ Mitä peli sitten haluaa sanoa?
 Ihmiskunnan muinainen vihollinen on jäänyt keskuuteemme pysyvästi, mutta selkeän vastapuolen sijasta pahuutta on niin puoliverisissä, kirkasotsaisissa ritareissa kuin kapinallisissakin. Teollistunut imperialistinen valtakunta on sosiaalisen tasa-arvon osalta riutunut ja rajoittunut palvomaan sen teknologisia saavutuksia, kuten sähköä, langattomia yhteyksiä ja ilmalaivoja. Pelastaako teknologia ihmiskunnan? Eräässä kohtauksessa kuuluisa keksijä Nikola Tesla (1856–1943) esittelee keksintöjään -- ehkä uskoen siihen vakaasti.
 
 The Order: 1886 on jälleen yksi elokuvallista ilmaisua merkittävissä määrin hyödyntävä peli, mutta ei vailla mekaanisesta suoraviivaisuudesta kumpuavia ongelmia, jotka yksittäisen pelin sijasta ovat pikemminkin pesiytyneet syvälle lajityypin ytimeen.
-
-_The Order: 1886 julkaistaan yksinoikeudella Playstation 4:lle 20. helmikuuta 2014._
-
-

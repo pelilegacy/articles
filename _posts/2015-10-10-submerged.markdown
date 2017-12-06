@@ -1,28 +1,15 @@
 ---
 author: nikoheikkila
-comments: true
 date: 2015-10-10 12:59:50+00:00
-excerpt: Meri on kaikessa armottomuudessaan kaunis näyttämö tuhoutuneen kaupungin
-  tutkimukselle. Miten väkivallaton Submerged toimii pelinä?
+excerpt: Meri on kaikessa armottomuudessaan kaunis näyttämö tuhoutuneen kaupungin tutkimukselle. Miten väkivallaton Submerged toimii pelinä?
 layout: post
-link: https://www.pelilegacy.fi/arvostelut/2279/submerged
-slug: submerged
-title: 'Arvio: Submerged - väkivallaton retki hukkuneeseen kaupunkiin'
-wordpress_id: 2279
+title: Submerged - väkivallaton retki hukkuneeseen kaupunkiin
+cover:
+    src: /uploads/2015/10/submerged_whale.jpg
+    alt: Submerged
 categories:
 - Arvostelut
-- Seikkailu
-tags:
-- Bioshock
-- 'Brothers: A Tale of Two Sons'
-- Dystopia
-- Uppercut Games
-- Väkivallattomuus
 ---
-
-[![Arvio: Submerged](/uploads/2015/10/submerged_whale.jpg)](/uploads/2015/10/submerged_whale.jpg)
-
-[ingressi]Meri on kaikessa armottomuudessaan kaunis näyttämö tuhoutuneen kaupungin tutkimukselle.[/ingressi]
 
 Vesi on neljästä peruselementistä usein se kiinnostavin, sillä sen avulla on helppo ilmaista niin tuhoa kuin pelastustakin. Rapturen vedenalainen kaupunkikeskus ensimmäisessä _BioShockissa_ oli jopa poliittisesta kontekstistaan irrotettuna huomattavasti ahdistavampi kuin esimerkiksi auringon lämmössä kellivä post-apokalyptinen aavikko tai kaupunki.
 
@@ -34,7 +21,9 @@ _Submerged_ todistaa edelleen kaksi pelisuunnittelua koskevaa myyttiä vääräk
 
 Ensiksi: pelin ei tarvitse sisältää väkivaltaa saati taistelumekaniikkaa ollakseen pelattava. Eteneminen on sujuvaa jo pelkästään Mikun veneillessä kaupungin eri paikoissa ja rakennusten seinillä kiipeillessä. Maailman tutkimiselta ei taistelua tai edes hiiviskelyä jää kaipaamaan, ja tällaisessa konseptissa ne tuntuisivat vain pakotetuilta ratkaisuilta. Sopivana vertailukohtana mieleen tulee Starbreeze Studiosin _Brothers: A Tale of Two Sons_, jonka avainteemoihin taisteluiden poissaolon ohella lukeutui myös huolenpito toisesta ihmisestä.
 
-<div class="pullquote">“Submerged esittelee pelaajille hukkuneen metropoliin, jota tutkimalla ei ole lainkaan yllättävää, että näidenkin tekijöiden taustat johtavat _BioShock_-sarjan pariin.”</div>
+<div class="pullquote">
+Submerged esittelee pelaajille hukkuneen metropoliin, jota tutkimalla ei ole lainkaan yllättävää, että näidenkin tekijöiden taustat johtavat BioShock-sarjan pariin.
+</div>
 
 Toiseksi: näyttävyys ei vaadi tarkimmilleen hiottuja tekstuureja ja taivaita hipovaa ruudunpäivitystä. Unreal-pelimoottorilla toteutetun _Submergedin_ korkeuksia pilvenpiirtäjillään halkova veden varaan jäänyt kaupunki on eläväinen, raikas ja vastaanottava, mutta samalla myös omalla tavallaan hyytävä.
 
@@ -55,7 +44,3 @@ Kun kaikki rakennukset on käyty läpi, on Mikun aika palata veljensä luo viime
 _Submergedin_ loppuratkaisu ilmaisee myös hyvällä -- joskin ennalta-arvattavalla -- tavalla sitä, kuinka suhtaudumme vieraisiin kansoihin, tai tässä tapauksessa elämänmuotoihin. Kun joukko mutantteja tarkkailee Mikun merimatkaa välinäytöksissä, ei pelaaja voi olla ajattelematta heitä uhkana olivat heidän oikeat motiivit mitä tahansa.
 
 Ennakkoluuloilla kevyesti leikittelevä _Submerged_ tiivistyy lämpimään sanomaan paremmasta huomisesta. Vaikka yhteiskunta ympäriltämme murentuisi, on tärkeintä pitää huolta heikommista. Tämän suhteen peli vain koskettelee pintaa, mutta toivottavasti se onnistuu antamaan muille kehittäjille inspiraatiota hyödyntää apokalyptisissa teemoissaan tuoreempaa kuvastoa.
-
-_[Submerged](http://www.uppercut-games.com/submerged/) on saatavilla PC:lle, PS4:lle ja Xbox Onelle._
-
-https://www.youtube.com/watch?v=oHDYhMQklSQ
