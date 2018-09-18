@@ -1,4 +1,5 @@
 title: Peli Legacy
+url: https://pelilegacy.fi
 author: Peliyhdistys Legacy ry
 email: toimitus@pelilegacy.fi
 description: Peliyhdistys Legacy ry on vuonna 2014 perustettu pelejä ja pelaamista käsitteleviä artikkeleita sekä mediasisältöä toimittava yhdistys.
@@ -17,13 +18,7 @@ sass:
 plugins:
   - jekyll-feed
 exclude:
-  - run.sh
-  - docker-compose.yml
-  - .editorconfig
-  - nginx
   - jekyll.log
-  - Gemfile
-  - Gemfile.lock
   - vendor
 
 # Collections

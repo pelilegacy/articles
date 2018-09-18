@@ -1,7 +1,6 @@
-_site
+_site/
 .sass-cache
 .jekyll-metadata
-.bundle
-vendor
+.bundle/
+vendor/
 *.log
-*.lock

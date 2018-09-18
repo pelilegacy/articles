@@ -6,7 +6,7 @@ cache:
   directories:
   - "$TRAVIS_BUILD_DIR/tmp/.htmlproofer"
 script:
-- "./run.sh build"
+- "rake build"
 branches:
   only:
   - master

@@ -15,15 +15,15 @@ Installing Jekyll is a breeze if you follow their [excellent documentation](http
 Run `bundle install`.
 
 #### Building the source
-Run `./run.sh build`
+Run `rake build`
 
 #### Serving the content via Jekyll built-in web server
-Run `./run.sh` and open the link from the output (eg. _http://localhost:4000_).
+Run `rake serve` and open the link from the output (eg. _http://localhost:4000_).
 
 ### Docker
 Jekyll can be a bit of a pain to install on Windows. Therefore, a [Docker](https://www.docker.com/get-docker) virtualization solution is included using the official _jekyll/jekyll_ image.
 
-Run `docker-compose up` to build the sources and start serving them via Jekyll's own Webrick server. Docker can recompile the site when you modify source files thanks to Jekyll's watchdog feature. When you've finished developing run `docker-compose down` to remove the container.
+Run `docker-compose up -d` to build the sources and start serving them via Jekyll's own Webrick server. Docker can recompile the site when you modify source files thanks to Jekyll's watchdog feature. When you've finished developing run `docker-compose down` to remove the container.
 
 ## Contributing
 See our [contributing guidelines](CONTRIBUTING.md). Issues and pull requests are welcome. :hammer:
