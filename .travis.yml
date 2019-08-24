@@ -1,26 +1,23 @@
 language: ruby
+
 rvm:
-- 2.5.1
+- 2.6.3
+
 cache:
   bundler: true
   directories:
   - "$TRAVIS_BUILD_DIR/tmp/.htmlproofer"
+
 script:
 - "rake build"
-branches:
-  only:
-  - master
-  - "/feat-(.*)/"
-  - "/bug-(.*)/"
+
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-sudo: false
+
 deploy:
   provider: pages
   skip_cleanup: true
   github_token: "$GITHUB_TOKEN"
   on:
     branch: master
-after_deploy:
-  - curl -k "https://api.monkeytest.it/travis/test?secret=$MONKEY_KEY&on_load=true&on_click=true&page_weight=true&seo=true&broken_links=true&asset_count=true&url=https://pelilegacy.fi"
