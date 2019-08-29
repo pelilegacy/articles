@@ -10,7 +10,7 @@ gem 'sparrow-jekyll-theme'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-   gem 'jekyll-feed', '~> 0.9.2'
+   gem 'jekyll-feed', '~> 0.11.0'
    gem "jekyll-livereload"
 end
 
