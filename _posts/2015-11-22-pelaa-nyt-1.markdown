@@ -1,0 +1,121 @@
+---
+author: nikoheikkila
+comments: false
+date: 2015-11-22 13:56:55+00:00
+excerpt: Valmistaudu lentämään kaleidoskooppisissa maisemissa, seikkailemaan napajäätiköllä,
+  ryöstämään hautoja ja lukemaan lautapeleistä. Pelaa Nyt! -listan ensimmäinen kirje
+  avautuu silmienne edessä.
+layout: post
+link: https://www.pelilegacy.fi/ajassa/2409/pelaa-nyt-1
+slug: pelaa-nyt-1
+title: 'Pelaa Nyt! #1 – kaivot, keitaat ja ketut'
+wordpress_id: 2409
+categories:
+- Ajassa
+- Pelikirjoitukset
+tags:
+- Dear Esther
+- Gone Home
+- Lara Croft
+- Lautapelit
+- Pelitutkimus
+- Tomb Raider
+---
+
+[![Never Alone](/uploads/2015/11/neveralone.jpg)](/uploads/2015/11/neveralone.jpg)
+
+_Pelaa Nyt! on [Twitter-tili](https://twitter.com/pelaanyt) ja [postituslista](https://tinyletter.com/pelaanyt), jonka tarkoituksena on avata keskustelua niin vähemmän tunnetuista peleistä kuin pelaamisen ympärille muotoutuneista asioista ja ilmiöistä. Peli Legacy julkaisee postituslistan kirjeet viiveellä. Mikäli haluat saada kirjeet itsellesi heti julkaisupäivänä ja osallistua keskusteluun, liity postituslistalle._
+
+Valmistaudu lentämään kaleidoskooppisissa maisemissa, seikkailemaan napajäätiköllä, ryöstämään hautoja ja lukemaan lautapeleistä. _Pelaa Nyt!_ -listan ensimmäinen kirje avautuu silmienne edessä. Te, jotka ette ole vielä liittyneet postituslistalle, suunnatkaa pikaisesti liittymään [täällä](https://tinyletter.com/pelaanyt)! Te muut, hauska tutustua ja tervetuloa mukaan retkelle pelisivistykseen.
+
+Ensimmäisen kirjeen peli- ja juttuvalikoima on varsin monipuolinen, joten toivottavasti jokaiselle löytyy jotain mieleistä. Aloitetaan peleistä.
+
+
+
+### VIISI PELIÄ
+
+
+
+Jokaisen peliesittelyn loppuun olen liittänyt esimerkkinäkökulman, jonka valossa voit analysoida peliä. Voit toki käsitellä peliä sellaisesta näkökulmasta, joka on sinulle tutumpi.
+
+[**Cibele**](http://ninasays.so/cibele) on Nina Freemanin suunnittelema eräänlainen _omakuvapeli_, joka metapelin (peli pelin sisällä) keinoin kertoo tarinan internet-romanssista. Meillä kaikillahan on ollut ainakin yksi sellainen, eikö vain? (Pohdi esim. pelin suhdetta todellisuuteen)
+
+[**Downwell**](http://downwellgame.com) on yksi hauskimpia pelejä, joita olen tänä vuonna pelannut. Siinä pudotaan, pudotaan ja pudotaan pikselöidyssä kaivossa. Välillä tietenkin parannellaan omaa varustusta ja ammutaan mitä vain alla sattuu olemaankin. Kirjoitin siitä taannoin [arvion](http://www.pelilegacy.fi/arvostelut/2323/downwell). (Pohdi esim. mitkä asiat pelissä aiheuttavat koukuttumista)
+
+[**Oases**](http://armelgibson.itch.io/oases) on oiva välipala keskellä kiireistä työviikkoa. Stressin vapauttavan lentelypelin taustalla on kehittäjän isoisän traaginen kohtalo. (Pohdi esim. varsinaisen etenemisen - eli progression - puutteen osuutta pelikokemuksessa)
+
+
+
+<blockquote>"My grandfather's plane was reported lost in 1960 during the [Algeria Independence War](https://en.wikipedia.org/wiki/Algerian_War), days before the birth of his first child. This is what I like to think happened to him."</blockquote>
+
+
+
+[**Homesickened**](http://snapman.itch.io/homesickened) laittaa pohtimaan, miten sitä joskus sietikin CGA-väripalettia? (Pohdi esim. meneekö peli retroestetiikan näkökulmasta jo överiksi)
+
+[**Never Alone**](http://neveralonegame.com) lisäosineen on viime vuosien visuaalisesti hienoimpia indie-pelejä, jonka kehitykseen on osallistunut Alaskan alkuperäisväestön edustajia. Helppoutensa, opettavaisuutensa ja rauhallisen temponsa vuoksi se sopeutuu hyvin pelattavaksi vaikka oman jälkikasvun kanssa. (Pohdi esim. miten tällaiset kahden pelaajan pelit voivat olla hyödyksi pelikasvatuksessa)
+
+
+
+* * *
+
+
+
+
+
+### VIISI ARTIKKELIA
+
+
+
+Mieti seuraavien artikkeleiden kohdalla, pääseekö kirjoittaja tekstissään tavoitteeseensa? Kirjaa myös ylös havaintosi ja ajatuksesi lukemisen jälkeen.
+
+Aloitetaan kevyellä. Ellie Gibson käy Eurogamerissa läpi [_Tomb Raider_ -pelisarjan klassikoita](http://www.eurogamer.net/articles/2015-11-08-hard-core-a-look-at-the-original-tomb-raider-games). Mitkä niistä toimivat ja mitkä eivät? Entä mikä on oma suosikkisi?
+
+
+
+<blockquote>There's Lara herself - women want to be her, and men also want to be her. She is fierce, clever, enigmatic, and acrobatic. It's definitely these qualities that got her on the cover of The Face, of course, and not her huge knockers. I'm fascinated by them - not for the usual reasons, as a straight woman, but as a Tomb Raider fan and breast owner, I have enjoyed tracking their literal rise and fall over the years.</blockquote>
+
+
+
+Syvällisempi kirjoitus. [Pelit eräänlaisina autonomisina systeemeinä](http://www.theguardian.com/technology/2015/oct/16/video-games-power-agency-control) on aihe, josta ei usein keskustella. The Guardianissa Keith Stuartilla on osuvia huomioita esimerkiksi siitä, mihin tilaan nykyaikaiset konsolit ovat kehityksen myötä ajautuneet. Merkitsevätkö pelit sinulle voimafantasiaa?
+
+
+
+<blockquote>In games, most of the time, we have the ability to move an avatar and that movement is truly connected to choice and skill. If you move well in Pac-Man, or Tetris or Halo, you will succeed. Of course narrative is important, it provides context and emotional weight, but most of the heavy lifting is being done under the hood of the game. It sounds mechanistic, but in some ways, it doesn’t really matter what the player actions achieve in terms of the game’s setting or defined goals, what matters is that games are designed to specifically court and flatter our desire for autonomy. This is not a power fantasy in the sense that most people use that phrase.</blockquote>
+
+
+
+Niin kutsuttuja "kävelysimulaattoreita" parjataan aivan liikaa niiden toiminnallisuuden puutteesta. [Miguel Penabellan kolumni vasta jaloilleen nousevasta (sic) tyylisuunnasta](http://killscreendaily.com/articles/why-are-we-so-afraid-walk/) avaa toivottavasti käsityksiä siitä, mihin "first-person walker" -sarjan pelit voivatkaan pystyä. Millaista sisältöä näihin peleihin kaivattaisiin pelkän ympäristön tutkimuksen lisäksi?
+
+
+
+<blockquote>To discover these works requires open-mindedness to new forms of narrative and play. Games like Dear Esther may have suffered some reactionary negative response from those unfamiliar with the then-nascent movement, but first-person walkers have since multiplied and grown in popularity. We should have a better sense of what these games set out to accomplish. By emphasizing the lasting power of imagery and the subtlest of gestures, first-person walker games broaden the medium’s means of expression.</blockquote>
+
+
+
+Oi, lautapelit! Myönnän pelaavani niitä liian vähän nykyisin. [Quintin Smithilla on kolme erittäin pätevää syytä, miksi lautapelit kestävät edelleen vertailua digitaalisiin peleihin](http://www.theguardian.com/technology/2015/oct/12/dont-worry-board-games-video-games-cant-steal-what-makes-you-great). Osaatko esittää lisää?
+
+
+
+<blockquote>But there are also things that make board and card games great that can’t be stolen. At least, not yet. Those elements that exist only within the sphere of real-life cards, smiles and dining room tables.</blockquote>
+
+
+
+Aikana, jolloin lukemattomat videot ja _bullshotit_ (jälkikäsitellyt kuvankaappaukset) uutuuspeleistä täyttävät internetin, on hauska muistella vanhoja aikoja. [Omar Hafeez-Bore muistelee millaisen vaikutuksen häneen tekivät pelilehtien kuvitukset](http://www.eurogamer.net/articles/2015-11-14-exploring-the-peculiar-magic-of-screenshots). Jos olet joskus tilannut painettua pelilehteä, mikä niissä viehätti eniten?
+
+
+
+<blockquote>Hell, if I was feeling contrarian, I'd go as far as saying that games like Shadow of the Colossus can be better in screenshots, or at least hit notes too hard to hear above the noise of the game proper.</blockquote>
+
+
+
+
+
+* * *
+
+
+
+Näin päättyy ensimmäinen _Pelaa Nyt!_ -kirje. Kuulen mielelläni palautetta ensimmäisen kirjeen onnistumisesta vastausten yhteydessä tai yhteydenottoina [Twitterissä](https://twitter.com/pelaanyt). Konsepti on vielä sen verran tuore, että joiltain osin sitä todennäköisesti tulisi parantaa.
+
+Seuraava kirje putoaa laatikkoonne kahden viikon päästä. Kuulemiin!
+
+_Kirje julkaistiin alun perin 17. marraskuuta, 2015 [täällä](http://tinyletter.com/pelaanyt/letters/pelaa-nyt-1-kaivot-keitaat-ja-ketut)._

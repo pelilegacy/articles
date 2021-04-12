@@ -1,0 +1,15 @@
+version: "3.6"
+
+services:
+  jekyll:
+    image: pelilegacy/jekyll
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - $PWD:/jekyll
+    ports:
+      - 4000:4000
+    environment:
+      JEKYLL_ENV: development
+    command: rake serve

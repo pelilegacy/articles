@@ -1,0 +1,23 @@
+language: ruby
+
+rvm:
+- 2.6.3
+
+cache:
+  bundler: true
+  directories:
+  - "$TRAVIS_BUILD_DIR/tmp/.htmlproofer"
+
+script:
+- "rake build"
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: "$GITHUB_TOKEN"
+  on:
+    branch: master

@@ -1,0 +1,72 @@
+---
+author: nikoheikkila
+comments: true
+date: 2015-02-19 13:10:13+00:00
+excerpt: Uusi sukupolvi on hyvää aikaa yksinoikeuspeleille. Sonyn pelivuoden avaavat
+  viktoriaanisen ajan steampunk-ritarit plasma-aseineen.
+layout: post
+link: https://www.pelilegacy.fi/arvostelut/1430/the-order-1886
+slug: the-order-1886
+title: 'Arvio: The Order 1886 - mies, viikset ja missio'
+wordpress_id: 1430
+categories:
+- Arvostelut
+- Toiminta
+tags:
+- Historia
+- Playstation 4
+- Uutuudet
+- Yksinoikeuspelit
+---
+
+[![The Order: 1886](/uploads/2015/02/the_order_1886.jpg)](/uploads/2015/02/the_order_1886.jpg)
+
+[ingressi]Uusi sukupolvi on hyvää aikaa yksinoikeuspeleille. Sonyn pelivuoden avaavat viktoriaanisen ajan steampunk-ritarit plasma-aseineen.[/ingressi]
+
+Keskiajalla eläneen kuningas Arthurin hovin pyöreä pöytä ritareineen on **Ready at Dawnin** kehittämän The Order: 1886 -pelin kantapää. Esikuvilleen uskolliset teollistuneen maailman ritarit istuvat pöydän ääressä vankkumattoman tasavertaisina Yhdistyneen Intian turvallisuusasioista päättäen. Ritarien harmonisen elon varmistaa vain heidän kunnioituksensa toista kohtaan.
+
+Aina historiallisiin tapahtumiin perustuvan pelin ilmestyessä on kiehtovaa nähdä, miten tekijät yhdistävät historiankirjojen sivuilta tuttua faktaa fiktiiviseen tarustoon. The Order: 1886:n tapauksessa viktoriaanisen aikakauden Englannin (1837–1901) historia sulautuu steampunkista tuttuun kuvastoon pitäen samalla tarinan eheästi tummasävyisen ja roisin fantasian otteessa. Lopputulos on suureellinen ja häkellyttävän elokuvamainen peli, mutta tuoko se uutta särvintä pöytään?
+
+Mikä ilmeisintä, The Order: 1886 on täysiverinen toimintapeli, jossa lippaan tyhjentäminen tai veitsen upottaminen viholliseen tehdään tutuksi jatkuvalla toistolla. Pelin ikärajoitus selittyy kohtuullisella määrällä alastomuutta, jota pelissä tarjotaan esimerkiksi miehen sukupuolielintä esittelemällä. Liittäisin tähän videoklipin kyseisestä aktista, mutta se oli poistettu YouTubesta sääntörikkomuksen johdosta -- jumalat siunatkoon moraalinvartijoitamme kovassa arjessaan.
+
+Eräs pyöreän pöydän ritareista on perinyt Sir Galahadin nimen, joka kuningas Arthurin legendassa oli ritareista puhdassydämisin ja näin ollen selkeä valinta tarinan tuuhein viiksin varustetuksi päähenkilöksi. Vankkarakenteisen ja matalalta puhuvan Galahadin hahmossa on samanlaista uhkaavuutta kuin Hugh Jackmanin Wolverinessa: jopa haavoittuvaisimmillaan hän on vastustajille vaarallinen.
+
+Galahad on syvästi lojaali oppi-isälleen Sebastian Malorylle, joka on nimetty kuningas Arthurin saagan _Le Morte d’Arthurin_ kirjoittaneen Sir Thomas Maloryn mukaan. Potentiaalisena romanssin kohteena esiintyy Galahadin moraalia etäältä vartioiva lady Igraine, joka taruissa oli kuningas Arthurin äiti.
+
+Poikkeuksellisen kiinnostava hahmo on markiisi de Lafayette, joka oli ranskalainen aristokraatti ja upseeri sekä tärkeä hahmo Ranskan vuosien 1789 ja 1830 vallankumouksissa. Pelin ajassa Lafayette olisi 129-vuotias, mutta ritarit pysyvät nuorina ja vetreinä nauttimalla tarunhohtoista Blackwater-nestettä, mikä pitää heidät elävien kirjoissa sukupolven jos toisenkin yli. Eikä tarinan tarvitsekaan olla historiallisesti korrekti, kunhan se vetää puoleensa – sen The Order: 1886 tekee. Tarinan kirjoittanut Ready at Dawnin visionääri **Ru Weerasuriya** on tuttu PSP-käsikonsolin God of War -pelien tarinoista. Hän myös valvoi Ōkamin (2008) kääntämistä Nintendo Wiille. Ilman meriittejä ei peliä siis ole lähdetty tekemään.
+
+[![The Order: 1886](/uploads/2015/02/the_order_1886_2.jpg)](/uploads/2015/02/the_order_1886_2.jpg)
+
+The Orderin pelilliset elementit jäävät valitettavasti asetelman taakse, sillä peli tiedostaa ja noudattaa jopa liiankin orjallisesti tyylilajinsa perisyntejä. Valtaosa pelitunneista kuluu taistelukohtauksissa, joissa Galahad juoksee suojasta toiseen vihollisia väijyen ja tähtäillen. Tätä toistetaan alusta loppuun saakka. Ainoan muutoksen taisteluun tuovat muutamat hyvin rajatut kohtaamiset puoliveristen (eräänlainen vampyyrin ja ihmissuden risteytys) kanssa, joissa pärjääminen perustuu puhtaasti QTE (Quick Time Event) -reaktiotesteihin. Pelissä on muutama hiiviskelyjakso, jotka sijoittuvat ilmalaivaan ja palatsin pihamaalle, mutta ne eivät onnistu kallistamaan tasapainoa toiseen suuntaan.
+
+Muutamissa kohtaa tunneleissa ja tyrmien käytävillä eteneminen on jopa niin korostettua putkijuoksua, että kohtauksista puuttuu enää vain automaattinen eteneminen ja tuki pistooliohjaimelle. Ero on suuri verrattuna esimerkiksi Naughty Dogin The Last of Us -peliin, jossa ympäristö kutsui löytöretkeilemään.
+
+Usein taistelut pitkittyvät rasittaviin mittoihin vihollisten osumatarkkuuden ja omien kumppaneiden huonon tekoälyn johdosta. Krenatöörejä kohdatessa aikaa jää lähinnä kranaattien väistelyyn ja uuden suojan etsimiseen, mutta onneksi pienistä vihollisrykelmistä pääsee kätevästi eroon hyödyntämällä Blacksight-kykyä, jolloin villin lännen tyyliin Galahad rei’ittää viholliset pistoolilla ajan hidastuessa. Kyky toimii ainoastaan hetkellisesti ja vain yhden käden aseilla, mutta on lähes pakollinen etenkin tarkkampujia kohdatessa.
+
+Kun taistelun tuoksinassa luodit repivät lihaa ja kranaatit rikkovat luustoa, tarjoaa Blackwater hyvän lääkkeen hapotukseen. Metallisesta astiasta nestettä nauttimalla Galahad on hetken X-painikkeen hakkaamisen jälkeen taas juhlakunnossa. Kuolemakin koittaa useaan kertaan, sillä varsinkin vihollisen haulikkospesialisteilla on ikävä tapa kiertää vahingoittuneen Galahadin viereen viimeistelemään työ. Onneksi peli tallentaa usein.
+
+Suoraviivaisuus on ongelma erityisesti jälleenpeluuarvoa mietittäessä: pelaajalle ei tarjota vaihtoehtoista tai haarautuvia tarinapolkuja saati anneta kokea pelimaailmaa toisen hahmon silmistä. Kun uuden sukupolven pelit lähestyvät kiivaasti fotorealismin lakipistettä, olisi ehkä jo aika kiinnittää huomiota tällaisiin kipeästi kaivattuihin asioihin. Elämyksiä The Order: 1886 tarjoaa, mutta ne jäävät pinnallisiksi eikä syvältä raapaisevaa tunnesidettä peliin synny.
+
+Niin tarinallisia kuin toiminnallisia kohtauksia hienosti tukevasta musiikista on vastuussa BAFTA-voittaja **Jason Graves**, joka muistetaan myös Dead Spacen ja uudelleen herätetyn Tomb Raiderin musiikkien takaa. Lopun juonenkäänteitä paljastamatta kehotan kuuntelemaan viimeisen kohtauksen tarkalla korvalla.
+
+Näkymät hellivät silmiä, kuten uuden sukupolven peleiltä sopii odottaakin. Hylkäsin pelin juonen joksikin aikaa ja pysähdyin ihailemaan Yhdistyneen Intian satamaa auringonlaskussa. Alueen pienuudesta huolimatta laiturien ja varastorakennusten kylpeminen ilta-auringossa oli keskushermostoa kutkuttavaa katseltavaa. Muista kohtauksista mieleen jäivät elokuvista tutut sumuiset Lontoon kadut ja palatsin piha sateisena yönä. Ruudunpäivitysnopeus on 30 ruutua sekunnissa, jota tekijät perustelevat elokuvallisemmalla kokemuksella – pitivät perustelut paikkaansa tai eivät, visuaalista loistoa se ei himmennä.
+
+[![The Order: 1886](/uploads/2015/02/the_order_1886_3.jpg)](/uploads/2015/02/the_order_1886_3.jpg)
+
+Peliä on jo ennakkoon kritisoitu lyhyeksi ja välinäytöksiin painottuvaksi. Etenemistavasta riippuen läpäisyyn kuluu vajaat 10 tuntia, joten jos lyhyet pelit ovat ongelma, kannattaa myös The Order: 1886:n ostoon suhtautua varauksin. Olen siinä iässä ja elämäntilanteessa, jolloin aikaa pelata eri pelejä on hyvin rajallinen määrä. Maksan ilomielin intensiivisestä ja nautintoja herättävästä pelikokemuksesta, vaikka se kestäisi vain muutamia tunteja enkä epäoikeutetusti tuomitse peliä sen keston perusteella. Ben Kucheraa lainatakseni: ["kerro minulle kuinka _lyhyt_ pelisi on"](http://www.polygon.com/2014/10/14/6974791/short-games-review).
+
+Niin, miten The Order: 1886 täyttää kestonsa? Välinäytöksiä esiintyy runsaasti ja ne usein päättyvät varoittamatta ohjasten siirtyessä takaisin pelaajalle. Luonnollisesti tämä johtaa moniin hilpeisiin hetkiin kun olit varma, että ohjaimen voi laskea hetkeksi syliin. Toimivan käsikirjoituksen ansiosta mieleni ei tehnyt ohittaa välinäytöksiä, vaikka niitä perinteisesti olikin lähes jokaisen nurkan takana. Rehellisesti sanoen olisin mieluummin ohittanut useita taistelukohtauksia.
+
+<div class="pullquote">"Elämyksiä The Order: 1886 tarjoaa, mutta ne jäävät pinnallisiksi eikä syvältä raapaisevaa tunnesidettä peliin synny"</div>
+
+Tarinan taustalla käsitellään luokkasotaa porvariston ja alempien luokkien välillä, mistä olisi ammentaa enemmänkin. Ajan Englantia nimittäin leimasi yläluokan vahva asema ja tapakulttuuri, jonka ulkopuolelle tiukan luokkajaon vuoksi jäivät monet työväen edustajat. Tämä näkyy osittain pelissä, mutta valitettavasti teema jää ohueksi ja se unohdetaan pelin äkkinäisessä lopussa, jossa keskiöön nostetaan enempi ritarikunnan sisäinen mädännäisyys.
+
+Mitä peli sitten haluaa sanoa?
+
+Ihmiskunnan muinainen vihollinen on jäänyt keskuuteemme pysyvästi, mutta selkeän vastapuolen sijasta pahuutta on niin puoliverisissä, kirkasotsaisissa ritareissa kuin kapinallisissakin. Teollistunut imperialistinen valtakunta on sosiaalisen tasa-arvon osalta riutunut ja rajoittunut palvomaan sen teknologisia saavutuksia, kuten sähköä, langattomia yhteyksiä ja ilmalaivoja. Pelastaako teknologia ihmiskunnan? Eräässä kohtauksessa kuuluisa keksijä Nikola Tesla (1856–1943) esittelee keksintöjään -- ehkä uskoen siihen vakaasti.
+
+The Order: 1886 on jälleen yksi elokuvallista ilmaisua merkittävissä määrin hyödyntävä peli, mutta ei vailla mekaanisesta suoraviivaisuudesta kumpuavia ongelmia, jotka yksittäisen pelin sijasta ovat pikemminkin pesiytyneet syvälle lajityypin ytimeen.
+
+_The Order: 1886 julkaistaan yksinoikeudella Playstation 4:lle 20. helmikuuta 2014._
+
+

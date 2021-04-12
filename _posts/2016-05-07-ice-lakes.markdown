@@ -1,0 +1,57 @@
+---
+author: toimitus
+comments: true
+date: 2016-05-07 06:18:05+00:00
+excerpt: Vaikka jäät ovat jo sulaneet, on pilkkikausi vasta alkamassa tietokoneilla.
+  Ice Lakes on peli kaikille pilkkimisestä pitäville sekä kilpailullisen pelaamisen
+  haastetta ja jännitystä kaipaaville.
+layout: post
+link: https://www.pelilegacy.fi/arvostelut/2755/ice-lakes
+slug: ice-lakes
+title: Ice Lakes vie ajatukset kesähelteistä ulkojäille
+wordpress_id: 2755
+categories:
+- Arvostelut
+tags:
+- Ice Flake Studios
+- Moninpelit
+- Pro Pilkki
+- Steam
+- Suomi
+- Tampere
+- Uutuudet
+---
+
+[![Ice Lakes](/uploads/2016/05/ice_lakes.jpg)](/uploads/2016/05/ice_lakes.jpg)
+
+[ingressi]Vaikka jäät ovat jo sulaneet, on pilkkikausi vasta alkamassa tietokoneilla.[/ingressi]
+
+_Ice Lakes_ on suomalaisen [**Iceflake Studiosin**](http://iceflake.com/) kehittämä talvikalastussimulaattori, joka julkaistiin Steamissa huhtikuussa. Peli kamppailee suosiosta monessa maassa suositun ja yhä edelleen aktiivista turnaustoimintaa näkevän _Pro Pilkki 2:n_ kanssa.
+
+_Ice Lakesissa_ on tarkoituksena pilkkiä mahdollisimman paljon kaloja erilaisissa pelimuodoissa, joita on yhteensä 15 ja joista jokaisessa on eri tavoitteet. Pelissä on mahdollista pilkkiä huvikseen Vapaa Kalastus -moodissa, jossa voit myydä saamasi kalat ja netota hieman kolikoita, joilla puolestaan voit ostaa pelin sisäisestä kaupasta uusia kairoja, syöttejä ja pilkkejä. Yksinpelissä voit osallistua turnauksiin ja pelata tekoälyä vastaan sekä voittaa myös kolikoita.
+
+Pelin yli 20 eri kalalajia ovat narrattavissa kymmenessä avoimen maailman kartassa, jotka sijoittuvat vaihteleviin ympäristöihin aina pienistä metsäjärvistä rannikon avoimiin vesiin tai vuoristojärviin. Siimat voi heittää jopa suurkaupungin ytimessä sijaitsevan pienen puistolammen syvyyksiin.
+
+[![Ice Lakes](/uploads/2016/05/ice_lakes2.jpg)](/uploads/2016/05/ice_lakes2.jpg)
+
+_Ice Lakes_ on hulppean näköinen peli, jonka ympäristössä tapahtuu kaikenlaista, kuten esimerkiksi eläimiä juoksentelemassa jäätiköllä. Pelaajan kuvakulmaa voi vaihtaa ylhäältäpäin tai kolmannesta persoonasta kuvatuksi, jolloin kuva on pelihahmon takana.
+
+Unity-pelimoottorilla tehdyn pelin jälki on näyttävää ja sen pitäisi toimia hieman vanhemmillakin tietokoneilla. Huomasin pieniä graafisia ongelmia, kuten kalojen tekstuurit, jotka olivat osittain suttuisia ja epäselviä, mutta onneksi peliä päivitetään aktiivisesti, jotta se olisi kaikkien pelaajien mieleen.
+
+_Ice Lakesia_ on helppo pelata eikä se vaadi pelaajaa olemaan ohjekirja kourassa ymmärtääkseen, mitä pelissä on tehtävä. Pelin suomennos on myös tervetullut ominaisuus. Hahmoa voi ohjata hiirellä tai näppäimistön WASD-näppäimillä. Jään kairaus tapahtuu hiiren oikeaa painiketta klikkaamalla. Pienenä lisäyksenä laitetulla hahmon hyppimisellä en huomannut olevan mitään merkitystä pelaamisen kannalta. Uutena tapauksena ovat tulleet myös kalojen houkuttamiseen valmistetut _pallerot_, joita avantoon ripottelemalla saa kaloja houkuteltua paremmin ansaan.
+
+<div class="pullquote">Siimat voi heittää jopa suurkaupungin ytimessä sijaitsevan pienen puistolammen syvyyksiin</div>
+
+Peli tottelee kontrolleja hyvin ja tulossa on myös ohjaintuki, jota en ainakaan vielä ole päässyt testaamaan käytännössä, vaikka omistankin Xbox 360 -ohjaimen – sitä ei peli tukenut. Kontrollien osalta huonona ominaisuutena kuitenkin on se, ettei syöttiä pysty liikuttamaan koukussa ja näin ollen jokaisen kalan jälkeen on syötti vaihdettava, mikä kuluttaa syöttien lukumäärää.
+
+Ihmisten puhe ja muut elementit on poistettu pelistä ja jäin kaipaamaan hauskoja lausahduksia, joita _Pro Pilkki 2:ssa_ saattoi kuulla.
+
+[![Ice Lakes](/uploads/2016/05/ice_lakes3.jpg)](/uploads/2016/05/ice_lakes3.jpg)
+
+_Ice Lakes_ tukee 32 yhtäaikaisen pelaajan moninpeliä, jota voi pelata internetissä tai lähiverkossa. Palvelimen voi perustaa ongelmitta ja pelaajat voi kutsua Steamin kautta helposti, jolloin taistelu pilkkimestaruudesta voi alkaa. Ainoa ongelma verkkopelissä on se, että portit on avattava ennen pelin _hostaamista_, mikä voi tuottaa mobiilireitittimiä tai vastaavia laitteita käyttävillä ihmisillä ongelmia porttiohjausten kanssa. Tekijöiden mukaan tähän on [korjausta luvassa](https://steamcommunity.com/app/393430/discussions/0/361787186439939537/) ja dedikoitua palvelinta pääsee ennen pitkää käyttämään.
+
+_Ice Lakes_ on mukavaa ajanvietettä, jota suosittelemme kaikille pilkkipeleistä pitäville sekä kilpailullisen pelaamisen haastetta ja jännitystä kaipaaville.
+
+**Teksti ja kuvat:** Jonni Estola ja Joni Kajanus
+
+https://www.youtube.com/watch?v=iUruw86EHLk

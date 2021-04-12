@@ -1,0 +1,55 @@
+---
+author: toimitus
+comments: true
+date: 2015-03-08 09:55:55+00:00
+excerpt: Left 4 Dead -pelisarjasta tunnettu Turtle Rock Studios on Evolven kohdalla
+  kokeillut uutta ideaa 4 vastaan 1 -muotoisesta verkkomoninpelistä. Onko uusi idea
+  poikinut hedelmää vaiko mätiä tomaatteja?
+layout: post
+link: https://www.pelilegacy.fi/arvostelut/1567/evolve
+slug: evolve
+title: 'Arvio: Evolve - metsästyksen aakkoset'
+wordpress_id: 1567
+categories:
+- Arvostelut
+- Toiminta
+tags:
+- 2K Games
+- PvP
+- Turtle Rock Studios
+- Uutuudet
+---
+
+[![Evolve](/uploads/2015/03/evolve_wildlife.jpg)](/uploads/2015/03/evolve_wildlife.jpg)
+
+[ingressi]Left 4 Dead -pelisarjasta tunnettu Turtle Rock Studios on tällä kertaa kokeillut uutta ideaa 4 vastaan 1 -muotoisesta verkkomoninpelistä. Onko uusi idea poikinut hedelmää vaiko mätiä tomaatteja?[/ingressi]
+
+**2K:n** julkaisema tuotos nimeltä _Evolve_ nojaa _Left 4 Dead_ -peleille ominaisesti usean pelaajan yhteistyöpohjaiseen verkkopeliin. Tästä poiketen asetelmana on kuitenkin kilpailullisempi pelitilanne, jossa neljä pelaajan ohjaamaa metsästäjää kohtaavat yhden toisen pelaaman ohjaaman hirviön. On vaikea sanoa mikä Evolvesta tekee pelin, jota voi pelata helposti tunteja kyllästymättä. Ehkä se on onnistunut vaihtelevuus kierrosten välillä tai sitten vain yleisesti idean tuoreus.
+
+Tarina kuuluu lyhyesti näin: Shearin planeetalla sijaitsevia ihmisten yhdyskuntia alkaa salaperäisesti terrorisoida kehittyneempi ja hurjalla vauhdilla lisääntyvä villiolentojen ryhmittymä. Niinpä parhaista parhaat metsästäjät lähetetään hirviöjahtiin, jotta tämä uhka saadaan hävitettyä. Metsästäjien päämajana toimii avaruusalus, josta he myöskin hyppäävät mukaan taistelun tiimellykseen. Jokaisen kierroksen alussa valitaan järjestys, millä hahmolla halutaan pelata sekä lisäedut, jotka nostavat pelaajan tiettyjä ominaisuuksia valituista eduista riippuen.
+
+Hahmoluokkia pelissä riittää neljän verran ja ne ovat hyvin erilaisia tuoden runsaasti monipuolisemman pelikokemuksen. Pelaajat eivät voi valita samaa hahmoa, joten taktikoinnilla ja ryhmätyöllä on suuri rooli menestymisessä. Pelaajan kannattaa hallita jokainen hahmoluokka, jonka vuoksi pelattavaa riittää runsaasti niin metsästäjillä kuin hirviöilläkin. Hahmoluokista löytyy Assault, Trapper, Support ja Healer. Lisäksi avattavat hahmot sisältävät erilaisia variaatioita kustakin hahmoluokasta. Uusien hahmojen avaaminen vaatii aikaisempien hahmojen taitojen kehittämisen täyteen. Hahmot sisältävät luokilleen ominaista aseistusta kuten ilmaiskun, parannusaseen tai vaikka köysiaseen hirviön vangitsemista varten.
+
+[![Evolve](/uploads/2015/03/evolve_hahmot.jpg)](/uploads/2015/03/evolve_hahmot.jpg)
+
+Entäpä ne hirviöt sitten? Hirviöiden tehtävänä on syödä muita villieläimiä kasvaakseen ja kehittyäkseen taistelun kuluessa. Ne voivat hiipiä hiljaa saaliinsa kimppuun ja tämän jälkeen rankaista kynsillä. Myös seinillä kiipeily luonnistuu ja pitkät loikat nopeuttavat liikkumista kartan halki. Hirviön noustessa korkeammalle tasolle se voi kuluttaa kolme pistettä valitsemiinsa kykyihin ja nousta korkeintaan neljännelle tasolle, jolloin tällä on kaikki kyvyt käytössään. Itsensä kehittämisen lisäksi pelimuodosta riippuen hirviölle löytyy erilaisia tehtäviä.
+
+Hirviöillä ja metsästäjillä pelaaminen on erilaista, jolloin tuntuu kuin vaihtaisi lennossa aivan toiseen peliin. Hirviöllä on miljoonan miehen voimat ja metsästäjät joutuvat panostamaan tiimipeliin. Evolve on hyvin tasapainotettu, sillä vaikka hirviöillä pelaaminen saattaakin tuntua helpolta, sitä se ei välttämättä ole jos vastassa on yhteen hiileen puhaltava tiimi. Jos taas metsästäjien tiimipeli ei luonnistu, hirviölle saattaa napsahtaa helppo voitto. Helpotuksia eri puolet voivat hakea tappamalla suurempikokoisia alfa-petoja ja keräämällä näistä kierroksen ajan kestäviä tehostuksia.
+
+Evolve on hyvin aloittelijaystävällinen peli tarjoten selkeät harjoitustehtävät ensimmäisellä pelikerralla sekä metsästäjille että hirviölle. Pelimuotoja löytyy kiitettävästi erilaisia ja tarjolla on myös jonkinlainen kampanja. Tässä kampanjassa pelataan korkeintaan viisi kierrosta, joista jokaisella kierroksella on eri pelimuoto. Kunkin kierroksen voitosta annetaan voittajalle avustus seuraavalle kierrokselle: esimerkkinä panssaroidut tykkitornit metsästäjien voittaessa tai suuremmat määrät villieläimiä hirviölle syötäväksi.
+
+[![Evolve](/uploads/2015/03/evolve_flamer.jpg)](/uploads/2015/03/evolve_flamer.jpg)
+
+Evolven graafinen puoli on enemmän kuin kunnossa. _Crysis_- ja _Far Cry_ -peleissä käytetty CryEngine ei petä tälläkään kertaa, vaan tuottaa seuraavalle sukupolvelle juuri ansaitsemansa graafisen loiston. Valaistukset ja efektit näyttävät jumalaisilta sekä PC:llä että konsoleilla ja kenttien pienet yksityiskohdat ovat herkkua silmille. Omalla tietokoneellani peli pyörii sulavasti 60 ruudun sekuntinopeudella enkä huomannut konsoliversioissakaan takkuilua, vaikka sitä oli ainakin Xbox Onen kohdalla rajoitettu 30 ruudun sekuntinopeuteen.
+
+Hahmomallit ovat tarkan yksityiskohtaisia ja tällä hetkellä parhainta, mitä olen yhdessäkään pelissä nähnyt tai ainakin näin kultakalan muistilla.
+
+Kenttien suunnittelu Evolvessa on vaihtelevaa ja ne säilyttävät hyvän yhtenäisen teeman. Suurelta osaltaan viidakkoiset maisemat sopivat pedon metsästykseen ja piilopaikkojakin löytyy pusikoista. Sisätilojakin löytyy ihmisrakennuksien syövereistä ja luolastoista. Kentät ovat myöskin erittäin laajoja ja niitä löytyy kirjoitushetkellä 12 kappaletta, joten niiden opettelu ja toisaalta niihin kyllästyminen vie hetken aikaa.
+
+Ennen julkaisua kähistiin taas vaihteen vuoksi Evolveen tulevista mikromaksuista. Tällä hetkellä kuitenkaan pelin sisäinen kauppa ei tarjoa mitään peliä helpottavia ostoksia, vaan hirviöiden ja aseiden ulkonäköä muuttavia asioita. Evolven erikoisversiot sisältävät sen sijaan esimerkiksi lisää avattuja hahmoja eikä niitä tällöin tarvitse pelaamalla ansaita. Aika näyttää lisätäänkö peliin pay-to-win -elementtejä -- toivottavasti ei.
+
+<div class="pullquote">“On vaikea sanoa mikä Evolvesta tekee pelin, jota voi pelata helposti tunteja kyllästymättä. Ehkä se on onnistunut vaihtelevuus kierrosten välillä tai sitten vain yleisesti idean tuoreus.”</div>
+
+Eipä nimittäin tule montaakaan peliä mieleeni, joissa pelattaisi yksin montaa ihmistä vastaan monet verkkopelit, kuten Halon “Juggernaut”-pelimuoto pois lukien. Myös jatkuva kehittymisen ja saavuttamisen tunne on saatu mukaan, mikä on minulle iso asia. Jos tunnen seisovani paikallani pelissä saamatta mitään uutta ajoittain avatuksi, alkaa pelaaminen turhauttaa pidemmän päälle. Evolve on tehnyt PvP-muotoisesta verkkopelaamisesta minulle mieluista juuri edellä mainittujen syiden vuoksi, mutta jos kuitenkin saa turpaansa kanssapelaajilta liian kovaa, voi aina kurittaa tekoälyörvelöitä. Tarjoan henkilökohtaisen suosituspeukun kaikille PvP-pelien ystäville.
+
+https://www.youtube.com/watch?v=hbH-qGoYEvQ

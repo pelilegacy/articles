@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="home">
+    {{ content }}
+    <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+            {% assign author = site.data.people[post.author] %}
+            <span class="post-author">✒️ {{ author.name | default: "vieraskynä" }}</span>
+            <span class="post-category">📂 {{ post.categories | first }}</span><br>
+            <h2 class="post-title">
+                <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+            <p><span class="post-meta">{{ post.excerpt }}</span></p>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

@@ -1,0 +1,93 @@
+---
+author: nikoheikkila
+comments: true
+date: 2015-06-14 12:42:44+00:00
+excerpt: Kohu ei kanna kunniaan varsinkaan kritiikin kritiikistä muovautuneen Hatredin
+  tapauksessa.
+layout: post
+link: https://www.pelilegacy.fi/arvostelut/1918/hatred
+slug: hatred
+title: 'Arvio: Hatred – kuinka mediakohusta syntyi vihapeli'
+wordpress_id: 1918
+categories:
+- Arvostelut
+- Toiminta
+tags:
+- Destructive Creations
+- Hatred
+- Mediakohu
+- Steam
+- Uutuudet
+---
+
+[![Hatred](/uploads/2015/06/hatred.jpg)](/uploads/2015/06/hatred.jpg)
+
+[ingressi]Kohu ei kanna kunniaan varsinkaan kritiikin kritiikistä muovautuneen Hatredin tapauksessa.[/ingressi]
+
+Sain pelattavaksi puolalaisen **Destructive Creationsin** laajalti kohauttaneen ja puhuttaneen _Hatredin_. Koska itse peli epäonnistuu viihdyttämään, yritän tehdä edes sen arviosta viihdyttävän. Seuraavan tarinan hahmot ja tilanteet ovat osittain fiktiota – vai ovatko?
+
+**Pauli** (nimi muutettu) on 18-vuotias maallista tuskaa poteva nuori, jonka menestys sekä ammattiopiston audiovisuaalisella koulutuslinjalla että oikeassa elämässä koulun ulkopuolella ei mene vanhempien suunnitelmien mukaisesti.
+
+Toisin kuin saattaisi olettaa, Pauli ei viihdy myöskään sosiaalisissa tilanteissa ympäröivästä sukupuolesta riippumatta. Ei Pauli täysin syrjäytynyt kuitenkaan ole, sillä internetin keskustelupalstoilla hän tapaa useita – ainakin omasta mielestään – samoja ajatuksia jakavia ihmisiä, joilla kaikilla tuntuu olevan yhteinen missio: jonkinlaisen korruptoituneen mediaelitiin ja valvontayhteiskunnan purkaminen alkutekijöihin, vaikkakin hieman arveluttavin keinoin. Yhteisellä päätöksellä he kutsuvat sitä etiikaksi pelijournalismissa.
+
+Pauli sitoutuu nopeasti tähän ajattelutapaan, sillä onhan kauttaaltaan sietämätöntä, että jokin videoita verkossa julkaiseva “feminatsi” haluaa sensuroida kaikki Paulin rakkaat pelit. Ei, tilanne on paljon pahempi. He haluavat viedä Paulilta sen ainoan nautinnon maailmassa, joka tuo lohtua hänen arkeensa, ja korvata sen “tasa-arvoisilla ja helposti lähestyttävillä” peleillä. “Eiväthän ne pelit menisi kaupaksi edes Steamin kesäalessa eikä niiden pääosissa esiinny edes valkoihoisia miehiä!”, Pauli parahtaa kauhuissaan [suosikkilevyään kuunnellessa](https://www.youtube.com/watch?v=FCy8KEJnv34).
+
+Eräänä päivänä Pauli järjestelee vaatekaappiinsa suosikkibändiensä paitoja. Paitoja ei ole koskaan pesty, jotta niiden kaunis musta väri ei haalistuisi. Puuhastelun ohella Pauli tulee vakiofoorumiltaan lukeneeksi kohun keskelle ajautuneesta puolalaisesta pelistudiosta nimeltä Destructive Creations, [jonka esikoispeli _Hatredin_ kehitystä yritetään ajaa alas](http://www.pelilegacy.fi/ajassa/1071/pelikehittaja-vetoaa-pelaajiin-hatred-pelin-kehityksen-lopettamisesta).
+
+“Tämän pelin täytyy olla paras koskaan”, Pauli ajattelee itsekseen ja käsitys vain vahvistuu entisestään kun Destructive Creationsin aateveljet onnistuvat vaikeuksien kautta [takaamaan Hatredille myyntiluvan Steamissa](http://www.pelilegacy.fi/ajassa/1195/valve-veti-hatred-pelin-pois-greenlightista).
+
+“Siitäs saitte, helvetin sosialistisen oikeuden puolustajat!”, huudahtaa Pauli ja kohottaa nyrkkinsä kohti saksalaisen kansallissosialistisen black metal -yhtye _Absurdin_ julistetta.
+
+Seuraavat kuukaudet Pauli odottaa malttamattomana _Hatredin_ julkaisua samalla kirjoittaen kehittäjille, mitä julkisuuden henkilöitä hän haluaisi tuoda peliin mestattavaksi. Mitään ei kuitenkaan kuulu takaisin ja Pauli alkaa hermostua. Ovatko tekijät pettäneet lupauksensa? Onko globaalin salaliiton seurausta, että _Hatredilla_ ei ole vieläkään julkaisupäivää?
+
+[![Hatred](/uploads/2015/06/hatred2.jpg)](/uploads/2015/06/hatred2.jpg)
+
+Pauli alkaa opiskella Puolan kieltä verkossa ja jatkaa tekijöille kirjoittamista. Kirjoittaminen ei Paulilta suju kovinkaan hyvin, mutta onneksi audiovisuaalisen alan opintojensa kautta hän oppi käsittelemään tietokoneella kuvia. Kuvien avulla Pauli voi kertoa teorioistaan muille foorumin käyttäjille. Se ilahduttaa Paulia suuresti.
+
+Huhtikuun lopussa Pauli saa lukea viimeinkin pitkään odottamansa ilouutiset: _Hatred_ julkaistaan pian. Seinäkalenteriin Pauli piirtää epäselvällä käsialalla kolmannen valtakunnan symbolin kesäkuun ensimmäisen päivän kohdalle.
+
+Pauli ostaa _Hatredin_ välittömästi julkaisupäivänä ja tiedottaa ostoksesta foorumiveljilleen – kuvalla tietenkin. Ensimmäiset pelitunnit vierivät ohi huomaamatta, mutta jo niiden aikana Paulin mieleen hiipii sarja pahaenteisiä pettymyksen tahrimia tunteita.
+
+Tähtääminen ja liikkuminen Xboxin ohjaimella ei tuota toivottua tulosta, joten herrarodun sanansaattajana Pauli vaihtaa näppäimistöön ja hiireen, mikä onneksi toimii lennossa. Tällöinkin hahmo jää tuon tuosta jumiin ovensuihin, puunoksiin ja muihin näkymättömiin esteisiin toisinaan kieltäytyen kokonaan hyppäämästä ikkunoiden läpi, vaikka juuri äsken temppu toimi. Sen sijaan, että Paulille viestittäisiin selkeästi hypyn ajoituksesta, joutuu hän juoksemaan estettä kohti oikeassa kulmassa parasta toivoen.
+
+Ennen pitkää näppäimistöllä pelaaminen paljastaa Paulille pelin perimmäisen olemuksen. _Hatred_ on harmaasävyllä käsitelty aikuisten _Cookie Clicker_, johon on lisätty kömpelösti liikkuva hahmo ja putoavien keksien tilalla on tekoälyttömästi säntäileviä siviilejä, poliiseja ja poliisiautoja, jotka tappavat hahmon osumattakin.
+
+Henkitoreissaan olevalle kohteelle voi antaa viimeisen voitelun painamalla Q-näppäintä niiden vieressä, jolloin peli katkeaa hetkeksi esitelläkseen perin brutaalin teloituskohtauksen. Tämän jälkeen hahmolle palautuu hieman terveyttä. Elokuvallisten kohtausten oletettu shokeeraavuus hälvenee jo muutaman kymmenen teloituksen suoritettua, jonka jälkeen Pauli haluaa jo kytkeä kyseisen ominaisuuden pois peliä häiritsemästä.
+
+Monotoninen ja tylsän väritön maailma puhuttelee Paulin sisintä, vaikka sen vuoksi on lähes mahdoton havaita kohteita, ellei niille piirrä erikseen reunaviivoja. Positiivisena huomiona rakennusten räjäyttäminen on itse tappamista kiinnostavampaa ja tulenlieskojen valossa hohtavat veriroiskeet vaikuttavat hetken aikaa jopa hienoilta.
+
+[![Hatred #2](/uploads/2015/06/hatred3.jpg)](/uploads/2015/06/hatred3.jpg)
+
+Visuaalinen esitystapa lisää sekavuudellaan pelin haastavuutta, sillä esimerkiksi metsiin sijoittuvissa osuuksissa voi omaa sijaintiaan vain arvailla. Pauli pettyy siitä, ettei pelin metsissä voi kulkea alasti juomassa kiljua pääkallosta.
+
+<div class="pullquote">“Hatred on harmaasävyllä käsitelty aikuisten Cookie Clicker”</div>
+
+Kuolema _Hatredissa_ ei koita usein, mutta se on aina kivulias. Ellei mukanaan kanna harvinaista toteemia, joka palauttaa hahmon henkiin kuolinpaikan lähistölle, on taso aloitettava täysin alusta. Kun tämän yhdistää pelin heikon pelattavuuden ja haastavan visuaalisen suunnittelun kanssa, voi kuulla kuinka Pauli raivoissaan pureksii maastokuvioiduista reisitaskuhousuistaan roikkuvia metalliketjuja.
+
+Lohtua Paulin peliin ei tuo _Hatredin_ päähahmokaan, jonka naiivin vihainen asenne maailmaa ja sen ihmisiä kohtaan toimisi hädin tuskin edes B-luokan elokuvassa.
+
+Pikantin lisän hahmoon tuo kliseiden täyttämä monologi, joka uskottavuuden saavuttamiseksi muristaan mahdollisimman matalalla oktaavilla. Jokaisen repliikin kohdalla voi kuulla, kuinka kaukana jossain eläkkeelle siirtynyt ja mahdollisesti paluutaan suunnitteleva Duke Nukem lyö saappaalla itseään kasvoihin.
+
+Mikä ontuvinta, _Hatredin_ pitkätukkaisen ja trenssitakkiin pukeutuneen klovnin ristiretkeä ruokkii ainoastaan viha yhteiskunnan heikkoja kohtaan eikä esimerkiksi tarkemmin määritelty poliittinen, tai uskonnollinen leimahtaminen. On vihattava, että voi vihata jatkossakin, kunnes viha kääntyy itseään vastaan.
+
+Kuten Paulinkin, myös _Hatredin_ päähahmon ainoa tarve on, että joku halaisi häntä ja kertoisi välittävänsä.
+
+[![Hatred](/uploads/2015/06/hatred4.jpg)](/uploads/2015/06/hatred4.jpg)
+
+Pohjaamalla koko konseptinsa viattomien siviilien tappamiselle _Hatred_ yrittää tavoitella suuria, mutta ajaa ojaan. Väkivalta ja tappaminen peleissä on tuotteistettu jo historian hämäristä alkaen niin pitkälle, että siitä voidaan puhua jopa kolikkopelimäisenä mekaanisena suorittamisena. Valitse jokin toimintapeli ja on todennäköistä, että lahtaat sitä pelatessasi suuria määriä siviilejä.
+
+Tehokeino on tehdä väkivallasta merkityksellinen kokemus esimerkiksi tyylittelemällä sitä Hotline Miamin tapaan tai tekemällä siitä puhdasta satiiria _Broforcen_ ja _Saints Row’n_ viitoittamalla tiellä. Olen kuollut tuhansia kertoja _Hotline Miamin_ parissa, mutta jokainen niistä on ollut kokemuksena tyydyttävämpi kuin _Hatredin_ pelaaminen. _Hatred_ ei ole tyylikäs saati humoristinen, vaan vesitetty versio _Grand Theft Auto_ -pelien tehtävien ohella harrastettavasta murhasimulaatiosta varustettuna annoksella päälleliimattua korniutta.
+
+Jos pelin pitäisi kantaa puhtaan shokkiarvon voimalla, tarvitsee katsoa vain digitaalisesti uudelleenjulkaistuun _Harvester_-seikkailupelin suuntaan, joka ajan tekniset kompastukset huomioon ottaen onnistui sohaisemaan hehkuvalla miekalla keskushermostoon esimerkiksi [kohtauksella](https://www.youtube.com/watch?v=-9F5vWd5Slo), jossa lapset syövät äitiään elävältä. Mitä ennennäkemätöntä _Hatredilla_ on tarjota?
+
+[![Hatred](/uploads/2015/06/hatred5.jpg)](/uploads/2015/06/hatred5.jpg)
+
+_Hatredin_ harmaus ulottuu syvälle pelin rakenteisiin saakka tehden pelistä jo ensimetreiltä mitäänsanomattoman, mutta myös turhauttavan kokemuksen.
+
+<div class="pullquote">“Hatred ei ole tyylikäs saati humoristinen, vaan vesitetty versio Grand Theft Auto -pelien tehtävien ohella harrastettavasta murhasimulaatiosta varustettuna ylimääräisellä annoksella korniutta.”</div>
+
+Osa ostanee _Hatredin_ osoittaakseen vastustusta nk. kukkahattutädeille. En tuomitse heitä, vaikka heille jääkin käteen vain nahat tekijöiden halvasta mediaspektaakkelista ja jopa lajityypin faneille keskinkertaisesta toimintapelistä.
+
+Poistettuaan pelin asennustiedostot kovalevyltä Pauli avaa huoneensa sälekaihtimet ensimmäistä kertaa neljään vuoteen todeten, ettei maailma välttämättä olekaan niin kauhea paikka elää. Säätiedotus lupaa vesisadetta.
+
+_Hatredin voi ostaa itselleen [Steamista](http://store.steampowered.com/app/341940/) omalla vastuulla._
